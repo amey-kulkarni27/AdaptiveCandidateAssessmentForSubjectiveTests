@@ -1,12 +1,14 @@
 import torch
 import transformers
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Medium Article: https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 
 sentences = [
-    "This is a sentence is a truth.",
+    "This is sentence is the truth.",
     "This, too is a sentence.",
     "Is this supposed to be a question?",
+    "Apples are cuter than strawberries.",
 ]
 n = len(sentences)
 
@@ -50,7 +52,6 @@ token_masks = token_masks.expand(embeddings.shape).float()
 # token_masks is now also of dimension n x encode_len x 768
 
 masked_embeddings = embeddings * token_masks
-print(masked_embeddings.size())
 
 # Now we perform the pooling step
 
@@ -65,6 +66,17 @@ embeddings_sum = torch.sum(masked_embeddings, axis=1)
 # Sum of masks, to normalise
 mask_sums = torch.sum(token_masks, axis=1)
 # Avoid divide by zero
-mask_sums = torch.clamp(token_masks, min=1e-9)
-# Finally, pooling step
+mask_sums = torch.clamp(mask_sums, min=1e-9)
+# Finally, pooling step to get the dense similarity matrices
 pooled = embeddings_sum / mask_sums
+
+# Finding similarity of two sentences using cosine similarity
+
+# Convert Pytorch Tensor to numpy array
+similarity_matrix = pooled.detach().numpy()
+
+# Finiding the cosine similarity between any two sentences is the same as taking the normalised dot product between any two rows of similarity_matrix
+i = 0
+j = 1
+print(cosine_similarity([similarity_matrix[i]], [similarity_matrix[j]]))
+print(cosine_similarity(similarity_matrix, similarity_matrix))
