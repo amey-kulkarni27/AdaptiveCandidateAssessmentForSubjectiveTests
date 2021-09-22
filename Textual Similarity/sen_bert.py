@@ -1,7 +1,7 @@
 import torch
 import transformers
 from sklearn.metrics.pairwise import cosine_similarity
-import plotly.express as px
+import plotly.graph_objects as go
 
 # Medium Article: https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 
@@ -85,10 +85,12 @@ print(cosine_similarity([similarity_matrix[i]], [similarity_matrix[j]]))
 # Entire similarity matrix, for each pair of sentences
 print(cosine_similarity(similarity_matrix, similarity_matrix))
 
-fig = px.imshow(cosine_similarity(similarity_matrix, similarity_matrix),
-                labels=dict(color="cosine similarity"),
-                x=['s[0]', 's[1]', 's[2]', 's[3]', 's[4]'],
-                y=['s[0]', 's[1]', 's[2]', 's[3]', 's[4]']
-               )
+fig = go.Figure(data=go.Heatmap(
+          x=['s[0]', 's[1]', 's[2]', 's[3]', 's[4]'],
+          y=['s[0]', 's[1]', 's[2]', 's[3]', 's[4]'],
+          z = cosine_similarity(similarity_matrix, similarity_matrix),
+          type = 'heatmap',
+          colorscale = 'Agsunset'))
 fig.update_xaxes(side="top")
+fig.update_layout(font_size=14)
 fig.show()
