@@ -91,6 +91,6 @@ fig = go.Figure(data=go.Heatmap(
           z = cosine_similarity(similarity_matrix, similarity_matrix),
           type = 'heatmap',
           colorscale = 'Agsunset'))
-fig.update_xaxes(side="top")
+
 fig.update_layout(font_size=14)
 fig.show()
