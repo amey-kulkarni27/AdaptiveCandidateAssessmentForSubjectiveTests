@@ -1,0 +1,41 @@
+{
+    "p1": {
+        "easy": [
+            "How many moons does Saturn have?",
+            "Why does Saturn have have a ring?"
+        ],
+        "medium": [
+            "How does the gravity at Saturn compare with that of the Earth?"
+        ],
+        "hard": [
+            "How does Saturn's largest moon's gravitational pull affect its tides?"
+        ]
+    },
+    "p2": {
+        "easy": [
+            "What is the scientific name of the modern human species?",
+            "What are the two oldest regions of human evolutions?"
+        ],
+        "medium": [
+            "What was the main occupation of humans before they learnt farming?"
+        ],
+        "hard": [
+            "What is the reason for the huge genetic diversity we see among certain races?",
+            "Describe briefly how Neanderthals were driven to extinction."
+        ]
+    },
+    "p3": {
+        "easy": [
+            "What was the reason for the increased protests in city?",
+            "What was the preferred mode of transportation after in the city in the nineteenth century?"
+        ],
+        "medium": [
+            "How did the Government react to the protests?",
+            "What was the impact of the Government regulations of 1905?"
+        ],
+        "hard": [
+            "What was Government's ulterior motive for encouraging cyclists?",
+            "What was the historical impact of this episode?"
+        ]
+    }
+}
