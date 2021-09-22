@@ -5,10 +5,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Medium Article: https://towardsdatascience.com/bert-for-measuring-text-similarity-eec91c6bf9e1
 
 sentences = [
-    "This is sentence is the truth.",
+    "This sentence is the truth.",
     "This, too is a sentence.",
     "Is this supposed to be a question?",
     "Apples are cuter than strawberries.",
+    "Oranges are more beautiful than mangoes."
 ]
 n = len(sentences)
 
