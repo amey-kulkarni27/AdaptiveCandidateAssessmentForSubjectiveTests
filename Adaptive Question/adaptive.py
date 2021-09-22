@@ -67,14 +67,14 @@ def simulate_exam(n=5):
 
     # Generate questions
     jump = 0
+    level_num = 0
     while(True):
         cur_subject = q.get()
         levels = list(questions[cur_subject].keys())
-        level_num = 0
-        cur_level = levels[level_num]
         while(n > 0):
+            cur_level = levels[level_num]
             # If no questions left in this section, change topic but maintain level
-            if(sum(questions[cur_subject][cur_level]) == len(questions[cur_subject][cur_level])):
+            if(sum(visited[cur_subject][cur_level]) == len(questions[cur_subject][cur_level])):
                 q.put(cur_subject)
                 jump += 1
                 # If all questions of this difficulty level have been exhausted, change difficulty level
@@ -83,19 +83,26 @@ def simulate_exam(n=5):
                     level_num %= len(subjects)
                 break
             
+            jump = 0
             question = get_q(questions, cur_subject, cur_level, visited)
             n -= 1
             print(question)
             answer = input()
             if correct(answer):
-                # Increase difficulty
-                pass
+                level_num += 1
+                print(level_num)
+                if(level_num == len(subjects)):
+                    # Change subject and set difficulty to 0
+                    q.put(cur_subject)
+                    level_num = 0
             else:
-                q.put(cur_subject)
-                level_num = 0
+                if(sum(visited[cur_subject][cur_level]) == len(questions[cur_subject][cur_level])):
+                    q.put(cur_subject)
+                    level_num = 0
+                    break
         if n <= 0:
             break
     
     
 
-simulate_exam(2)
+simulate_exam(7)
