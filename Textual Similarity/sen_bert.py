@@ -79,4 +79,6 @@ similarity_matrix = pooled.detach().numpy()
 i = 0
 j = 1
 print(cosine_similarity([similarity_matrix[i]], [similarity_matrix[j]]))
+
+# Entire similarity matrix, for each pair of sentences
 print(cosine_similarity(similarity_matrix, similarity_matrix))
