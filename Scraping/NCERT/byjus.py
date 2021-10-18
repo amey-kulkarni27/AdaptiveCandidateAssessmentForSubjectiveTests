@@ -9,7 +9,7 @@ import csv
 
 headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9'}
 url_base = 'https://byjus.com/ncert-solutions-class'
-classes = [str(i) for i in range(4, 13)]
+classes = [str(i) for i in range(1, 4)]
 subjects = ['social-science-history', 'social-science-geography', 'science', 'english', 'civics']
 for cls in classes:
     rel_path = cls
@@ -56,6 +56,7 @@ for cls in classes:
                 # print(row_val)
                 # print('\n\n')
                 row_val = row_val.split()
+                print(row_val)
                 try:
                     ind = row_val.index("chapter")
                 except:
