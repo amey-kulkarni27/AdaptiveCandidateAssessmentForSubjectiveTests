@@ -1,0 +1,7 @@
+1) Remove all the answers containing "Refer"
+2) Or Questions, 2 questions with same answer
+3) Questions can be made from "To remember"
+4) Topics in Oswaal make no sense. No direct correspondence to the text books.
+5) Some questions/answers start but do not end right away. A different section comes in their way and they are continued much later. For example, Very Short Answer Q9. on Page 4.
+6) For 5) check page number
+7) For 5) use $N$ marks each
