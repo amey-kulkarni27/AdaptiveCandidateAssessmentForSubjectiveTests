@@ -5,3 +5,8 @@
 5) Some questions/answers start but do not end right away. A different section comes in their way and they are continued much later. For example, Very Short Answer Q9. on Page 4.
 6) For 5) check page number
 7) For 5) use $N$ marks each
+
+Algorithm-
+1) Do the processing line by line
+2) Once a new chapter is encountered (using "CHAPTER"), create a folder with the chapter name create three new files, vsa.txt, sa.txt and la.txt.
+3) 
