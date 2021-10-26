@@ -10,8 +10,6 @@ def create_dataframe(qs, ans):
 
     Return -> pandas dataframe containing qs and ans
     '''
-    # print(qs)
-    # print(ans)
     print(len(qs), len(ans))
     df = pd.DataFrame(
         {'questions': qs,
@@ -20,7 +18,7 @@ def create_dataframe(qs, ans):
     return df
 
 searchphrases = ["Very Short Answer Type Questions", "Short Answer Type Questions", "Long Answer Type Questions"]
-q_search = re.compile("Q\. \d+\. ")
+q_search = re.compile("Q\. \d+\.")
 textfile = open('SS_10.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
@@ -52,7 +50,6 @@ for line in lines:
             if not os.path.exists(rel_path):
                 os.mkdir(rel_path)
             mode = 2
-            print(top_name)
             top_name = ""
             q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
         else:
@@ -81,7 +78,6 @@ for line in lines:
             q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
         elif line.startswith(searchphrases[2]):
             a_list.append(ans)
-            print(mode)
             assert(mode == 3)
             mode = 4
             if not os.path.exists(rel_path+"s.csv"):
