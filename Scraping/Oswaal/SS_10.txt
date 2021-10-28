@@ -8178,7 +8178,8 @@ Using non-conventional sources of energy such as
 solar and wind energy.
 Using public transport instead of personal car/
 motor bike etc.
-Saving water and electricity. (Any three) 1×3=3
+Saving water and electricity.
+ (Any three) 1×3=3
 
 68 ]
 
@@ -8340,6 +8341,32 @@ Q. 9. Which soil is known as regur soil ?
 Ans. Black soil.
 1
 Q. 10. In which states laterite soil is found ?
+Ans. Karnataka, Kerala, Tamil Nadu, Madhya Pradesh,
+and hilly areas of Odisha and Assam.
+1
+Q. 11. Which soil type is the result of intense leaching
+due to heavy rainfall ?
+Ans. Laterite soil.
+1
+Q. 12. Name the land with deep channels that is unfit for
+cultivation.
+Ans. Bad land.
+1
+Q. 13 ‘Laterite’ has been derived from which word and
+what is its meaning ?
+Ans. It has been derived from `Later’ a latin word which
+means brick.
+1
+Q. 14. Which state has the largest area under black soil ?
+Ans. Maharashtra.
+1
+Q. 15. What are the methods of checking soil erosion ?
+Ans. Strip cropping, terrace farming and contour
+ploughing.
+1
+Q. 16. Gully erosion is common in which basin ?
+Ans. Chambal Basin.
+1
 
 Short Answer Type Questions
 Q. 1. State any three physical factors as well as 3 human
@@ -8398,32 +8425,6 @@ can it be checked ? Explain.
 				
 [Board Term 1, 2015 Set-C5JWEVD]
 
-Ans. Karnataka, Kerala, Tamil Nadu, Madhya Pradesh,
-and hilly areas of Odisha and Assam.
-1
-Q. 11. Which soil type is the result of intense leaching
-due to heavy rainfall ?
-Ans. Laterite soil.
-1
-Q. 12. Name the land with deep channels that is unfit for
-cultivation.
-Ans. Bad land.
-1
-Q. 13 ‘Laterite’ has been derived from which word and
-what is its meaning ?
-Ans. It has been derived from `Later’ a latin word which
-means brick.
-1
-Q. 14. Which state has the largest area under black soil ?
-Ans. Maharashtra.
-1
-Q. 15. What are the methods of checking soil erosion ?
-Ans. Strip cropping, terrace farming and contour
-ploughing.
-1
-Q. 16. Gully erosion is common in which basin ?
-Ans. Chambal Basin.
-1
 
 3 marks each
 Ans.		 Main Cause : Large scale overgrazing has caused
@@ -8548,13 +8549,6 @@ soil.
 It is an old alluvial
 soil.
 
-Long Answer Type Questions
-Q. 1. Describe any five distinct characteristics of ‘Arid
-soils’.
-[Board Term 1, 2015 Set-6AP67LB]
-Ans. (i) Red to brown in colour.
-(ii) Sandy in texture.
-
 (b)
 
 Lower
@@ -8626,6 +8620,14 @@ than 5 agricultural years.
 (CBSE Marking Scheme, 2013) 1×3=3
 
 5 marks each
+
+Long Answer Type Questions
+Q. 1. Describe any five distinct characteristics of ‘Arid
+soils’.
+[Board Term 1, 2015 Set-6AP67LB]
+Ans. (i) Red to brown in colour.
+(ii) Sandy in texture.
+
 (iii)Evaporation is faster, soil lacks humus and moisture.
 (iv) Soil occupied by Kankar.
 (v) Kankar restricts the infiltration of water.
@@ -9025,6 +9027,15 @@ Ans. Asiatic cheetah, Pink head buck.
 1
 Q. 16. What do you mean by madhuca insignis and
 hubbardia heptaneuron ?
+Ans. Madhuca insignis means a wild variety of Mahua.
+Hubbardia heptaneuron refers to a species of
+grass.
+1
+Q. 17. How many species of fauna and flora are found in
+our country ?
+Ans. 81,000 species of fauna and 47,000 species of flora
+are found in our country.
+1
 
 Short Answer Type Questions
 Q. 1. “Large-scale development projects have also
@@ -9102,16 +9113,6 @@ and soil in balance.
 things which are useful for our survival.
 (c) It makes the planet Earth safe. (Any two) 1×3=3
 
-Ans. Madhuca insignis means a wild variety of Mahua.
-Hubbardia heptaneuron refers to a species of
-grass.
-1
-Q. 17. How many species of fauna and flora are found in
-our country ?
-Ans. 81,000 species of fauna and 47,000 species of flora
-are found in our country.
-1
-
 3 marks each
 Q. 4. Classify Indian forests into three categories. Write
 the main feature of each.		
@@ -9188,6 +9189,13 @@ the major causes of depletion of forest resources.
 Between 1951 and 1980, according to the Forest
 
 (c)
+Survey of India, over 26,200 sq. km. of forest area
+was converted into agricultural land all over India.
+Substantial parts of the tribal belts, especially in
+the north eastern and central India, have been
+deforested or degraded by shifting cultivation
+(Jhum), a type of ‘slash and burn’ agriculture.1×3=3
+
 
 Long Answer Type Questions
 Q. 1. Classify forests of India on the basis of their
@@ -9199,13 +9207,6 @@ wildlife resources are concerned . Jammu and
 Kashmir, Andhra Pradesh, Uttaranchal, Kerala,
 Tamil Nadu, West Bengal and Maharashtra have
 large areas of reserved forest.
-
-Survey of India, over 26,200 sq. km. of forest area
-was converted into agricultural land all over India.
-Substantial parts of the tribal belts, especially in
-the north eastern and central India, have been
-deforested or degraded by shifting cultivation
-(Jhum), a type of ‘slash and burn’ agriculture.1×3=3
 
 5 marks each
 (b)
@@ -9244,6 +9245,20 @@ Q. 4. Sundarbans National Park is located in which
 state ?
 Ans. West Bengal.
 1
+Q. 5. When was Project Tiger launched ?
+Ans. In 1973.
+1
+Q. 6. Which community in India is famous for
+protecting the black buck ?
+Ans. Bishnois.
+1
+Q. 7. Which conservation strategy do not directly
+involve community participation ?
+Ans. Demarcation of wildlife sanctuaries.
+1
+Q. 8. Expand JFM.
+Ans. Joint Forest Management.
+1
 
 Short Answer Type Questions
 Q. 1. What is Joint Forest Management Programme ?
@@ -9266,21 +9281,6 @@ forest and wildlife.
 [NCERT]
 
 1 mark each
-
-Q. 5. When was Project Tiger launched ?
-Ans. In 1973.
-1
-Q. 6. Which community in India is famous for
-protecting the black buck ?
-Ans. Bishnois.
-1
-Q. 7. Which conservation strategy do not directly
-involve community participation ?
-Ans. Demarcation of wildlife sanctuaries.
-1
-Q. 8. Expand JFM.
-Ans. Joint Forest Management.
-1
 
 3 marks each
 Or
@@ -9351,6 +9351,15 @@ resolution for Joint Forest Management.
 (c)
 
 (d)
+Joint Forest Management depends on the
+formation of local (village) institutions that
+undertake protection activities mostly on degraded
+forest land managed by the forest department.
+In return, the members of these communities are
+entitled to intermediary benefits like non-timber
+forest produces and share in the timber harvested
+by ‘successful protection’.
+4×1½=5
 
 Value Based Questions
 Q. 1. With the help of three examples show how
@@ -9393,15 +9402,6 @@ India because :
 (a) So far forest area is below the recommended ratio
 of 33% to total geographical area.
 
-Joint Forest Management depends on the
-formation of local (village) institutions that
-undertake protection activities mostly on degraded
-forest land managed by the forest department.
-In return, the members of these communities are
-entitled to intermediary benefits like non-timber
-forest produces and share in the timber harvested
-by ‘successful protection’.
-4×1½=5
 
 3-5 marks each
 (b)
@@ -10041,6 +10041,18 @@ Ans. Western Himalayas.
 Q. 3. Mention one state where canal irrigation has
 developed.
 
+Ans. Nagaland.
+1
+Q. 4. Which state has made roof-top rainwater
+harvesting structure compulsory to all the houses
+across the state ?
+Ans. Tamil Nadu.
+1
+Q. 5. In which state Bamboo drip irrigation, is
+prevalent ?
+Ans. Meghalaya.
+1
+
 Short Answer Type Questions
 Q. 1. Describe any three traditional methods of
 rainwater harvesting adopted in different parts of
@@ -10079,17 +10091,6 @@ practised in Rajasthan.
 
 1 mark each
 
-Ans. Nagaland.
-1
-Q. 4. Which state has made roof-top rainwater
-harvesting structure compulsory to all the houses
-across the state ?
-Ans. Tamil Nadu.
-1
-Q. 18. In which state Bamboo drip irrigation, is
-prevalent ?
-Ans. Meghalaya.
-1
 
 3 marks each
 [Board Term 1, 2014 (WQ7FXWC), (R9UJGYG),
@@ -10134,21 +10135,20 @@ Ans. Bamboo Drip Irrigation system is a 200 year old
 system of tapping stream and spring water by
 using bamboo pipe and transporting water from
 higher to lower regions through gravity.
+		Features :
+
+18-20 liters of water enters the bamboo pipe
+system, get transported over hundreds of meters
 
 and finally reduces to 20-80 drops per minute at
 the site of the plant.
 (b)
 
-		Features :
 (a)
 
 The flow of water into the pipes is controlled by
 manipulating the pipe positions.
 (CBSE Marking Scheme, 2012) 1+2=3
-
-18-20 liters of water enters the bamboo pipe
-system, get transported over hundreds of meters
-
 Long Answer Type Questions
 Q. 1. Why is roof top water harvesting important in
 Rajasthan ? Explain.
@@ -10421,7 +10421,7 @@ and are harvested in the month of September and
 October ?
 Ans. Kharif.
 1
-Q, 7. Name some rabi crops.
+Q. 7. Name some rabi crops.
 Ans. Wheat, barley, peas, gram and mustard.
 1
 Q. 8. In which system of agriculture, a single crop is
@@ -10535,6 +10535,21 @@ largest producer of groundnut ?
 [Board Term 1, 2011 (5800 32)]
 Ans. Importance :
 (a) Are edible and used as cooking medium.
+(b)
+(c)
+(a)
+(b)
+(c)
+
+Used as raw material in production of soap,
+cosmetics and ointment.
+India-largest producer.
+Groundnut :
+Kharif crop
+Accounts half of the total oilseed production.
+State : Andhra Pradesh, Tamil Nadu, Karnataka,
+Gujarat, Maharashtra.
+(CBSE Marking Scheme, 2013) 3
 
 Long Answer Type Questions
 Q. 1. Explain any three geographical conditions
@@ -10588,21 +10603,6 @@ characteristics of plantation agriculture.
 		
 [Board Term 1, 2013 (3K), 2012 (45)]
 
-(b)
-(c)
-(a)
-(b)
-(c)
-
-Used as raw material in production of soap,
-cosmetics and ointment.
-India-largest producer.
-Groundnut :
-Kharif crop
-Accounts half of the total oilseed production.
-State : Andhra Pradesh, Tamil Nadu, Karnataka,
-Gujarat, Maharashtra.
-(CBSE Marking Scheme, 2013) 3
 
 5 marks each
 Ans.		 Plantation Agriculture : It is a type of commercial
@@ -10949,8 +10949,7 @@ TOPIC-2
 
 Technological and Institutional Reforms
 Very Short Answer Type Questions
-Q. 1. By whom the Bhoodan-Gramdaan movement was
-initiated ?
+Q. 1. By whom the Bhoodan-Gramdaan movement was initiated ?
 Ans. Vinoba Bhave.
 1
 
@@ -10971,16 +10970,7 @@ land development programme initiated in India
 in the 1980s and 1990s.
 [Board Term 1, DDE-2015, Set-E, M]
 
-Ans. (i) More and more land is used for construction
-of factories, warehouses and shelters which have
-reduced the land under cultivation.
-(ii)
 
-Soil gets degraded by the use of pesticides
-fertilizers over irrigation etc which leads to water
-logging and salinity.
-
-1
 
 3 marks each
 Ans. (a) Land reforms : collectivisation, consolidation of
@@ -11008,6 +10998,14 @@ rate ?
 1 mark each
 
 5 marks each
+Ans. (i) More and more land is used for construction
+of factories, warehouses and shelters which have
+reduced the land under cultivation.
+(ii)
+
+Soil gets degraded by the use of pesticides
+fertilizers over irrigation etc which leads to water
+logging and salinity.
 (iii)
 
 Today Indian farmers are facing a big challenge
@@ -11023,6 +11021,8 @@ in agriculture, subsidy on fertilizers have decreased.
 Reduction in import duties on agricultural
 products have proved detrimental to agriculture in
 the country.
+1
+
 1×5=5
 
 92 ]
