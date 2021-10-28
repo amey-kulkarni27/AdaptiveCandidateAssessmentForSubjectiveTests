@@ -15611,11 +15611,32 @@ working outside.
 
 (iii)
 
-Q. 10.
-Ans.
 (i)
 (ii)
-(iii)
+A safe and secure environment may allow more
+women to take up a variety of jobs or run a
+business. These are goals other than income. Hence
+development goal is not only for better income but
+for other important things in life.
+1×3=3
+Q. 10.
+Mention
+any
+three
+characteristics
+of
+development.
+[Board Term 1, 2011 (580012, 35)]
+Ans.
+Characteristics of Development :
+What may be development for one may not be
+development for the others.
+For development, people look at mix goals.
+Income is the most important component of
+development, but along with income, people also
+seek equal treatment, good health, peace and
+security, etc.
+1×3=3
 
 Long Answer Type Questions
 Q. 1. What is development? Why do different people
@@ -15676,28 +15697,7 @@ has adequate provision of basic health and
 educational facilities.
 (CBSE Marking Scheme 2012) 1×5=5
 
-A safe and secure environment may allow more
-women to take up a variety of jobs or run a
-business. These are goals other than income. Hence
-development goal is not only for better income but
-for other important things in life.
-1×3=3
-Mention
-any
-three
-characteristics
-of
-development.
-[Board Term 1, 2011 (580012, 35)]
-Characteristics of Development :
-What may be development for one may not be
-development for the others.
-For development, people look at mix goals.
-Income is the most important component of
-development, but along with income, people also
-seek equal treatment, good health, peace and
-security, etc.
-1×3=3
+
 
 5 marks each
 Q. 3. Is per capita income a true measure of
@@ -16248,7 +16248,6 @@ people after 1947.
 Ans. Efforts made by the Government in the field of
 health can be summarised as follows :
 
-HOTS Questions
 
 The life expectancy of birth in India has more than
 doubled in the last fifty years. It has reached nearly
@@ -16275,6 +16274,7 @@ been controlled to a large extent.
 5
 
 3-5 marks each
+HOTS Questions
 
 Q. 1. Study the table given below and answer the
 following questions
@@ -16405,6 +16405,16 @@ Q. 2. . State any one reason for overuse of resources?
 OR
 Why ground water is overused?
 (NCERT)
+1 mark each
+
+Ans. Any one reason for the overuse of resources can
+be :
+l over population.
+l lack of awareness.
+l excessive use of tubewells, canals etc for
+irrigation.
+l industrial need.
+(Any other relevant point)
 
 Short Answer Type Questions
 Q. 1. What is sustainable development? Why is the
@@ -16440,24 +16450,6 @@ awareness to provide sustainable development.
 		
 [CBSE Marking Scheme, 2015] 3
 
-Long Answer Type Questions
-Q. 1. Why is sustainable development essential ?
-How does it help to prevent environmental
-degradation ? [Board Term 1, 2014 (R9UJGYG)]
-				
-[Board Term 1, 2015 Set-C5JEEVD]
-
-1 mark each
-
-Ans. Any one reason for the overuse of resources can
-be :
-l over population.
-l lack of awareness.
-l excessive use of tubewells, canals etc for
-irrigation.
-l industrial need.
-(Any other relevant point)
-[CBSE Marking Scheme, 2015] 1
 
 3 marks each
 Q. 3. How does sustainability of resources determine
@@ -16486,12 +16478,24 @@ Suggest two measures to ensure sustainable
 development.
 				
 [Board Term 1, 2011 (580013, 16, 31, 35)]
-Ans. Refer Q. 1 ‘Shart Answer Type’
+Ans. Sustainable economic development means
+development should take place without damaging
+the environment and development in the present
+should not compromise with the needs of the
+future generation.
 		Measures to ensure sustainable development :
 (i) We should avoid indiscriminate use of resources.
 (ii) We should find the alternative of non-renewable
 resources.
 1+2=3
+Long Answer Type Questions
+Q. 1. Why is sustainable development essential ?
+How does it help to prevent environmental
+degradation ? [Board Term 1, 2014 (R9UJGYG)]
+				
+[Board Term 1, 2015 Set-C5JEEVD]
+
+
 
 5 marks each
 Or
@@ -16959,6 +16963,13 @@ Ans. Tertiary.
 Q. 19. Which communities generally find them in the
 unorganized sector ?
 Ans. Schedule tribes and backward communities.
+Q. 20. Services such as transport, banking and insurance
+come under which sector ?
+Ans. Tertiary sector.
+1
+Q. 21. Railway is an example of which sector ?
+Ans. Public sector.
+1
 
 1
 
@@ -17023,13 +17034,6 @@ Ans. In the urban areas, unorganised sector comprises
 workers in small scale industry, casual workers
 in construction, trade and transport etc. It also
 
-Q. 20. Services such as transport, banking and insurance
-come under which sector ?
-Ans. Tertiary sector.
-1
-Q. 21. Railway is an example of which sector ?
-Ans. Public sector.
-1
 
 3 marks each
 includes street vendors, head load workers,
@@ -17147,17 +17151,9 @@ yet perform these services.
 a part of this sector is growing in importance.
 (CBSE Marking Scheme, 2012) 1 × 3 = 3
 
-Long Answer Type Questions
-Q. 1. “When a country develops, the contribution of
-primary sector declines and that of secondary and
-tertiary sector increases.” Analyse the statement. 		
-		
-[Board Term 1, DDE-2014, 2012 (58)]
-
 Q. 9. How would income and employment increase
 if farmers are provided with loan, irrigation and
-transportation facilities ? 		
-		
+transportation facilities ? 
 [Board Term 1, 2012 (36, 37)]
 Ans. (i) Loan provided can be used to construct a well,
 or to buy better quality of seeds and pesticides.
@@ -17166,7 +17162,7 @@ first one, even in the absence of monsoon.
 (iii) Transportation facility will facilitate taking their
 produce to the market to sell.
 1×3=3
-Q.10. Explain the interdependence of all the three
+Q. 10. Explain the interdependence of all the three
 economic sectors giving examples from
 transportation system. [Board Term 1, 2012 (34)]
 Or
@@ -17207,8 +17203,10 @@ produced in a Factory has to move long distance.
 It can be done by a strong network of tertiary
 activities.
 1 × 3 =3
-
-5 marks each
+Long Answer Type Questions
+Q. 1. “When a country develops, the contribution of
+primary sector declines and that of secondary and
+tertiary sector increases.” Analyse the statement. 		
 Or
 		Describe the historical changes that have taken
 place in the sectors of the economy in the
@@ -17474,18 +17472,18 @@ Ans. Gross Domestic Product.
 1
 Q. 3. Give full form of NREGA.
 
-Ans.
-Q. 4.
-Ans.
-Q. 5.
 
 1 mark each
 
+Ans.
 National Rural Employment Guarantee Act.
 1
+Q. 4.
 What do you mean by disguised unemployment ?
+Ans.
 More people engaged in a job than needed.
 1
+Q. 5.
 For how many days employment is guaranteed
 under NREGA 2005 ?
 Ans. 100 days.
@@ -17671,6 +17669,15 @@ generated in agriculture sector.
 Providing cheap credit facilities and crop insurance
 can result in more employment.
 
+More money should be spent in transport
+and storage, because then more people can be
+employed.
+The government/banks can provide loan at cheap
+rates to improve irrigational facilities.
+Technical training, vocational guidance to
+unemployed youth for self employment.
+(Any three) 1 × 3 = 3
+
 (iv)
 (v)
 
@@ -17715,7 +17722,7 @@ jobs can be created in tourism sector.
 create jobs.
 (iii) New services such as IT also are job generators.
 2+3=5
-Q.3. What is GDP? Explain the process to calculate
+Q. 3. What is GDP? Explain the process to calculate
 GDP.
 [Board Term 1, 2012 (82)]
 Ans. (i) Gross Domestic Product or GDP is the value
@@ -17730,35 +17737,25 @@ the value of intermediate goods is already included
 in the value of final goods. This mammoth task
 of measuring GDP is undertaken by the Central
 Government Ministry.
-
-More money should be spent in transport
-and storage, because then more people can be
-employed.
-The government/banks can provide loan at cheap
-rates to improve irrigational facilities.
-Technical training, vocational guidance to
-unemployed youth for self employment.
-(Any three) 1 × 3 = 3
-
+This organization collects information relating to
+the total volume of goods and services and their
+prices and then estimates the GDP.
+2+3=5
 5 marks each
 
 Q. 4.
-
+How can we create more employment in secondary
+and tertiary sectors in rural India ? 		
+		
 Ans.
 (ii)
 
 (iii)
 (iv)
 (v)
-Q. 5.
 
-This organization collects information relating to
-the total volume of goods and services and their
-prices and then estimates the GDP.
-2+3=5
-How can we create more employment in secondary
-and tertiary sectors in rural India ? 		
-		
+
+
 [Board Term 1, 2012 (45, 47)]
 (i) We can create more jobs in the secondary sector
 by promoting industries such as dal mills.
@@ -17770,6 +17767,7 @@ Services like transportation and communication
 must be promoted to generate employment.
 Building Multi-purpose Projects can create
 employment.
+Q. 5.
 How can we create more employment
 opportunities in urban areas ? Explain with
 examples.
@@ -17791,7 +17789,7 @@ business generated will bring employment.
 (v) Small scale industries must be encouraged and
 developed.
 (CBSE Marking Scheme 2012) 1 × 5 =5
-Q.6. Explain measures that can be adopted to remove
+Q. 6. Explain measures that can be adopted to remove
 disguised unemployment in the agriculture
 sector.
 [Board Term 1, 2011 (580021, 27)]
@@ -18112,6 +18110,10 @@ inputs, credit, storage and marketing outlets.
 In urban areas, casual workers need government’s
 support for procuring raw material.
 
+Small scale industries also need support for
+procuring raw material and marketing of the
+goods.
+1×3=3
 Long Answer Type Questions
 Q. 1. Differentiate between organised and unorganised
 sector.
@@ -18168,10 +18170,6 @@ start demanding many more services, such as
 
 (iii)
 
-Small scale industries also need support for
-procuring raw material and marketing of the
-goods.
-1×3=3
 
 5 marks each
 eating out, tourism, shopping, private hospitals;
