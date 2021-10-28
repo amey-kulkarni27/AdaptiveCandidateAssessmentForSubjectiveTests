@@ -11727,6 +11727,18 @@ Q. 16. In which countries the participation of women in
 public life is very high ?
 Ans. Scandinavian Countries.
 1
+Q. 17. How many times was the Belgium constitution
+amended between 1970 and 1993 ?
+Ans. Four.
+1
+Q. 18. Which group of countries surrounds Belguim ?
+Ans. Germany,
+France,
+the
+Netherlands
+and
+Luxemberg.
+1
 
 Short Answer Type Questions
 Q. 1. Describe the power sharing arrangement made by
@@ -11787,18 +11799,6 @@ Or
 				
 [Board Term 1, 2011 (34, 40)]
 
-Q. 17. How many times was the Belgium constitution
-amended between 1970 and 1993 ?
-Ans. Four.
-1
-Q. 18. Which group of countries surrounds Belguim ?
-Ans. Germany,
-France,
-the
-Netherlands
-and
-Luxemberg.
-1
 
 3 marks each
 Ans. Sri Lankan Tamils felt alienated because :
@@ -11890,7 +11890,22 @@ alienation among the Sri Lanka Tamils ? Explain.
 [Board Term 1, 2014 (WQ7FXWC), (R9UJGYG)]
 
 5 marks each
-Ans. Refer ‘Short Answer Type’ Q. 2.
+Ans. Ans. Sri Lankan Tamils felt alienated because :
+(a) Government adopted majoritarian measure to
+establish Sinhala Supremacy. In 1956, an Act was
+passed to recognise Sinhala as the only official
+language thus disregarding Tamil.
+(b) The governments followed preferential politics
+that favoured Sinhala applicants for university
+positions and government jobs.
+(c) A new constitution stipulated that the state shall
+protect and foster Buddhism.
+(d) Srilankan Tamils felt that none of the major
+political parties by the Buddhist Sinhala leaders
+were sensitive to their language and culture.
+(e) As a result, the relations between the Sinhala and
+Tamil communities strained overtime and it soon
+turned into a civil war.
 
 TOPIC-2
 
@@ -11906,6 +11921,15 @@ education and language related issues.
 Q. 2. What is the Prudential reason behind power
 sharing ?
 			 [Board Term 1, 2014 (R9UJGYG), (WQ7FXWC)]
+Or
+		Why power sharing is good for democracies ?
+Ans. It reduces the possibility of conflict between social
+groups.
+1
+Q. 3. Which system of power sharing is called, ‘Checks
+and Balances’ ?
+Ans. Horizontal distribution of powers.
+1
 
 Short Answer Type Questions
 Q. 1. Give reasons why power sharing is desirable.		
@@ -11934,15 +11958,6 @@ Ans. Power sharing is desirable in democracy because :
 
 1 mark each
 
-Or
-		Why power sharing is good for democracies ?
-Ans. It reduces the possibility of conflict between social
-groups.
-1
-Q. 3. Which system of power sharing is called, ‘Checks
-and Balances’ ?
-Ans. Horizontal distribution of powers.
-1
 
 3 marks each
 		
@@ -12489,23 +12504,6 @@ and succession.
 1
 Q. 5. The subject of Computer Software comes under
 which list ?
-
-Short Answer Type Questions
-Q. 1. Highlight any three steps taken by India towards
-making it a federation.		
-		
-[Board Term 1, 2015, Set-6AP67LB]
-Ans. (i) Reorganisation of states on linguistic basis.
-(ii) Centre state relations.
-(iii) Decentralisation or any other relevant point.
-[CBSE Marking Scheme, 2015] 1 × 3 = 3
-Q. 2. Highlight three major distinctions between the
-federations of ‘coming together’ type and ‘holding
-together’ type.
-[Board Term 1, 2015, Set-C5JWEVD]
-
-1 mark each
-
 Ans. Residuary List.
 1
 Q. 6. In case of any dispute about the division of powers
@@ -12524,6 +12522,23 @@ Q. 9. The federal system serves which two dual
 objectives ?
 Ans. First, to safeguard and promote unity of the country
 and secondly, to accomodate regional diversity. 1
+
+Short Answer Type Questions
+Q. 1. Highlight any three steps taken by India towards
+making it a federation.		
+		
+[Board Term 1, 2015, Set-6AP67LB]
+Ans. (i) Reorganisation of states on linguistic basis.
+(ii) Centre state relations.
+(iii) Decentralisation or any other relevant point.
+[CBSE Marking Scheme, 2015] 1 × 3 = 3
+Q. 2. Highlight three major distinctions between the
+federations of ‘coming together’ type and ‘holding
+together’ type.
+[Board Term 1, 2015, Set-C5JWEVD]
+
+1 mark each
+
 
 3 marks each
 Ans. Holding Together Federation :
@@ -12565,11 +12580,29 @@ defence of the country, foreign affairs, banking,
 communication and currency.
 (ii) State list : State list consists of 66 subjects. It
 contains subjects of state and local importance
-
+such as police, trade, commerce, agriculture and
+irrigation.
+Concurrent list : Concurrent list consist of 47
+subjects It includes subjects of common interest
+to both such as education, forest, trade unions,
+marriage, adoption and succession.
+1×3=3
+Q. 4. Describe the three-tier system of Indian
+federation ?
+[Board Term 1, 2011 (A2)]
+Ans. Three-tier system means three levels of government.
+The Indian constitution was originally provided for
+a two-tier system of government :
+The Union government or the Central government,
+and
+The State governments.
+But, later a third-tier of federalism was added
+in the form of Panchyats at rural level and
+municipalities at urban level. Every level enjoys
+separate jurisdiction.
+1×3=3
 (iii)
 
-Q. 4.
-Ans.
 (a)
 (b)
 (c)
@@ -12618,27 +12651,7 @@ jurisdiction in matters of legislation, taxation
 and administration even though they govern the
 same citizens.
 
-such as police, trade, commerce, agriculture and
-irrigation.
-Concurrent list : Concurrent list consist of 47
-subjects It includes subjects of common interest
-to both such as education, forest, trade unions,
-marriage, adoption and succession.
-1×3=3
-Describe the three-tier system of Indian
-federation ?
-[Board Term 1, 2011 (A2)]
-Three-tier system means three levels of government.
-The Indian constitution was originally provided for
-a two-tier system of government :
-The Union government or the Central government,
-and
-The State governments.
-But, later a third-tier of federalism was added
-in the form of Panchyats at rural level and
-municipalities at urban level. Every level enjoys
-separate jurisdiction.
-1×3=3
+
 
 5 marks each
 (iii)
@@ -12836,6 +12849,38 @@ Ans. Official language of the concerned state.
 1
 Q. 6. By which name the rural local government is
 popularly known ?
+Ans.
+Panchayati Raj.
+1
+Q. 7.
+Which state in India has a special status ?
+Ans.
+Jammu and Kashmir.
+1
+Q. 8.
+How many other languages are recognised as
+Scheduled Languages by the constitution, besides
+Hindi ?
+Ans. 21.		
+1
+Q. 9.
+The system of Panchyati Raj works at which
+levels ?
+Ans.
+The village, block and district levels.
+1
+Q. 10.
+Name the process where power is taken away
+from Central and State governments and given to
+local government.
+Ans.
+Decentralization.
+1
+Q. 11.
+Which Indian state has its own constitution ?
+Ans.
+Jammu and Kashmir.
+1
 
 Short Answer Type Questions
 Q. 1. Do you take decentralisation as means to minimise
@@ -12864,57 +12909,6 @@ the village are its members.
 [CBSE Marking Scheme, 2015]
 Q. 3. Describe the significance of decentralisation.		
 		
-[Board Term 1, 2011 (A2)]
-
-Long Answer Type Questions
-Q. 1. Why has federalism succeeded in India ? Which
-were the policies adopted by India that ensured
-this success ? Explain. [Board Term 1, DDE-2014]
-Ans. Federalism has succeeded in India due to the
-nature of democratic policies in our country.
-The policies adopted by India to ensure this
-success :
-(i) Linguistic States : After independence, the
-boundaries of several old states were changed
-in order to create new states. The creation of
-linguistic states was the first and a major test
-for democratic politics in our country.
-
-Ans.
-Q. 7.
-Ans.
-Q. 8.
-Ans.
-Q. 9.
-Ans.
-Q. 10.
-Ans.
-Q. 11.
-Ans.
-
-Panchayati Raj.
-1
-Which state in India has a special status ?
-Jammu and Kashmir.
-1
-How many other languages are recognised as
-Scheduled Languages by the constitution, besides
-Hindi ?
-21.		
-1
-The system of Panchyati Raj works at which
-levels ?
-The village, block and district levels.
-1
-Name the process where power is taken away
-from Central and State governments and given to
-local government.
-Decentralization.
-1
-Which Indian state has its own constitution ?
-Jammu and Kashmir.
-1
-
 3 marks each
 OR
 		 Do you take decentralisation as means to minimise
@@ -12943,6 +12937,23 @@ own.
 (c) An independent state election commission is
 responsible to conduct the elections.
 ½×6=3
+
+
+[Board Term 1, 2011 (A2)]
+
+Long Answer Type Questions
+Q. 1. Why has federalism succeeded in India ? Which
+were the policies adopted by India that ensured
+this success ? Explain. [Board Term 1, DDE-2014]
+Ans. Federalism has succeeded in India due to the
+nature of democratic policies in our country.
+The policies adopted by India to ensure this
+success :
+(i) Linguistic States : After independence, the
+boundaries of several old states were changed
+in order to create new states. The creation of
+linguistic states was the first and a major test
+for democratic politics in our country.
 
 5 marks each
 (ii) Language Policy : The second test for the
@@ -13803,21 +13814,10 @@ A society has similar kinds of people.
 (b)
 
 There are no significant ethnic differences.
-Germany
-societies.
-
-Ans. (i) Democracy involves competition among
-various political parties. Their competition tends
-to divide any society. If they start competing in
-terms of some existing social divisions, it can
-make social division into political division and
-lead to conflict, violence or even disintegration of
-a country.
-
-Sweden
+Germany and Sweden
 
 have homogenous
-(Any one state) 2+1=3
+societies.
 
 Q. 19. What was the Black Power Movement ? Explain. 		
 		
@@ -13864,12 +13864,19 @@ Q. 1. Politics and social divisions must not be allowed
 to mix. Substantiate this statement, with five
 arguments. [Board Term 1, 2015, Set-C5JWEVD]
 
-and
 
 5 marks each
 (ii)
 
 (iii)
+Ans. (i) Democracy involves competition among
+various political parties. Their competition tends
+to divide any society. If they start competing in
+terms of some existing social divisions, it can
+make social division into political division and
+lead to conflict, violence or even disintegration of
+a country.
+
 
 Hundreds of civilians, militants and security
 forces were killed in the fight between Unionists
@@ -13971,7 +13978,7 @@ social groups to express their grievances and get
 the government to attend to these.
 Expression of various kinds of social division in
 politics often results in their cancelling one another
-cut.
+out.
 1×3=3
 
 3-5 marks each
@@ -14554,15 +14561,6 @@ Q. 4. What do we call a person who does not discriminate
 against other on the basis of religious beliefs ?
 Ans. Secular.
 1
-
-Short Answer Type Questions
-Q. 1. How can communalism pose a great threat to
-Indian Democracy ?
-[Board Term 1, NCT-2014]
-OR
-
-1 mark each
-
 Q. 5. Buddhism is the major religion of which country ?
 Ans. Sri Lanka.
 1
@@ -14578,6 +14576,15 @@ Ans. Mahatma Gandhi.
 Q. 8. Which country has no official religion of its own ?
 Ans. India.
 1
+
+Short Answer Type Questions
+Q. 1. How can communalism pose a great threat to
+Indian Democracy ?
+[Board Term 1, NCT-2014]
+OR
+
+1 mark each
+
 
 3 marks each
 		How can religion be a source of danger to
@@ -14638,26 +14645,7 @@ hindrance in the functioning of our democracy?
 Explain.
 [Board Term 1, 2011 (580042)]
 
-Long Answer Type Questions
-Q. 1. What form does Communalism take in politics ?
-				
-[Board Term 1, DDE-2015, Set-M]
-				
-[Board Term 1, 2011 (580012)]
-Or
-		Explain any three forms of communal politics,
-with examples.
-				
-[Board Term 1, 2011 (580015, 25, 34, 38)]
-Or
-		Explain how Communalism is being expressed in
-politics ?
-[Board Term 1, 2012 (37)]
-Or
-		 What does the term Communalism mean ? Explain
-any four forms which communalism takes in
-politics.
-[Board Term 1, 2013 (10S), 2012 (49)]
+
 
 Ans. Communalism : When beliefs of one religion are
 presented as superior to those of other religions,
@@ -14700,6 +14688,26 @@ have demanded that government should change
 these laws to make them more equitable. 1×3=3
 
 5 marks each
+Long Answer Type Questions
+Q. 1. What form does Communalism take in politics ?
+				
+[Board Term 1, DDE-2015, Set-M]
+				
+[Board Term 1, 2011 (580012)]
+Or
+		Explain any three forms of communal politics,
+with examples.
+				
+[Board Term 1, 2011 (580015, 25, 34, 38)]
+Or
+		Explain how Communalism is being expressed in
+politics ?
+[Board Term 1, 2012 (37)]
+Or
+		 What does the term Communalism mean ? Explain
+any four forms which communalism takes in
+politics.
+[Board Term 1, 2013 (10S), 2012 (49)]
 Ans.		Communalism : It means attempts to promote
 religious ideas between groups of people which
 are identified as different communities.
@@ -14818,6 +14826,12 @@ population percentage of scheduled castes ?
 Ans. 16.2%.
 1
 Q. 2. Which division is unique to India ?
+Ans. Caste division.
+1
+Q. 3. What does caste hierarchy mean ?
+Ans. A ladder like formation in which all caste groups
+are placed from the highest to the lowest.
+1
 
 Short Answer Type Questions
 Q. 1. Describe three advantages of the political
@@ -14829,12 +14843,6 @@ differences are :
 
 1 mark each
 
-Ans. Caste division.
-1
-Q. 3. What does caste hierarchy mean ?
-Ans. A ladder like formation in which all caste groups
-are placed from the highest to the lowest.
-1
 
 3 marks each
 (i) It gives disadvantaged groups the opportunity to
@@ -14890,16 +14898,12 @@ at the next table in a restaurant.
 
 (iii)
 
-Q. 5.
-Ans.
 (i)
 
 (ii)
 
 (iii)
 
-Q. 6.
-Ans.
 (i)
 (ii)
 (iii)
@@ -14908,9 +14912,11 @@ The Constitution of India prohibited any castebased discrimination and laid the 
 of policies to reserve the injustices of the caste
 system.
 1×3=3
+Q. 5.
 Explain the impact of caste system on Indian
 democracy.
 [Board Term 1, 2011 (580024)]
+Ans.
 Impact of caste system on Indian democracy :
 Expression of caste differences in politics gives
 many disadvantaged communities the space to
@@ -14928,10 +14934,12 @@ pressing issues such as poverty, development and
 corruption. In some cases it leads to violence.
 		
 1×3=3
+Q. 6.
 “Caste has not still disappeared from contemporary
 India.” Write any three examples to justify the
 statement.
 [Board Term 1, 2011 (580041)]
+Ans.
 Caste has not disappeared from contemporary
 India. Some of the older aspects of caste which are
 persisting are as follows :
