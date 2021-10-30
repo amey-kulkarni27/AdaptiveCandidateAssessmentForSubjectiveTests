@@ -14,7 +14,6 @@ def create_dataframe(qs, ans):
     if len(qs) != len(ans):
         print(len(qs), len(ans))
         # print(qs)
-        # print(ans)
         for i, a in zip([i for i in range (23)], ans):
             print(i+1, a)
     df = pd.DataFrame(
@@ -23,11 +22,11 @@ def create_dataframe(qs, ans):
         })
     return df
 
-searchphrases = ["Very Short Answer Type Question", "Short Answer Type Question", "Long Answer Type Question", "Value Based Question", "HOTS Question"]
+searchphrases = ["Type Question", "Short Answer Type Question", "Long Answer Type Question", "alue Based Question", "High Order Thinking Skills (HOTS) Question"]
 q_search = re.compile("Q\. \d+")
 pg_num1 = re.compile("\[ \d+")
 pg_num2 = re.compile("\d+ \]")
-textfile = open('SS_10_2.txt', 'r')
+textfile = open('SS_10_3.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
 '''
@@ -52,7 +51,7 @@ for line in lines:
         break
 
     if line == "" or any(x.isalpha() for x in line) == False or (line.isupper() and all(x.isalpha() or x.isspace() for x in line)) or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
-        if line != "QUICK REVIEW" and line != "CHAPTER" and line != "KNOW THE LINKS":  
+        if line != "CHAPTER" and line != "MAP WORK":  
             continue
     line = re.sub(r'\([^)]*\)', '', line)
     line = re.sub(r'\[[^)]*\]', '', line)
@@ -62,10 +61,10 @@ for line in lines:
         top_name = ""
 
     elif mode == 1:
-        if line == "QUICK REVIEW":  
+        if line == "Quick Review":  
             top_name = top_name.strip()
             top_name = top_name.replace(" ", "_")
-            rel_path = "10_2/" + top_name + "/"
+            rel_path = "10_3/" + top_name + "/"
             if not os.path.exists(rel_path):
                 os.mkdir(rel_path)
             print(top_name)
@@ -101,7 +100,7 @@ for line in lines:
             q = False
             a = True
             ans = line
-        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "KNOW THE LINKS":
+        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK":
             a_list.append(ans)
             if mode == 2:
                 # if not os.path.exists(rel_path+"vs.csv"):
@@ -129,9 +128,9 @@ for line in lines:
                 mode = 1
                 top_name = ""
             elif line == "CHAPTER" or line == "":
-                mode = 2
+                mode = 0
                 top_name = ""
-            elif line == "KNOW THE LINKS":
+            elif line == "MAP WORK":
                 mode = 0
                 top_name = ""
             elif line.startswith(searchphrases[1]):
