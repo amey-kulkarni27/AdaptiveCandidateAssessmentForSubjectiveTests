@@ -1,3 +1,7 @@
+#to get this thing running "pip install -U sentence-transformerspip install -U sentence-transformers"
+# reference
+# https://www.sbert.net/docs/installation.html
+
 import glob
 import csv
 from sentence_transformers import SentenceTransformer, util
@@ -107,7 +111,7 @@ def main():
             
             questionIndex=questionIndex+1
             outputRows.append(resultRow)
-   
+   outputRows[0]
 
 
 
