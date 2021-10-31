@@ -14,7 +14,7 @@ def create_dataframe(qs, ans):
     if len(qs) != len(ans):
         print(len(qs), len(ans))
         # print(qs)
-        for i, a in zip([i for i in range (23)], ans):
+        for i, a in zip([i for i in range (31)], ans):
             print(i+1, a)
     df = pd.DataFrame(
         {'questions': qs,
@@ -22,11 +22,11 @@ def create_dataframe(qs, ans):
         })
     return df
 
-searchphrases = ["Type Question", "Short Answer Type Question", "Long Answer Type Question", "alue Based Question", "High Order Thinking Skills (HOTS) Question"]
+searchphrases = ["Very Short Answer Type Question", "Short Answer Type Question", "Long Answer Type Question", "Value Based Question", "High Order Thinking Skills (HOTS) Question"]
 q_search = re.compile("Q\. \d+")
 pg_num1 = re.compile("\[ \d+")
 pg_num2 = re.compile("\d+ \]")
-textfile = open('SS_10_3.txt', 'r')
+textfile = open('S_09.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
 '''
@@ -41,6 +41,7 @@ top_name = ""
 top_cnt = 0
 rel_path = ""
 q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
+qctr = 0
 for line in lines:
     line = line.rstrip()
     ctr += 1
@@ -51,7 +52,7 @@ for line in lines:
         break
 
     if line == "" or any(x.isalpha() for x in line) == False or (line.isupper() and all(x.isalpha() or x.isspace() for x in line)) or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
-        if line != "CHAPTER" and line != "MAP WORK":  
+        if line != "CHAPTER" and line != "MAP WORK" and line != "QUICK REVIEW":  
             continue
     line = re.sub(r'\([^)]*\)', '', line)
     line = re.sub(r'\[[^)]*\]', '', line)
@@ -61,10 +62,10 @@ for line in lines:
         top_name = ""
 
     elif mode == 1:
-        if line == "Quick Review":  
+        if line == "QUICK REVIEW":  
             top_name = top_name.strip()
             top_name = top_name.replace(" ", "_")
-            rel_path = "10_3/" + top_name + "/"
+            rel_path = "9/" + top_name + "/"
             if not os.path.exists(rel_path):
                 os.mkdir(rel_path)
             print(top_name)
@@ -90,18 +91,21 @@ for line in lines:
     
     elif mode >= 2:
         if q_search.match(line):
-            if(len(q_list)):
+            if(len(q_list)) and a:
+                qctr += 1
                 a_list.append(ans)
             q = True
             a = False
             qs = line
         elif line.startswith("Ans."):
-            q_list.append(qs)
+            if q:
+                q_list.append(qs)
             q = False
             a = True
             ans = line
         elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK":
-            a_list.append(ans)
+            if a:
+                a_list.append(ans)
             if mode == 2:
                 # if not os.path.exists(rel_path+"vs.csv"):
                 df = create_dataframe(q_list, a_list)
@@ -122,7 +126,7 @@ for line in lines:
                 # if not os.path.exists(rel_path+"hots.csv"):
                 df = create_dataframe(q_list, a_list)
                 df.to_csv(rel_path+"hots.csv")
-            q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
+            prev_mode = mode
 
             if line.startswith("TOPIC-"):
                 mode = 1
@@ -133,6 +137,8 @@ for line in lines:
             elif line == "MAP WORK":
                 mode = 0
                 top_name = ""
+            elif line.startswith(searchphrases[0]):
+                mode = 2
             elif line.startswith(searchphrases[1]):
                 mode = 3
             elif line.startswith(searchphrases[2]):
@@ -141,6 +147,11 @@ for line in lines:
                 mode = 5
             elif line.startswith(searchphrases[4]): # HOTS
                 mode = 6
+            if mode != prev_mode:
+                q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
+            else:
+                qs, ans, q, a = "", "", False, False
+
 
         elif q:
             qs += " " + line
@@ -148,3 +159,4 @@ for line in lines:
             ans += " " + line
 
 textfile.close()
+print(qctr)
