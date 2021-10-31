@@ -1,0 +1,40 @@
+,questions,answers
+0,Q. 1. Give an example where object is at rest and also in motion at the same time. ,Ans. A passenger travelling in a bus is at rest with respect to fellow passengers but it is in motion with respect to the bus.
+1,Q. 2. Give an example of a motion in which acceleration is non-uniform. ,Ans. A car travelling in a straight road increases its speed by unequal amounts in equal intervals of time.
+2,Q. 3. Give an example of a motion in which acceleration is in the direction of motion of an object. 1 Mark each,Ans. A freely falling object.  1
+3,Q. 5. An ant travels from P to Q and then moves from Q to R . Show its resultant displacement in the diagram. ,Ans. Average speed =  /  =  1
+4,Q. 6. Does the speedometer of a car measure its average speed ? ,Ans. No. It measures its instantaneous speed.
+5,"Q. 7. A person standing at A goes to B by following any of the paths 1, 2, or 3. Which path we can measure to find the average velocity ? ",Ans. Path 1.  1
+6,Q. 8. What is motion ?,Ans. A body is said to be in motion if it changes its position with respect to a reference point.
+7,Q. 9. How do we often perceive an object to be in motion ?,Ans. When its position changes with time.
+8,Q. 10. Give an example when we infer the motion indirectly.,"Ans. We infer the motion of air by observing the movement of dust particles or leaves and branches of trees, or simply by feeling the blowing air on our face."
+9,Q. 11. What is essential to describe the position of an object ?,"Ans. We need to specify a reference point, called the origin."
+10,Q. 12. What is the simplest type of motion ?,Ans. Motion in a straight line.
+11,Q. 13. Are rest and motion absolute or relative terms ?,Ans. They are relative terms.
+12,Q. 14. Can an object be at rest as well as in motion at the same time ?,Ans. Yes. An object may be at rest related to one object and at the same time it may be in motion related to another object.
+13,Q. 15. What indicates the motion of the earth ?,Ans. The phenomena like coming of day and night indicate the motion of the earth.
+14,Q. 16. Is speed a scalar or vector quantity ?,Ans. It is a scalar quantity.
+15,Q. 17. Give two examples of vector quantities.,Ans. Velocity and acceleration.
+16,Q. 18. What do you mean by displacement ?,Ans. The shortest distance moved by a body in the direction from initial to final position is called displacement.
+17,Q. 19. Is displacement a scalar quantity ?,"Ans. No, it is a vector quantity as it has both magnitude and direction."
+18,"Q. 20. If the displacement of a body is zero, is it necessary that the distance covered by it is also zero ?","Ans. No. When the body comes back to the same position after travelling a distance, its displacement is zero though it has travelled some distance."
+19,Q. 21.		Can the displacement be greater than the distance travelled by an object ?,"Ans. No, it is always either equal to or less than the distance travelled by the object."
+20,Q. 22. When do the distance and displacement of a moving object have the same magnitude ?,Ans. The magnitude of distance and displacement of moving object are same when the object moves along the same straight line in the same fixed direction.
+21,Q. 23. What is the duration of the time interval needed for uniform or non-uniform motion ?,Ans. It may be of any duration—small or large.
+22,Q. 24. Give two examples of non-uniform motion.,Ans. A car moving in a crowded street and a person jogging in a park.
+23,Q. 25. Give the technical term used for the rate of motion of a body.,Ans. Speed.
+24,Q. 26. What is the S.I. unit of speed ?,Ans. Metre per sec i.e. ms–1.
+25,"Q. 27. Is it true that to specify the speed of any object, we require only its magnitude ?",Ans. Yes.
+26,Q. 28. How can the velocity of an object be changed ?,"Ans. It can be changed by changing either :  the object’s speed,  direction of motion, or  both."
+27,"Q. 29. A body is moving with a velocity of 10 m/s. If the motion is uniform, what will be the velocity after 10 s ?","Ans. As the motion is uniform, the velocity will remain 10 m/s after 10 s."
+28,Q. 30. Can a body have constant speed but variable velocity ?,"Ans. Yes, e.g. a body in uniform circular motion has constant speed but due to the change in the direction of motion, its velocity changes at every point."
+29,Q. 31. What is the rate of change of velocity called ?,Ans. Acceleration.
+30,Q. 32. What is the S.I. unit of acceleration ?,Ans. metre per 2 i.e. ms–2.
+31,Q. 33. When is the acceleration taken as negative ?,"Ans. When a body in motion stops to rest its acceleration is taken –ve, i.e., when final velocity is less than initial velocity."
+32,Q. 34. What is uniform acceleration ?,Ans. Acceleration of an object is said to be uniform if it travels in a straight line and its velocity increases or decreases  by equal amounts in equal intervals of time.
+33,Q. 35. Give an example of a uniformly accelerated motion.,Ans. Motion of a freely falling body.
+34,Q. 36. Give an example of non-uniform acceleration.,Ans. A car travelling along a straight road increasing its speed by unequal amounts in equal intervals of time.
+35,Q. 37. How can the change in position of an object with time be represented ?,Ans. It can be represented on the distance-time graph .
+36,Q. 38. On which axis are time and distance generally taken in a distance-time graph ?,Ans. On the x - and y - axis respectively.
+37,Q. 39. How are the distance travelled by an object related to the time taken when an object travels equal distances in equal intervals of time ?,"Ans. In this case, distance travelled by the object is directly proportional to the time taken i.e., s ∝ t. 1"
+38,Q. 40. What type of distance-time graph will you get for uniform speed ?,Ans. It will be a straight line.
