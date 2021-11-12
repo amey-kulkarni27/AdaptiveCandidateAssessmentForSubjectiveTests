@@ -23,7 +23,7 @@ def create_dataframe(qs, ans):
     return df
 
 subject = "History"
-year = "2018"
+year = "2019"
 path = "./" + subject + "/" + year + "/"
 textfile = open(path + 'merged.txt', 'r')
 lines = textfile.readlines()
