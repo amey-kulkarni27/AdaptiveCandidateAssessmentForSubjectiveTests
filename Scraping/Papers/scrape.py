@@ -45,7 +45,6 @@ for line in lines:
             qs = line
             q = True
             start = True
-            qnum += 1
     else:
         if q:
             if line.startswith("Answer"):
