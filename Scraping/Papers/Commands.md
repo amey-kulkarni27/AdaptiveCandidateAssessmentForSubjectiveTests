@@ -1,5 +1,8 @@
+# Create these directories
+mkdir History/2018/Full History/2018/Split
+
 # Command for converting pdf to image
-pdftoppm History\ 2018.pdf History/2018/Full/ -png
+pdftoppm History/2018/History\ 2018.pdf History/2018/Full/ -png
 
 # Split Image
 Run split_img.py to split pages columnwise
