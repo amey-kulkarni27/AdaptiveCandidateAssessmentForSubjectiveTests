@@ -20,13 +20,13 @@ def create_dataframe(qs, ans):
         {'questions': qs,
          'answers': ans
         })
-    return df
+    return df, len(qs)
 
 searchphrases = ["Very Short Answer Type Question", "Short Answer Type Question", "Long Answer Type Question", "Value Based Question", "High Order Thinking Skills (HOTS) Question"]
 q_search = re.compile("Q\. \d+")
 pg_num1 = re.compile("\[ \d+")
 pg_num2 = re.compile("\d+ \]")
-textfile = open('S_09.txt', 'r')
+textfile = open('S_08.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
 '''
@@ -51,24 +51,24 @@ for line in lines:
     if line == "FORMATIVE":
         break
 
-    if line == "" or any(x.isalpha() for x in line) == False or (line.isupper() and all(x.isalpha() or x.isspace() for x in line)) or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
+    if line == "" or any(x.isalpha() for x in line) == False or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
         if line != "CHAPTER" and line != "MAP WORK" and line != "QUICK REVIEW":  
             continue
     line = re.sub(r'\([^)]*\)', '', line)
     line = re.sub(r'\[[^)]*\]', '', line)
 
-    if mode == 0 and line.startswith("TOPIC-"):
+    if mode == 0 and line.startswith("CHAPTER"):
         mode = 1
         top_name = ""
 
     elif mode == 1:
-        if line == "QUICK REVIEW":  
+        if line == "Quick Review":  
             top_name = top_name.strip()
             top_name = top_name.replace(" ", "_")
-            rel_path = "9/" + top_name + "/"
+            rel_path = "8/" + top_name + "/"
             if not os.path.exists(rel_path):
                 os.mkdir(rel_path)
-            print(top_name)
+            # print(top_name)
             top_name = ""
         elif line.startswith(searchphrases[0]):
             mode = 2
@@ -92,7 +92,6 @@ for line in lines:
     elif mode >= 2:
         if q_search.match(line):
             if(len(q_list)) and a:
-                qctr += 1
                 a_list.append(ans)
             q = True
             a = False
@@ -103,28 +102,33 @@ for line in lines:
             q = False
             a = True
             ans = line
-        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK":
+        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK" or line == "Formative Assessment":
             if a:
                 a_list.append(ans)
             if mode == 2:
                 # if not os.path.exists(rel_path+"vs.csv"):
-                df = create_dataframe(q_list, a_list)
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
                 df.to_csv(rel_path+"vs.csv")
             elif mode == 3:
                 # if not os.path.exists(rel_path+"s.csv"):
-                df = create_dataframe(q_list, a_list)
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
                 df.to_csv(rel_path+"s.csv")
             elif mode == 4:
                 # if not os.path.exists(rel_path+"l.csv"):
-                df = create_dataframe(q_list, a_list)
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
                 df.to_csv(rel_path+"l.csv")
             elif mode == 5:
                 # if not os.path.exists(rel_path+"val.csv"):
-                df = create_dataframe(q_list, a_list)
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
                 df.to_csv(rel_path+"val.csv")
             elif mode == 6:
                 # if not os.path.exists(rel_path+"hots.csv"):
-                df = create_dataframe(q_list, a_list)
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
                 df.to_csv(rel_path+"hots.csv")
             prev_mode = mode
 
@@ -134,7 +138,7 @@ for line in lines:
             elif line == "CHAPTER" or line == "":
                 mode = 0
                 top_name = ""
-            elif line == "MAP WORK":
+            elif line == "MAP WORK" or line == "Formative Assessment":
                 mode = 0
                 top_name = ""
             elif line.startswith(searchphrases[0]):
@@ -154,8 +158,12 @@ for line in lines:
 
 
         elif q:
+            if (line.isupper() and all(x.isalpha() or x.isspace() or x==":" for x in line)):
+                continue
             qs += " " + line
         elif a:
+            if (line.isupper() and all(x.isalpha() or x.isspace() or x==":" for x in line)):
+                continue
             ans += " " + line
 
 textfile.close()
