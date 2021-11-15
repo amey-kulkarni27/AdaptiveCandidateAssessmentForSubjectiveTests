@@ -3,7 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 import os
 
-subject = "History"
+subject = "Geography"
 year = "2019"
 path = "./" + subject + "/" + year + "/"
 num_files = len(os.listdir(path + "Full/"))

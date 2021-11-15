@@ -22,7 +22,7 @@ def create_dataframe(qs, ans):
         })
     return df
 
-subject = "History"
+subject = "Geography"
 year = "2019"
 path = "./" + subject + "/" + year + "/"
 textfile = open(path + 'merged.txt', 'r')
@@ -31,6 +31,7 @@ ctr = 0
 q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
 start = False
 qnum = 1
+qtot = 0
 for line in lines:
     line = line.rstrip()
     ctr += 1
@@ -38,6 +39,16 @@ for line in lines:
     line = re.sub(r'\([^)]*\)', '', line)
     line = re.sub(r'\[[^)]*\]', '', line)
     if line.startswith("www."):
+        continue
+    if line.startswith(subject + " " + year):
+        a_list.append(ans)
+        ans = ""
+        qs = line
+        q = False
+        a = False
+        start = False
+        qtot += (qnum - 1)
+        qnum = 1
         continue
 
     if start == False:
@@ -72,4 +83,4 @@ df = create_dataframe(q_list, a_list)
 df.to_csv(path + "qa.csv")
 
 textfile.close()
-print(qnum-1)
+print(qtot)
