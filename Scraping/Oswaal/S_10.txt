@@ -9003,8 +9003,33 @@ water ?
 Ans. Quick lime reacts with water vigorously to produce
 slaked lime and a large amount of heat.
 
+CaO(s)
++ H 2O
+(Quick lime)
+(Slaked lime)
+1
+Q. 6. Identify in the following reaction :
+2PbO(s) + C(s) → 2Pb(s) + CO(g)
+(a)
+the substance oxidised and
+(b)
+the substance reduced.
+[KVS][NCERT]
+Ans. (a) Carbon is oxidised to Carbon monoxide
+(b) PbO (lead oxide) is reduced to lead.
+½+½
+Q. 7. Identify the chemical change :
+Melting of Ice or Conversion of milk into curd.
+[DDE]
+
 Ans. Chemical Change is :
 Conversion of milk into curd.
+
+(1 mark each)
+
+
+
+Q. 8. What happens when ZnCO3 is heated in the
 
 absence of air ? Give the relevant equation.
 [Board Term-I Set-14, 2011]
@@ -9067,38 +9092,13 @@ FeSO4(s) Heat
 Ans. Balanced Equation
 2FeSO4(s) Heat
 → Fe2O3(s) + SO2(g) + SO3(g)
-
 Short Answer Type Questions-I
 Q. 1. List four observations that help us to determine
 
 1
 
-Q. 8. What happens when ZnCO3 is heated in the
-
 
 → Ca(OH)2 + Heat
-
-CaO(s)
-+ H 2O
-(Quick lime)
-(Slaked lime)
-1
-Q. 6. Identify in the following reaction :
-2PbO(s) + C(s) → 2Pb(s) + CO(g)
-(a)
-the substance oxidised and
-(b)
-the substance reduced.
-[KVS][NCERT]
-Ans. (a) Carbon is oxidised to Carbon monoxide
-(b) PbO (lead oxide) is reduced to lead.
-½+½
-Q. 7. Identify the chemical change :
-Melting of Ice or Conversion of milk into curd.
-[DDE]
-
-(1 mark each)
-
 Ans. (i) Evolution of a gas
 (ii) Change in temperature
 
