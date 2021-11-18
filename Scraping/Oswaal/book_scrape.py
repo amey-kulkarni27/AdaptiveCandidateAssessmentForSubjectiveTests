@@ -22,11 +22,11 @@ def create_dataframe(qs, ans):
         })
     return df, len(qs)
 
-searchphrases = ["Very Short Answer Type Question", "Short Answer Type Question", "Long Answer Type Question", "Value Based Question", "High Order Thinking Skills (HOTS) Question"]
+searchphrases = ["Very Short Answer Type Question", "Short Answer Type Question", "Long Answer Type Question", "Value Based Question", "High Order Thinking Skills (HOTS) Question", "Practical Based Question"]
 q_search = re.compile("Q\. \d+")
 pg_num1 = re.compile("\[ \d+")
 pg_num2 = re.compile("\d+ \]")
-textfile = open('S_08.txt', 'r')
+textfile = open('S_10.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
 '''
@@ -51,26 +51,20 @@ for line in lines:
     if line == "FORMATIVE":
         break
 
-    if line == "" or any(x.isalpha() for x in line) == False or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
+    if line == "" or any(x.isalpha() for x in line) == False or (line.isupper() and all(x.isalpha() or x.isspace() for x in line)) or (line.isdigit() and len(line) == 1) or pg_num1.match(line) or pg_num2.match(line) or line.startswith("Oswaal"):
         if line != "CHAPTER" and line != "MAP WORK" and line != "QUICK REVIEW":  
             continue
-    line = re.sub(r'\([^)]*\)', '', line)
+    # Keeping round brackets for chemistry
+    # line = re.sub(r'\([^)]*\)', '', line)
     line = re.sub(r'\[[^)]*\]', '', line)
 
-    if mode == 0 and line.startswith("CHAPTER"):
+    if mode == 0 and line.startswith("TOPIC-"):
         mode = 1
         top_name = ""
 
     elif mode == 1:
-        if line == "Quick Review":  
-            top_name = top_name.strip()
-            top_name = top_name.replace(" ", "_")
-            rel_path = "8/" + top_name + "/"
-            if not os.path.exists(rel_path):
-                os.mkdir(rel_path)
-            # print(top_name)
-            top_name = ""
-        elif line.startswith(searchphrases[0]):
+        # if line.startswith("Quick Review"):
+        if line.startswith(searchphrases[0]):
             mode = 2
             q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
         elif line.startswith(searchphrases[1]):
@@ -85,9 +79,20 @@ for line in lines:
         elif line.startswith(searchphrases[4]):
             mode = 6
             q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
+        elif line.startswith(searchphrases[5]):
+            mode = 7
+            q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
         else:
             line = re.sub(r'[^\w\s]','',line).lower()
-            top_name += " " + line       
+            top_name += " " + line
+            continue
+        top_name = top_name.strip()
+        top_name = top_name.replace(" ", "_")
+        rel_path = "10/" + top_name + "/"
+        if not os.path.exists(rel_path):
+            os.mkdir(rel_path)
+        print(top_name)
+        top_name = ""
     
     elif mode >= 2:
         if q_search.match(line):
@@ -102,7 +107,7 @@ for line in lines:
             q = False
             a = True
             ans = line
-        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK" or line == "Formative Assessment":
+        elif "Question" in line or line.startswith("TOPIC-") or line == "CHAPTER" or line == "MAP WORK" or line == "Know the Links":
             if a:
                 a_list.append(ans)
             if mode == 2:
@@ -130,6 +135,11 @@ for line in lines:
                 df, n_q = create_dataframe(q_list, a_list)
                 qctr += n_q
                 df.to_csv(rel_path+"hots.csv")
+            elif mode == 7:
+                # if not os.path.exists(rel_path+"hots.csv"):
+                df, n_q = create_dataframe(q_list, a_list)
+                qctr += n_q
+                df.to_csv(rel_path+"pb.csv")
             prev_mode = mode
 
             if line.startswith("TOPIC-"):
@@ -138,7 +148,7 @@ for line in lines:
             elif line == "CHAPTER" or line == "":
                 mode = 0
                 top_name = ""
-            elif line == "MAP WORK" or line == "Formative Assessment":
+            elif line == "MAP WORK" or line == "Know the Links": # end of questions for topic
                 mode = 0
                 top_name = ""
             elif line.startswith(searchphrases[0]):
@@ -151,6 +161,8 @@ for line in lines:
                 mode = 5
             elif line.startswith(searchphrases[4]): # HOTS
                 mode = 6
+            elif line.startswith(searchphrases[5]): # Practical Based
+                mode = 7
             if mode != prev_mode:
                 q_list, a_list, qs, ans, q, a = [], [], "", "", False, False
             else:

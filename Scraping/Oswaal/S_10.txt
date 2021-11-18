@@ -9039,7 +9039,6 @@ Chemical Equation :
 → ZnO + CO2
 ZnCO3 
 
-whether a chemical reaction has taken place.
 [Board Term-I, Set-51, 2012]
 
 ½+½
@@ -9094,11 +9093,10 @@ Ans. Balanced Equation
 → Fe2O3(s) + SO2(g) + SO3(g)
 Short Answer Type Questions-I
 Q. 1. List four observations that help us to determine
+whether a chemical reaction has taken place.
 
 1
 
-
-→ Ca(OH)2 + Heat
 Ans. (i) Evolution of a gas
 (ii) Change in temperature
 
@@ -9116,164 +9114,7 @@ Oswaal CBSE Question Bank, SCIENCE, Class – 10
 ½
 (iv) Change in colour.
 ½
-		
-[CBSE Marking Scheme, 2012]
-Q. 2. (i) State the law which is followed in balancing
-a chemical equation.
-[DDE 2017]
-(ii) Balance the following chemical equation :
-
-Q. 6. A copper plate was dipped into a solution of
-
-silver nitrate. After sometime, a black layer was
-observed on the surface of copper plate. State
-the reason for it and write chemical equation of
-the reaction involved.
-[Board Term-I Set-OQKPLGV, 2016]
-
-Ans. Black layer was deposited due to coating of silver,
-→ Fe3O4 + H2		
-Fe + H2O 
-because copper being more reactive than silver,
-[Board Term-I, Set-49, 2012]
-displaced silver from silver nitrate solution.
-Ans. (i) Mass can neither be created nor destroyed in a
-2AgNO3(aq) + Cu → Cu (NO3)2(aq) + 2Ag(s) 2
-chemical reaction-Law of conservation of mass. 1
-		
-[CBSE Marking Scheme, 2016]
-Q. 7. When iron rod is kept dipped in copper
-→ Fe3O4 + 4H2
-(ii) 3Fe + 4H2O 
-1
-sulphate solution for some time, a brown
-		
-[CBSE Marking Scheme, 2012]
-coating is formed on the iron rod. What change
-Q. 3. Give one example of each :
-will be observed in the colour of the solution?
-(a) Chemical reaction showing evolution of gas.
-Also write chemical equation for the reaction
-(b) Change in substance’s colour during a chemical
-involved. [Board Term-I Set-2ZGOVVV, 2015]
-reaction.
-[DDE, 2017]
-Ans. Blue colour of the solution changes to light green.
-Ans. (a) Chemical reaction showing evolution of gas :
-Reddish brown deposit is formed on the iron nail.
-Zn + H2SO4 → ZnSO4 + H2 ↑
-→ FeSO4(aq) + Cu(s) 1 + 1
-Fe(s) + CuSO4(aq) 
-(b) Change in Substance’s colour during a chemical
-A
-Q.
-8.
-Balance
-the
-following
-chemical equations.
-reaction :
-(a)
-HNO
-+
-Ca(OH)
-→
-Ca(NO
-3
-2
-3)2 + H 2O
-2FeSO4 (s) Heat
-
-→ Fe2O3 (s) + SO2 (g) + SO3 (g)
-(b) NaOH + H2SO4 → Na2SO4 + H2O
-Ferrous Sulphate
-Ferric Oxide
-(c) NaCl + AgNO3 → AgCl + NaNO3
-(Green colour)
-(Red-brown colour)
-1+1
-(d) BaCl2 + H2SO4 → BaSO4 + HCl
-Q. 4. Translate the following statements into chemical
-[NCERT] [2017] [NCT 2014]
-equations and then balance them.
-Ans. (a) 2HNO3 + Ca(OH)2 → Ca(NO3)2 + 2H2O
-(a)
-Hydrogen gas combines with nitrogen to form
-(b) 2NaOH + H2SO4 → Na2SO4 + 2H2O
-ammonia.
-(c) NaCl + AgNO3 → AgCl + NaNO3
-(b)
-Hydrogen sulphide gas burns in air to give
-(d) BaCl2 + H2SO4 → BaSO4 + 2HCl
-water and sulpur dioxide.
-		
-½+½+½+½
-(c)
-Barium chloride reacts with aluminium
-Q. 9. When Hydrogen gas is passed over heated
-sulphate to give aluminium chloride and a
-copper (II) oxide, copper and steam are formed.
-precipitate of barium sulphate.
-Write the balanced chemical equation with
-(d)
-Potassium metal reacts with water to give
-physical states for this reaction. State what kind
-potassium hydroxide and hydrogen gas.
-of chemical reaction is this ?
-[NCERT]
-[Board Term-I Set - A85V2K, 2015]
-Ans. (a) 2N2 + 3H2 → 2NH3
-Heat
-(b) 2H2S + 3O2 → 2SO2 ↑ + 2H2O
-Ans. (i) CuO(s) + H2(g) → Cu(s) + H2O(g)
-(c) 3BaCl2 + Al2 (SO4)3 → 2AlCl3 + 3BaSO4
-(ii) Redox reaction.
-(b) 2K + 2H2O → 2KOH + H2 ↑
-½+½+½+½
-		
-[CBSE Marking Scheme, 2015] 1+1
-Q. 5. What is observed when carbon dioxide gas is
-Q. 10. Write the skeletal equation for the following
-passed through lime water.
-reactions :
-(i) For a short duration
-(i) Hydrogen sulphide reacts with sulphur dioxide to
-form sulphur and water.
-[NCERT Exemplar]
-(ii) For long duration ? Also write the chemical
-equations for the reaction involved.
-(ii) Methane on burning combines with oxygen to
-produce carbon dioxide and water.
-[Board Term I, Set-L7ZSVLH, 2016]
-What is the need of balance equations ?
-Ans. (i) For short duration : Limewater turns milky due
-[Board Term-I Set-36, 2012]
-to formation of CaCO , Which is insoluble in water.
-3
-
-Ca(OH)2(aq) + CO2(g) → CaCO3(s) + H2O(l)
-Lime water
-White ppt.
-(ii) For Long duration : A clear solution is obtained due
-to formation of calcium bicarbonate. Ca (HCO3)2
-which is soluble in water
-CaCO3(s) + H2O(l) + CO2(g) → Ca(HCO3)2(aq)
-		
-[CBSE Marking Scheme, 2016] 1 + 1
-
-→ 6S + 4H2O
-Ans. (i) 4H2S + 2SO2 
-
-½
-
-→ CO2 + 2H2O
-(ii) CH4 + 2O2 
-½
-To obey the law of conservation of mass; so that
-the number of atoms of each element before and
-after the reaction remain the same.
-1
-		
+			
 [CBSE Marking Scheme, 2012]
 
 [ 7
@@ -9930,6 +9771,21 @@ reaction, merely by its chemical equation.
 → Fe3O4 + H2
 (i) Fe + H2O 
 
+
+→ C6H12O6 + O2
+(ii) CO2 + H2O 
+Ans. (a) Three observations which determine that a
+chemical reaction has taken place are :
+(i) Change in state and colour.
+(ii) Evolution of gas.
+(iii) Change in temperature.
+Three informations that cannot be obtained about a
+chemical reaction, merely by its chemical equation
+are :
+		(i) The state of a matter of the reactants and
+products.
+		(ii) Amount of heat evolved or absorbed in a
+reaction.
 		(iii) The change of colour after the chemical
 reaction.
 (b) Balanced chemical equations :
@@ -9953,21 +9809,6 @@ Ans. (i) With dilute H2SO4 : H2 gas is evolved.
 → ZnSO4 + H2 ­↑
 Zn + H2SO4 
 (ii) With dilute HCl : H2 gas is evolved.
-
-→ C6H12O6 + O2
-(ii) CO2 + H2O 
-Ans. (a) Three observations which determine that a
-chemical reaction has taken place are :
-(i) Change in state and colour.
-(ii) Evolution of gas.
-(iii) Change in temperature.
-Three informations that cannot be obtained about a
-chemical reaction, merely by its chemical equation
-are :
-		(i) The state of a matter of the reactants and
-products.
-		(ii) Amount of heat evolved or absorbed in a
-reaction.
 
 → ZnCl2 + H2 ­↑
 Zn + HCl 
@@ -10069,49 +9910,21 @@ shine due to corrosion because a green coating is
 deposited on Copper.
 1
 
-Q. 13. Write a balanced chemical equation for a
-
-chemical combination reaction.
-[Board Term-I Set-13, 2011]
-
 Q. 8. A shiny brown coloured element ‘X’ on heating
-
-→ 2CO2(g)
-Ans. 2CO(g) + O2(g) 
-(Carbon
-(Oxygen)
-(Carbon dioxide)
-monoxide)
-1
-Q. 14. Identify the substance that is oxidized and
-substance that is reduced in the reaction.
-
-Ans. Element ‘X’ is Copper and the black coloured
-compound is Cupric oxide Cu2O.
-½+½
-
-→ Cu(s) + H2O(l)
-CuO(s) + H2(g) 
-[NCT-2014]
-Reduction
-
 in air becomes black in colour. Name the
 element ‘X’ and the black coloured compound
 formed.
 [KVS 2017][NCERT 2017]
+
+Ans. Element ‘X’ is Copper and the black coloured
+compound is Cupric oxide Cu2O.
+½+½
 
 Q. 9. N2 + 3H2 
 → 2NH3, name the type of
 
 reaction.
 
-Ans.
-
-[Board Term-I Set-A2, 2010]
-
-
-
-CuO + H2
 
 [DDE, 2017]
 Ans. It is a combination reaction.
@@ -10151,12 +9964,6 @@ the given reaction, as it removes oxygen from Fe2O3
 and causes its reduction.
 1
 
-Cu + H2O
-
-Oxidation
-Substance reduced = CuO
-Substance oxidised = H2
-½+½
 Q. 15. Write a chemical equation of double
 displacement reaction.
 [DDE, 2017]
@@ -10515,6 +10322,14 @@ balanced chemical equation for the reaction
 stating the states of the reactants and the
 products formed.
 [Board Term-I Set-WJ7QPA9, 2013 (NCERT)]
+Ans. On mixing the clear solution of two ionic
+compounds, a substance which is insoluble in water,
+is formed. This insoluble substance is known as a
+precipitate and the reaction in which precipitate is
+formed is called precipitation reaction.
+Example : When sodium sulphate solution is mixed
+with barium chloride solution, a white precipitate
+of a substance (BaSO4) is formed.
 
 → BaSO4(↓) + 2NaCl(aq)
 Na2SO4(aq) + BaCl2(aq) 
@@ -10554,14 +10369,6 @@ of unpleasant smell and taste in fat and oil
 containing food due to oxidation. What are antioxidants ? Why are they added to fat and oil
 containing food.
 
-Ans. On mixing the clear solution of two ionic
-compounds, a substance which is insoluble in water,
-is formed. This insoluble substance is known as a
-precipitate and the reaction in which precipitate is
-formed is called precipitation reaction.
-Example : When sodium sulphate solution is mixed
-with barium chloride solution, a white precipitate
-of a substance (BaSO4) is formed.
 
 1+1
 
@@ -10643,6 +10450,28 @@ Sunlight
 (ii) 2AgCl(s)
 → 2Ag(s) + Cl2(g)
 
+(Silver chloride)
+(Silver) (Chlorine)
+Electric current
+(iii) 2H2O(l)
+→ 2H2(g) + O2(g)
+(Water)
+(Hydrogen) (Oxygen)
+		
+1+1+1
+Q. 9. Write balanced equation for the following
+reactions and also name the type of chemical
+reaction in each case :
+(i) Magnesium ribbon is burnt in air.
+(ii) Lime stone is heated.
+[Board Term-I 2015]
+
+→ 2MgO
+Ans. (i) 2Mg + O2 
+→ Mg(OH)2
+MgO + H2O 
+Oxidation reaction/Combination reaction
+
 → CaO(s) + CO2(g)
 (ii) CaCO3(s) 
 (Lime stone)
@@ -10706,28 +10535,6 @@ and a decomposition reaction. Write one
 chemical equation each for these reactions.
 [Board Term-I Set-42, 2012]
 
-(Silver chloride)
-(Silver) (Chlorine)
-Electric current
-(iii) 2H2O(l)
-→ 2H2(g) + O2(g)
-(Water)
-(Hydrogen) (Oxygen)
-		
-1+1+1
-Q. 9. Write balanced equation for the following
-reactions and also name the type of chemical
-reaction in each case :
-(i) Magnesium ribbon is burnt in air.
-(ii) Lime stone is heated.
-[Board Term-I 2015]
-
-→ 2MgO
-Ans. (i) 2Mg + O2 
-→ Mg(OH)2
-MgO + H2O 
-Oxidation reaction/Combination reaction
-
 1+1+1
 
 Ans. The chemical reaction in which a single product is
@@ -10761,16 +10568,6 @@ Q. 14. The following diagram displays a chemical
 reaction. Observe carefully and answer the
 following questions :
 
-(ii) Corrosion of iron is a serious problem. Every
-year large amount of money is spent to replace
-damaged iron and steel structures. Here, corrosion
-is a serious problem.
-3
-		
-
-[CBSE Marking Scheme, 2016]
-
-Q. 17. In the electrolysis of water :
 
 Silver chloride
 
@@ -10831,6 +10628,16 @@ Ans. Gold and platinum.
 layer of aluminium oxide is formed on the surface
 of the metal which renders the metal passive and
 prevents is further corrosion.
+(ii) Corrosion of iron is a serious problem. Every
+year large amount of money is spent to replace
+damaged iron and steel structures. Here, corrosion
+is a serious problem.
+3
+		
+
+[CBSE Marking Scheme, 2016]
+
+Q. 17. In the electrolysis of water :
 
 (i) Name the gas collected at the cathode and anode
 respectively.
@@ -10992,6 +10799,18 @@ CaCO ∆
 1½
 → CaO + CO
 3
+		
+[CBSE Marking Scheme, 2012]
+Q. 24. (i) Give an example for a combination reaction
+which is exothermic.
+(ii) Identify the oxidising agent, reducing agent in the
+following reaction :
+→ 2HCl + S
+H2S + Cl2 
+(iii) Name the phenomenon due to which the taste and
+smell of oily food changes when kept for a long
+time in open. Suggest one method to prevent it.
+[Board Term-I Set (15), 2012]
 
 Ans. (i) Any suitable exothermic reaction like
 → Ca(OH)2 + heat
@@ -11037,18 +10856,6 @@ corrosion of iron ?
 
 2
 
-		
-[CBSE Marking Scheme, 2012]
-Q. 24. (i) Give an example for a combination reaction
-which is exothermic.
-(ii) Identify the oxidising agent, reducing agent in the
-following reaction :
-→ 2HCl + S
-H2S + Cl2 
-(iii) Name the phenomenon due to which the taste and
-smell of oily food changes when kept for a long
-time in open. Suggest one method to prevent it.
-[Board Term-I Set (15), 2012]
 
 (5 marks each)
 
@@ -11548,105 +11355,6 @@ foods.
 (iii) Chips are packed in packets flushed with nitrogen
 to prevent spoilage by oxidation.
 1
-
-Practical Based Questions
-Experiment 1 :
-		
-		
-		
-		
-		
-		
-		
-		
-
-To perform and observe the following reactions and classifying them into :
-(a) Combination reaction
-(b) Decomposition reaction
-(c) Displacement reaction
-(d) Double displacement reaction
-(i) Action of water on quick lime
-(ii) Action of heat on ferrous sulphate crystals
-(iii) Iron nails kept in copper sulphate solution
-(iv) Reaction between sodium sulphate and barium chloride solutions
-
-Q. 1. You want to study a decomposition reaction by
-taking ferrous sulphate crystals in a boiling tube.
-List two precautions you would follow while
-doing the experiment.
-[Board Term-I Set-WDCXXOV, 2016]
-Ans. (i) Take a dry boiling tube.
-(ii) Keep mouth of test-tube away from yourself. 1 + 1
-		
-[CBSE Marking Scheme, 2016]
-Q. 2. While studying a type of reactions, Neena mixed
-the substances as shown below :
-
-Ans. (i) Copper is displaced by iron.
-(ii) It is a displacement reaction.
-1+1
-		
-[CBSE Marking Scheme, 2016]
-Q. 4. Observe the following figures A and B.
-
-Iron
-nail
-Copper sulphate
-solution
-
-Ferrous sulphate
-crystals
-
-State the change in substances taken is test-tubes
-A and B. Mention the type of reaction in each case.
-[Board Term-I Set-1ZHNPNO, 2016]
-
-(i) Has Neena observed the occurrence of reaction ? If
-not why ?
-(ii) What kind of reaction she wanted to study ?
-[Board Term-I Set-L7ZSVLH, 2016]
-Ans. (i) No, the substances should be taken in solution
-form.
-(ii) Double displacement reaction.
-1+1
-		
-[CBSE Marking Scheme, 2016]
-Q. 3. On keeping iron nails in blue coloured copper
-sulphate solution, it is observed that the colour
-of the solution turns light green after some time.
-Give reason for this colour change. Name the type
-of this reaction.
-[Board Term-I Set-OQKPLGV, 2016]
-
-Ans. In A, green colour of solution fades away and
-brown red deposition on iron nail occursdisplacement reaction.
-In B, a reddish brown substance is left in the testtube-decomposition reaction.
-1+1
-		
-[CBSE Marking Scheme, 2016]
-Q. 5. While performing an experiment a student
-observes that when he heats some green crystals
-in a boiling tube, the colour of the crystals changes
-to brown and a gas evolves which smells like
-burning sulphur. Interpret the observations and
-results.		
-[Board Term-I Set-NS9SX1D, 2016]
-Ans. Observation : The green colour of ferrous sulphate
-crystals changes to brownish black ferric oxide and
-smell of burning sulphur is observed.
-Result : Heating of ferrous sulphate is a thermal
-decomposition reaction because ferrous sulphate
-breaks down into simpler compounds—Fe2O3, SO2
-and SO3.
-Heat
-→ Fe2O3(s) + SO2(g) + SO3(g)
-2FeSO4(s) 
-
-1+1
-
-22 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Q. 6. Fill up the gaps left in the following table :
 Experiment
@@ -12285,14 +11993,16 @@ why ?
 Ans. The fruit may be a citrus fruit or its juice may contain
 an acid, that is why the traces of acid remained in
 the knife that turned the blue litmus red.
+
+Q. 17. Hold one moist and one dry strip of blue litmus
+paper over dry HCl acid gas. Which strip will
+turn red and why ?
+[DDE 2017]
+Ans. Dry strip of litmus and dry HCl do not contain any
+water so do not get ionize, but in the presence of a
+drop of water, HCl is ionized and release proton,
+that turns blue litmus to red.
 2
-Q. 16. Write chemical equations that shows aluminium
-oxide reacts with acid as well as base.
-[Board Term-I Set-31, 2011]
-
-→ 2AlCl3 + 3H2O
-Ans. (i) Al2O3 + 6HCl 
-
 Q. 18. A student prepared solutions of (i) an acid
 
 and (ii) a base in two separate beakers. She
@@ -12350,18 +12060,6 @@ correct source given in column (B)
 
 1
 
-→ 2NaAlO2 + H2O
-(ii) Al2O3 + 2NaOH 
-1
-Q. 17. Hold one moist and one dry strip of blue litmus
-paper over dry HCl acid gas. Which strip will
-turn red and why ?
-[DDE 2017]
-Ans. Dry strip of litmus and dry HCl do not contain any
-water so do not get ionize, but in the presence of a
-drop of water, HCl is ionized and release proton,
-that turns blue litmus to red.
-2
 
 Column (A)
 (a)
@@ -12428,41 +12126,7 @@ acids which when accidentally fall on marble will
 react with the marble causing discoloration etc. 2
 
 Short Answer Type Questions-II
-
-(3 marks each)
-
-in water, it is known as alkali.
-bases alkalis ?
-[DDE 2017]
-Alkali as well as base neutralises acid, as alkali
-produce OH– ions in the water whereas bases such
-Ans. Bases are substances that react with acids and
-as copper oxide and ferrous do not produce OH–
-neutralises them. They are usually metal oxides,
-ions.
-All alkali are bases but not all bases are alkali.
-metal hydroxides, metal carbonates or metal
-hydrogen carbonates. Many bases are insoluble,
-		
-2+1
-they do not dissolve in water. If a base does dissolve
-Q. 2. Indicate with the help of a diagram the variation of pH with change in concentration of H+ (aq) and OH–
-(aq) ions.
-
-[DDE 2017]
-Neutral
-Ans.
-Acidic nature increasing
-Basic nature increasing
-7
-0
-14
-Q. 1. How are bases different from alkalis ? Are all
-
-+
-
-Increase in H ion concentration
-		
+	
 Q. 3. When zinc metal is treated with a dilute
 solution of a strong acid, a gas is evolved, which
 is utilised in the hydrogenation of oil. Name the
@@ -12730,18 +12394,6 @@ and wet blue litmus paper.
 (iii) Show the formation of ions when HCl gas
 combines with water. [Board Term-I Set-48, 2012]
 
-Dil. HCl contains ions so the flow of ions is
-responsible for the flow of current.
-(iii) After replacement, bulb glows in B as NaOH
-solution contains ions (Na+ and OH– ions).
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 16. A metal is treated with dilute sulphuric acid.
-The gas evolved is collected by the method
-shown in the figure :
-[Board Term-I Set-NS9SX1D, Set-51, 2012]
-
 Ans. (i) Solid sodium chloride and conc. sulphuric acid.1
 (ii) Dry litmus — no change
 ½
@@ -12799,6 +12451,18 @@ Ans. (i) Bulb A and B do not glow but bulb C glows. 1
 (ii) Glucose and alcohol solutions do not conduct
 electricity as they do not have ions.
 1
+
+Dil. HCl contains ions so the flow of ions is
+responsible for the flow of current.
+(iii) After replacement, bulb glows in B as NaOH
+solution contains ions (Na+ and OH– ions).
+1
+		
+[CBSE Marking Scheme, 2012]
+Q. 16. A metal is treated with dilute sulphuric acid.
+The gas evolved is collected by the method
+shown in the figure :
+[Board Term-I Set-NS9SX1D, Set-51, 2012]
 
 (i) Name the gas.
 (ii) Is the gas soluble or insoluble in water ?
@@ -12860,130 +12524,13 @@ sodium hydroxide to aqueous solution of :
 Give balanced chemical equations.
 [Board Term-I Set-1ZHNPNO, 2016]
 
-Ans. (a) (i) No change in colour.
-(ii) Red litmus turns blue.
-1
-(b) (i) 2NaOH(aq) + FeSO4(aq) → Fe(OH)2(s) +
-		 Sodium
-Ferrous
-Ferrous
-		
-hydroxide
-sulphate
-sulphate
-Na2SO4(aq)
-Sodium sulphate
-
-Observation :
-(ii) dirty gelatinous green precipitate of Fe(OH)2
-will be formed.
-(ii) 3NaOH(aq) + AlCl3(aq) → Al(OH)3(s)
-		 Sodium
-Aluminium
-Aluminium
-hydroxide
-
-chloride
-
-hydroxide
-
-+ NaCl(aq)
-
-Sodium chloride
-
-Observation :
-(ii) White precipitate of Al(OH)3 will be formed.
-		
-[CBSE Marking Scheme, 2016] 1 + 1
-Q. 19. Draw a neat and labelled diagram to show the following activity :
-Action of dilute sulphuric acid on zinc granules.	
-[NCERT Exemplar]
-(i) Name the gas evolved.
-(ii) How will you test for the gas ?		
-[Board Term-I Set-WDCXXOV, 2016]
-Ans.
-Stand
-
-Delivery tube
-
-Test-tube
-Dilute
-sulphuric
-acid
-Zinc granules
-
-Burning of hydrogen
-gas with a pop sound
-Hydrogen
-gas
-bubbles
-
-Soap bubble filled
-with hydrogen
-Soap solution
-
-(i) The gas evolved is hydrogen.
-(ii) Zn(s) + H2SO4(aq) → ZnSO4(aq) + H2↑
-Test for H2 gas : The presence of H2 gas can be tested by passing the gas through soap solution and then bringing
-a burning splinter near the soap bubbles filled with the gas. If the gas burns with a pop sound, it is hydrogen.
-1+2
-(i) What is the colour before and after heating ?
-Q. 20. In the following schematic diagram for the
-(ii) What is the reason for the colour change ?
-preparation of hydrogen gas as shown in figure,
-(iii) Can its original colour be restored ? How ?
-what would happen if following changes are
-[Board Term-I Set (45), 2012]
-made ?
-(i) In place of zinc granules, same amount of zinc dust
-Ans. (i) Blue and white respectively.
-1
-is taken in the test-tube.
-(ii) Water of crystallization is lost on heating.
-1
-(ii) Instead of dilute sulphuric acid, dilute hydrochloric
-(iii) Yes, by adding water.
-1
-acid is taken.
-		
-[CBSE Marking Scheme, 2012]
-(iii) Sodium hydroxide is taken in place of dilute
-Q. 22. While eating food, you happen to spill some
-sulphuric acid and the test-tube is heated.
-curry on your white shirt. You immediately
-		
-[Board Term-I Set (B1), 2010]
-scrub it with soap. What happens to its yellow
-Ans. For Diagram See Topic 1 S.A.T.Q. II Q. no. 16
-colour on scrubbing with soap ? Why ? What
-(i) Hydrogen gas will evolve with greater speed.
-happens to this stain when the shirt is washed
-(ii) Almost same amount of gas is evolved.
-with plenty of water ?
-(iii) If sodium hydroxide is taken, hydrogen gas will be
-Ans. The colour changes from yellow to reddish brown.1
-evolved only on heating.
-Soap is basic in nature and the colour of turmeric
-→ Na2ZnO2 + H2
-Zn + 2NaOH 
-changes from yellow to reddish brown in basic
-Sodium Zincate
-1×3
-medium. The stain turns yellow again.
-2
-Q. 21. A few crystals of copper sulphate are heated in
 Q. 23. After drinking excess of cold drink, a person
-B / F dry boiling tube :
 suffered from acidity. Explain.
 
 [ 33
 
 ACIDS, BASES AND SALTS
 
-dissolved in water forms a weak acid, carbonic
-acid. Consumption of excess of cold drink causes
-accumulation of carbonic acid in the stomach which
-is responsible for the development of acidity.
 3
 
 Ans. Cold drinks contain carbon dioxide dissolved in
@@ -12991,6 +12538,10 @@ them under pressure. Some amount of the gas
 escapes when a bottle of cold drink is opened while
 a portion of it remains dissolved. Carbon dioxide
 
+dissolved in water forms a weak acid, carbonic
+acid. Consumption of excess of cold drink causes
+accumulation of carbonic acid in the stomach which
+is responsible for the development of acidity.
 Long Answer Type Questions
 Q. 1. (i) Define pH scale. Draw a figure showing
 
@@ -13018,27 +12569,6 @@ Acidic nature increasing
 Basic nature increasing 14
 
 (5 marks each)
-
-(iii) You have four solutions A, B, C and D. The pH of
-solution A is 6, B is 9, C is 12 and D is 7,
-		
-(a) Identify the most acidic and most basic
-solutions.
-		(b) Arrange the above four solutions in the
-increasing order of H+ ion concentration.
-		(c) State the change in colour of pH paper on
-dipping in solution C and D.		
-[Board Term-I Set (31), 2012]
-Ans. (i) HCl will give rise to more H+ ions and
-CH3COOH produces less H+ ions on dissociation.
-The colour of pH paper depends on the
-concentration of H+ ion. Colour becomes red for
-high H+ concentration.
-1
-(ii) Aqueous solution of acids have H+ ions which
-carry electric current through the solution.
-1
-(iii) (a) Most acidic — A, Most basic — C
 
 Increasing in H+ ion
 concentration
@@ -13081,6 +12611,27 @@ acid and acetic acid, a weak acid. How can it be
 verified ?
 (ii) Explain why aqueous solution of an acid conducts
 electricity.
+
+(iii) You have four solutions A, B, C and D. The pH of
+solution A is 6, B is 9, C is 12 and D is 7,
+		
+(a) Identify the most acidic and most basic
+solutions.
+		(b) Arrange the above four solutions in the
+increasing order of H+ ion concentration.
+		(c) State the change in colour of pH paper on
+dipping in solution C and D.		
+[Board Term-I Set (31), 2012]
+Ans. (i) HCl will give rise to more H+ ions and
+CH3COOH produces less H+ ions on dissociation.
+The colour of pH paper depends on the
+concentration of H+ ion. Colour becomes red for
+high H+ concentration.
+1
+(ii) Aqueous solution of acids have H+ ions which
+carry electric current through the solution.
+1
+(iii) (a) Most acidic — A, Most basic — C
 
 ½+½
 
@@ -13146,6 +12697,47 @@ to prevent it ?
 (v) How do [H+] ions exist in water ?
 [Board Term-I 2016 Set-OQKPLGV]
 
+Ans. (i) If H+ ion concentration is more, pH will be
+less and vice versa or pH of a solution is inversely
+proportional to H+ ion concentration or pH = –log
+(H+).
+(ii) This solution is neutral.
+(iii) 1M NaOH solution.
+(iv) When the pH in the mouth is below 5.5, bacteria
+present in the mouth produce acids by degradation
+of sugar and corrode the tooth enamel. It can
+be prevented by using tooth pastes which are
+generally basic.
+(v) As hydronium [H3O]+ ion.
+		
+[CBSE Marking Scheme, 2016] 5
+Q. 6. (i) Acids as well as bases ionize in water. Name
+the ions produced by each in water.
+(ii) If we have hydrochloric acid and acetic acid of
+equal concentration, which will be a stronger acid
+and why ?
+(iii) How will the concentration of hydrogen ions gets
+affected if an acid is diluted ?
+[Board Term-I Set-WJ7QPA9, 2013]
+Ans. (i) H+/H3O+ and OH– respectively.
+(ii) Hydrochloric acid will be a stronger acid, because it
+produces more H+ ions.
+(iii) Concentration of H+ decreases with increase in
+dilution.
+2+2+1
+Q. 7. (i) Bee-sting leaves a chemical substance that
+causes pain and irritation. Name the chemical
+substance. Identify the type of substance which
+may give relief on the sting area when applied
+on it.
+(ii) Mention the pH value below which tooth decay
+begins. How this fall below this value ? Explain
+the ill effect of the acidic medium in the mouth.
+How can this be prevented ?
+(iii) What are strong acids and weak acids ? Give an
+example of each.
+[Board Term-I Set-36, 2012]
+
 Ans. (i) Methanoic acid (HCOOH). Use of Baking soda
 can give relief on the stung area when applied on
 it.
@@ -13193,47 +12785,6 @@ calcium carbonate.
 (ii) 6 Volt battery
 Bulb
 ()
-
-Ans. (i) If H+ ion concentration is more, pH will be
-less and vice versa or pH of a solution is inversely
-proportional to H+ ion concentration or pH = –log
-(H+).
-(ii) This solution is neutral.
-(iii) 1M NaOH solution.
-(iv) When the pH in the mouth is below 5.5, bacteria
-present in the mouth produce acids by degradation
-of sugar and corrode the tooth enamel. It can
-be prevented by using tooth pastes which are
-generally basic.
-(v) As hydronium [H3O]+ ion.
-		
-[CBSE Marking Scheme, 2016] 5
-Q. 6. (i) Acids as well as bases ionize in water. Name
-the ions produced by each in water.
-(ii) If we have hydrochloric acid and acetic acid of
-equal concentration, which will be a stronger acid
-and why ?
-(iii) How will the concentration of hydrogen ions gets
-affected if an acid is diluted ?
-[Board Term-I Set-WJ7QPA9, 2013]
-Ans. (i) H+/H3O+ and OH– respectively.
-(ii) Hydrochloric acid will be a stronger acid, because it
-produces more H+ ions.
-(iii) Concentration of H+ decreases with increase in
-dilution.
-2+2+1
-Q. 7. (i) Bee-sting leaves a chemical substance that
-causes pain and irritation. Name the chemical
-substance. Identify the type of substance which
-may give relief on the sting area when applied
-on it.
-(ii) Mention the pH value below which tooth decay
-begins. How this fall below this value ? Explain
-the ill effect of the acidic medium in the mouth.
-How can this be prevented ?
-(iii) What are strong acids and weak acids ? Give an
-example of each.
-[Board Term-I Set-36, 2012]
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
@@ -13471,6 +13022,7 @@ CaOCl2 ?
 [NCERT Exemplar]
 
 Ans. Bleaching powder.
+Q. 8. What would be the colour of litmus in a solution
 
 of sodium carbonate ?
 [Board Term-I Set (C2), 2010]
@@ -13542,7 +13094,6 @@ Uses of Baking Soda :
 
 1
 
-Q. 8. What would be the colour of litmus in a solution
 
 (Gypsum)
 
@@ -13647,37 +13198,7 @@ Ans. CuSO4 + Fe 
 1
 (Blue)
 (Green)
-Iron is more reactive than copper. Hence it displaces
-copper from copper sulphate and due to formation
-of FeSO4, the colour changes from blue to green. 1
-Q. 16. A green coloured hydrated metallic salt on
-heating loses its water of crystallisation and
-gives the smell of burning sulphur. Identify the
-salt and write down the reaction involved.
-[Board Term-I Set (B1), 2011, 2010]
-Ans. Green vitriol : FeSO4.7H2O
 1
-∆
-2FeSO (s) → Fe O (s) + SO (g) + SO (g)
-1
-
-1+1
-
-does this colour change upon heating ? Give
-balanced chemical equation for the changes.
-[Board Term-I Set (29), 2011 Set (B1), 2010]
-Ans. FeSO4.7H2O is green in colour and loses water of
-crystallisation when it is heated.
-It is then decomposed to Fe2O3 (brown coloured),
-SO2 and SO3.
-1
-∆
-FeSO .7H O → FeSO + 7H O
-½
-
-(Gypsum)
-
-(Plaster of Paris)
 
 Q. 11. State the chemical name of Plaster of Paris.
 
@@ -13732,32 +13253,21 @@ is neutral while sodium carbonate when dissolves
 in water forms an alkaline solution which turns red
 litmus blue. It shows that its aqueous solution is
 basic in nature.
-2
-Q. 15. The colour of copper sulphate solution changes
-when an iron nail is dipped in it. State the
-reason giving chemical equation for the reaction
-involved.
-[Board Term-I Set-14, 2011]
-
-4
 
 2
-
-3
-
-2
-
-3
-
 Q. 17. What is the colour of FeSO4.7H2O crystals ? How
+does this colour change upon heating ? Give
+balanced chemical equation for the changes.
+[Board Term-I Set (29), 2011 Set (B1), 2010]
+Ans. FeSO4.7H2O is green in colour and loses water of
+crystallisation when it is heated.
+It is then decomposed to Fe2O3 (brown coloured),
+SO2 and SO3.
+1
+∆
+FeSO .7H O → FeSO + 7H O
+½
 
-4
-
-2
-
-4
-
-2
 
 2FeSO4(s) ∆
 → Fe2O3(s) + SO2(g) + SO3(g)
@@ -14359,7 +13869,11 @@ of aqueous solution of sodium chloride (called
 brine) and the process is called chlor-alkali.
 Products obtained during this process are chlorine
 and hydrogen.
-
+Q. 4. (i) Identify the acid and the base whose
+combination forms the common salt that you
+use in your food. Write its formula and chemical
+name of this salt. Name the source from where it
+is obtained.
 Ans. (i) Hydrochloric acid and sodium hydroxide.
 → NaCl + H2O
 NaOH + HCl 
@@ -14407,51 +13921,9 @@ obtained, its recrystallisation gives washing soda.1
 → Na2CO3.10H2O
 Na2CO3 + 10H2O 
 ½
-		
 [CBSE Marking Scheme, 2012]
-Q. 6. (i) Write the chemical name and chemical
-formula of washing soda.
-(ii) How is it obtained from sodium chloride ? Give
-equations of the reaction.
-(iii) Why is it called a basic salt ? Give its any one use.
-[Board Term-I 2012]
 
-Ans. (i) Chemical name — Sodium carbonate
-decahydrate
-Electric
-Formula — Na2CO3.10H2O
-½+½
-Current
-2NaCl(aq )+2H 2O(l ) 
-→ 2NaOH(aq ) + Cl 2 (g ) + H2 (g )
-→ NH4Cl +
-(ii) NaCl + H2O + CO2 + NH3 
-(at cathode) (at anode) (at anode)
-Electric
-NaHCO3.
-Current
-2NaCl(aq )+2H 2O(l ) 
-→ 2NaOH(aq ) + Cl 2 (g ) + H2 (g )
-∆
-2NaHCO3 → Na2CO3 + CO2↑+ H2O
-(at cathode) (at anode) (at anode) 5
-→ Na2CO3.10H2O
-Na2CO3 + 10H2O 
-2
-Q. 4. (i) Identify the acid and the base whose
-(iii) It is a basic salt because when dissolved in water, it
-combination forms the common salt that you
-gives a strong base NaOH.
-use in your food. Write its formula and chemical
-It
-is used as a cleaning agent, in paper and glass
-name of this salt. Name the source from where it
-industry.
-[CBSE Marking Scheme, 2012] 2
-is obtained.
-U
-Q.
-7.
+Q. 7.
 Write
 the
 chemical
@@ -14470,9 +13942,6 @@ freedom ? [Board Term-I Set WH1SGOB, 2014]
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-both Na2CO3.10H2O and Na2CO3. Also list two
-uses of Na2CO3.10H2O.
-[Board Term-I Set (38), 2012]
 
 Ans. Sodium chloride NaCl.
 Common salt from sea water and Rock salt.
@@ -14502,15 +13971,9 @@ and Na2CO3. Write the significance of 10H2O.
 Mention the term used for water molecules
 attached with a salt. With the help of a chemical
 equation, explain the method of preparation of
-Q. 9. (a) Study the following chemical equation :
-1
-3
-373 K
-CaSO4.2H2O 
-→ CaSO4. H2O + H2O
-2
-2
-
+both Na2CO3.10H2O and Na2CO3. Also list two
+uses of Na2CO3.10H2O.
+[Board Term-I Set (38), 2012]
 Ans. Na2CO3.10H2O — Sodium carbonate decahydrate.
 Na2CO3 — Anhydrous sodium carbonate.
 
@@ -14539,6 +14002,15 @@ Uses :
 purpose.
 (Any two) 1
 		
+Q. 9. (a) Study the following chemical equation :
+1
+3
+373 K
+CaSO4.2H2O 
+→ CaSO4. H2O + H2O
+2
+2
+
 [CBSE Marking Scheme, 2012]
 
 Name the reactant and the product and mention one use of the product.
@@ -15865,137 +15337,6 @@ and electricity.
 Non-metals are poor conductors
 of heat and electricity.
 
-1+1
-Q. 12.
-
-Why calcium is found in the form of
-compound ?
-
-(ii) In spite of being highly reactive, aluminium is still
-used for making utensils.
-
-Ans. Although calcium is the fifth most abundant
-element in the earth’s crust, it is never found free in
-nature since it easily forms compounds by reacting
-with oxygen and water.
-2
-
-[Board Term-I Set (44) 2012]
-Ans. (i) Sodium is a highly reactive metal. It can catch
-fire if kept in open. Hence to protect it and prevent
-accidental fire, it is stored under kerosene oil.
-
-Q. 13. Generally, when metals are treated with
-
-(ii) Due to high reactivity of aluminium, a thin layer
-of aluminium oxide is formed on it. This protective
-layer of aluminium oxide prevents the metal from
-further corrosion. Hence, aluminium can be used
-for making utensils. This process is anodising. 1+1
-
-mineral acids, hydrogen gas is liberated but
-when metals (except Mn and Mg), treated with
-HNO3, hydrogen is not liberated, why ?
-[NCERT Exemplar 2017]
-
-Ans. When metals are treated with mineral acids,
-hydrogen gas is liberated but when metals treated
-with HNO3, hydrogen is not liberated because
-HNO3 is strong oxidising agent so it oxidises
-hydrogen to water.
-2
-Q. 14.
-
-A metal M does not liberate hydrogen from
-acids but reacts with oxygen to give a black
-colour product. Identify M and black coloured
-product and also explain the reaction of M with
-oxygen.
-
-Q. 18. Give reasons for the following :
-
-(i) School bells are made up of metals.
-(ii) Electrical wires are made up of copper.
-
-
-[Board Term-I Set (47) 2012]
-Ans. (i) Metals are sonorous.
-(ii) Copper is a very good conductor of electricity.
-
-state. It is largely used in thermometers to
-measure the temperature. But mercury is a very
-dangerous metal as its density is very high.
-What two precautions you would take while
-handling the equipment containing mercury ?
-
-2Cu + O2 —→ 2CuO
-1+1
-
-Ans. Equipment containing mercury should be handled
-carefully.
-1
-
-Q. 15. Explain why calcium metal after reacting with
-
-water starts floating on its surface. Write the
-chemical equation for the reaction.
-[Board Term-I Set (40) 2012]
-
-Ans. Calcium starts floating because the bubbles of
-hydrogen gas formed sticks to the surface of the
-metal.
-1
-
-→ Ca(OH)2 + H2
-Ca + 2H2O 
-
-If broken or discarded, their disposal should be
-done carefully.
-1
-Q. 20.
-
-Q. 16. Give reasons for the following :
-
-Metals that are bad conductors of heat — Lead and
-Mercury.
-
-(i) Metals are good conductors of electricity whereas
-non-metals are not.
-
-Ans. (i) Metals have free electrons to move so they
-conduct electricity.
-(ii) A considerable amount of energy is required to
-break the strong inter-ionic attraction.
-1+1
-Q. 17. Give reason :
-
-(i) Sodium metal is stored under kerosene oil.
-
-Give two examples each of the metals that are
-good conductors and poor conductors of heat
-respectively.
-[NCERT Exemplar 2017]
-
-Ans. Metals that are good conductor of heat — Silver
-and Copper
-
-1
-
-(ii) Ionic compounds have usually high melting and
-boiling points.
-[Board Term-I Set (36) 2012]
-
-1
-
-Q. 19. Mercury is the only metal found in the liquid
-
-Ans. Cu does not liberate hydrogen from acids but reacts
-with oxygen to give black copper oxide.
-Copper Oxide (black)
-
-1
-
-1+1
 Q. 21. Why are aluminium and copper metals used for
 
 making cooking vessels ?
@@ -16013,6 +15354,27 @@ of heat and they have high melting points.
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Short Answer Type Questions-II
+Q. 1. (a) Why Cesium and Gallium melt in our palm ?
+
+(b)
+
+Why Magnesium ribbon starts floating in hot
+water ?
+[DDE 2017]
+Ans. (a) Some metals are more like liquids. A chip of gallium
+or caesium melts on our palm because the melting
+point of these metals is just below thirty degrees Celsius
+(86°F). They have very low melting point.
+(b) Magnesium reacts with hot water and starts floating
+due to the bubbles of hydrogen gas sticking to its
+surface.
+1½ + 1½
+Q. 2. List three properties of sodium in which it
+differs from the general physical properties of
+most metals.
+[Board Term-I, Set (52), 2012]
+Ans. Three properties of sodium are :
+(i) Sodium is so soft that it can be cut with a knife. 1
 
 (3 marks each)
 
@@ -16038,28 +15400,8 @@ Ans. (a) Oxides of metal are basic / amphoteric.
 ½+½
 Q. 4. Write three differences between metals and non-metals on the basis of chemical properties.
 [NCT-2014] [NCERT]
+
 Ans. Three differences between metals and non-metals on the basis of chemical properties :
-Q. 1. (a) Why Cesium and Gallium melt in our palm ?
-
-(b)
-
-Why Magnesium ribbon starts floating in hot
-water ?
-[DDE 2017]
-Ans. (a) Some metals are more like liquids. A chip of gallium
-or caesium melts on our palm because the melting
-point of these metals is just below thirty degrees Celsius
-(86°F). They have very low melting point.
-(b) Magnesium reacts with hot water and starts floating
-due to the bubbles of hydrogen gas sticking to its
-surface.
-1½ + 1½
-Q. 2. List three properties of sodium in which it
-differs from the general physical properties of
-most metals.
-[Board Term-I, Set (52), 2012]
-Ans. Three properties of sodium are :
-(i) Sodium is so soft that it can be cut with a knife. 1
 
 S. No.
 
@@ -16397,11 +15739,18 @@ Na > Mg > Cu.
 Long Answer Type Questions
 
 (5 marks each)
+Q. 1. There are 115 elements known till today. Some
 
-comment on the statement that ‘‘Iodised salt is
-good for health.’’ Give any two suggestions.
 of them are metals and some are non-metals.
 Metals are usually hard, malleable and ductile
+
+(i) Why iodine is important for us ?
+(ii) Name a non-metal which is a good conductor of heat and electricity.
+
+2
+(iii) As a student, what initiative you will take to
+comment on the statement that ‘‘Iodised salt is
+good for health.’’ Give any two suggestions.
 Ans. (i) Deficiency of iodine leads to goitre. It also leads
 and have metallic lustre. Non-metals are usually
 to hypothyroidism, a most common disease among
@@ -16417,13 +15766,9 @@ also. Non-metals are bad conductors of heat and
 (iii) Suggestions :
 electricity.
 		(a) To start an awareness campaign in localities,
-(i) Why iodine is important for us ?
 homes and schools.
-(ii) Name a non-metal which is a good conductor of 		(b) To make understand the importance of iodine
-heat and electricity.
-to people.
-2
-(iii) As a student, what initiative you will take to
+(b) To make understand the importance of iodine
+ people.
 Q. 2. Compose an activity to arrange Ca, Mg and Fe metals in the decreasing order of reactivity with water. Write
 suitable balanced chemical equation and draw diagrams.
 [DDE-2014]
@@ -16432,7 +15777,6 @@ amount of water in them. If the metals react with the cold water, then the react
 react with cold water, then treat it with hot water. Record the observations and arrange the metals in decreasing
 order of reactivity.
 
-Q. 1. There are 115 elements known till today. Some
 
 Metal
 
@@ -16971,25 +16315,6 @@ Q. 2. What is meant by corrosion ?
 in rainy season ?
 [Board Term-I, Set-3R6WRQL, 2013]
 
-Ans. Electrolytic Refining : This method is widely used
-as purification of metals like zinc (Zn), copper
-(Cu), aluminium (Al), chromium (Cr), tin (Sn),
-lead (Pb), nickel (Ni) and gold (Au). In this process,
-impure metal is used as anode, a strip of pure metal
-is used as cathode and soluble salt of metal is used
-as electrolyte. On passing electric current through
-the electrolyte, cations move towards cathode, gain
-electrons and pure metal gets deposited on cathode.
-In electrolytic refining of copper, the impurities
-left behind at anode called anode mud contains
-valuable metals such as gold and silver which can
-be recovered in the native state.
-
-+
-
-Cathode
-(Pure metal)
-
 Ans. (i) Slow eating of metals due to attack of
 atmospheric gases so as to convert the metal
 into its oxide, sulphide or carbonate etc. is called
@@ -17033,6 +16358,25 @@ diagram for it.
 [Board Term-I, Set-WH1SGOB, 2014]
 
 (3 marks each)
+
+Ans. Electrolytic Refining : This method is widely used
+as purification of metals like zinc (Zn), copper
+(Cu), aluminium (Al), chromium (Cr), tin (Sn),
+lead (Pb), nickel (Ni) and gold (Au). In this process,
+impure metal is used as anode, a strip of pure metal
+is used as cathode and soluble salt of metal is used
+as electrolyte. On passing electric current through
+the electrolyte, cations move towards cathode, gain
+electrons and pure metal gets deposited on cathode.
+In electrolytic refining of copper, the impurities
+left behind at anode called anode mud contains
+valuable metals such as gold and silver which can
+be recovered in the native state.
+
++
+
+Cathode
+(Pure metal)
 
 Anode
 (Impure
@@ -17145,53 +16489,6 @@ O
 1
 		
 [CBSE Marking Scheme, 2012]
-Q. 10. Illustrate the formation of bond in :
-
-
-
-(i) Sodium chloride
-(ii) Magnesium chloride.
-Identify the ions present in these compounds.
-[Board Term-I, Set (39), 2012]
-Na+ + e–
-2, 8
-Cl–
-2, 8, 8
-
-Ans. (i) Na
-→
-		 2, 8, 1
-		 Cl + e– →
-		 2, 8, 7
-×
-
-Na
-
-+
-
-Cl
-
-		
-(ii)Mg
-→
-		 2, 8, 2
-		 Cl + e– →
-		 2, 8, 7
-
-Mg ×× +
-		
-
-Cl
-
-In NaCl, cation – Sodium (Na+)
-anion – Chloride (Cl–)
-In MgCl2 cation – Magnesium (Mg2+)
-
-½
-½
-
-		
-anion – Chloride (Cl–)
 		
 [CBSE Marking Scheme, 2012]
 Q. 11. What happens when :
@@ -17261,15 +16558,6 @@ or Fe2O3 + 2Al → 2Fe + Al2O3 + heat
 
 (iii) Electrolytic reduction
 
-Mg2+ + 2e–
-2, 8
-Cl–
-(2, 8, 8)
-
-Cl
-
-		
-		
 		
 
 e.g., Na, Mg and Ca are obtained by electrolysis of
@@ -17277,12 +16565,6 @@ their molten chlorides.
 1
 1
 
-–
-
-[Mg2+] ×Cl
-2
-
-		
 
 [CBSE Marking Scheme, 2012]
 
@@ -17394,6 +16676,20 @@ Heat
 
 2ZnS + 3O2 → 2ZnO + 2SO2
 
+(ii) Reduction : Metal oxides are then reduced to the
+corresponding metal by using suitable reducing
+agent (carbon).
+1
+
+→ Zn + CO
+ZnO + C 
+½
+		
+[CBSE Marking Scheme, 2012]
+
+Long Answer Type Questions
+Q. 1. (a) Define the terms ‘alloy’ and ‘amalgam’.
+
 Name the alloy used for welding electric wires
 together. What are its constituents ?
 
@@ -17412,20 +16708,6 @@ Solder – Lead and tin.
 		(iii) Bronze – copper and tin.
 
 ½
-
-(ii) Reduction : Metal oxides are then reduced to the
-corresponding metal by using suitable reducing
-agent (carbon).
-1
-
-→ Zn + CO
-ZnO + C 
-½
-		
-[CBSE Marking Scheme, 2012]
-
-Long Answer Type Questions
-Q. 1. (a) Define the terms ‘alloy’ and ‘amalgam’.
 
 ½
 ½
@@ -17519,383 +16801,6 @@ or MgO
 
 and O ions.
 
-Q. 4. (a) What is the difference between a mineral
-
-and an ore ?
-(b) Differentiate between roasting and calcination
-process in metallurgy.
-[DDE 2017]
-Ans. (a) Difference between a mineral and an ore :
-Mineral
-
-(i)
-
-Natural materials in
-which metals occur in
-the forms of their compounds.
-
-It is a process of heating ore
-in absence of air so as to remove moisture and volatile
-impurities and to convert
-carbonate ores into oxides.
-∆
-→ ZnO(s) +
-ZnCO3(s) 
-CO2(g)
-
-Na
-
-
-→
-
-2, 8, 1
-
-+ e–
-
-2, 8
-
-		
-Cl
-
-Na+
-
-(Sodium cation)
-–
-
-+e
-
-
-→ Cl–
-
-2, 8, 7
-
-2, 8, 8
-
-		
-
-(Chloride anion)
-–
-
-Ore
-
-Na +
-
-Minerals from which
-metals are extracted
-profitably.
-
-Cl
-
-[Na+]
-
-Cl
-
-1
-
-Ionic compounds have high melting and boiling
-points.
-They are good conductors of electricity.
-
-(ii)
-NaCl, Mica.
-Bauxite (Al2O3.2H2O)
-(b) Difference between Calcination and Roasting are :
-Calcination
-
-gas evolved does not catch fire but the same gas
-evolved on adding potassium metal to water
-catches fire. Explain why ?
-(b) Name a metal for each case :
-		(i) It displaces hydrogen gas from nitric acid.
-		(ii) It does not react with any physical state of
-water.
-		(iii) It does not react with cold as well as hot water
-but reacts with steam.
-[DDE-2015]
-Ans. (a) In both cases, the gas evolved is H2. When
-calcium reacts with water the heat evolved is not
-sufficient for hydrogen to catch fire. On the other
-hand, potassium reacts with water violently and lot
-of heat is evolved which is sufficient for hydrogen
-to catch fire.
-(b) (i) Zinc
-(ii) Copper
-(iii) Aluminium.
-2+1+1+1
-Q. 6. Write the name and symbols of two most reactive
-metals. Explain by drawing electronic structure
-how any one of the two metals react with a
-halogen. State any four physical properties of
-the compound formed. [Board Term-I Set (36)
-2012]
-Ans. The two reactive metals are sodium (Na) and
-potassium (K). Sodium reacts with chlorine. 1 + 1
-
-2–
-
-Mg
-
-Q. 5. (a) When calcium metal is added to water, the
-
-They are generally soluble in water and insoluble
-in organic solvents.
-4×½ = 2
-
-They are solid, hard and brittle.
-
-Roasting
-It is a process in which
-ore is heated in the
-presence of air so as to
-obtain metal oxides,
-which can be reduced
-easily to get free metal.
-Sulphide ores are converted into oxides by
-roasting them in air.
-2Zns (s) + 3O2(g)
-∆
-→ 2ZnO(s) +
-2SO2(g)
-
-2+3
-
-		
-[CBSE Marking Scheme, 2012]
-Q. 7. (i) Write the electron-dot structures for sodium
-(11) oxygen (8), chlorine (17) and magnesium
-(12) Show the formation of Na2O and MgO by
-the transfer of electrons.
-(ii) Name the ions present in these compounds.
-[Board Term-I, Set (38) 2012]
-
-Ans. (i) Sodium (Na) – 2, 8, 1
-
-Na
-
-64 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(c) Define an alloy. How are alloys prepared ? How
-do the properties of iron change when :
-		(i) small quantity of carbon is mixed ?
-		(ii) nickel and chromium are mixed with it ?
-
-[Board Term-I Set (18) 2012]
-
-		
-
-Chlorine (Cl) – 2, 8, 7
-
-		
-
-Oxygen (O) – 2, 6
-
-O
-
-		
-
-Magnesium(Mg) – 2, 8, 2
-
-Mg
-
-		
-		
-		
-
-In MgO, cation – Mg++; Anion – O– –
-In Na2O, cation – Na+; Anion – O– –
-
-Ans. (a) Silver sulphide, copper carbonate coating is
-formed on Ag & Cu article.
-1
-(b) Galvanization is a method of protecting steel and
-iron from rusting by coating them with a thin layer
-of zinc. The galvanized article is protected against
-rusting even if the zinc coating is broken.
-1
-
-		 ½×4 = 2
-
-
-→
-
-(ii) Mg
-		 2, 8, 2
-		
-		
-		
-		
-
-Cl
-
-2+
-
-Mg
-2, 8
-
-+ 2e
-
-–
-
-½+½
-½+½
-
-(Magnesium cation)
-–
-
-O + 2e
-2, 6
-
-Mg
-
-
-→
-
-O2–
-2, 8
-(Oxide anion)
-
-+
-
-O
-
-[Mg2+] O
-
-		
-		
-
-Na
-2, 8, 1
-
-→
-
-Na+ + e–
-2, 8
-
-		
-		
-
-O + 2e–
-2, 6
-
-→
-
-O2–
-2, 8
-
-Na
-Na
-
-+
-
-O
-
-2–
-
-1
-
-[2Na+]
-
-2–
-
-½
-½
-1
-
-2HgS + 3O2 
-→ 2HgO + 2SO2
-
-Ans. (i) Mg has more affinity for oxygen than carbon. 1
-(ii) Electrolytic reduction process of molten NaCl. 1
-
-→ 2Na
-At cathode : 2Na+ + 2e– 
-
-½
-
-→ Cl2 + 2e
-At anode : 2Cl 
-
-½
-
-→ 2Cu2O + 2SO2
-(iii) 2Cu2S + 3O2 
-
-1
-
-–
-
-Ans. (a) Electrolytic reduction.
-(b) Cinnabar (HgS)
-By roasting and then self reduction
-Heat
-
-O
-
-		
-[CBSE Marking Scheme, 2012]
-Q. 8. (i) Carbon cannot be used as reducing agent to
-obtain Mg from MgO. Why ?
-(ii) How is sodium obtained from molten sodium
-chloride ? Give equation of the reactions.
-(iii) How is copper obtained from its sulphide ore ?
-Give equations of the reactions.
-
-[Board Term-I Set (15) 2012]
-
-–
-
-(c) Alloy is a homogeneous mixture of two or more
-metals and non-metals. It is prepared by first
-melting the primary metal and then dissolving
-the other elements in it in definite proportion. It is
-then cooled at room temperature.
-½×4=2
-(i) On mixing carbons, it becomes hard and strong,
-(ii) On mixing Ni and Cr, it becomes hard and does
-not rust.
-½+½
-		
-[CBSE Marking Scheme, 2012]
-Q. 10. (i) Name the method used to extract metals of
-high reactivity.
-(ii) Name the main ore of mercury. How is mercury
-obtained from its ore ? Give balanced chemical
-equations.
-(iii) Explain what is thermite reaction with the help of
-balanced equation. How is it used to join railway
-tracks or cracked machine parts ?
-
-[Board Term-I Set (39) 2012]
-
-→ 6Cu + SO2
-2Cu2O + Cu2S 
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 9. (a) Write the chemical name of the coating that
-forms on silver and copper articles when these
-are left exposed to moist air.
-(b) Explain what is galvanization. What purpose is
-served by it ?
-
-Heat
-
-2HgO 
-→ 2Hg + O2
-
-1
-
-(c) Reaction of Fe2O3 with Al is used to join railway
-tracks and machine parts as it is exothermic.
-This reaction is known as thermite reaction.
-1
-Fe2O3 + 2Al → 2Fe + Al2O3 + Heat
-The amount of heat evolved is so large that the
-metal (Fe) is produced in the molten state.
-1
-		
 [CBSE Marking Scheme, 2012]
 Q. 11. Some metals react with water and produce metal
 oxides or hydroxides and liberate hydrogen
@@ -18039,89 +16944,6 @@ and R from their compounds.
 both R and Q.
 (iii) Displacement reaction.
 1+1+1
-Q. 6. Explain how the following metals are obtained
-from their compounds by reduction process :
-(i) Metal X which is low in reactivity series.
-(ii) Metal Y which is in the middle of reactivity series.
-(iii) Metal Z which is high in the reactivity series.
-3
-[Board Term-I, Set-IN14KGB, 2014]
-Ans. (i) Metal X is obtained simply by heating their
-oxides with carbon. e.g., mercury is obtained from
-cinnabar.
-2HgS(s) + 3O2(g) Heat
-
-→ 2HgO(s) + 2SO2(g)
-2HgO(s) Heat
-
-→ 2Hg(l) + O2
-
-1
-
-66 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(ii) Metals in the middle of activity series can be
-obtained by heating with carbon, e.g.,
-ZnO(s) + C(s) Heat
-
-→ Zn(s) + CO(g)
-
-1
-
-(iii) Metals high in the reactivity series are obtained by
-electrolytic reduction of molten ores e.g., in NaCl
-
-Ans. X–2, 8, 2, Y–2, 7
-
-X
-
-NaCl → Na+ + Cl–
-
-×
-×
-
-Y
-Y
-
-Na + e– → Na (at cathode)
-2Cl– → Cl2 + 2e– (at anode)
-
-configurations of three elements X and Y are as
-follows :
-X – 2, 8, 2
-Y – 2, 7
-5
-[Board Term-I, Set-WH1SGOB, 2014]
-
-1
-
-		
-[CBSE Marking Scheme, 2014]
-Q. 7. In the formation of a compound XY2, atom X
-denotes one electron to each Y atom. Show the
-electron dot structure of X and Y and the formation
-of XY2. What is the nature of bond in XY2 ?
-Write any three properties of XY2. The electronic
-
-X2+ × Y
-×
-
-–
-–
-
-Y
-
-Nature of bond in XY2 is ionic.
-Properties :
-(i) Crystalline solids.
-(ii) High melting and boiling point.
-(iii) Soluble in water, insoluble in organic solvents.
-(iv) Conductor of electricity.
-(Any three) 1+4
-		
-[CBSE Marking Scheme, 2014]
 
 Value Based Questions
 Q. 1. A lady bought a new iron container and kept
@@ -19151,204 +17973,8 @@ Ans. Carbon can form bond by sharing of its electrons
 with the electrons of other carbon atom or with
 other element and attain noble gas configuration. 1
 Q. 16. Name the first member of ketones. [DDE 2017]
-
-[ 75
-
-CARBON AND ITS COMPOUNDS
-
-—
-—
-—
-
-H
-
-—
-
-H
-
-—
-
-H — C — C — C — C — OH
-
-—
-
-—
-
-—
-
-H H H H
-or CH3 — CH2 — CH2 — CH2 — OH
-1
-		
-[CBSE Marking Scheme, 2016]
-Q. 28. Write the name and structure of an aldehyde
-with four carbon atoms in its molecule.
-[Board Term II, OD. Set-III, 2016]
-
-Ans. Butanal, CH3 — CH2 — CH2 — CHO
-		
-or
-H H H O
-—
-—
-
-—
-
-—
-
-H—C—C—C—C—H
-
-—
-
-—
-
-Ans. Butane, C4H10.
-½+½
-		
-[CBSE Marking Scheme, 2016]
-Q. 25. Select saturated hydrocarbons from the
-followings : C3H6; C5H10; C4H10; C6H14; C2H4
-[Board Term II, Delhi Set-III, 2016]
-
-—
-
-Ans. Carbon, due to strong C—C bond.
-1
-		
-[CBSE Marking Scheme, 2016]
-[DDE 2017]
-Q. 23. What is catenation ?
-Ans. The self linking property of carbon atoms through
-covalent bonds to form long chains and rings is
-called catenation.
-1
-Q.
-24.
-Write
-the
-name
-and
-molecular
-formula
-of
-the
-U
-fourth member of alkane series.
-[Board Term II, Foreign Set-II, 2016]
-
-H
-
-—
-
-Ans. (i) Ethanol, (ii) Ethanal.
-½+½
-		
-[CBSE Marking Scheme, 2016]
-Q. 22. Which element exhibits the property of
-catenation to maximum extent and why ?
-[Board Term II, Delhi Set-I, 2016]
-
-H
-
-—
-
-Ans. ‘A’ belongs to alkyne as general formula of alkyne
-is C2nH2n–2.
-½
-‘B’ belongs to alkene as general formula of alkene
-is CnH2n.
-½
-		
-[CBSE Marking Scheme, 2012]
-Q. 21. Name the following compounds :
-[Board Term II, Delhi Set-I, 2016]
-H
-|
-__
-O
-(i)
-CH3—CH2—OH, (ii) CH 3 __C
-
-Ans. Butanol,
-
-—
-
-Ans. Difference in :
-(i) Molecular mass = 14 a.m.u.
-½
-(ii) Number of atoms of elements = CH2.
-½
-[CBSE Marking Scheme, 2012]
-Q. 20. The molecular formula of ‘A’ is C10H18 and ‘B’ is
-C18H36. Name the homologous series to which
-they belong.
-[Board Term-II, Set (2022) 2012]
-
-H H H
-or CH3 — CH2 — CH2 — OH
-1
-Q. 27. Write the name and structure of an alcohol with
-four carbon atoms in its molecule.
-[Board Term II, OD. Set-II, 2016]
-
-—
-
-members in a homologous series in alkanes in
-terms of :
-(i) Molecular mass,
-(ii) Number of atoms of elements.
-[Board Term-II, Set (2016), 2012]
-
-—
-
-[CBSE Marking Scheme, 2015] 1
-
-H — C — C — C — OH
-
-—
-
-Ans. Propyne C3H4.
-
-Q. 19. What is the difference between two consecutive
-
-Ans. C4H10; C6H14.
-½+½
-		
-[CBSE Marking Scheme, 2016]
-Q. 26. Write the name and structure of an alcohol with
-three carbon atoms in its molecule.
-[Board Term II, O.D. Set-I, 2016]
-Ans. Propanol,
-H H H
-—
-
 Ans. The first member of ketone – Propanone.
-1
-[DDE 2017]
-Ans. The outer most shell of carbon atom contains four
-valence electrons so the valency of carbon is four.
-It is tetravalent. It is difficult to hold four extra
-electron and would require large amount of energy
-to remove four electrons, so, it form bonds by
-sharing electrons.
-1
-Q. 18. Write the name and formula of the 2nd member
-of homologous series having general formula
-CnH2n–2.
-[Board Term II, OD Set-II, 2015]
-Q. 17. Why Carbon is tetravalent ?
 
-H
-
-1
-H H
-[CBSE Marking Scheme, 2016]
-
-		
-
-OR
-
-[Topper Answer, 2016]
 Q. 29. Write the name of each of the following
 
 functional groups :
@@ -19554,309 +18180,6 @@ For example —
 number of carbon compounds we see around us
 are —
 
-Ans. (i) (a) Methanoic acid, (b) Butan-2-one.
-½+½
-(ii) Carbon generally forms compounds by covalent
-bonds because carbon can neither donate nor
-accept four electrons for completing its octet.
-So, it shares its four electrons with other atoms
-forming covalent bonds.
-[CBSE Marking Scheme, 2011] 1
-Q. 11. Write down structural formula of :—
-(a)
-Propanone, (b) Hexanal
-[DDE 2017]
-O
-||
-
-Ans. (a) Propanone—CH3— C —CH3
-
-O
-
-(a) Catenation, (b) Tetravalency.
-
-S.
-No.
-
-Saturated
-Hydrocarbons
-
-Unsaturated
-Hydrocarbons
-
-(i)
-
-Hydrocarbons having
-single bonds between
-carbon atoms are called
-saturated hydrocarbons.
-
-Hydrocarbons having
-one or more multiple
-bonds between
-carbon atoms are
-called unsaturated
-hydrocarbons.
-
-(ii)
-
-:
-
-Structural formula :
-
-Ans. (i) Reactions between unsaturated hydrocarbons
-with simple substances to form a single saturated
-product are addition reactions.
-1
-
-(i)
-
-H
-|
-H —C —
-|
-H
-H
-
-|
-(ii)
-
-(iii)
-
-compounds? List its any two characteristics.
-Write the name and formula of next higher
-homologous of HCOOH.
-[Delhi set comptt. 1 2017]
-
-|
-
-|
-
-H
-
-H
-
-½+½
-
-(iv)
-
-H
-|
-C—
-|
-H
-H
-
-|
-
-H
-|
-C—
-|
-H
-H
-
-H O
-|
-||
-C — C — OH
-|
-H
-
-|
-
-|
-
-|
-
-H
-H
-
-H
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-H — C — C — C— C— C — C — C—
-—O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-H
-H
-
-H
-H
-
-H
-H
-
-H
-H
-
-H
-H
-
-H
-
-|
-
-|
-
-|
-
-|
-
-|
-
-H — C — C — C — C — C — OH
-
-|
-
-|
-
-|
-
-|
-
-|
-
-H
-
-H
-
-H
-
-H
-
-H
-
-Ans. (i) Pentanoic acid, (ii) Butyne
-(iii) Heptanal, (iv) Pentanol
-
-Short Answer Type Questions-II
-Q. 1. What is a homologous series of carbon
-
-½
-
-H—C — C—C —
-—
-— C— H
-
-(ii) Those reactions in which one or more hydrogen of
-a saturated hydrocarbon is replaced by an atom or
-a group of atoms are substitution reactions.
-		
-[CBSE Marking Scheme, 2011] 1
-Q. 10. (i) Write the name of the following
-compounds :
-(a) HCOOH, (b) CH3COCH2CH3.
-(ii) Explain why carbon generally forms compounds
-by covalent bonds.
-[Board Term-II, Set B1 2011]
-
-:
-
-H
-H
-—C—H
-H—C —
-
-Q. 13. Write the name of the following compounds :
-
-Gives a clean flame on They give yellow flame
-burning.
-with a lot of black
-smoke on burning.
-
-[CBSE Marking Scheme, 2011] 2
-Q. 9. Differentiate between addition reactions and
-substitution reactions shown by hydrocarbons.
-[Board Term II, Set A1, 2011]
-
-:
-
-:
-
-Ans.
-
-||
-
-(b) Hexanal—CH3—CH2—CH2—CH2—CH2— C —H
-		
-1+1
-Q. 12. Write molecular, electronic and structural
-formulae of ethene.
-Ans. Molecular formula : C2H4
-½
-C
-H
-Electron dot formula : H C
-
-::
-
-		
-[CBSE Marking Scheme, 2011] ½+½
-Q. 8. List two differences between saturated and
-unsaturated hydrocarbons.
-[Board Term II, Set B1, 2011]
-
-[NCERT Exemplar]
-½+½+½+½
-
-(3 marks each)
-
-Ans. (a) A group of organic compounds having the same
-functional group and similar structures in which
-any two successive members differ by – CH2.
-1
-
-78 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(b) (i) All members have similar chemical properties ½
-(ii) There is gradation in the physical properties. ½
-		
-(or any other)
-(c) Name — Ethanoic acid/Acetic acid
-½
-Formula — CH3COOH
-½
-		
-[CBSE Marking Scheme]
 Q. 2. What are covalent compounds? How are they
 different from ionic compounds? List any two
 properties of covalent compounds.
@@ -20091,425 +18414,6 @@ neopentane
 
 iso – Pentane
 
-Q.6. Draw the structures of the following compounds
-
-and identify the functional group present in
-them :
-(i) Butanoic acid
-(ii) Bromopropane
-(iii) Butyne
-[Board Term-II, Set-FF7NBE6, 2015]
-H
-
-H
-
-H
-
-|
-
-|
-
-|
-
-Ans. (i) H — C — C — C — C — OH
-|
-H
-
-|
-H
-
-|
-H
-
-||
-O
-
-Carboxylic group – COOH
-
-[ 79
-
-CARBON AND ITS COMPOUNDS
-
-H
-
-H
-
-H
-
-|
-
-|
-
-|
-
-(ii) Ethene : C2H4
-
-(ii) H — C — C — C — Br
-|
-H
-
-|
-H
-
-H
-
-|
-H
-
-H
-
-H
-
-|
-
-|
-
-H
-
-[CBSE Marking Scheme, 2015] 1+1+1
-
-Q. 7. Write the name of the following compounds
-
-(c)
-
-H
-
-(b) H
-
-(d) H
-
-H
-
-H
-
-H
-
-H
-
-O
-
-C
-
-C
-
-C
-
-C
-
-C
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-H
-
-C
-
-C
-
-C
-
-C
-
-C
-
-C
-
-C
-
-H
-
-H
-
-H
-
-H
-
-C
-
-C
-
-H
-
-H
-
-H
-
-H
-
-H
-
-OH
-
-H
-
-C
-
-H
-
-H
-
-C
-
-C
-
-H
-
-		
-[CBSE Marking Scheme, 2015]
-Q. 9. Write the name and structural formula of the
-compound formed when ethanol is heated at
-443K temperature with excess of conc. H2SO4.
-What is the role of conc. H2SO4 in this reaction ?
-Also give the chemical equation for the reaction.
-[Board Term II, Foreign Set-III, 2015]
-
-H
-
-H
-
-H
-
-H
-
-C
-
-C
-
-C
-
-C
-
-C
-
-H
-
-H
-
-H
-
-H
-
-H
-
-Ans. (a) Pentanoic acid
-
-		
-
-H
-
-OH
-
-(d) Pentanol
-
-1+1+1
-
-Q. 8. Write the molecular formula of the following
-
-and
-
-draw
-
-C
-H
-
-H
-
-(ii) Conc. H2SO4 acts as a dehydrating agent.
-
-(b) But-1-yne
-
-(c) Heptanal
-
-H
-C
-
-O
-
-(any three)
-[NCERT Exemplar 2017]
-
-their
-
-electron-dot
-
-(i) Ethane
-(ii) Ethene
-[Board Term II, Foreign Set-I, 2015]
-
-Conc H 2 SO 4
-
-→
-443 K
-
-C 2H 4 + H 2O
-
-1
-1
-1
-
-		
-[CBSE Marking Scheme, 2015]
-Q.
-10.
-What
-is
-meant
-by
-homologous series of carbon
-U
-compounds ? Write the general formula of (i)
-alkenes, and (ii) alkynes. Draw the structures
-of the first member of each series to show the
-bonding between the two carbon atoms. 	
-[Board Term-II, Outside Delhi Set-I, II, III, 2014]
-[DDE 2017]
-Ans. A homologous series is a series of organic
-compounds that belongs to the same family (i.e.,
-possesses the same functional group) and show
-similar chemical properties. The members of this
-series are called homologues; they differ from
-each other by the number of CH2 units in the main
-carbon chain.
-General Formula
-Alkenes : CnH2n,
-Alkynes : CnH2n-2
-Structures
-The first member of alkenes is ethene and its
-structure is given below.
-H
-
-Ans.
-(i) Ethane : C2H6
-
-|
-
-H H
-H H
-
-C
-
-CH3CH3OH
-H
-
-H C C H
-
-H
-
-½+½
-
-H
-
-C
-
-(iii) Ethyne
-
-C
-
-Ans. (i) Ethene
-
-C
-
-compounds
-structures :
-
-C
-
-½+½
-
-Triple bond C ≡ C
-
-(a) H
-
-H
-H
-
-(iii) Ethyne : C2H2
-
-|
-H
-
-		
-
-C
-
-H
-
-(iii) H — C — C — C —
-—C —H
-—
-|
-H
-
-H
-
-H
-C
-
-Halogen atom – Br
-
-H
-
-H
-
-x
-
-H
-
-H
-
-x
-
-x
-
-C
-
-x
-x
-
-C
-
-x
-
-x
-
-H
-
-H
-
-— C— H
-H—C —
-
-|
-x
-
-H
-
-H
-
-½+½
-
-The first member of alkynes is ethyne and its
-structure is given below :
-H—C ≡ C—H
-1+1+½+½
 Q. 11. What is homologous series of carbon compounds ?
 Write the molecular formula of two consecutive
 members of homologous series of aldehydes.
@@ -20537,479 +18441,6 @@ CH3-CHO and CH3-CH2-CHO.
 In CH3—CHO compound, —CHO part and in
 CH3—CH2—CHO, —CH2—CHO part will determine their physical and chemical properties. 1+1+1
 
-Structure
-
-Ethanol
-
-Hydroxyl
-(–OH)
-
-CH3CH2OH
-
-Ethanoic acid
-
-Carboxylic acid
-(–COOH)
-
-CH3COOH
-
-CnH2n
-
-Alkyne
-
-CnH2n-2
-
-(ii) Addition of hydrogen should be carried out in the
-presence of catalyst such as nickel or platinum.
-Chemical Equation :
-(Ni or Pt)
-CH2=CH2 + H2 → CH3—CH3
-
-Ethene
-
-Ethane
-(Ni or Pt)
-
-CH ≡ CH + 2H2 → CH2 = CH2
-Ethyne
-
-[Board Term II, Delhi Set-I, 2014]
-
-Functional
-Group
-
-Alkene
-
-(i) Multiple bonds (double and triple bonds) must
-be present between carbon atoms in the chain of
-hydrocarbon.
-
-carbon compound. Write the functional group
-present in (i) ethanol, and (ii) ethanoic acid and
-also draw their structures.
-
-Compound
-
-General Formula
-
-Essential conditions required for the addition
-reaction to occur :
-
-Q. 12. State the meaning of functional group in a
-
-Ans. Functional group is an atom or a group of atoms
-that is bonded to a carbon chain. It defines the
-chemical property of the organic compound.
-
-Name
-
-Ethene
-1+1+1
-
-Q. 15. (a) List four characteristics of homologous
-
-series.
-
-(b) Draw the electron dot structure of carbon dioxide.
-[Board Term-II, Set 2021, 2012]
-
-Compound
-
-Functional Group
-
-Alcohol
-
-– OH
-
-Aldehyde
-
-– CHO
-
-Ketone
-
-–C=O
-
-Carboxylic acid
-
-– COOH
-1+½+½+½+½
-
-Q. 14. Write the name and general formula of a chain
-
-of hydrocarbons in which an addition reaction
-with hydrogen can take place. Stating the
-essential conditions required for an addition
-reaction to occur, write the chemical equation
-giving the name of the reactant and the product
-of such a reaction.
-[Board Term II, Delhi Set-I, II, III, 2014]
-
-Ans. Name and general formula of hydrocarbons
-undergoing addition reaction with hydrogen :
-
-(iv) Successive member differ by – CH2.
-
-½
-
-(b)
-
-O
-
-C
-
-O
-
-1
-[CBSE Marking Scheme, 2012]
-
-		
-
-Q. 16. Carbon has the unique property to form bonds
-
-with other atoms of carbon.
-—
-
-Ans. Functional group is an atom or a group of atoms
-that is bonded to a carbon chain. It defines the
-chemical property of the organic compound.
-
-½
-½
-
-—
-
-[Board Term II, Delhi Set-II, 2014]
-
-(ii) Similar chemical properties.
-(iii) Regular gradation in physical properties.
-
-—C—C—C—
-
-—
-
-an organic compound. Write the formula of the
-functional group present in alcohols, aldehydes,
-ketones and carboxylic acids.
-
-½
-
-—C—
-
-—
-
-Q. 13. State the meaning of the functional group in
-
-(i) Same functional group.
-
-—
-
-1+1+1
-
-Ans. (a) Four characteristics of homologous series are :
-
-Fig. A
-(i) Name the characteristic property of carbon as
-depicted in the fig. A
-(ii) Give reason for this unique property of carbon.
-(iii) Draw the structure of cyclohexane.
-[Board Term II, Set-8XSVHLC, 2014]
-Ans. (i) Catenation.
-(ii) Carbon forms large number of compounds due to
-the following :
-(a) Catenation : Carbon forms bond with other
-atoms of carbon.
-(b) Tetravalency : Carbon share four electrons
-with other atoms.
-
-[ 81
-
-CARBON AND ITS COMPOUNDS
-
-(iii) Structure of Cyclohexane :
-
-Ans. An atom or a group of atoms/heteroatoms which
-determines the chemical properties of an organic
-compound is called functional group.
-1
-
-H
-
-H
-H
-
-H
-C
-
-H
-
-C
-
-C
-
-C
-
-C
-
-H
-
-Name
-
-H
-
-H
-
-Ethanol
-
-H
-
-C
-H
-
-Structural
-Formula
-
-H
-
-H
-
-1+1+1
-		
-[CBSE Marking Scheme, 2014]
-Q. 17. Name and draw the chain structure and dot
-structure of first two alkanes.
-[Board Term II, SQP 2013]
-Ans. (i) Methane
-H
-.
-x
-
-– COOH
-
-		
-
-O
-
-H — C — C — OH
-
-— C — OH
-
-[CBSE Marking Scheme, 2015] 1 + 1
-
-C3H4, C2H6, CH4, C2H4. Justify your answer.
-(ii) Write the name of the homologous series to which
-they belong to.
-[Board Term-II, Set 2008, 2012]
-1½
-
-H
-.
-x
-
-H
-.
-x
-X
-X
-
-x. H
-
-Ans. (i) C3H4, C2H4 will undergo addition reactions
-because they are unsaturated compounds.
-1
-(ii) C3H4 – Alkyne
-
-1
-
-C2H4 – Alkene
-
-[CBSE Marking Scheme, 2012] 1
-
-Q. 21. An aldehyde as well as a ketone can be
-
-represented by the same molecular formula,
-say C3H6O. Write their structures and name
-them. State the relation between the two in the
-language of science.
-[OD. Set-I, 2016]
-
-x
-.
-H
-
-Ans. (i) Propanal (aldehyde);
-H H H
-—
-
-—
-
-—
-
-—
-
-H
-
-H
-
-(ii) Propanone (Ketone);
-
-½+½
-
-H
-
-H
-
-—
-
-—
-
-H—C—C—C—H
-
-—
-
-—
-—
-
-—
-
-Ans. (i) Functional group- Hetero atom or group of
-atoms attached to the carbon chain, which gives
-specific properties to the compounds, is called a
-functional group.
-1
-(a) Aldehyde group, (b) Carboxylic acid
-½+½
-(ii) Acetic/Ethanoic acid is formed. It is an oxidizing
-agent.
-½+½
-		
-[CBSE Marking Scheme, 2016]
-Q. 19. What is meant by functional group in carbon
-compounds ? Write in tabular form the structural
-formula and the functional group present in the
-following compounds :
-(i) Ethanol
-(ii) Ethanoic acid [Board Term II, Foreign Set-I, 2015]
-
-½+½
-
-H—C—C—C—O
-
-(b) H — C — C = O
-
-H
-(ii) What happens when 5% alkaline KMnO4 solution
-is added drop by drop to warm ethanol taken in
-a test-tube ? State the role of alkaline KMnO4
-solution in this reaction.
-[Board Term II Foreign Set-I, 2016]
-
-—
-
-—
-
-—
-
-—
-—
-
-—
-
-1½
-Q. 18. (i) Define the term functional group. Identify
-the functional group present in
-O
-H OH
-(a) H — C — H ,
-
-O
-
-H
-
-x. H
-
-(ii) Ethane
-
-x
-.
-H
-
-H
-
-carbons that can undergo addition reactions :
-
-x
-.
-H
-
-x. H
-
-Ethanoic
-acid
-
-H
-
-Q. 20. (i) Identify, from the following, the hydro-
-
-H.x
-
-H H
-|
-|
-H – C – C –H
-|
-|
-H H
-
-– OH
-
-H
-
-H—C—C—O—H
-
-H
-
-H
-|
-H–C–H
-|
-H
-
-H
-
-Functional
-Group
-
-H
-
-O
-
-H
-
-(iii) Isomers (same molecular formula but different
-structural formula/different functional group)
-1
-		
-
-[CBSE Marking Scheme, 2016]
-
-Q. 22. Explain the following :
-
-(i) CH3COOH is a weak acid
-(ii) Propene undergoes addition reaction
-(iii) The gas stoves have inlets for air.
-[Board Term II, Set GFVTB86, 2015]
-Ans. (i) Due to the incomplete ionization of acetic
-(CH3COOH) acid.
-
-82 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(ii) CH3 — CH = CH2 undergoes addition reaction
-because of double bond.
-(iii) Sufficient supply of O2 for complete combustion.
-		
-[CBSE Marking Scheme, 2015] 1+1+1
 Q. 23. List two tests for experimentally distinguishing
 between an alcohol and a carboxylic acid and
 describe how these tests are performed.
@@ -21100,227 +18531,7 @@ Ans. (i) Butyne
 
 Long Answer Type Questions
 
-1
-1
-[CBSE Marking Scheme, 2012] 1
 
-(5 marks each)
-
-Q. 1. Why are certain compounds called hydrocarbons ? Write the general formula for homologous series of
-
-alkanes, alkenes and alkynes and also draw the structure of the first member of each series. Write the name
-of the reaction that converts alkenes into alkanes and also write a chemical equation to show the necessary
-conditions for the reaction to occur.
-[OD 31/1 2017] 5
-
-[ 83
-
-CARBON AND ITS COMPOUNDS
-
-		
-Q. 2. (i) Define the term ‘isomers’.
-
-(ii) Draw two possible isomers of the compound with
-molecular formula C3H6O and write their names.
-
-(iii) Give the electron dot structures of the above two
-compounds.
-[NCERT, Board Term II Delhi Set-I, 2013]
-
-S.
-No.
-
-Covalent
-Compounds
-
-Ionic
-Compounds
-
-(i)
-
-They are readily
-soluble in organic
-solvent.
-
-They are not soluble in
-organic solvent.
-
-(ii) The two possible isomers of the compound with
-molecular formula C3H6O are :
-
-They are bad
-conductor of heat
-and electricity.
-
-They are good
-conductors of heat
-and electricity.
-
-(iv)
-
-O
-
-H
-
-H — C —C —C — H
-
-—
-
-—
-
-H—C—C—C—H
-
-H
-
-—
-
-O
-
-—
-
-H
-
-—
-
-H
-
-—
-—
-
-(iii)
-
-—
-
-They ionise in organic
-medium.
-
-—
-—
-
-They do not ionize.
-
-—
-
-(ii)
-
-—
-
-Ans. (i) The compounds that contain the same molecular
-formula but different structures are called isomers.
-The isomers of a compound have different physical
-properties.
-1
-
-H
-
-H
-
-H H
-(Propanal)
-
-(Propanone)
-
-2
-
-H
-
-O
-
-
-
-
-
-H
-
-
-
-C H
-
-
-
-H
-
-
-
-
-
-C
-
-
-
-C
-
-
-
-H
-
-H
-
-
-
-(iii) Electron dot structure of propanal.
-
-Electron dot structure of propanone
-
-
-
-H
-
-O
-
-H
-
-C
-
-C
-
-
-
-H
-
-
-
-
-
-
-
-C
-
-
-
-H
-
-
-
-
-
-H
-
-
-
-H
-
-2
-
-Q. 3. Give two examples of covalent compounds
-
-which you have studied. State any four
-properties in which covalent compounds differ
-from ionic compounds.
-[Board Term II, SQP,
-2013]
-
-Ans. Two examples of covalent compounds are ethanol,
-and ethanoic acid.
-½+½
-Difference between the properties of Covalent and
-Ionic compounds :
-
-They have weak force They have strong force
-of attraction between of attraction between
-the molecule.
-the molecule.
-4
 Q. 4. (i) Give a chemical test to distinguish between
 saturated and unsaturated hydrocarbon.
 (ii) Name the products formed when ethane burns in
@@ -21347,238 +18558,6 @@ light.
 hydrogen atoms of methane (CH4) are replaced by
 chlorine atoms one by one.
 1+1
-Q. 5. (a) State any three physical properties of carbon
-compounds.
-(b) Carbon is a versatile element. Justify this
-statement.
-[Board Term-II, 2015]
-
-84 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(v) Saponification reaction : It is the reaction in which
-Ans. (a) Three physical properties of carbon
-compounds are :
-an ester reacts with sodium hydroxide to form
-sodium salts of acid and alcohol.
-(i) Catenation property.
-(ii) Low melting and boiling point compared to ionic
-CH3COOC2H5
-+
-NaOH
-→
-compound.
-Ethyl ethanoate           Sodium hydroxide
-(iii) Poor conductors of electricity.
-CH3COONa
-+
-C2H5OH
-(b) Carbon is a versatile element because it forms
-Sodium
-ethanoate
-Ethanol
-1
-covalent bonds with large number of elements
-and has catenation capacity to form compounds
-		
-[CBSE Marking Scheme, 2014]
-by chain of bonds with itself.
-3+2
-Q. 7. Describe the following chemical properties
-		
-[CBSE Marking Scheme, 2015]
-of carbon compounds briefly and give one
-Q. 6. Explain the following reactions with one
-chemical reaction for each :
-example for each giving relevant chemical
-		
-[Board Term II, Set-UV6TFLN, 2016]
-equations :
-(i) Combustion
-(i) Hydrogenation reaction,
-(ii) Addition
-(ii) Oxidation reaction,
-(iii)
-Substitution
-(iii) Substitution reaction,
-(iv) Esterification
-(iv) Combustion reaction,
-(v) Saponification reaction.		
-(v) Oxidation
-[Board Term II, Set-QNA4XWT, 2014]
-Ans. (i) Combustion :
-Ans. (i) Hydrogenation reaction : It is the process
-CH4 + O2 → CO2 + H2O + Energy + Light
-in which unsaturated compound reacts with
-(ii) Addition
-hydrogen in presence of nickel as a catalyst to form
-Ni
-saturated compound.
-CH2 = CH2 + H2 → C2H6
-R
-
-R
-C =C
-
-R
-
-+ H2
-
-R
-
-|
-
-Nickel
-
-R
-
-H — C — C —H
-
-|
-
-R
-
-R
-Vegetable Oil
-
-(iii)
-
-Substitution
-Sunlight
-
-|
-
-|
-
-CH4 + Cl2 
-→ CH3Cl + HCl
-(iv)
-
-Esterification
-+
-
-CH3COOH + C2H5OH H
-→ CH3COOC2H5 +
-H 2O
-
-R
-
-Vegetable Ghee
-
-(v)
-
-Oxidation
-KMnO4
-C2H5OH alk
-
-→ CH3COOH.
-
-(ii) Oxidation reaction : When there is an addition of
-oxygen in the reaction, it is known as oxidation
-reaction.
-1
-CH3CH2OH + [O] Alkaline
-
-→ CH3COOH + H2O
-KMnO
-Ethanol
-
-4
-
-Ethanoic acid
-
-(iii) Substitution reaction : Those reactions in which
-an atom or group of atoms of a compound are
-replaced by other atom or group of atoms are
-called substitution reactions.
-Sunlight
-
-
-→ CH Cl(g)
-Cl2(g)
-3
-Chlorine
-Chloromethane
-+
-HCl(g)
-Hydrogen
-chloride 1
-(iv) Combustion reaction : Ethanol is highly
-inflammable liquid, i.e., it catches fire very easily.
-It burns with blue flame in presence of oxygen to
-form carbon dioxide and water.
-C2H5OH
-+
-3O2
-→
-Ethanol
-Oxygen         
-2CO2
-+
-3H2O
-Carbon dioxide
-Water 1
-
-CH4(g) +
-Methane
-		
-
-1+1+1+1+1
-[CBSE Marking Scheme, 2016]
-Q. 8. (a) Draw the structure for the following
-
-compounds :
-
-(i) 2-Bromopentane, (ii) 2-methyl propane,
-(iii) Butanal, (iv) 1-Hexyne.
-(b) Draw the electron dot structure for ethanoic acid.		
-[Board Term II, Set (2020), 2012]
-Ans. (a) (i) CH3 — CH2 — CH2 — CH — CH3
-|
-		
-Br
-(ii) CH3 — CH — CH3
-|
-		
-
-1
-
-1
-
-CH3
-
-(iii) CH3CH2CH2CHO
-
-1
-
-(iv) HC ≡ C – CH2 – CH2 – CH2 – CH3
-
-1
-
-(b) Electrons dot structure of ethanoic acid
-H
-H
-
-		
-
-C
-
-C
-
-H
-
-O
-
-O
-
-H
-
-1
-[CBSE Marking Scheme, 2012]
-
-CARBON AND ITS COMPOUNDS
-
 Q. 9. Explain why carbon forms compounds mainly
 
 by covalent bonds. Explain in brief two main
@@ -22093,182 +19072,8 @@ part in the oxidation of ethanol.
 1
 (ii) Ethanol is oxidized to produce ethanoic acid.
 1
-		
-[CBSE Marking Scheme, 2011]
-Q. 12. (i) An organic compound ‘X’ reacts with sodium
-metal to form sodium ethoxide and a gas ‘Y’.
-Identify ‘X’ and ‘Y’.
-(ii) What happens when ethanol is heated at 443 K
-with conc. H2SO4 ? [Board Term II, Set A1, 2011]
-Ans. (i) 2C2H5OH + 2Na → 2C2H5ONa + H2
-
-½+½
-
-‘X’ is ethanol and Y is hydrogen.
-
-Ans. (a) ‘X’ is CH3COOH and ‘Y’ is CH3COOCH2CH3.1
-H SO
-
-2
-4
-(b) CH3COOH + C2H5OH 
-→ CH3COOC2H5
-+HO
-[CBSE Marking Scheme, 2011] 1
-2
-Q. 14. (i) Describe the mechanism of cleansing action
-of soaps.
-(ii) Why do soaps not work in hard water ?
-[Board Term II, Set A1, 2011]
-
-Ans. (i) Soap molecules form micelles where ionic end
-of soap dissolves in water while carbon chain
-dissolves in oil. The emulsion in water thus formed
-helps in dissolving the dirt in water and we can
-wash our clothes clean.
-1
-(ii) Soaps react with calcium or magnesium ions
-to form an insoluble substance which results in
-wastage of soap. [CBSE Marking Scheme, 2011]1
-Q. 15. Why is the conversion of ethanol to ethanoic
-acid an oxidation reaction?
-[KVS 2017]
-Ans. Since the conversion of ethanol to ethanoic acid
-involves the addition of oxygen to ethanol it is an
-oxidation reaction.
-0]
-CH3CH2OH [
-→ CH3COOH
-
-Conc. H SO
-
-2
-4
-→ CH2 = CH2 + H2O
-(ii) CH3CH2OH 
-443 K
-
-1
-
-		
-[CBSE Marking Scheme, 2011]
-Q. 13. An organic acid ‘X’ is a liquid which often
-freezes during winter time in cold countries.
-It has molecular formula C2H4O2. On warming
-with ethanol in the presence of a few drops of
-conc. H2SO4 a compound Y with a sweet smell
-is formed.
-(i) Identify ‘X’ and ‘Y’.
-(ii) Write chemical equations for the reactions
-involved.
-[Board Term II, Set A1, 2011]
-
-		 (Ethanol)
-
-when an oxidising agent is added to propanol ?
-Explain with the help of a chemical equation.
-[Board Term II, Delhi Set-II, 2016] [DDE 2017]
-
-Ans. (i) It is a substance which can give oxygen to other
-substances.
-1
-Alkaline KMnO + Heat
-
-4
-
-→
-(ii) CH3 — CH2 — CH2 — OH 
-OR Acidified K Cr O + Heat
-2
-
-		
-
-Propanol
-
-2
-
-7
-
-CH 3 -- CH 2 -- C -- OH
-||
-O
-1
-		
-Propanoic acid
-(iii) Propanol is oxidised to Propanoic acid.
-1
-		
-[CBSE Marking Scheme, 2016]
-Q. 2. What is meant by hydrogenation ? With the
-help of a chemical equation, explain the role of
-this reaction in industry.
-[Board Term II, Set-205, 2012]
-
-2
-
-the need to denature alcohol?
-[KVS 2017]
-Ans. Ethyl alcohol mixed with methyl alcohol is called
-denatured alcohol.
-Methyl alcohol is added to ethyl alcohol in order to
-make it unfit for drinking purposes. 
-1+1
-Q. 17. Why soap is not suitable for washing cloth
-when water is hard?
-[DDE 2017]
-Ans. The magnesium and calcium salt present in hard
-water react with soap molecule to form insoluble
-product called scum. This scum create difficulty in
-cleansing action.
-2
 
 Short Answer Type Questions-II
-Q. 1. What is an oxidising agent ? What happens
-
-(Ethanoic acid)
-
-Q. 16. What is meant by denatured alcohol? What is
-
-(3 marks each)
-
-OR
-What is hydrogenation ? What is its industrial
-application ?
-[NCERT]
-Ans. Hydrogenation : The process in which unsaturated
-compounds reacts with hydrogen in the presence
-of nickel (as a catalyst) to form saturated
-compounds are called hydrogenation.
-1
-This reaction is commonly used in the
-hydrogenation of vegetable oils. Vegetable oils
-have long unsaturated carbon chains, which are
-converted into vegetable ghee i.e., saturated fatty
-acids.
-1
-R
-R
-R
-R
-|
-|
-Ni catalyst
-C = C + H2
-H — C — C —H
-H2
-|
-|
-R
-R
-R
-R
-1
-		
-[CBSE Marking Scheme, 2012]
-
-[ 89
-
-CARBON AND ITS COMPOUNDS
 
 Q. 3. (i) Differentiate between alkanes and alkenes.
 
@@ -22418,11 +19223,6 @@ CH3CHO.
 Ans. (a) Ethyne
 (b) Propanol
 (c) Ethanol
-1+1+1
-Q. 8.Write the structural formula of ethanol. What happens when it is heated with excess of conc. H2SO4 at 443 K ?
-Write the chemical equation for the reaction stating the role of conc. H2SO4 in this reaction.[OD 31/1 2017] 3
-Ans.
-
 Q. 9. Distinguish between esterification and saponification reactions with the help of the chemical equations for
 
 each. State one use of each (i) esters, and (ii) saponification process.		
@@ -22456,184 +19256,7 @@ As esters have fragrant odours, they are used as a constituent of perfumes, esse
 (ii) Use of saponification process :
 In the manufacturing of soap used as cleansing agent.
 1
-Q. 23. The structural formula of an ester is :
-H O
-H H H H
-—
 
-—
-
-—
-
-—
-
-—
-—
-
-—
-
-H—C—C—O—C—C—C—C—H
-
-—
-
-—
-
-—
-
-—
-
-—
-
-H
-
-H
-
-H
-
-H
-
-H
-
-Sodium carbonate
-
-2CH3COONa +
-
-Write the structural formula of the acid and
-the alcohol from which it might be prepared.
-Name the process of formation of ester.
-[Board Term-II, Delhi Set-UV6TFLN, 2015]
-Ans. CH3COOH + C4H9OH ¾® CH3COOC4H9 + H2O
-		 Acid
-Alcohol
-Ester
-H O
-H H H H
-—
-
-—
-
-—
-
-—
-
-—
-—
-
-—
-
-H — C — C — OH + H — C — C — C — C — O — H
-
-—
-
-—
-
-—
-
-—
-
-—
-
-H
-
-H
-
-H
-
-H
-
-H
-
-Ethanoic acid
-
-Ans. CH3COOH + Na2CO3 ¾®
-
-Carbondioxide
-
-CH3COOH + NaHCO3 ¾®
-		
-Sodium hydrogen CH3COONa + H2O + CO2
-carbonate
-
-Water
-
-Carbon
-dioxide
-
-CH3COOH+ NaOH ¾® CH3COONa + H2O
-		
-Sodium hydroxide
-Water
-2CH3COOH + 2 Na ¾® CH3COONa + H2
-		
-
-		
-
-Butanol
-
-H2O + CO2
-Water
-
-Sodium
-
-Hydrogen gas
-
-(Any three reaction) 1+1 +1
-[CBSE Marking Scheme, 2016]
-
-1+ 1 + 1
-
-Q. 10. When ethanol reacts with ethanoic acid in
-
-three different chemical reactions
-showing the conversion of ethanoic acid to
-sodium ethanoate. Write balanced chemical
-equation in each case. Write the name of the
-reactants and the products other than ethanoic
-acid and sodium ethanoate in each case.
-[Board Term II, O.D. Set-III, 2016]
-
-(i) State the class of compounds to which the fruity
-smelling compounds belong. Write the chemical
-equation for the reaction and write the chemical
-name of the product formed.
-
-Process is Esterification.
-Q. 24. Write
-
-the presence of conc. H2SO4, a substance with
-fruity smell is produced. Answer the following :
-
-(ii) State the role of conc. H2SO4.
-[Board Term II, Set-I, III, 2016]
-
-[ 91
-
-CARBON AND ITS COMPOUNDS
-
-Ans. (i) Esters.
-Chemical Equation :
-O
-
-½
-
-—
-—
-CH3 — C — OH + CH3CH2OH
-Conc. H2SO4
-
-O
-
-—
-—
-CH3 — C — O — CH2 — CH3 +H2O
-1
-Product’s chemical name—Ethyl ethanoate
-½
-(ii) Conc. H2SO4 acts as a dehydrating agent. (Helps in
-the removal of water formed in the reaction.)
-1
-		
-[CBSE Marking Scheme, 2016]
 Q. 11. Name the compound formed when ethanol
 is heated in excess of conc. sulphuric acid at
 443 K. Also write the chemical equation of the
@@ -22821,33 +19444,7 @@ Ans. X — C2H5OH, Y—H2 gas
 Ethene, C2H4.
 ½+½
 		
-[CBSE Marking Scheme, 2016]
-Q. 18. When we take 1 ml ethanol and 1 ml ethanoic
-acid along with a few drops of concentrated
-sulphuric acid in a test-tube a sweet smelling
-substance is formed. Name the compound and
-give the balanced chemical equation for the
-reaction. What do we call the reverse reaction
-to give back alcohol and carboxylic acid which
-is used in the preparation of soap ?
-
-[Board Term II, Delhi Set, FF7NBE6, 2015]
-Ans.
 
-Q. 20. Complete the following chemical equations :
-
-(i)
-(ii)
-(iii)
-
-—
-—
-Ethanoic acid
-
-Conc. H2SO4 + heat
-(Esterification)
-
-[CBSE Marking Scheme]
 
 Q. 21. With the help of an example, explain the process
 
@@ -22870,25 +19467,7 @@ in the liquid state. On hydrogenation (addition
 of hydrogen) in the presence of nickel as catalyst
 vegetable oil produces vanaspati ghee. This is solid
 at room temperature.
-R
 
-Ethanol
-
-C =C
-
-O
-
-—
-—
-CH3 — C — OCH2CH3 + H2O
-Ethyl acetate
-
-Water
-
-Reverse reaction = Saponification
-2+1
-		
-[CBSE Marking Scheme, 2015]
 Q. 19. Two carbon compounds X and Y have the
 
 molecular formula C3H6 and C4H10 respectively.
@@ -22926,53 +19505,6 @@ CH3 – CH = CH2 + Cl2 → CH3 – CH(Cl) – CH2Cl
 
 [Delhi 31/1/3 2017]
 
-Ans. (i) 2CH3COOH + Na2CO3 → 2CH3COONa + H2O
-		
-+ CO2 1
-(ii) CH4 + 2O2 → CO2 + 2H2O
-1
-(iii) 2C2H5OH + 2Na → 2 C2H5ONa + H2
-1
-
-O
-
-CH3 — C — OH + H — OCH2CH3
-
-CH3COOH + Na2CO3 →
-CH4 + O2 →
-C2H5OH + Na →
-
-+ H2
-
-R
-
-H
-Ni catalyst
-
-Heat
-
-|
-
-H
-
-|
-
-R — C — C —R
-
-|
-
-R
-
-R
-Vegetable oil
-(Liquid state)
-
-|
-
-R
-
-Vanaspati ghee
-(Solid state)
 
 The essential condition for the reaction is presence
 of nickel as a catalyst and temperature.
@@ -23031,26 +19563,7 @@ aryl group.
 Preparation of esters : When carboxylic acids are
 heated with alcohols in the presence of an acid
 catalyst, esters are produced.
-O
 
-R–C
-
-Sunlight
-
-→
-(iii) CH4 + Cl2 
-
-Ans. (i) CH3COOC2H5 
-→ C2H5OH
-		
-+ CH3COONa
-(ii) CH3COOH + NaHCO3 → CH3COONa + H2O
-		
-+ CO2
-
-(iii) CH4 + Cl2 Sunlight
-
-→ CH3Cl + HCl
 
 + H2O
 
@@ -23107,7 +19620,26 @@ NaOH
 →
 (i) CH3COOC2H5 
 (ii) CH3COOH + NaHCO3 →
+O
 
+R–C
+
+Sunlight
+
+→
+(iii) CH4 + Cl2 
+
+Ans. (i) CH3COOC2H5 
+→ C2H5OH
+		
++ CH3COONa
+(ii) CH3COOH + NaHCO3 → CH3COONa + H2O
+		
++ CO2
+
+(iii) CH4 + Cl2 Sunlight
+
+→ CH3Cl + HCl
 1+1+1
 
 Q. 26. Draw the electron dot structure of ethyne. A
@@ -23198,197 +19730,7 @@ H SO
 CH3CH2OH 
 443 K
 
-		
-[CBSE Marking Scheme, 2014]
-Q. 28. A carboxylic acid (molecular formula C2H4O2)
-reacts with an alcohol in the presence of an acid
-catalyst to form a compound ‘X’. The alcohol
-on oxidation with alkaline KMnO4 followed
-by acidification gives the same carboxylic
-acid C2H4O2. Write the name and structure
-of (i) carboxylic acid, (ii) alcohol and (iii) the
-compound ‘X’.
-[NCERT] [Board Term II, Outside Delhi Set-I,
-II, III, 2014] [O.D. Set-I, 2013]
-Ans. (i) The carboxylic acid involved in the reaction is
-acetic acid (CH3COOH).
-H
 
-O
-
-|
-
-||
-
-H — C — C — OH
-
-|
-
-H
-
-(ii) The alcohol involved in the reaction is ethanol
-(CH3CH2OH).
-H
-
-H
-
-|
-
-|
-
-H — C — C — OH
-
-|
-
-|
-
-H
-
-H
-
-H
-
-O
-
-H
-
-H
-
-|
-
-||
-
-|
-
-|
-
-H— C — C — O— C— C— H
-
-|
-
-|
-
-|
-
-H
-
-H
-
-H
-
-1+1+1
-
-Q. 29. Name the oxidising agents used for the
-
-conversion of ethanol to ethanoic acid.
-Distinguish between ethanol and ethanoic acid
-on the basis of (i) litmus test, (ii) reaction with
-sodium carbonate.
-[Board Term II, Delhi Set-II, 2013]
-Ans. The oxidizing agents used for the conversion of
-ethanol to ethanoic acid are alkaline potassium
-permanganate (KMnO4) and acidified potassium
-dichromate (K2Cr2 O7).
-1
-
-(i)
-
-(ii)
-
-Test
-Litmus Test
-
-cataltyst
-
-		
-CH3COOCH2CH3 + H2O
-(ii) When ethanol reacts with sodium, sodium
-ethoxide is produced along with the liberation of
-hydrogen.
-2CH3CH2OH + 2Na → 2CH3CH2ONa + H2
-		
-1½+1½
-Q. 31. An organic compound A of molecular formula
-C2H4 on reduction gives another compound B
-of molecular formula C2H6. B on reaction with
-chlorine in the presence of sunlight gives C of
-molecular formula C2H5Cl.
-(i) Name the compounds A, B and C.
-(ii) Write the chemical equation for the conversion of
-A to B and name the type of reactions.
-[Board Term II, Set (2020), 2012]
-Ans. (i) A : CH2 = CH2
-
-Ethanol
-
-Ethanoic
-Acid
-
-No change in Blue litmus
-colour of litmus solution turns
-solution.
-red.
-
-Reaction with No brisk
-sodium
-effervescence.
-carbonate
-
-Brisk
-effervescence
-due to
-evolution of
-CO2.
-		
-1+1
-Q. 30. How are the following products obtained from
-ethanol ?
-
-Ethene
-
-B : CH3 – CH3
-
-Ethane
-
-C : CH3 – CH2 – Cl
-
-Chloroethane
-
-(ii) CH2 =
-
-(iii) X is the ester formed by the condensation of acetic
-acid and ethanol is ethyl acetate (CH3COOC2H5).
-
-S.
-No.
-
-(i) Ethyl ethanoate
-(ii) Sodium ethoxide.
-[Board Term II, SQP, 2013]
-Ans. (i) Ethanol reacts with ethanoic acid in the presence
-of acid catalyst to give ethyl ethanoate.
-Acid
-CH3COOH + CH3CH2OH 
-→
-
-CH2 hydrogen
-
-→
-nickel
-
-1½
-1
-
-CH3 – CH3
-
-(A)
-
-(B)
-
-Type of reaction : Addition reaction.
-½
-		
-[CBSE Marking Scheme, 2012]
 Q. 32. Two compounds ‘A’ and ‘B’ have the molecular
 formula C3H8 and C3H6 respectively. Which
 one of the two is most likely to show addition
@@ -23461,150 +19803,9 @@ Sodium
 Hydrogen gas.
 metal
 ethoxide
-1
-Q. 34. (i) Write the chemical names of CH3COCH3,
-C2H5COOH.
-(ii) What happens when acetic acid and ethanol react
-in presence of concentrated H2SO4 ? Write the
-reactions there in.
-[Board Term-II, 2012, 2015]
-Ans. (i) CH3COCH3 : Propanone
-C2H5COOH : Propanoic acid
-(ii) Esterification takes place
-CH3COOH + C2H5 OH
-
-Conc. H2SO4
-
-1
-1
-
-O
-
-		
-
-Compound B : Ethanoic acid (acetic acid)
-
-(ii) C2H5OH Alkaline
-
-→ CH3COOH
-KMnO4
-(A)
-(B)
-
-CH3CH2OH + 3O2 → 2CO2 + 3H2O
-
-1
-
-(iii) Reaction between methane and chlorine is
-considered a substitution reaction because one
-atom of hydrogen from methane is replaced by
-one atom of chlorine and forms chloromethane.
-		
-[CBSE Marking Scheme, 2012] 1
-Q. 37. Complete the following reactions :
-Alkaline
-(i) CH3CH2OH 
-→ ?
-KMnO 4 + Heat
-
-(ii) 2Na + 2CH3CH2OH → ? + ?
-acid
-
-Alkaline
-Ans. (i) CH3CH2OH 
-→ CH3COOH
-KMnO + Heat
-4
-
-		
-[CBSE Marking Scheme, 2012]
-Q. 35. An organic compound ‘A’ of molecular formula
-C2H6O on oxidation with dilute alkaline KMnO4
-solution gives an acid ‘B’ with the same number
-of carbon atoms. Compound ‘A’ is often used for
-sterilization of skin by doctors.
-(i) Name the compounds ‘A’ and ‘B’.
-(ii) Write the chemical equation involved in the
-formation of ‘B’ from ‘A’.
-[Board Term II, Set 2017, 2012]
-Ans. (i) Compound A : Ethanol (ethyl alcohol)
-
-		
-
-→ ?
-(iii) CH3COOH + CH3CH2OH 
-
-—
-—
-
-CH3 — C — O — CH2 — CH3 + H2O
-
-½
-½
-
-(ii) Ethanol burns in air to form carbon dioxide and
-water. The two forms of energy that are liberated
-are in form of light and heat.
-
-1
-1
-1
-
-(ii) 2Na + 2CH3CH2OH → 2CH3CH2ONa + H2 ½+½
-(iii) CH3COOH + CH3CH2OH acid
-
-→ CH3COOCH2CH3
-+ H2O 1+1+1
-Q. 38. With the help of a diagram, explain cleansing
-
-action of soap.
-[Board Term II, Set 2012, 2007] [DDE 2017]
-OR
-Explain the mechanism of cleaning action of
-soap.
-[NCERT]
-
-Ans. Soap molecules form micelles where one end is
-towards the oil droplet while the ionic end faces
-outside.
-1
-The micelle stays in solution as an emulsion. The
-soap solution thus helps in dissolving the dirt in
-water and we can wash the clothes clean.
-1
-
-		
-[CBSE Marking Scheme, 2012]
-Q. 36. (i) Give a chemical test to distinguish between
-saturated and unsaturated hydrocarbons.
-(ii) Name the products formed when ethanol burns in
-air. List two forms of energy that are liberated on
-burning ethanol.
-(iii) Why is the reaction between methane and chlorine
-considered a substitution reaction ?
-[Board Term II, Set-2023, 2012]
-
-Hydrophilic end
-
-+
-
-Oil
-droplet
-
-Na
-
-+
-
-Na
-+
-
-1
-[CBSE Marking Scheme, 2007]
-Na
-
-		
 
 Long Answer Type Questions
+Q. 1. Soaps and detergents are both types of salts.
 State the difference between the two. Write the
 mechanism of the cleansing action of soaps.
 Why do soaps not form lather (foam) with hard
@@ -23612,22 +19813,12 @@ water ? Mention any two problems that arise
 due to the use of detergents instead of soaps.
 [Delhi 31/1/11 2017]
 
-Hydrophobic end
-Soap molecule
-
-Ans. (i) Saturated hydrocarbons burn with clean flame
-and do not decolourise brown colour of bromine.
-Unsaturated hydrocarbons burn with sooty flame
-and decolourise brown colour of bromine. 	
-1
-
-Q. 1. Soaps and detergents are both types of salts.
 
 1
 
 (5 marks each)
 
-Ans. 
+Ans.
 Soaps are the sodium or potassium salts of
 long chain carboxylic acids while detergents are
 the ammonium of sulphonate salts of long chain
@@ -24026,114 +20217,6 @@ ions or both. These ions on reacting with soap
 solution form insoluble substance called scum.
 		
 
-[CBSE Marking Scheme, 2016] 1 + 1
-
-Q. 10. A carbon compound ‘P’ on heating with excess conc. H2SO4 forms another carbon compound ‘Q’ which
-
-on addition of hydrogen in the presence of nickel catalyst forms a saturated carbon compound ‘R’. One
-molecule of ‘R’ on combustion forms two molecules of carbon dioxide and three molecules of water. Identify
-P, Q and R and write chemical equations for the reactions involved.
-[Board Term II, O.D. Set-I, 2016]
-
-Ans. P = Ethanol/C2H5OH, Q = Ethene/CH2 = CH2, R = Ethane/C2H6
-Conc H2 SO4
-C2H5OH 
-→ CH2 = CH2 + H2O
-443 k
-Ethanol
-Ethene
-Nickel Catalyst
-→ CH3 – CH3/C2H6
-CH2 = CH2 
-H
-
-3×½
-1½
-1
-
-2
-
-Ethane
-7
-C2H6/CH3 – CH3 + O2 ¾® 2CO2 + 3H2O
-2
-
-[CBSE Marking Scheme, 2016] 1
-OR
-
-[Topper Answer, 2016]
-Ans. (i) CH3COOH (Ethanoic acid).
-1
-Conc. H 2 SO 4
-preservative in pickles and has a molecular
-→
-(ii) CH3-COOH + C2H5OH 
-formula C2H4O2. This compound reacts with
-CH
--COOC
-H + H 2O 1
-ethanol to form a sweet smelling compound B.
-3
-2 5
-(iii) Ethyl ethanoate.
-1
-(i) Identify the compound A.
-(iv) Esterification .
-1
-(ii) Write the chemical equation for its reaction with
-(v) Through Saponification reaction.
-1
-ethanol.
-(iii) Name the products formed.
-Q. 12. An organic compound ‘X’ on heating with conc.
-H2SO4 forms a compound ‘Y’ which on addition
-(iv) Name the process involved in the reaction.
-of one molecule of hydrogen in the presence
-(v) How can we get back the compound A from B. 		
-of nickel forms a compound ‘Z’. One molecule
-[KVS-2014]
-of compound ‘Z’ on combustion forms two
-
-Q. 11. An organic compound A is widely used as a
-
-[ 99
-
-CARBON AND ITS COMPOUNDS
-
-molecules of CO2 and three molecules of H2O.
-Identify giving reasons the compounds ‘X’, ‘Y’
-and ‘Z’. Write the chemical equations for all the
-chemical reactions involved.
-[NCERT
-Exemplar]
-[Board Term II, O.D. Set-I, 2013]
-Ans. Compound ‘X’ is ethanol and compound ‘Y’ is
-ethene.
-1
-Ethanol, when heated with conc. H2SO4 at 443 K
-undergoes dehydration i.e., loses water molecule to
-form alkene.
-1
-Conc.H SO
-
-2
-4
-→ CH2 = CH2 + H2O
-CH3CH2OH 
-443 K
-Ethanol
-Ethene
-
-1
-
-Ethene reacts with one molecule of hydrogen in the
-presence of nickel to form ethane.
-1
-CH2 = CH2 + H2 Ni
-→ CH3 — CH3
-1
-Ethene
-Ethane
 Q. 13. (i) Write the name of the following compounds.
 
 CH3CH2COOH,C6H6
@@ -24354,27 +20437,11 @@ there will be strong interelectronic repulsion
 configuration of carbon ?
 1
 
-drunk. It is considered as a curse in the lives of
-those who are addicted to alcohol. ‘Alcoholic’
-people are not only lowering their metabolism
-and affecting central nervous system, they are
-also a threat to the liver of others. Anger and rude
-behaviour are some of its ill effects.
-(i) Comment on the statement : ‘Should production
-of alcohol be banned’. Give three valid reasons to
-justify.
-2
-(ii) As a student, what initiative would you take in
-the common concern of ‘Save Life, Do not Drink’.
-Give two suggestions.
-1
 
 (ii) Explain how covalent bonding is important
 between carbon compounds. Give any two
-suggestions.		
-Ans. (i) In favour of negative response :
+suggestions.
 [Board Term II SQP, 2012] 2
-(a) It is an excellent industrial solvent.
 
 Ans. (i) Atomic number of carbon = 6.
 
@@ -24401,6 +20468,22 @@ is in spite of its benefits to man, its impact on social
 behaviour has always been questioned. Media has
 often shown abnormal behaviour of people while
 
+drunk. It is considered as a curse in the lives of
+those who are addicted to alcohol. ‘Alcoholic’
+people are not only lowering their metabolism
+and affecting central nervous system, they are
+also a threat to the liver of others. Anger and rude
+behaviour are some of its ill effects.
+(i) Comment on the statement : ‘Should production
+of alcohol be banned’. Give three valid reasons to
+justify.
+2
+(ii) As a student, what initiative would you take in
+the common concern of ‘Save Life, Do not Drink’.
+Give two suggestions.
+1		
+Ans. (i) In favour of negative response :
+(a) It is an excellent industrial solvent.
 (b) It is used in so many ways such as in medicines and
 ornamentation.
 (c) It is used as a disinfectant.
@@ -24447,23 +20530,7 @@ Ans. Physical Properties :
 Chemical Properties :
 (i) Turns blue litmus red
 (ii) Gives brisk effervescence with sodium carbonate
-		
-1+1
-Q. 3. A student adds a spoon full of powdered sodium hydrogen carbonate to a flask containing ethanoic acid. List
-two main observations, he must note in his notebook, about the reaction that takes place. Also write chemical
-equation for the reaction.
-[Board Term II, O.D. Set-I, 2016]
-Ans. Brisk effervescence
 
-½
-½
-
-Evolution of colourless/odourless gas
-CH3COOH + NaHCO3 → CH3COONa + H2O + CO2
-
-[CBSE Marking Scheme, 2016] 1
-
-[Topper Answer, 2016]
 Q. 4. Out of the following list of chemicals, select those
 which are required to study the prescribed four
 properties of acetic acid in the laboratory. Litmus
@@ -27756,60 +23823,6 @@ Ans. (i) Third period and group 16.
 added.
 1
 
-118 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Q. 25. Some of the elements and their atomic numbers
-
-are mentioned in the following table :
-
-(ii) What is the valency of ‘P’ ?
-(iii) Write the chemical formula of the compound
-formed by combining the elements ‘P’ and ‘Q’ ?
-(iv) Out of the two elements ‘P’ and ‘S’, which one is
-larger in size ? [Board Term II, Set (67003), 2012]
-
-Element
-
-Atomic number
-
-P
-
-3
-
-Q
-
-17
-
-Ans. (i) 3.
-
-½
-
-R
-
-13
-
-(ii) 1.
-
-½
-
-S
-
-11
-
-(i) How many valence electrons are there in the
-element ‘R’ ?
-
-(iii) PQ.
-
-½
-
-(iv) S.
-
-½
-[CBSE Marking Scheme, 2012]
-
 Short Answer Type Questions-II
 Q. 1. What is meant by atomic radius ? Explain why it
 
@@ -27911,135 +23924,6 @@ Ans. (i) Chlorine
 1
 (iv) 2, 8, 7.
 [CBSE Marking Scheme, 2016] ½
-Q. 5. How many groups and periods are there in the
-modern periodic table? How do the atomic size
-and metallic character of elements vary as we
-move ?
-(i) down a group and
-(ii) from left to right in a period.
-[Board Term II, Delhi Set I, 2015]
-
-PERIODIC CLASSIFICATION OF ELEMENTS
-
-[ 119
-
-		
-The electrons present in the last shell determine the
-		
-valency of a particular element.
-If the number of valence electrons is less than or
-equal to 4, valency = number of valence electrons
-If the number of valence electrons is more than 4,
-valency = 8 - number of valence electrons
-Atomic size decreases along a period. This is because
-(ii) Atomic size goes on decreasing along a period
-on moving across a period, the number of valence
-from left to right.
-shells remains the same and the electrons increase
-Metallic character decreases along a period due to
-by one unit. As a result, the nuclear charge increases
-decrease in tendency to lose electrons. 1 + 1 + 1
-and thus, the atomic radius decreases.
-[CBSE Marking Scheme, 2015]
-1+1+½+½
-Q. 6. Why is atomic number considered to be a more
-Q. 8. What is meant by ‘group’ in the modern periodic
-appropriate parameter than atomic mass for the
-table ? How do the following change on moving
-classification of elements in a periodic table ?
-from top to bottom in a group ?
-How does the metallic character elements vary
-(i) Number of valence electrons
-as we move (i) from left to right in a period,
-(ii) Number of occupied shells
-and (ii) top to bottom in a group in the modern
-(iii) Size of atoms
-periodic table ? Give reasons to justify your
-(iv) Metallic character of element
-answers ?
-[Foreign 31/2/1 2017]
-(v) Effective nuclear charge experienced by valence
-Ans. Atomic number is more important parameter
-electrons. [Board Term II, Outside Delhi Set II, 2014]
-than atomic mass as atomic number determines
-Ans.
-Vertical
-columns of the periodic table are known as
-the number of valence electrons which decide the
-groups.
-chemical properties of an atom of an element.
-1
-(i) The number of valence electrons remains constant
-Metallic character decreases from left to right in
-when we move down the group.
-a period, because the tendency to lose electrons
-(ii) The number of occupied shells increases down the
-decreases due to increased attraction between
-group.
-nucleus and valence electrons.
-½+½
-(iii)
-The
-size of atom increases down the group.
-Metallic character increases down the group, as
-the tendency to lose electrons increases, due to
-(iv) The metallic character of elements increases down
-decreased attraction between nucleus and valence
-the group.
-electrons because outermost electrons are farther
-(v) The effective nuclear charge decreases down the
-away.
-½+½
-group.
-½×6=3
-Q. 7. (a) Define the following terms :
-Q. 9. Write the number of periods the modern
-(i) Valency, (ii) Atomic size.
-periodic table has. State the changes in valency
-and metallic character of elements as we move
-(b) How do the valency and the atomic size of the
-from left to right in a period. Also state the
-elements vary while going from left to right along
-changes, if any, in the valency and atomic size
-a period in the modern periodic table ?
-of elements as we move down a group.
-[Board Term II, Delhi Set I, II, III, 2014]
-[Board Term II, Delhi Set III, 2015]
-Ans. (a) (i) Valency : The combining power or the 
-Ans. No. of periods : 7.
-½
-combining capacity of an atom is called its
-valency.
-Valency across a period increases from 1 to 4, then
-decreases from 4 to zero.
-1
-		
-(ii) Atomic size: Atomic size or atomic radius is the
-distance between the centre of the nucleus and
-Metallic character of elements across a period
-the outermost shell of an isolated atom.
-decreases.
-½
-(b) On moving from left to right in the periodic table,
-Valency remains the same down a group
-½
-valency increases up to 4 and then decreases.
-Atomic size of elements increases down a group. ½
-Q. 10.Na, Mg and Al are the elements of the 3rd period of the Modern Periodic Table having group number 1, 2 and
-13 respectively. Which one of these elements has the (a) highest valency, (b) largest atomic radius, and (c)
-maximum chemical reactivity ? Justify your answer stating the reason for each.		 [OD 31/1/2017]
-Ans.
-Ans. There are 18 groups and 7 periods in the modern
-periodic table.
-(i) Atomic size generally increases down a group due
-to the addition of new shell and metallic character
-also increases down a group due to the increase in
-tendency to lose electrons.
-
-120 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
 		
 Q. 11. Calcium is an element with atomic number 20.
 Stating reason for each of the following questions :
@@ -28050,12 +23934,6 @@ of potassium with atomic number 19 ?
 [Board Term II, Delhi Set I, 2016]
 Ans. (i) It is a metal.
 
-(iv) The formula of their oxides
-(v) Their metallic character
-(vi) The formula of their chlorides.
-[Board Term II, Delhi Set III, 2016]
-Ans. Sr. No.
-(i)
 
 ½
 
@@ -28102,6 +23980,12 @@ characteristics in tabular form :
 (i) Number of electrons in their atoms
 (ii) Size of their atoms
 (iii) Their tendencies to lose electrons
+(iv) The formula of their oxides
+(v) Their metallic character
+(vi) The formula of their chlorides.
+[Board Term II, Delhi Set III, 2016]
+Ans. Sr. No.
+(i)
 
 (ii)
 
@@ -28371,34 +24255,6 @@ Ans. (i) Ca = 2, 8, 8, 2
 ½
 [CBSE Marking Scheme, 2016]
 OR
-
-(iii) Which of these elements will form the most basic
-oxide ?
-[Board Term II, SQP, 2016]
-Ans. (i) Valence electrons in ‘D’ = 5 and Valency of
-‘D’ = 3.
-1
-(ii) ‘A’ will have largest atomic radii because atomic
-radius decreases across a period from left to right. 1
-(iii) ‘A’ will form the most basic oxide as it is most
-metallic.
-[CBSE Marking Scheme, 2016] 1
-Q. 24. “Electronegativity
-
-is the case of gaining
-electrons”.
-(a) Which type of elements will have high
-electronegativity ?
-(b) How does electronegativity change as we move
-(i) across a period
-(ii) down a group ?
-[Board Term II, Set-FF7NBE6, 2015]
-
-Ans. (a) Non-metals
-(b) (i) Increases
-(ii) Decreases
-
-[Topper Answer, 2016]
 Q. 22. Na, Mg and Al are the elements of the same
 
 period of modern periodic table having one,
@@ -28437,6 +24293,34 @@ Answer the following questions giving reasons :
 (i) What is the number of valence electrons and
 valency of D ?
 (ii) Which of them will have largest atomic radii ?
+
+(iii) Which of these elements will form the most basic
+oxide ?
+[Board Term II, SQP, 2016]
+Ans. (i) Valence electrons in ‘D’ = 5 and Valency of
+‘D’ = 3.
+1
+(ii) ‘A’ will have largest atomic radii because atomic
+radius decreases across a period from left to right. 1
+(iii) ‘A’ will form the most basic oxide as it is most
+metallic.
+[CBSE Marking Scheme, 2016] 1
+Q. 24. “Electronegativity
+
+is the case of gaining
+electrons”.
+(a) Which type of elements will have high
+electronegativity ?
+(b) How does electronegativity change as we move
+(i) across a period
+(ii) down a group ?
+[Board Term II, Set-FF7NBE6, 2015]
+
+Ans. (a) Non-metals
+(b) (i) Increases
+(ii) Decreases
+
+[Topper Answer, 2016]
 
 [CBSE Marking Scheme, 2015] 1 + 1 + 1
 Q. 25. Two elements ‘P‘ and ‘Q‘ belong to the same
@@ -28735,151 +24619,7 @@ Compounds of group 2 and group 16 elements :
 Formula of the compounds of group 2 and 16 is
 MN, where M is the group 2 element and
 N is the group 16 element.
-1+1+1
 
-(iii)
-
-Group
-
-A
-
-3
-
-17
-
-B
-
-4
-
-1
-
-(ii) Atomic number of A = 17
-Electronic configuration A = 2, 8, 7
-Number of valence electrons of A = 7
-Valency of A = 8 – 7 = 1
-Atomic number of B = 19
-Electronic configuration B = 2, 8, 8, 1
-Number of valence electrons of B = 1
-Valency of A = 1
-Element
-
-B
-
-A
-
-Valency
-
-1
-
-1
-
-So, the formula of the compound formed when
-elements A and B combine is BA.
-
-A
-
-B
-+
-
-B
-
-–
-
-A
-
-1+1+1
-Q. 34. The electrons in the atoms of four elements A,
-B, C and D are distributed in three shells having
-1, 3, 5 and 7 electrons in the outermost shell
-respectively. State the period in which these
-elements can be placed in the modern periodic
-table. Write the electronic configuration of the
-atoms of A and D and the molecular formula of
-the compound formed when A and D combine.
-
-[Board Term II, Outside Delhi Set I, 2014]
-Ans.
-Elements
-
-Valence
-electrons
-
-Period
-
-A
-
-1
-
-3
-
-B
-
-3
-
-3
-
-C
-
-5
-
-3
-
-D
-
-7
-
-3
-
-Electronic configuration of A : 1s2 2s2 2p6 3s1
-Electronic configuration of D : 1s2 2s2 2p6 3s2 3p5
-Molecular formula of the compound formed with A
-and D
-Atomic number of A = 11
-Electronic configuration A = 2, 8, 1
-Number of valence electrons of A = 1
-Valency of A = 1
-Atomic number of D = 17
-Electronic configuration D = 2, 8, 7
-Number of valence electrons of D = 7
-Valency of D = 8 – 7 = 1
-
-and ‘B’ (Atomic number 19) :
-(i) Write the positions of these elements in the
-modern periodic table giving justification.
-(ii) Write the formula of the compound formed when
-‘A’ combines with ‘B.’
-(iii) Draw the electron dot structure of the compound
-and state the nature of the bond formed between
-the two elements. 		
-[Board Term II, Delhi Set II, III, 2014]
-Ans. (i) Position of the elements in the periodic table :
-Period
-
-A
-
-Lewis Structure :
-
-Q. 33. Consider two elements ‘A’ (Atomic number 17)
-
-Element
-
-B +
-
-Element
-
-D
-
-A
-
-Valency
-
-1
-
-1
-
-So, the formula of the compound formed when
-elements A and D combine is AD.
-1+1+1
 Q. 35. Study the following table in which positions of
 six elements A, B, C, D, E and F are shown as they
 are in the modern periodic table :
@@ -29524,6 +25264,20 @@ attraction of electron by an isolated gaseous atoms.
 
 filled from group 1 to group 18 and the shell does
 not change.
+
+Q. 4. What is the basic difference between a group and a
+period in terms of electronic configuration ?
+3
+
+
+Ans. In a group, though the number of shells increases as
+we move downward, but the number of electrons
+in the outermost shell remains the same.
+
+In a period, as we move from left to right, the
+outermost shell or valence shell gets progressively
+
+ 	
 1½ + 1½
 Q. 5. An element ‘X’ is liquid, non-metallic. Can you
 predict its position in the periodic table ?
@@ -29569,192 +25323,6 @@ room temperature.
 (iv) The ionization potential decreases from X to Z
 because they belong to the same group in the
 descending order.
-1
-Q. 7. Table given below show a part of the Periodic Table
-H
-
-He
-
-Q. 4. What is the basic difference between a group and a
-period in terms of electronic configuration ?
-3
-
-Li
-
-Be
-
-B
-
-C
-
-N
-
-O
-
-F
-
-Ne
-
-Ans. In a group, though the number of shells increases as
-we move downward, but the number of electrons
-in the outermost shell remains the same.
-
-Na
-
-Mg
-
-Al
-
-Si
-
-P
-
-S
-
-Cl
-
-Ar
-
-In a period, as we move from left to right, the
-outermost shell or valence shell gets progressively
-
- 	
-Using this table explain why :
-(i) Li and Na are considered as active metals.
-
-[ 129
-
-PERIODIC CLASSIFICATION OF ELEMENTS
-
-Q. 9. An element has electronic configuration 2, 8, 7.
-(i) To which group and period of the periodic table
-does it belong ?
-(ii) What is atomic number of this element ?
-(iii) Is it metallic or non–metallic and why ?
-(iv) Identify the element.
-(v) Name an element chemically similar to this
-element.
-5
-Ans. (i) Group 17, Period 3.
-1
-(ii) 17.
-1
-(iii) It is non–metallic because it has 7 valence electrons.
-It can gain 1 electron easily forming negative ion. 1
-(iv) Chlorine.
-1
-(v) Bromine or Iodine or Fluorine are chemically similar
-to chlorine.
-1
-Q. 10. An element X which is a yellow solid at room
-temperature shows catenation and allotropy. X
-forms two oxides which are also formed during
-the thermal decomposition of ferrous sulphate
-crystals and are the major air pollutants.
-(i) Identify the element X.
-(ii) Write the electronic configuration of X.
-(iii) Write the balanced chemical equation for the
-thermal decomposition of ferrous sulphate
-crystals.
-(iv) What would be the nature (acidic / basic) of oxides
-formed ?
-(v) Locate the position of the element in the Modern
-Periodic table.
-[NCERT Exemplar] 5
-Ans. (i) ‘X‘ is Sulphur.
-1
-(ii) Electronic configuration of ‘X‘ is 2, 8, 6.
-1
-
-(iii) 2FeSO4 (s) heat
-
-→ Fe2O3(s) + SO2 (g) + SO3 (g).
-
-1
-
-(iv) SO2 and SO3 are acidic oxides.
-1
-rd
-(v) It belongs to group 16 and 3 period.
-1
-Q. 11. An element is placed in 2nd Group and 3rd Period
-of the Periodic Table, burns in presence or oxygen
-to form a basic oxide.
-(a) Identify the element
-(b) Write the electronic configuration
-(c) Write the balanced equation when it burns in the
-presence of air
-(d) Write a balanced equation when this oxide is
-dissolved in water
-(e) Draw the electron dot structure for the formation
-of this oxide.
-Ans. (a) Magnesium
-(b) 2, 8, 2
-(c) 2Mg + O2 → 2MgO
-(d) MgO(s) + H2O (e) → Mg(OH)2 (aq).
-(e)
-
-..
-
-O
-..
-
-+2
-
-Mg
-
-.. –2
-
-O
-..
-
-..
-..
-
-.
-
-Mg . +
-
-..
-
-(ii) Atomic size of Mg is less than that of Na
-(iii) Fluorine is more reactive than chlorine.
-5
-Ans. (i) They can lose electrons easier due to bigger size,
-energy required to remove electron is less.
-2
-(ii) It is because of greater effective nuclear charge in
-Mg.
-2
-(iii) Fluorine has very small size and just needs one
-electron to get itself into a stable configuration to
-that of noble gases. Hence, they react spontaneously
-with elements to achieve that stable state,
-contributing to its high reactivity.
-1
-Q. 8. An element belongs to 4th period and group 17 of
-the periodic table. Find out :
-(i) The number of valence electrons.
-(ii) Is it a metal or non–metal.
-(iii) The name of the element.
-(iv) Formula of its compound with hydrogen.
-(v) Electron dot structure of this element with
-calcium.
-5
-Ans. (i) 7.
-1
-(ii) It is a non–metal.
-1
-(iii) Bromine.
-1
-(iv) HBr (Hydrogen bromide).
-1
-.. . –
-2+
-.
-(v) CaBr2 (Ca ) (. Br
-1
-.. . )2.
 
 Q. 12. Atomic number of a few elements are given below
 10, 20, 7, 14
@@ -30986,7 +26554,6 @@ Respiration
 Very Short Answer Type Questions
 Q. 1. Define breathing.
 
-Q. 4. Name the respiratory pigment in human beings.
 
 Ans. A physical process by which oxygen is taken in and
 carbon dioxide is given out is called breathing.
@@ -31003,6 +26570,7 @@ respiration ?
 
 Ans. Plants perform photosynthesis for utilising CO2. 1
 
+Q. 4. Name the respiratory pigment in human beings.
 Where is this pigment found ?
 [Board Term I, Set-WH1SGOB, 2014]
 Ans. The respiratory pigment in human being is
@@ -31016,78 +26584,6 @@ cell.
 1
 
 Short Answer Type Questions-I
-Q. 1. Write the equation for the process of breakdown
-
-of glucose in a cell :—
-
-(a)
-
-in the presence of Oxygen
-
-(b)
-
-in the absence of Oxygen
-
-[DDE 2017]
-
-Presence of
-
-		
-
-Ans.
-Exhalation
-
-During inhalation the tho- Thoracic cavity contracts.
-racic cavity (chest cavity)
-expands.
-Ribs lift up.
-
-Ribs move downwards.
-
-C2H5OH + CO2 + Energy
-
-Diaphragm become flat in
-shape.
-
-Diaphragm becomes
-dome shaped.
-
-1+1
-
-Volume of lungs increases
-and air enters the lungs
-
-Volume of lungs decreases
-and air exits from the
-lungs.
-
-(Ethanol)
-
-Q. 2. Write the differences between inhalation and
-
-exhalation.
-
-(2 marks each)
-
-Inhalation
-
-→ CO2 + H2O + Energy
-Ans. (a) C6 H12 O6 
-Oxygen
-Absence of
-→
-(b) C6H12O6 + O2 
-Oxygen
-
-(1 mark each)
-
-[DDE 2017]
-
-½+½+½+½
-
-[ 141
-
-LIFE PROCESSES
 
 Q. 3. Explain the cause of cramps after excessive
 
@@ -31435,85 +26931,6 @@ Diaphragm
 		
 [CBSE Marking Scheme, 2012]
 
-Q. 2. Draw a diagram of human respiratory system
-
-and label the following :
-
-Ans.
-
-(i) part where air is filtered by fine hair and mucus.
-
-S.
-No.
-
-(ii) part which terminates in balloon-like structures.
-
-(i)
-
-Aerobic respiration takes Anaerobic
-place in the presence of respiration takes
-oxygen.
-place in the absence
-of oxygen.
-
-(ii)
-
-Complete
-breakdown Partial or incomplete
-of food occurs in this breakdown of food
-process.
-occurs in the process.
-
-(iii)
-
-The end products are The end products
-carbon dioxide (CO2) may be ethyl alcohol,
-CO2 or lactic acid.
-and water (H2O).
-
-(iv)
-
-It produces a considerable amount of energy
-due to complete oxidation of food.
-
-(iii) balloon-like structures where exchange of gases
-takes place.
-(iv) part which separates chest cavity from abdominal
-cavity.
-Ans. See diagram Ans. 1 (Long questions) Pg. 143
-
-3
-
-(i) Nasal passage
-(ii) Bronchioles
-(iii) Alveoli
-(iv) Diaphragm.
-
-2
-
-Q. 3. What are differences between aerobic and
-
-anaerobic respiration ? Name some organisms
-that use the anaerobic mode of respiration ?
-[NCERT]
-
-Aerobic Respiration
-
-Anaerobic
-Respiration
-
-Much less energy
-is produced due
-to
-incomplete
-oxidation of food.
-
-144 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Organism that use the anaerobic mode of respiration
-are yeast, some bacteria and some parasite. 4 + 1
 Q. 4. (i) Draw the diagram of cross section of a leaf
 and label the following parts :
 			 (a) chloroplast
@@ -31583,18 +27000,6 @@ intestine.
 Q. 6. Name
 
 the
-transport :
-
-heart in humans?
-[KVS 2017]
-Ans. The four-chambered heart allows us to send our
-deoxygenated blood to the the lungs and our clean
-blood to the rest of the body without mixing the
-two. The blood coming from the left side of the
-heart is oxygenated and ready to fuel the muscles.
-The blood coming to the right side of the heart is
-collected from all over the body is deoxygenated
-and carried towards the lungs for oxygenation. 2
 
 component
 
@@ -31603,6 +27008,7 @@ of
 blood
 
 which
+transport :
 
 (i) Food, carbon dioxide and nitrogenous wastes
 (ii) Oxygen.
@@ -31625,6 +27031,17 @@ Ans. Transpiration
 
 Short Answer Type Questions-I
 Q. 1. What is the advantage of a four chambered
+
+heart in humans?
+[KVS 2017]
+Ans. The four-chambered heart allows us to send our
+deoxygenated blood to the the lungs and our clean
+blood to the rest of the body without mixing the
+two. The blood coming from the left side of the
+heart is oxygenated and ready to fuel the muscles.
+The blood coming to the right side of the heart is
+collected from all over the body is deoxygenated
+and carried towards the lungs for oxygenation. 2
 
 (1 mark each)
 
@@ -31770,11 +27187,7 @@ Ans. Differences between arteries and veins :
 S. No.
 
 [Board Term I, Set (40), 2012]
-
-Ans. The loss of water in the form of vapour from
-the aerial parts of the plants is known as
-transpiration.
-1
+Arteries
 
 Veins
 
@@ -31815,7 +27228,11 @@ does not get mixed up with deoxygenated blood. 2
 Short Answer Type Questions-II
 Q. 1. Define transpiration. State its two functions.
 
-Arteries
+Ans. The loss of water in the form of vapour from
+the aerial parts of the plants is known as
+transpiration.
+1
+
 
 (3 marks each)
 
@@ -32037,9 +27454,30 @@ heavy physical work.
 3
 Q. 10. List the three kinds of blood vessels of human
 
+circulatory system and write their functions in
+tabular form.
+[Board Term I Set-36, 2012]
+
+Ans.
+S. No.
+(i)
+
+Blood Vessels
+Arteries
+
+Function
+They carry blood away from
+the heart to various organs of
+the body.
+
+
 (ii)
 
 Veins
+
+They collect blood from
+different organs and bring it
+back to the heart.
 
 (iii)
 
@@ -32077,27 +27515,6 @@ Q. 12. Plants absorb water from the soil. Explain how
 does the water reach the tree top ?
 [Board Term I, Set-JYNE6XG, 2015
 Board Term I, Set-IN14KGB, 2014]
-
-circulatory system and write their functions in
-tabular form.
-[Board Term I Set-36, 2012]
-
-Ans.
-S. No.
-(i)
-
-Blood Vessels
-Arteries
-
-Function
-They carry blood away from
-the heart to various organs of
-the body.
-
-They collect blood from
-different organs and bring it
-back to the heart.
-
 Ans. Xylem (vessels) of roots, stems and leaves are interconnected to form a continuous column. Roots
 also take up mineral salts actively, water moves in
 and as a result, creating pressure which pushes the
@@ -32158,34 +27575,34 @@ Septum
 (b) (i)
 Q. 2. (a) State two advantages of transpiration to the
 plant body.
+(b) (i) List in tabular form, two ways in which
+‘transpiration’ is different from ‘translocation.’
+(ii) Why do plants have a slow transport system ?
+Ans. (a) Two advantages :
+(i) Helps in absorption and upward movement of
+water and minerals from roots to the leaves.
+(ii) Temperature regulation.
 S. No.
 Transpiration
 Translocation
-(b) (i) List in tabular form, two ways in which
 (i)
-Plays role in transport It is a transport of soluble
-‘transpiration’ is different from ‘translocation.’
-of water and minerals products of photosynthesis.
-(ii) Why do plants have a slow transport system ?
+Plays role in transport 
+of water and minerals 
+It is a transport of soluble
+products of photosynthesis.
 (ii) Occurs through
-Occurs through phloem
-
-[Board Term I, Set-48, 2012]
 xylem by simple
-in the form of sucrose by
 physical forces.
+Occurs through phloem
+in the form of sucrose by
 utilising energy.
 [NCERT Exemplar 2017]
 2
-Ans. (a) Two advantages :
 (ii) Because plants have a large proportion of dead cells
-(i) Helps in absorption and upward movement of
 in many tissues, they have low energy needs. So
-water and minerals from roots to the leaves.
 1
 they use a slow transport system.
 1
-(ii) Temperature regulation.
 1
 
 TOPIC-4
@@ -32209,10 +27626,6 @@ they synthesise crystals of uric acid from their
 
 ammonia.
 
-organisms remove their wastes ?
-[Board Term I, Set(13), 2011]
-Ans. The biological process which involves the removal
-
 1
 
 Q. 4. Mention the respiratory unit of lungs and
@@ -32233,6 +27646,10 @@ tubule.
 
 Short Answer Type Questions-I
 Q. 1. What is excretion ? How do unicellular
+
+organisms remove their wastes ?
+[Board Term I, Set(13), 2011]
+Ans. The biological process which involves the removal
 
 (1 mark each)
 
@@ -32452,16 +27869,6 @@ Ans. (a)
 
 (5 marks each)
 
-(iii) Write any one function of an Artificial Kidney.
-[Board Term I, Set-5X7289R, 2014]
-Ans. (i)
-Bowman's
-capsule Glomerulus
-
-Capillaries
-
-Renal Artery
-
 Right renal artery
 
 Collecting duct
@@ -32494,6 +27901,16 @@ Bowman’s capsule, Glomerulus, Collecting
 duct, Renal artery.
 (ii) Write the important function of the structural and
 functional unit of kidney.
+
+(iii) Write any one function of an Artificial Kidney.
+[Board Term I, Set-5X7289R, 2014]
+Ans. (i)
+Bowman's
+capsule Glomerulus
+
+Capillaries
+
+Renal Artery
 
 3
 Uriniferous tubule with its blood vessels
@@ -33589,15 +29006,6 @@ acts as an essential hormone for the ripening of
 fruits.
 (Any three)
 
-Ans.
-Auxis are formed in apical
-meristem
-Auxin promotes cell
-enlargement
-Auxin inhibits development
-of lateral bud
-Auxin promotes cell
-division
 
 Q. 7. How do auxins promotes the growth of a tendril
 
@@ -33657,6 +29065,15 @@ of auxins in different parts of a plant.
 
 [Board Term-I, Set-IN14KGB, 2014]
 
+Ans.
+Auxis are formed in apical
+meristem
+Auxin promotes cell
+enlargement
+Auxin inhibits development
+of lateral bud
+Auxin promotes cell
+division
 Auxin are found in apical
 meristem
 
@@ -33818,17 +29235,6 @@ Very Short Answer Type Questions
 
 Q. 1. Name two tissues which provide control and
 
-Q. 4. Name the largest cell present in the human
-
-Ans. Cranial nerves arising from the brain and the
-spinal nerves arising from the spinal cord.
-[CBSE Marking Scheme 2016] 1
-
-Ans. Medulla in the hind brain
-[CBSE Marking Scheme 2016] 1
-Q. 6. Name the part of the brain which controls
-posture and balance of the body.
-[Board Term-I, Set-18, 2012]
 
 co-ordination in animals.
 [DDE – 2014]
@@ -33843,6 +29249,11 @@ Ans. Brain and spinal cord.
 Q. 3. Name the two components of peripheral
 nervous system.
 [ Board Term I Set-1Z2SVLH, 2016]
+Ans. Cranial nerves arising from the brain and the
+spinal nerves arising from the spinal cord.
+[CBSE Marking Scheme 2016] 1
+Q. 4. Name the largest cell present in the human
+
 
 body.
 [Board Term-I, Set-56, 2011]
@@ -33853,7 +29264,12 @@ the involuntary actions like blood pressure,
 salivation etc.
 [Board Term I Set OXKPLGV, 2016]
 
-162 ]
+Ans. Medulla in the hind brain
+[CBSE Marking Scheme 2016] 1
+Q. 6. Name the part of the brain which controls
+posture and balance of the body.
+[Board Term-I, Set-18, 2012]
+
 Ans. Cerebellum.
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
@@ -34002,12 +29418,6 @@ Ans.
 
 [Board Term-I Set-2ZGOVVV, 2015]
 
-insulin which leads to the fall off sugar level.
-
-2
-
-Q. 14. The hormones of pancreas are antagonistic in
-
 ½+½+½+½
 
 Q. 8. Write the main functions of the following :
@@ -34078,6 +29488,12 @@ level ?
 Ans. Timing and amount of hormone released are
 regulated by feed back mechanisms. If sugar level in
 blood rises, cells of pancreas detect and secrete more
+
+insulin which leads to the fall off sugar level.
+
+2
+
+Q. 14. The hormones of pancreas are antagonistic in
 
 nature. How ?
 Ans. The hormones of pancreas function in opposite
@@ -34150,19 +29566,6 @@ of iodine in the diet can cause a deficiency of
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-(c)
-
-Name the endocrine gland associated with
-kidneys ?
-(d)
-Which endocrine gland is present in males but
-not in females ?
-[NCERT Exemplar 2017]
-Ans. (a) Pituitary gland
-(b) Pancreas
-(c) Adrenal
-(d) Testes.
-½+½+½+½
 
 thyroxine hormone in the body. The deficiency of
 iodine in the diet of a person produces less thyroxine
@@ -34176,6 +29579,19 @@ brain ?
 Which gland secretes digestive enzymes as well
 as hormones ?
 
+(c)
+
+Name the endocrine gland associated with
+kidneys ?
+(d)
+Which endocrine gland is present in males but
+not in females ?
+[NCERT Exemplar 2017]
+Ans. (a) Pituitary gland
+(b) Pancreas
+(c) Adrenal
+(d) Testes.
+½+½+½+½
 Short Answer Type Questions-II
 
 (3 marks each)
@@ -34268,6 +29684,76 @@ falls, insulin secretion is reduced.
 
 Q. 5. Which hormone is known as emergency
 
+hormone in our body ? How it helps in coping
+during emergency.
+[DDE 2017]
+Ans. Adrenaline is a hormone made by the adrenal
+medulla. It plays a vital role in helping our body
+deal with emergencies. Adrenaline is also known as
+epinephrine.
+It initiates quick action which makes the individual
+to think and respond quickly to the stress. The
+hormone increases metabolic rate. There occurs
+dilation of blood vessels going to heart and brain.
+The blood vessels reaching skin and kidneys
+constrict in order to provide more blood to the
+heart and the brain. It also increase fat metabolism
+thereby synthesising more energy.
+1+2
+Q. 6. (a) Identify the glands that secrete :
+(i) insulin
+(ii) thyroxin.
+(b) Explain with an example how the timing and
+amount of hormone secreted are regulated in the
+human body.
+[Board Term-I, Set-18, 2012]
+Ans. (a) (i) Insulin is secreted by pancreas.
+½
+			
+(ii) Thyroxin is secreted by thyroid gland.
+½
+(b) The timing and amount of hormone released are
+regulated by feedback mechanism.
+1
+Example : If the sugar level in blood rise, they
+are detected by the cells (Islets of Langerhans)
+of pancreas which respond by producing more
+insulin.
+1
+Q. 7. Name a hormone secreted by :
+(i) Pancreas
+(ii) Pituitary
+(iii) Thyroid.
+State one function of each of the hormones.
+[Board Term-I Set-39, 2012]
+
+Ans. (i) Pancreas secretes hormone insulin. It helps in
+regulating the blood sugar level.
+(ii) Pituitary secretes growth hormone. It regulates
+growth and development of the body.
+(iii) Thyroid secretes thyroxine hormone. It regulates
+carbohydrates, protein and fat metabolism in the
+body so as to provide the best balance for growth.
+		
+[CBSE Marking Scheme, 2012] 1 + 1 + 1
+Q. 8. (a) An old man is advised by his doctor to
+take less sugar in his diet. Name the disease
+from which the man is suffering. Mention
+the hormone due to imbalance of which he is
+suffering from this disease. Which endocrine
+gland secretes this hormone ?
+(b) Name the endocrine gland which secretes growth
+hormone. What will be the effect of the following
+on a person :
+(i) Deficiency of growth hormone.
+(ii) Excess secretion of growth hormone.
+[Board Term-I Set-WDCXXOV, 2016]
+Ans. (a) The man is suffering from Diabetes mellitus.
+Hormone is Insulin.
+Endocrine gland that secretes insulin is pancreas. 1½
+(b) The endocrine gland which secretes growth
+hormone is pituitary gland.
+
 (i) Deficiency of growth hormone causes dwarfism.
 (ii) Excess secretion of growth hormone causes
 gigantism.
@@ -34309,81 +29795,11 @@ our diet ?
 iodine and mention its main symptom.
 [Board Term-I Set-40, 2012]
 
-Ans. (i) Pancreas secretes hormone insulin. It helps in
-regulating the blood sugar level.
-(ii) Pituitary secretes growth hormone. It regulates
-growth and development of the body.
-(iii) Thyroid secretes thyroxine hormone. It regulates
-carbohydrates, protein and fat metabolism in the
-body so as to provide the best balance for growth.
-		
-[CBSE Marking Scheme, 2012] 1 + 1 + 1
-Q. 8. (a) An old man is advised by his doctor to
-take less sugar in his diet. Name the disease
-from which the man is suffering. Mention
-the hormone due to imbalance of which he is
-suffering from this disease. Which endocrine
-gland secretes this hormone ?
-(b) Name the endocrine gland which secretes growth
-hormone. What will be the effect of the following
-on a person :
-(i) Deficiency of growth hormone.
-(ii) Excess secretion of growth hormone.
-[Board Term-I Set-WDCXXOV, 2016]
-Ans. (a) The man is suffering from Diabetes mellitus.
-Hormone is Insulin.
-Endocrine gland that secretes insulin is pancreas. 1½
-(b) The endocrine gland which secretes growth
-hormone is pituitary gland.
-
 Ans. (i) The hormone secreted by thyroid gland is
 thyroxin. It regulates carbohydrate, protein and fat
 metabolism in the body so as to provide the best
 balance for growth.
 1
-
-hormone in our body ? How it helps in coping
-during emergency.
-[DDE 2017]
-Sol. Adrenaline is a hormone made by the adrenal
-medulla. It plays a vital role in helping our body
-deal with emergencies. Adrenaline is also known as
-epinephrine.
-It initiates quick action which makes the individual
-to think and respond quickly to the stress. The
-hormone increases metabolic rate. There occurs
-dilation of blood vessels going to heart and brain.
-The blood vessels reaching skin and kidneys
-constrict in order to provide more blood to the
-heart and the brain. It also increase fat metabolism
-thereby synthesising more energy.
-1+2
-Q. 6. (a) Identify the glands that secrete :
-(i) insulin
-(ii) thyroxin.
-(b) Explain with an example how the timing and
-amount of hormone secreted are regulated in the
-human body.
-[Board Term-I, Set-18, 2012]
-Ans. (a) (i) Insulin is secreted by pancreas.
-½
-			
-(ii) Thyroxin is secreted by thyroid gland.
-½
-(b) The timing and amount of hormone released are
-regulated by feedback mechanism.
-1
-Example : If the sugar level in blood rise, they
-are detected by the cells (Islets of Langerhans)
-of pancreas which respond by producing more
-insulin.
-1
-Q. 7. Name a hormone secreted by :
-(i) Pancreas
-(ii) Pituitary
-(iii) Thyroid.
-State one function of each of the hormones.
-[Board Term-I Set-39, 2012]
 
 (ii) Iodine is necessary for the thyroid gland to make
 thyroxin hormone.
@@ -34446,6 +29862,14 @@ is Taste detection. (any three)
 1+1+1
 Q. 15. (a) Draw the structure of neuron and label cell
 
+body and axon.
+
+(b) Name the part of neuron :
+(i) where the information is required.
+(ii) through which information travels as an electrical
+impulse.
+[(NCERT) Board Term-I Set-37, 2012]
+
 Ans. (a)
 Cell body [Cyton]
 
@@ -34474,14 +29898,6 @@ system ? Name the components of this nervous
 system and distinguish between the origin of the
 two.
 [Board Term-I Set-15, 2012]
-
-body and axon.
-
-(b) Name the part of neuron :
-(i) where the information is required.
-(ii) through which information travels as an electrical
-impulse.
-[(NCERT) Board Term-I Set-37, 2012]
 
 Ans. (a) (i) Voluntary action – Cerebellum, (ii) Involuntary
 action – Medulla.
@@ -34522,18 +29938,6 @@ Action
 Effector
 (Muscles/glands)
 
-Q. 18. In the given diagram of reflex arc :
-
-(i) Name the parts labelled A, B, C, D and E.
-(ii) Write the functions of B and E
-[Board Term-I Set-43, 2012]
-
-Motor neuron
-1 + ½ + 1½
-
-[ 167
-
-CONTROL AND CO-ORDINATION
 
 Q. 20. Mention one role of each of the following :
 
@@ -34559,50 +29963,20 @@ pressure, salivation and vomiting.
 		
 [CBSE Marking Scheme, 2012]
 
-(C)
-(D)
-(E)
-
-Ans. (i) A — receptor
-		
-B — sensory neuron / nerve
-½
 Q. 21. Name the main thinking part of the human
-		
-C — relay neuron / interneuron
-½
 brain. List four major functions (other than
-		
-D — motor neuron / nerve
-½
 thinking) of this part.
-		
-E — effector
-½
 [Board Term-I Set-52, 2012]
-(ii) B — Carries impulse from receptor to spinal
-cord
-½
 Ans. Fore brain is the main thinking part of human
-E — Responds to stimulus
-½
 brain.
 1
 [CBSE Marking Scheme, 2012]
 Other Functions :
-Q. 19. (i) Identify the endocrine glands A, B, C, D, E
 (i) Hearing, smell and sight
-½
-and F in the given diagram.
 (ii) Storing information
-½
-(ii) List the functions of parts D and F.		
 (iii) Movement of voluntary muscles
-½
-[Board Term-I, Set-44, 2012]
 (iv) Sensation of feeling hunger or satiety.
-½
-		
+
 [CBSE Marking Scheme, 2012]
 Q. 22. Name the hormone that is secreted by our
 
@@ -34639,27 +30013,6 @@ Q. 23. For a receiving tennis player, what is the path
 
 from the stimulus to the response ? [DDE-2014]
 
-(F)
-
-Ans. (i) A — Pituitary
-B — Thyroid
-C — Adrenal
-D — Pancreas
-E — Ovary
-F — Testis.
-
-[Board Term-I Set-45, 2012]
-
-2
-
-(ii) Pancreas : Secrete insulin which controls amount
-of sugar in blood.
-½
-Testis : Secrete testosterone which controls sperm
-production/secondary sexual character.
-½
-		
-[CBSE Marking Scheme, 2012]
 
 Ans. Eye receive stimulus, i.e., vision of ball. Receptor
 receives stimulus and stimulates nerve endings.
@@ -35042,25 +30395,16 @@ development.
 and
 
 Q. 10. (a) Define hormone. Write any four characteristics
-
-(b) How does our body respond when adrenaline is
-secreted into the blood ?
+of hormones in humans.
 
 (b) Name the disorder caused by following situations
 
-(c) Cite an example to explain the feedback mechanism
-for regulation of hormonal secretion.
-
-of hormones in humans.
 
 (i) Under secretion of growth hormone.
 
 [Board Term-I, Set-A1, 2010]
 
 (ii) Over secretion of growth hormone.
-
-Ans. (a) Insulin : Regulates sugar metabolism, maintain
-blood sugar level.
 
 (iii) Under secretion of insulin.
 (iv) Deficiency of Iodine.
@@ -35070,38 +30414,32 @@ organisms and also their growth.
 Characteristics of hormones are :
 (i) They are chemical messengers
 
-Blood supply to digestive system and skin is reduced
-and more blood is passed to skeletal muscles.
-1
+(ii) Regulate behaviour of target cells.
+
 
 (iii) They stimulate the target organs.
 (iv) They are proteinaceous or non-proteinaceous in
 nature.
-(b) (i) Dwarfism
 
-(c) The timing and amount of hormone released are
-regulated by feedback mechanism.
-1
-Example : When sugar level in blood rises more
-insulin is secreted. Insulin removes extra glucose
-from the blood by converting into glycogen.
-1
+(b) (i) Dwarfism
 
 		(ii) Tallness
 		(iii) Diabetes
 3+2
+		(iv) Goitre
 
 Q. 11. (a) Name two hormones secreted by pancreas.
 
 Write one function of each hormone.
 
-1
+(b) How does our body respond when adrenaline is
+secreted into the blood ?
 
-Breathing increases. This makes more O2 available.
+(c) Cite an example to explain the feedback mechanism
+for regulation of hormonal secretion.
 
-(ii) Regulate behaviour of target cells.
-
-		(iv) Goitre
+Ans. (a) Insulin : Regulates sugar metabolism, maintain
+blood sugar level.
 
 Glucagon : Increases blood sugar level.
 
@@ -35111,6 +30449,21 @@ glucose to our muscle. In liver, glycogen changes
 into glucose.
 1
 
+1
+
+Breathing increases. This makes more O2 available.
+
+Blood supply to digestive system and skin is reduced
+and more blood is passed to skeletal muscles.
+1
+
+(c) The timing and amount of hormone released are
+regulated by feedback mechanism.
+1
+Example : When sugar level in blood rises more
+insulin is secreted. Insulin removes extra glucose
+from the blood by converting into glycogen.
+1
 Falling glucose level reduces insulin secretion by
 pancreas.
 
@@ -35887,14 +31240,13 @@ fission that occurs along a definite orientation
 related to the whip like structure at one end of the
 cell.
 [CBSE Marking Scheme, 2014] 1 + 1
-Q. 9. Draw a labelled diagram to illustrate budding
 
-in Hydra.
+Q. 10. Fallen leaves of ‘Bryophyllum’ on the ground
 
-[Board Term II, O.D. Set III, 2014
-Foreign Set I, II, III, O.D. I, 2013]
-
-Ans.
+produce new plants whereas the leaves of rose
+do not ? Explain this difference between the two
+plants.
+[Board Term II, Set (2016) 2012]
 
 Ans. In Bryophyllum, vegetative propagation occur
 through leaves where buds occur.
@@ -35949,13 +31301,6 @@ Tentacles
 Q. 13. Why does bread mould grow profusely on a
 
 2
-Q. 10. Fallen leaves of ‘Bryophyllum’ on the ground
-
-produce new plants whereas the leaves of rose
-do not ? Explain this difference between the two
-plants.
-[Board Term II, Set (2016) 2012]
-
 moist slice of bread rather than on a dry slice of
 bread ?
 [NCERT Exemplar 2017]
@@ -35997,29 +31342,27 @@ OR
 
 [Topper Answer, O.D. Set 1, 2017]
 Q. 2. What is vegetative propagation ? When is it
+used ? List two uses.[Board Term II, 2015, 2012],
 
-		
+Ans. It is an asexual method of reproduction. In this
+process, vegetative part of a plant body such as
+stem, leaves, bulbs, tubers are used for growing
+new plants by cutting, grafting and layering which
+are identical to parents.
 It is used to grow :
 (i) Plants that have lost the capacity to produce seeds.
 (ii) Plants which are genetically similar enough to the
 parent plants.
-½+½
-Ans. It is an asexual method of reproduction. In this
-process, vegetative part of a plant body such as
-(iii) Superior quality of plants can be obtained.
-stem, leaves, bulbs, tubers are used for growing
+½+½(iii) Superior quality of plants can be obtained.
 (iv) It is cheaper, easier and more rapid method of
-new plants by cutting, grafting and layering which
 propagation.
 (Any two)
-are identical to parents.
 2
 		
 [CBSE Marking Scheme, 2012]
 Q. 3. Define reproduction. How does it help in providing stability to the population of species ?
 
 [NCERT] [Board Term II O.D. Set-I, 2016]
-used ? List two uses.[Board Term II, 2015, 2012],
 [Board Foreign Set III, 2014]
 
 Ans. Reproduction : It is a (biological) process by which new individuals of the same species are produced by the
@@ -36070,6 +31413,25 @@ the main difference between fission and
 fragmentation. Also give one example of each.
 [Board Term-II O.D. Set II, 2016]
 
+Ans. Fission : It is the method of asexual reproduction
+in unicellular forms of life.
+In this process the parent organism splits to form
+two or more daughter cells.
+Example : Amoeba / Plasmodium / Paramecium.
+(Or any other relevant example) 1, ½
+Fragmentation : It is the process found in
+multicellular organisms. The filament breaks up
+into two or more pieces upon maturation. These
+pieces then grow into new individuals
+Example : Spirogyra.
+Detailed Answer :
+Fission : It is defined as the splitting of a
+unicellular organism into two or more than two
+separate daughter cells. It is the most common
+and simplest method of asexual reproduction
+3
+in unicellular organisms, such as bacteria and
+
 Protozoa. Generally it is of two types i.e. binary and
 multiple fission. In binary fission, parent organism
 divides into two identical daughter organism with
@@ -36093,46 +31455,27 @@ Q. 6. What happens when :
 (c) On maturation sporangia of Rhizopus bursts ?
 [Delhi Set 1, 2017]
 
-Ans. Fission : It is the method of asexual reproduction
-in unicellular forms of life.
-In this process the parent organism splits to form
 Ans. (a) Each piece regenerates into new Planaria. 1
-two or more daughter cells.
 (b) Bud, at its notches develop into new plants.
 1
-Example : Amoeba / Plasmodium / Paramecium.
 (c) It releases spores which germinate into new
-		
-(Or any other relevant example) 1, ½
 mycelium in moist conditions.
-1
-Fragmentation : It is the process found in
-		
-[Marking Scheme 2017]
-multicellular organisms. The filament breaks up
+	
 Detailed Answer :
-into two or more pieces upon maturation. These
 (i) When Planaria gets cut into many pieces, each piece
-pieces then grow into new individuals
 regenerates into a new Planarian organism.
-Example : Spirogyra.
 1½
 (ii) When Bryophyllum leaf falls on the wet soil, the
-		
-[CBSE Marking Scheme, 2016]
 buds that are produced in the notches along the leaf
-Detailed Answer :
 will develop into new plants by the process known
-Fission : It is defined as the splitting of a
 as vegetative propagation.
-unicellular organism into two or more than two
 (iii) When the sporangia of Rhizopus burst upon
-separate daughter cells. It is the most common
 maturation, it releases spores which germinate into
-and simplest method of asexual reproduction
 new mycelium in moist conditions.
-3
-in unicellular organisms, such as bacteria and
+	
+1
+		
+[Marking Scheme 2017]
 Q. 7. Explain the term “Regeneration” as used in relation to reproduction of organisms. Describe briefly how
 regeneration is carried out in multicellular organisms like Hydra.
 		 [O.D. Set I, 2016]
@@ -36198,6 +31541,26 @@ process is known as regeneration. The diagram
 illustrating the process of regeneration in Planaria
 is given below.
 
+Regeneration of Planaria
+(ii) Specialized cells or Regenerative cells.
+		
+
+2
+1
+
+[CBSE Marking Scheme, 2015]
+
+Q. 10. The process of spore formation takes place in
+
+many simple multicellular organisms which
+have certain reproductive parts that can be
+identified.
+(i) Name the organism using this process.
+(ii) Name the reproductive and non-reproductive
+parts of such organisms.
+[Board Term II Set GFUTB86, 2015]
+
+
 Ans. (i) Rhizopus.
 (ii) Reproductive part-Sporangia.
 		
@@ -36238,26 +31601,6 @@ Spore formation in Rhizopus
 1
 
 Q. 12. What is asexual reproduction ? Write the process
-
-Regeneration of Planaria
-(ii) Specialized cells or Regenerative cells.
-		
-
-2
-1
-
-[CBSE Marking Scheme, 2015]
-
-Q. 10. The process of spore formation takes place in
-
-many simple multicellular organisms which
-have certain reproductive parts that can be
-identified.
-(i) Name the organism using this process.
-(ii) Name the reproductive and non-reproductive
-parts of such organisms.
-[Board Term II Set GFUTB86, 2015]
-
 of budding in Hydra.
 [Delhi Comptt. 31/1/1, 2017]
 
@@ -36290,26 +31633,21 @@ developing into tiny individuals detach from the
 body of the parent to become new individuals. 1+2
 Q. 13. The picture given below depicts the process of
 asexual reproduction in Plasmodium.
+(i) Name the process depicted above and define it.
+(ii) What is meant by asexual reproduction ?
+Ans. (i) Multiple Fission.
+		
+It is a division of single-celled organisms into many
+daughter cells simultaneously.
+(ii) Creation of a new generation from a single
+individual or a single parent is involved. 1 + 1 + 1
+		
+
+[CBSE Marking Scheme, 2015]
+
+Q. 14. Colonies of yeast fail to multiply in water, but
+
 [Board Term II, Set-FF7NBE6, 2015]
-
-Q. 16. Can you consider cell division as a type of
-
-reproduction in unicellular organism ? Give
-one reason.
-[NCERT Exemplar, 2017]
-Ans. Yes, because it results in the formation of two
-daughter cells, that is, it results in the production of
-more individuals of the organism.
-2
-Q. 17. What is reproduction ? Explain two advantages
-of
-sexual
-reproduction
-over
-asexual
-reproduction.
-
-[Delhi Comptt. 31/1/3, 2017]
 
 multiply in sugar, solution. Give reason why ?
 [NCERT Exemplar, 2017]
@@ -36333,6 +31671,39 @@ reproduction ?
 OR
 Why is DNA copying an essential part of the
 process of reproduction ?
+
+Ans. DNA copying is essential because it makes possible
+the transmission of characters from parents to the
+next generation.
+1
+		
+Advantages of sexual reproduction over asexual
+reproduction-Sexual reproduction gives rise to
+variations; which are essential for evolution as
+well as survival of species under unfavourable
+conditions.
+1+1
+		
+[CBSE Marking Scheme, 2015]
+
+Q. 16. Can you consider cell division as a type of
+
+reproduction in unicellular organism ? Give
+one reason.
+[NCERT Exemplar, 2017]
+Ans. Yes, because it results in the formation of two
+daughter cells, that is, it results in the production of
+more individuals of the organism.
+2
+Q. 17. What is reproduction ? Explain two advantages
+of
+sexual
+reproduction
+over
+asexual
+reproduction.
+
+[Delhi Comptt. 31/1/3, 2017]
 
 Ans. Reproduction : It is a (biological) process by which
 new individuals of the same species are produced
@@ -36386,20 +31757,6 @@ one reproducing sexually ? Justify your answer.
 
 [Board Term-II, Foreign Set-I, 2015]
 
-Ans. DNA copying is essential because it makes possible
-the transmission of characters from parents to the
-next generation.
-1
-		
-Advantages of sexual reproduction over asexual
-reproduction-Sexual reproduction gives rise to
-variations; which are essential for evolution as
-well as survival of species under unfavourable
-conditions.
-1+1
-		
-[CBSE Marking Scheme, 2015]
-
 Ans.  Asexual reproduction does not involve genetic
 fusion while sexual reproduction involves fusion
 of male and female gametes to form a zygote.
@@ -36412,20 +31769,6 @@ variations which are essential for evolution as
 well as survival of species under unfavourable
 conditions.
 [CBSE Marking Scheme, 2015] 1
-
-(i) Name the process depicted above and define it.
-(ii) What is meant by asexual reproduction ?
-Ans. (i) Multiple Fission.
-		
-It is a division of single-celled organisms into many
-daughter cells simultaneously.
-(ii) Creation of a new generation from a single
-individual or a single parent is involved. 1 + 1 + 1
-		
-
-[CBSE Marking Scheme, 2015]
-
-Q. 14. Colonies of yeast fail to multiply in water, but
 
 [ 183
 
@@ -36443,13 +31786,6 @@ new plants.
 1
 Four advantages :
 
-grafting.
-
-(b) List any two benefits to an organism that
-reproduces through spores ?
-[Board Term II, Set (2044), 2012]
-Ans. (a) Rose / Sugarcane, Grapes.
-
 (i) Plants can bear flowers and fruits earlier than
 those produced from seeds
 (ii) Plants that have lost the capacity to produce viable
@@ -36457,8 +31793,6 @@ seeds can be grown.
 (iii) Plants grown are genetically similar/clones of the
 parent plant
 (iv) Economical, quick and easy method.
-
-Q. 23. (a) Name any two plants that reproduce by
 
 ½×4=2
 
@@ -36516,6 +31850,15 @@ organisms.
 [CBSE Marking Scheme, 2014]
 
 1
+
+Q. 23. (a) Name any two plants that reproduce by
+
+grafting.
+
+(b) List any two benefits to an organism that
+reproduces through spores ?
+[Board Term II, Set (2044), 2012]
+Ans. (a) Rose / Sugarcane, Grapes.
 
 (b) (i) Many organisms can be produced at the same
 time.
@@ -36913,14 +32256,6 @@ the pollen tube to grow
 downwards towards
 the ovule.
 
-(ii) Explain why variations are observed in the
-offspring of sexually reproducing organisms ?
-[Board Term II, Foreign Set I, II, III, 2014]
-[Board Term-II Delhi I, 2013]
-Ans. (i)
-S.
-No.
-
 (ii) Binary fission in Amoeba : A single cell divides itself
 into two daughter cell is known as binary fission,
 binary fission can also occur in particular axis. e.g.,
@@ -36973,6 +32308,14 @@ germinates to produce a new individual.
 Q. 6. (i) List three distinguishing features between
 
 sexual and asexual types of reproduction.
+
+(ii) Explain why variations are observed in the
+offspring of sexually reproducing organisms ?
+[Board Term II, Foreign Set I, II, III, 2014]
+[Board Term-II Delhi I, 2013]
+Ans. (i)
+S.
+No.
 
 Sexual
 Reproduction
@@ -37209,8 +32552,32 @@ fertilization ?
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-Ans.
-Stigma
+
+Ans. (i) After fertilization, ovules become seeds and
+ovary forms the fruit.
+½+½
+(ii) Pollination is the transfer of pollen grains from
+anther to the stigma of a flower.
+½
+		
+Fertilization is the fusion of male and female
+gametes.
+[CBSE Marking Scheme, 2012] ½
+Q. 6. Describe about the different parts of a stamen in
+male reproductive organ of a plant.
+Ans. Stamen is the male reproductive organ of the plant.
+A flower usually has a number of stamens in it.
+Each stamen is made up of two parts-a filament,
+the stalk of stamen and an anther, the swollen top
+of stamen. Anther is the upper bilobed part and
+each lobe contains two pollen sacs within which
+numerous pollen grains are produced.
+[CBSE Marking Scheme, 2012]
+
+(3 marks each)
+
+Short Answer Type Questions-II
+Q. 1. What is meant by pollination ? Name and
 
 differentiate between the two types of
 pollination.
@@ -37255,56 +32622,6 @@ Ans. The three parts of carpel are :
 during pollination.
 1+1+1
 
-Filament
-
-Style
-Pistil
-
-Petal
-
-Ovary
-
-Sepal
-
-		 Longitudinal section of a flower
-		
-
-Short Answer Type Questions-II
-Q. 1. What is meant by pollination ? Name and
-
-Anther
-
-Stamen
-
-Ans. (i) After fertilization, ovules become seeds and
-ovary forms the fruit.
-½+½
-(ii) Pollination is the transfer of pollen grains from
-anther to the stigma of a flower.
-½
-		
-Fertilization is the fusion of male and female
-gametes.
-[CBSE Marking Scheme, 2012] ½
-Q. 6. Describe about the different parts of a stamen in
-male reproductive organ of a plant.
-Ans. Stamen is the male reproductive organ of the plant.
-A flower usually has a number of stamens in it.
-Each stamen is made up of two parts-a filament,
-the stalk of stamen and an anther, the swollen top
-of stamen. Anther is the upper bilobed part and
-each lobe contains two pollen sacs within which
-numerous pollen grains are produced.
-2
-Q. 7. Draw a labelled longitudinal structure of a
-flower showing its parts.
-[Board Term II, Set (2018), 2012, DDE 2017]
-
-2
-
-[CBSE Marking Scheme, 2012]
-
-(3 marks each)
 
 Q. 4. (i) Why is vegetative propagation practised for
 
@@ -37360,13 +32677,6 @@ into the seeds.
 Q. 7. What is a seed ? How does it help in reproduction
 in plants ?
 
-Q. 11. Name the parts A, B and C shown in the
-
-following diagram and state one function of
-each.
-
-[Board Term- II, Delhi Set I, 2016]
-
 Ans. A seed is the reproductive unit of a plant which
 can be used to grow into a new plant. It contains a
 body plant or embryo and food for the baby plant.
@@ -37390,22 +32700,6 @@ are :
 (ii) The fertilised egg develops into embryo.
 (iii) The ovary ripens into fruit.
 (iv) The ovules ripens into seeds.
-
-A
-B
-C
-
-Ans. A. Anther : It produces pollen grains.
-½+½
-B. Style : It provides the path through which the
-pollen tube grows and reaches the ovary. ½ + ½
-C. Ovary : It contains ovules and each ovule has
-an egg cell/female gamete. It develops into fruit
-after fertilization.
-[CBSE Marking Scheme, 2016] ½ + ½
-Q. 12. Name the parts A, B and C shown in the diagram
-
-and write their functions.
 
 (v) The integument of ovule changes into seed coat
 and funicle changes into stalk of the seed.
@@ -37444,11 +32738,41 @@ Stigma
 Anther
 
 Style
+		
+Drawing 1
+		
+4 correct labelling (i) Anther (ii) Ovary (iii) Stigma
+(iv) Style
+½×4
+		
+[CBSE Marking Scheme, 2015]
 
 B
 
 C
 
+Q. 11. Name the parts A, B and C shown in the
+
+following diagram and state one function of
+each.
+
+Ans. A. Anther : It produces pollen grains.
+½+½
+B. Style : It provides the path through which the
+pollen tube grows and reaches the ovary. ½ + ½
+C. Ovary : It contains ovules and each ovule has
+an egg cell/female gamete. It develops into fruit
+after fertilization.
+[CBSE Marking Scheme, 2016] ½ + ½
+Q. 12. Name the parts A, B and C shown in the diagram
+
+and write their functions.
+
+[Board Term- II, Delhi Set I, 2016]
+
+A
+B
+C
 Ans. Part A is Stigma.
 Function : It is the terminal part of carpel, which
 may be sticky and helps in receiving the pollen
@@ -37470,14 +32794,6 @@ as future shoot and future root ? Mention the
 function of cotyledon.[Board Term II, SQP, 2016]
 
 Ans. Future shoot–Plumule
-		
-Drawing 1
-		
-4 correct labelling (i) Anther (ii) Ovary (iii) Stigma
-(iv) Style
-½×4
-		
-[CBSE Marking Scheme, 2015]
 
 Future root–Radicle
 Function of Cotyledon–It store food for the future
@@ -37540,23 +32856,7 @@ Ans.(i) Stamen and Carpel.
 (iii) Carpel is made up of three parts–the bottom
 swollen part is ovary, middle elongated part is
 the style, terminal sticky part is stigma.
-[CBSE Marking Scheme, 2016] ½ × 3 = 1½
-Q. 16. Draw a diagram of the longitudinal section of
-a flower exhibiting germination of pollen on
-stigma and label
-(i) Ovary, (ii) Male germ-cell, (iii) Female-germ
-cell and (iv) ovule on it.
-[Board Term-II, Foreign Set-III, 2015]
-Ans.
-
-Male germ-cell
-
-		
-Four correct labelling, viz., ovary, male germ cell,
-female germ cell and ovule.
-½×4
-		
-[CBSE Marking Scheme, 2015]
+[CBSE Marking Scheme, 2016] ½ × 3 = 1½	
 Q. 17. (i) Draw a neat labelled diagram of a germinated
 seed and label radicle, plumule and cotyledon.
 (ii) Mention function of each of these parts.
@@ -37582,21 +32882,6 @@ diagram and state one function of each part.
 [Board Term II, Set A1, 2011,
 OD Comptt. 321/1, 2017]
 
-A
-B
-C
-
-Ovary
-
-Ovule
-
-Female
-germ-cell
-
-		
-
-Drawing 1
-
 Ans. A—Anther (Produces pollen grains)
 ½+½
 B—Style, (Passage of pollen tube)
@@ -37618,17 +32903,17 @@ grain. Label on it the following :
 
 (5 marks each)
 
-(b)
-Stigma
-Pollen tube with
-Male germ-cell
-
 Ans. (a) Pollination : Process of transfer of pollen grains
 from the anther to the stigma of the flower
 1
 		
 Two types : Self-pollination and Cross pollination
 		
+(b)
+Stigma
+Pollen tube with
+Male germ-cell
+
 ½, ½
 
 Female
@@ -37720,159 +33005,6 @@ required for pollination.
 Flowers are not attractive nor do they produce Flowers attract insects by various means like
 nectar.
 coloured petals, scent and nectar.
-2+3
-Q. 4. (i) Give one example each of a unisexual and a
-Q. 5. (i) Draw a diagram showing germination of
-bisexual flower.
-pollen on stigma of a flower.
-(ii) Mention the changes a flower undergoes after
-(ii) Label pollen grain, male germ cells, pollen tube
-fertilisation.
-and female germ cell in the above diagram.
-(iii) How does the amount of DNA remain constant
-(iii) Define fertilization in plants.
-[KVS-2014]
-though each new generation in a combination of
-Ans.
-Pollen grain
-DNA copies of two individuals ?
-Stigma
-[Board Term II, Delhi Set I, II, III, 2014]
-Ans. (i) Unisexual flowers : Cucumber, pumpkin, water
-Male germ-cell
-melon, papaya, etc.
-Bisexual flowers : Hibiscus, rose, lily, etc. (Any one
-Pollen tube
-example)
-(ii) Changes in a flower after fertilisation : The outer
-layers of the ovule become impervious and hard
-and function as a seed coat. An ovule with an
-Ovary
-embryo inside is called a seed.
-The ovary enlarges and ripens to become a fruit.
-Female
-Other floral parts such as sepals, petals, stamens,
-germ-cell
-styles and stigma may fall off. However, in some
-cases, they remain persistent in the fruit.
-(iii) Deoxyribonucleic acid (DNA) copying is an
-The fusion of male and female gametes of
-essential part of reproduction, as it passes genetic
-all sexually-reproducing organisms is called
-information from parents to offspring. The
-fertilization.
-2+2+1
-reproducing cells produce a copy of their DNA
-through some chemical reactions and result in
-Q. 6. (a) Name the parts labelled as A, B, C and D in
-two copies of DNA. The copying of DNA always
-the diagram given below :
-takes place along with the creation of additional
-cellular structure. This process is then followed by
-the division of a cell into two cells. In this way, the
-amount of DNA remains constant through each
-new generation.
-1+2+2
-
-[ 193
-
-HOW DO ORGANISMS REPRODUCE ?
-
-A
-
-Q. 7. A. Draw a longitudinal section of a flower and
-
-label the following parts :
-
-B
-
-(i) Part that develops into a fruit
-(ii) Part that produces pollen grain
-(iii) Part that transfers male gametes
-(iv) Part that is sticky to trap
-
-C
-
-B. Name the parts labelled A, B, C, D in the diagram
-given below :
-[Board Term-II, SQP, 2016]
-A
-
-D
-
-B
-
-(b) What is pollination ? State its significance.
-(c) How does fertilisation occur in flowers ?
-Name the parts of the flower that develop into (i)
-seed, and (ii) fruit after fertilization.
-[Board Term II, Outside Delhi Set I, II, III, 2014]
-Ans. (a) In the given figure,
-1
-A—represents the pollen grain
-B—represents the pollen tube
-C—represents the ovary
-D—represents the female germ cell
-Pollen grain
-
-C
-
-D
-
-Pollen tube
-
-Ans.
-
-A.
-
-Ovule
-
-(iv) Stigma
-
-Male gamete
-
-(ii) Anther
-
-(b) The transfer of pollen grains from the anther to the
-stigma of a flower is known as pollination.
-1
-Significance of pollination :
-(i) It is a significant event because it precedes
-fertilization.
-(ii) It brings the male and female gametes closer for the
-process of fertilization.
-(iii) Cross-pollination introduces variations in plants
-because of the mixing of different genes. These
-variations further increase the adaptability of plants
-towards the environment or surroundings.
-1
-(c) Double fertilization is a characteristic feature
-of flowering plants. In this process, out of the
-two sperm nuclei, one sperm nucleus fuses with
-the egg nucleus to form an embryo (process
-is called syngamy) and another fuses with the
-polar nucleus to form an endosperm (process
-is called triple fusion). Because two kinds of
-fusion—syngamy and triple fusion—take place,
-the process is known as double fertilisation.
-After fertilisation,
-		(i) the ovule develops into a seed
-		(ii) the ovary develops into a fruit
-2
-
-(iii) Stamen
-(i) Ovary
-
-2½
-B.
-
-A–Pollen grain
-B–Pollen tube
-C–Ovary
-2½
-D–Female gamete
-[CBSE Marking Scheme, 2016]
-
 Q. 8. (a) Identify A, B, and D in the given diagram
 
 and write their names.
@@ -38285,126 +33417,10 @@ method to avoid pregnancy. It also prevents
 transmission of infections during sexual act.
 2
 
-HOW DO ORGANISMS REPRODUCE ?
-
-Short Answer Type Questions-II
-
-[ 197
-(3 marks each)
-
-father. In this way, an equal genetic contribution
-of male and female parents is ensured in the
-progeny.
-2+1
-Q. 3. List six specific characteristics of sexual
-Ans. Formation of male and female gametes, fusion of
-reproduction.
-gametes/syngamy
-½+½
-Ans.
-Specific
-characteristics of sexual reproduction are :
-		
-Importance : Combination of DNA from two
-(i)
-Sexual
-reproduction
-involves the fusion of male
-different individuals lead to increase in genetic
-and
-female
-gametes
-coming
-from both the parents.
-variation in the organism.
-1
-(ii)
-In
-this,
-offsprings
-receive
-some
-genes from mother
-		
-This leads to diversity in the population which
-and some from the father.
-helps in natural selection.
-(iii) The offsprings have genetic variation.
-[Marking Scheme, 2017] 1
-Detailed Answer :
-(iv) It leads to the continuous evolution of various
-species.
-The basic requirements for sexual reproduction
-to take place are involvement of two parents and
-(v) It plays a prominent role in the origin of new
-fusion of haploid gametes.
-species.
-Importance of sexual reproduction :
-(vi) The sexual mode of reproduction incorporates
-process of combining DNA from two different
-Fusion of gametes results in genetic variations in
-individuals during reproduction.
-the offsprings. This promotes diversity of characters
-in offsprings. These genetic variations, thus, lead to
-		
-½+½+½+½+½+½
-evolution of species as well as allow the organisms
-Q. 4. List any four steps involved in sexual
-to become better adapted in the changing
-reproduction and write its two advantages.
-environment.
-3
-[Delhi 31/1/2, 2017]
-Q. 2. Mention the total number of chromosomes along
-Ans. Steps involved in sexual reproduction are :
-with the sex chromosomes that are present in a
-(i) Formation of gametes through meiosis.
-human female and a human male. Explain how
-(ii)
-Transfer of male gametes into the female body.
-in sexually producing organisms the number of
-(iii)
-Fusion of male and female gametes. Process is
-chromosomes in the progeny remains the same
-fertilisation.
-as that of the parents.
-[Delhi 31/1/2, 2017]
-(iv)
-Formation
-of offspring from a single celled zygoteAns. Total number of chromosomes is 46. In humans,
-Post
-fertilisation
-changes.
-two sex chromosomes present are X and Y, while in
-Advantages of sexual reproduction :
-human female, both sex chromosomes are X.
-(i) It is a source of genetic variations among individuals
-During sexual reproduction, a female gamete or egg
-of a population.
-cell fuses with a male gamete or sperm cell which
-are haploid to form zygote. Zygote is diploid which
-(ii) It gives rise to individuals that are most adapted to
-contains 23 chromosomes from mother and 23 from
-the environment.
-2+1
 Q. 5. Reproduction is one of the most important characteristics of living beings. Give three reasons in support of
 the statement.
-3
-
-Q. 1. State
-
-the basic requirement for sexual
-reproduction ? Write the importance of such
-reproductions in nature.
-[Delhi 31/1/1, 2017]
 
 Ans.
-
-[Toppers Answer, OD Set 1, 2017]
-
-198 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Detailed Answer :
 Reproduction is one of the most important characteristics of living beings as it enables them to form offspring
@@ -38720,6 +33736,18 @@ human male.
 (ii) Why testis in male body are extra-abdominal ?
 (iii) Write the dual purpose served by urethra in
 males ?
+Ans. (i) Hair growth on face, chest, armpit and genital
+area / body becomes muscular / voice becomes
+deep and coarse / penis occasionally begins to
+become enlarged and erect.
+1
+(ii) Formation of sperms needs lower temperature
+than the normal body temperature. Hence, testis
+lie outside the body cavity in the scrotum.
+1
+(iii) Urethra is a common duct for the passage of both
+urine and semen.
+(Any two)
 [Board Term II, Set (2024) 2012]
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
@@ -38767,18 +33795,6 @@ uterus.
 (iv) By avoiding multiple sexes.
 2
 
-Ans. (i) Hair growth on face, chest, armpit and genital
-area / body becomes muscular / voice becomes
-deep and coarse / penis occasionally begins to
-become enlarged and erect.
-1
-(ii) Formation of sperms needs lower temperature
-than the normal body temperature. Hence, testis
-lie outside the body cavity in the scrotum.
-1
-(iii) Urethra is a common duct for the passage of both
-urine and semen.
-(Any two)
 [CBSE Marking Scheme, 2012] 1
 Q. 25. List three techniques that have been developed to prevent pregnancy. Which one of these techniques is not
 meant for males ? How does the use of these techniques have a direct impact on the health and prosperity of
@@ -38976,17 +33992,6 @@ acidity of male urethra.
 Long Answer Type Questions
 
 (5 marks each)
-
-Q. 1. (a) Write the functions of each of the following parts in a human female reproductive system :
-
-(i) Ovary, (ii) Uterus, (iii) Fallopian tube.
-(b) Write the structure and functions of placenta in a human female.
-
-Ans. (a)
-
-[Topper Answer, OD Set 1, 2017]
-
-[ 203
 
 HOW DO ORGANISMS REPRODUCE ?
 
@@ -39396,10 +34401,6 @@ Two benefits of these methods are :
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-(ii) (a) Testis, (b) Prostate gland, (c) Scrotum,
-(d) Urethra.
-3
-
 Q. 13. (i) Name a sexually transmitted disease and a
 
 
@@ -39417,6 +34418,10 @@ sperm and urine.
 Ans. (i) Viral infection such as warts or HIV-AIDS.
 		
 By using condoms during sexual intercourse.
+
+(ii) (a) Testis, (b) Prostate gland, (c) Scrotum,
+(d) Urethra.
+3
 
 Seminal vesicle
 
@@ -39797,107 +34802,6 @@ species.
 ½
 
 Practical Based Questions
-Experiment 1 :
-		
-		
-Experiment 2 :
-
-To Study :
-(i) binary fission in Amoeba, and
-(ii) budding in Yeast with the help of prepared slides.
-To identify the difference parts of an embryo of a dicot seed
-
-Q. 1. Name the type of asexual reproduction in which
-two individuals are formed from a single parent
-and the parental identity is lost.
-
-Write the first step from where such a type of
-reproduction begins. Draw first two stages of this
-reproduction.
-Ans. Binary fission
-½
-Elongation of cell and its nucleus
-½
-
-[ 209
-
-HOW DO ORGANISMS REPRODUCE ?
-
-(i) Requirement of one parent to produce offspring so
-no need to migrate to other place to reproduce.
-(ii) Numerous offspring can be produced in a short
-span of time.
-Correct diagram showing progressive elongation of
-the nucleus and cytoplasm.
-1
-
-(iii) Minimize the use of energy and time.
-
-1+1
-
-Q. 2. Draw in sequence (showing the four stages) the
-process of binary fission in Amoeba.
-
-Q. 4. A student observed the slide of binary fission of
-Amoeba under a microscope. What should be the
-observations reported by him.
-
-[O.D Set 31/1, 2017]
-
-[Board Term II, Set-FF7NBE6, 2015]
-
-Ans. Binary Fission in Amoeba
-
-Ans. (i) Division of the nucleus.
-(ii) Division of cytoplasm.
-1+1
-		
-[CBSE Marking Scheme, 2015]
-
-Stage 1
-
-Q. 5. Name the type of asexual reproduction in which
-two individuals are formed from a single parent
-and the parental identity is lost. Draw the initial
-and final stages of this type of reproduction.
-
-Dividing nucleus
-Stage 2
-
-[Board Term II, Delhi Set I, 2015]
-Ans. Type of asexual reproduction in Binary fission.
-Stage 3
-Daughter nucleus
-
-Stage 4
-Constriction of nucleus
-
-½+4
-
-Two daughter amoebae
-
-Q. 3. What is the significance of asexual reproduction?
-		
-
-Ans. Significance of asexual reproduction :
-
-1+1
-
-Q. 6. A student is observing a permanent slide showing sequentially the different stages of asexual reproduction
-taking place in yeast. Name this process and draw diagrams, of what he observes, in a proper sequence.
-[Board Term II, O.D. Set-I, 2016]
-Ans.
-
-2
-OR
-
-		
-
-[Topper Answer, 2016]
-
-210 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Q. 7. A student is observing a permanent slide showing
 sequentially the different stages of asexual
@@ -40035,10 +34939,6 @@ HOW DO ORGANISMS REPRODUCE ?
 (iii) Cotyledon
 (iv) Radicle
 
-Q. 21. In the following diagram showing the structure of
-embryo of a dicot seed, what are the parts marked
-I, II and III sequentially?
-I
 
 (v) Plumule
 Write down the correctly identified parts among
@@ -40054,12 +34954,6 @@ gram.
 Seeds on germination give rise to radicle and
 plumule
 
-III
-II
-
-Ans. In the given figure, I represent the plumule,
-II represents the radicle and III represents the
-cotyledon.
 Q. 22. (a) Name the structure which stores food in the
 seeds?
 (b) What is the importance of seed coat in a
@@ -40855,36 +35749,7 @@ Genotype = 9 : 3 : 3 : 1
 		
 1 = Short Wrinkled
 3
-(iii)
-State the type of plants not found in F1
-Q. 3. If we cross-bred tall (dominant) pea plant with
-generation but appeared in F2 generation.
-pure-bred dwarf (recessive) pea plant, we will
-Write the reason for the same.
-get plants of F1 generation. If we now self-cross
-the pea plant of F1 generation, we obtain pea 
-[OD Comptt. 31/1 2017]
-plants of F2 generation.
-Ans. (i) Tall
-1
-(i)
-What do the plants of F1 generation look like ?
-(ii) 3 : 1
-½
-(ii)
-State the ratio of tall plant to dwarf plants in F2
-(iii) Dwarf
-½
-generation.
 
-[ 219
-
-HEREDITY AND EVOLUTION
-
-Reason : Being a recessive trait, dwarfness can
-only be expressed in the absence of dominant trait/
-in its pure form.
-1
 Q. 4. List two differences in tabular form between
 dominant trait and recessive traits. What
 percentage / proportion of the plants in the F2
@@ -41160,7 +36025,7 @@ grow in one season / fertilization was easy.
 Q. 13. Give the basic features of the mechanism of
 inheritance.
 [NCERT Exempler 2017]
-Sol. The Basic features of the mechanism of inheritance
+Ans. The Basic features of the mechanism of inheritance
 are :
 (i) The traits could be hidden in many generations but
 can reappear in any generation unchanged.
@@ -41183,7 +36048,7 @@ U
 combination of characters in the F2 progeny.
 [NCERT Exemplar 2017]
 
-Sol. If pea plants with two different pairs of
+Ans. If pea plants with two different pairs of
 characteristics are bred with each other, the F1
 progeny would have all tall plants with round seeds.
 This implies that round seed in dominant character
@@ -41409,9 +36274,6 @@ plants one with round and green seeds and the
 other with wrinkled and yellow seeds.
 (i) Write the phenotype of F1 progeny. Give reason for
 your answer.
-(ii) Write the different types of F2 progeny obtained
-along with their ratio when F1 progeny was
-selfed.
 [Board Term II, Delhi Set I 2014]
 Ans. (i) The cross was made between round, green seeds
 and wrinkled, yellow seeds
@@ -41442,207 +36304,8 @@ The above cross shows round and yellow seeds in
 the F1 generation. It occurs because dominant traits
 (round and yellow) express itself, whereas recessive
 traits (wrinkled and green) get suppressed.
-(ii) On selfing of F1 generation :
 
-222 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ry
-
-rY
-
-RY
-
-RRYY
-Round
-yellow
-
-RRYy
-Round
-yellow
-
-RrYY
-Round yellow
-
-RrYy
-Round
-yellow
-
-Ry
-
-RRYy
-Round
-yellow
-
-		(i) Pod colour - Green pod colour dominant over
-yellow colour
-		(ii) Seed shape - Round seed shape dominant over
-wrinkled seed shape.
-2+½+½
-
-RRyy
-Round
-green
-
-RrYy
-Round
-yellow
-
-Rryy
-Round
-green
-
-Q. 24. A cross was carried out between a pure bred tall
-
-rY
-
-RrYY
-Round
-yellow
-
-RrYy
-Round
-yellow
-
-rrYY
-Wrinkled
-yellow
-
-rrYy
-Wrinkled
-yellow
-rryy
-Wrinkled
-green
-
-Rr Yy
-Round yellow
-
-F1 generation on
-selfing
-RY
-
-Rr Yy
-Round yellow
-
-X
-
-ry
-
-pea plant and a pure bred dwarf pea plant and
-F1 progeny was obtained. Later, the F1 progeny
-RrYy
-rrYy
-Rryy
-was selfed to obtain F2 progeny. Answer the
-Round
-Wrinkled
-Round
-yellow
-yellow
-green
-ry
-following questions :
-(i) What is the phenotype of the F1 progeny and
-Wrinkled yellow
-:
-Wrinkled green
-Round yellow
-:
-Round green
-:
-9
-:
-3
-:
-3
-:
-1
-why ?
-Phenotypic ratio – 9 : 3 : 3 : 1
-(ii) Give the phenotypic ratio of the F2 progeny.
-Round yellow – 9
-Round green – 3
-(iii) Why is the F2 progeny different from the F1 progeny ?
-[Board Term II, O.D. Set I, 2013]
-Wrinkled yellow – 3
-Wrinkled green – 1
-		
-1½ + 1½
-Ans. (i) The phenotype of F1 progeny is Tt because F1 or
-hybrid plants were not intermediate between the
-Q. 23. (a) Mendel crossed tall pea plants with dwarf pea
-two alternate forms of a character. They resembled
-plants in his experiment. Write his observations
-only one parent. In a cross between tall and dwarf
-giving reason on the F1 and F2 generations.
-of pea plants, the F1 plants were all tall.
-(b) List any two contrasting characters other than
-(ii) The phenotypic ratio of F2 progeny is 3 : 1.
-height that Mendel used in his experiments in pea
-plants.
-[Board Term II, Delhi Set II, III, 2014]
-(iii) F1 progeny resembled only one parent which
-is dominant in nature but in F2 progeny
-Ans. (a) Mendel crossed tall pea plants with dwarf pea
-phenotypically three plants are tall and one plant is
-plants.
-dwarf. But according to genotype ratio one plant is
-pure tall, two are hybrid tall and one plant is pure
-Parents
-dwarf.
-1+1+1
 Q. 25. A blue colour flower plant denoted by BB is
-
-X
-Pure tall plant
-(TT)
-
-Pure short plant
-(tt)
-
-F1 generation
-(Tt)
-
-(Tt)
-
-Selfing of F1
-
-(Tt)
-
-(Tt)
-
-X
-Tall plant
-(Tt)
-
-Tall plant
-(Tt)
-
-F2 generation
-(Tt)
-
-(Tt)
-
-(Tt)
-
-(tt)
-
-Mendel’s Observation
-The F1 generation contained all tall plants. When
-F1 generation underwent selfing, the trait that was
-unexpressed in F1 (dwarf) was observed in some
-F2 progeny. Thus, both traits, tall and dwarf, were
-expressed in F2 generation in the ratio 3 : 1.
-Mendel proposed that something was being passed
-unchanged from generation to generation. He
-called these things factors (presently called genes).
-Factors contain and carry hereditary information.
-He also observed that traits might not show up in an
-individual but were passed to the next generation.
-(b) The two contrasting traits other than height used
-by Mendel are :
 
 crossbred with a white colour flower plant
 denoted by ww.
@@ -41700,98 +36363,7 @@ production of this hormone is efficient, plant will
 be tall. If the gene for that enzyme has an alteration
 that makes enzyme less efficient, the amount of
 hormone will be less and plant will be short.
-1
-Q. 27. The genotype of green-stemmed tomato plants
 
-is denoted by GG and that of purple-stemmed
-tomato plants as gg. When these two plants are
-crossed :
-
-dancing, cooking, body building, etc are acquired
-traits and cannot be passed on to the next
-generation.
-2+1
-Q. 30. With the help of a cross done with garden pea
-
-plants, trace the work done by Mendel with a
-tall and a short plant to arrive at a 3 : 1 ratio in the
-F2 generation. [Board Term II, Set (2021), 2012]
-
-Ans.
-
-Gametes
-
-Tall
-
-×
-
-TT
-
-×
-
-Tt
-
-(ii) Give the percentage of purple-stemmed plant if F1
-plants are self pollinated.
-
-		
-
-[Board Term II, Set (2022), 2012]
-
-Ans. (i) Green colour.
-1
-(ii) 25%.
-1
-(iii) 3 : 1.
-[CBSE Marking Scheme, 2012] 1
-Q. 28. In Mendel’s monohybrid cross between tall and
-
-short pea plants, all offsprings were tall. What
-does this tell us about the trait ? What is the ratio
-of tall and short plants in the F2 generation ?
-[Board Term II, Foreign Set-I, II, III, 2014]
-[Board Term II, Set (2017), 2012]
-
-Ans. The appearance of all Tall plants in the F1
-generation shows that tall is the dominant
-character while short is the recessive character. 1
-TT (Tall)
-T
-
-×
-
-tt (short)
-t
-
-Tt (Tall)
-T
-T
-
-t
-
-t
-
-TT
-
-Tt
-
-(Tall)
-
-(Tall)
-
-Tt
-
-Tt
-
-(Tall)
-
-(Short)
-
-1
-
-The ratio of Tall to Short in F2 generation is 3 : 1. 1
-		
-[CBSE Marking Scheme, 2012]
 Q. 29. With the help of suitable examples, explain why
 
 certain traits cannot be passed on to the next
@@ -41806,41 +36378,10 @@ are not transferred to germ cells. So, these traits
 cannot be passed on to the next generation.
 For example: Learning skills like swimming,
 
-t
+dancing, cooking, body building, etc are acquired
+traits and cannot be passed on to the next
+generation.
 
-T
-
-(i) What colour of stem would you expect in their F1
-progeny ?
-
-(iii) In what ratio would you find the green and purple
-colour in the F1 progeny ?
-
-Short
-tt
-
-Tt — F1 generation
-Hybrid Tall
-
-TT
-
-Tt
-
-Tt
-
-tt
-
-Tall
-
-Tall
-
-Tall
-
-Short
-
-3 Tall : 1 Short
-
-[CBSE Marking Scheme, 2012] 3
 Q. 31. What are chromosomes ? Explain how in
 
 sexually reproducing organisms the number of
@@ -41883,11 +36424,6 @@ a boy.
 224 ]
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Q. 34. Explain with the help of a figure that father is
-
-responsible for the sex of a child.
-[Board Term II, Set GFUTB86, 2015]
 
 Father
 XY
@@ -41949,6 +36485,11 @@ X Gametes
 
 XY
 
+Q. 34. Explain with the help of a figure that father is
+
+responsible for the sex of a child.
+[Board Term II, Set GFUTB86, 2015]
+
 Ans. Sex of a child depends on what happens during
 fertilisation.
 (i) If a sperm carrying X chromosomes fertilises an
@@ -41975,24 +36516,6 @@ Zygote
 XX
 
 Offsprings
-
-experiments ? Write two reasons.
-(b) List two contrasting visible characters of garden
-pea Mendel used for his experiment.
-(c) Explain in brief how Mendel interpreted his
-results to show that the traits may be dominant or
-recessive.
-[Board Term II, Foreign I, 2016]
-
-Ans. (a) Reasons :
-		(i) Pea plant is small and easy to grow.
-		(ii) A large number of true breeding varieties of
-pea plant are available.
-		
-(iii) Short life cycle.
-		(iv) Both self and cross pollination can be made
-possible.
-(Any two reasons) 2 × ½ = 1
 
 Y
 
@@ -42036,9 +36559,23 @@ means a female has two X-chromosomes. 1½+1½
 Long Answer Type Questions
 Q. 1. (a) Why did Mendel choose garden pea for his
 
-Father’s Sperm
+experiments ? Write two reasons.
+(b) List two contrasting visible characters of garden
+pea Mendel used for his experiment.
+(c) Explain in brief how Mendel interpreted his
+results to show that the traits may be dominant or
+recessive.
+[Board Term II, Foreign I, 2016]
 
-(5 marks each)
+Ans. (a) Reasons :
+		(i) Pea plant is small and easy to grow.
+		(ii) A large number of true breeding varieties of
+pea plant are available.
+		
+(iii) Short life cycle.
+		(iv) Both self and cross pollination can be made
+possible.
+(Any two reasons) 2 × ½ = 1
 
 (b) Contrasting characters :
 Round / Wrinkled seeds
@@ -42061,94 +36598,7 @@ of F2 is dominating while the other is recessive .(Or
 same thing can be explained by using an example)
 1+1+1
 [CBSE Marking Scheme, 2016]
-Q. 2. How do Mendel’s experiments show that
 
-(a)
-(b)
-
-traits may be dominant or recessive ?
-inheritance of two traits is independent of each
-other ?
-[Delhi 31/1/1 2017]
-
-[ 225
-of shortness is the recessive characteristics. Thus,
-Mendel’s experiment showed that traits may be
-dominant or recessive.
-(ii) Mendel performed an experiment in which he
-took two different traits like tall and dwarf plant
-and round and wrinkled seeds. In F2 (second)
-generation, some plants were tall with round seeds
-and some were dwarf with wrinkled seeds. There
-would also be dwarf plants having round seeds.
-Thus, the tall/short traits and round/wrinkled seed
-traits are independently inherited.
-5
-Q. 3. How did Mendel’s experiments show that
-different traits are inherited independently ?
-Explain.
-[Delhi 31/1/3 2017]
-
-Ans. (a) Mendel conducted a Monohybrid cross/(crossed
-pure tall pea plants with pure dwarf pea plants),
-observed only tall pea plants in the F1 generation,
-but on selfing the F1 progeny both tall and dwarf
-Ans. Mendel conducted a dihybrid cross; and observed
-pea plants were observed in F2 generation in the
-that though he started with two types of parents,
-ratio 3 : 1. Appearance of tall character in F1 and
-he obtained four types of individuals in F2; The
-F2 generations shows tallness to be a dominant
-appearance of new recombination in F2 generations
-character. But absence of dwarf character in F1 and
-along with parental type characters show that traits
-its reappearance in F2 confirms that dwarfness is
-are inherited independently of each other. 1+1+1
-recessive character.
-2½
-[CBSE Marking Scheme, 2017]
-(b) Mendel conducted a dihybrid cross and observed Detailed Answer :
-that though he started with two types of parents,
-When a cross was made between a tall pea plant
-he obtained four types of individuals in F2. The
-with round seeds and a short pea plant with
-appearance of new recombination in F2 generations
-wrinkled seeds, the F1 progeny plants are all tall
-along with parental type characters show that traits
-with round seed. This indicates that tallness and
-are inherited independently of each other.
-2½
-round seeds are the dominant traits.
-1
-[CBSE Marking Scheme, 2017]
-When the F1 plants are self pollinated the F2
-Detailed Answer :
-progeny consisted of some tall plants with round
-(i) Mendel conducted experiment on garden pea plant
-seeds and some short plants with wrinkled seeds
-selecting seven visible contrasting characters. He
-which are the parental traits.
-1
-selected and crossed homozygous tall pea plant
-There were also some new combinations like tall
-having the genotype TT with a homozygous dwarf
-plants with wrinkled seeds and short plants with
-pea plant having the genotype tt. F1 generation
-round seeds.
-½
-consists only of tall plants having genotype Tt.
-Thus it may be concluded that tall and short traits
-The expressed allele T for tallness is dominant
-and round and wrinkled seed traits have been
-over the unexpressed allele t for dwarfness. Hence
-inherited independently.
-½
-the trait of tallness is dominant while dwarfness
-Q. 4. How did Mendel explain that it is possible that a trait is inherited but not expressed in an organism ?
-[OD 31/1 2017]
-Ans. (a)
-
-[Topper Answer, 2016]
 Q. 5. With the help of one example for each, distinguish between the acquired traits and the inherited traits.,
 
 Why are the traits/experiences acquired during the entire lifetime of an individual not inherited in the next
@@ -42186,12 +36636,8 @@ in the offspring and later carried on to the next generation. For example skin c
 Acquired traits occur due to changes in the lifestyles, injury, loss of body parts, disuse of some body parts. These
 traits/experiences occur in the somatic cells which do not evolve germ cells and genetic materials. Therefore,
 these traits are not transferred or inherited in the next generation. Example, low weight of a starving beetle. 5
-Q.
-6.
+Q. 6.
 (i) What is meant by traits of an individual ?
-Acquired Traits are the traits which an organism
-R
-acquires in life time.
 2
 (ii) Explain inherited trait and acquired trait.
 (iii) Define speciation. List the factors which could
@@ -42201,6 +36647,8 @@ Ans. (i) Traits : A characteristic feature is called trait. 1
 (ii) Inherited Traits are the traits which are transferred
 from parents to young ones.
 
+Acquired Traits are the traits which an organism
+acquires in life time.
 (iii) Formation of new species from the existing ones is
 called speciation.
 Factors which could lead to the rise of new species
@@ -42284,10 +36732,6 @@ Origin of Life and Evolution
 Very Short Answer Type Questions
 Q. 1. What is speciation ?
 
-Ans. The figure shows the evolution of wild cabbage. 1
-
-[Board Term II, Delhi Set II, 2015] [KVS-2014]
-
 Ans. Speciation is the evolution of reproductive
 isolation among once interbreeding populations
 i.e., the development of one or more species from
@@ -42306,12 +36750,6 @@ Ans. The only progressive trend in evolution seems to
 be that more and more complex body designs have
 emerged over a period of time.
 1
-Q. 4. What is shown in the following figure ?
-Kohlrabi
-
-(1 mark each)
-
-Wild Cabbage
 
 Q. 5. How does creation of variations in a species
 
@@ -42326,22 +36764,7 @@ field of evolution.
 Ans. Charles Darwin proposed that evolution of species
 occurred by natural selection.
 1
-Q. 7. Name the fossil shown is the figure below—
-
-Kale
-
-Ans. The figure shows the fossil of an invertebrate
-animal—Ammonite.
-1
 Q. 8. How was the vegetable kale obtained from
-Cauliflower
-
-Broccoli
-
-Cabbage
-
-Red Cabbage
-
 cabbage ?
 
 228 ]
@@ -42390,14 +36813,14 @@ wing of a butterfly and the wing of a bat be
 considered homologous organs ? State one
 reason.
 [OD Comptt. 2017]
-Sol. Analogous organs : Organs with dissimilar basic
+Ans. Analogous organs : Organs with dissimilar basic
 structure or origin, but performing same function. 1
 Because though they perform similar function, they
 have different origin/basic structure.
 1
 Q. 2. What is speciation ? State any two factors which
 could lead to speciation.
-Sol. Speciation : Origin of a new species from preexisting one.
+Ans. Speciation : Origin of a new species from preexisting one.
 1
 Factors : Mutation, Genetic drift, Geographical
 isolation, Reproduction isolation. (Any two) ½×2
@@ -42773,95 +37196,7 @@ new species and forms the basis for evolution. The more characteristics two spec
 closely they are related. Classification of organisms involves organising them in different groups, based on
 the similarities and dissimilarities of characteristics. Therefore, classification of species is a reflection on their
 evolutionary relationship. Thus, we can say that evolution and classification of organisms are interlinked. 3
-during their lifetime are not passed on to their
-Q. 11. Define evolution. How does it occur ? Explain
-next generation. If a person knows swimming or
-how fossils provide evidences in support of
-dancing, it is not necessary that this trait it seen
-evolution ?
-(OD Comptt. 2017)
-in the progeny because learning a new skill does
-Ans. l Evolution : Gradual accumulation of variations
-not change the genes of the germ cells of humans.
-and its selection by nature leading to formation of
-Also, low weight in beetle is not a trait that can be
-new species.
-1
-inherited by the progeny of a starving beetle.
-l Variations may arise in a population due
-These
-traits/experiences occur in the somatic
-to mutations or sexual reproduction. Subcells which do not involve germ cells and genetic
-populations are formed due to genetic drift and
-materials. Therefore, these traits are not passed on
-geographical isolation. When natural selection
-to their next generation.
-2
-acts on them, most suitable variation survives
-leading to evolution of a new species.
-2
-Q. 14. What is DNA Copying ? State its importance ?
-l Fossils provide missing link between the species/
-[OD Comptt. 31/3 2017]
-who has evolved from whom. They provide
-information about prehistoric organisms.
-1, 1
-Ans. Creating a new copy of DNA in a reproducing
-[CBSE Marking Scheme, 2017]
-cell is known as DNA copying.
-1
-Importance : Since DNA is the carrier of the
-Q. 12. What is organic evolution ? It cannot be equated
-blue print of the genetic characters, its copying
-with progress. Explain with the help of a
-is essential to pass on this blue print to the
-suitable example.
-[OD 31/3 2017]
-offsprings.
-[CBSE Marking Scheme] 2
-Ans. Organic evolution is the process or event of change
-in an organism by which descendants differ from
-Q. 15. What are homologous organs ? Give one
-their ancestors.
-1
-example. Can the wings of a butterfly and the
-wings of bat be regarded as homologous ? Give
-Evolution cannot be equated to progress. From
-reason in support of your answers.
-lower forms to higher forms it gives rise to more
-complex body designs even while the simpler body
-[OD Comptt. 31/1 2017]
-designs continue to flourish. For example, human
-Ans. Homologous Organs : Organs with similar basic
-beings have not evolved from chimpanzees but
-structure/origin but modified to perform different
-both have common ancestor.
-2
-functions.
-(or any other) 1
-Q. 13. With the help of two suitable examples, explain
-Example
-:
-Forelimbs
-of
-various
-vertebrates.
-½
-why certain experiences and traits earned by
-Wings of butterfly and the wings of a bat cannot
-people during their lifetime are not passed on
-be regarded as homologous organs.
-½
-to their next generations. When can such traits
-be passed on ?
-Reasons : Though they perform the similar
-function, they have different origin/basic
-Ans. Learning skills like swimming, dancing and low
-structure.
-[CBSE Marking Scheme] 1
-weight of beetle due to starvation earned by people
 
-232 ]
 Q. 16. What are fossils ? State their importance in the
 
 study of evolution with the help of a suitable
@@ -42915,6 +37250,18 @@ functions.
 [CBSE Marking Scheme, 2012] ½
 Q. 18. (i) Which of the following fossils is invertebrate
 and which one is vertebrate ?
+Ans. (i) (a) vertebrate, (b) invertebrate.
+½+½
+(ii) If we dig into a rock / earth then it is reasonable to
+suppose that the fossil found in the upper layers
+must be of more recent origin than the fossil found
+in the deeper layers.
+1
+The second way is by detecting the ratios of different
+isotopes of the same element in the fossil material. 1
+[CBSE Marking Scheme, 2012]
+Q. 19. Name three organisms which are fossilized.
+[Board Term II, Set-8XSVHLC, 2014]
 (a) Dinosaur, (b) Ammonite.
 (ii) How can the age of fossil be ascertained ? State in
 brief any two methods.
@@ -42986,18 +37333,6 @@ among organisms and their ancestors.
 between two different species of Organisms.
 1+1+1
 
-Ans. (i) (a) vertebrate, (b) invertebrate.
-½+½
-(ii) If we dig into a rock / earth then it is reasonable to
-suppose that the fossil found in the upper layers
-must be of more recent origin than the fossil found
-in the deeper layers.
-1
-The second way is by detecting the ratios of different
-isotopes of the same element in the fossil material. 1
-[CBSE Marking Scheme, 2012]
-Q. 19. Name three organisms which are fossilized.
-[Board Term II, Set-8XSVHLC, 2014]
 Q. 24. ‘’Two areas of study namely ‘evolution’ and ‘classification’ are interlinked’’. Justify this statement.
 [NCERT] [Board Term II, O.D. Set I, 2016]
 [Board Term II, Set 6TM6KWC, 2015]
@@ -43022,10 +37357,6 @@ Q. 25. Give an example of the characteristics being
 used to determine how close two species are in
 evolutionary terms.
 [Foreign 31/2/1 2017]
-
-(ii) On what basis is the classification of organisms
-into prokaryotic and eukaryotic done ?
-[Board Term II, Set FF7NBE6, 2015]
 
 Ans. Study of homologous organs as forelimbs of
 mammals, birds, reptiles and amphibian; show
@@ -43054,6 +37385,10 @@ analogous organs.
 (i) Mention the two basic characteristics that decide
 about analogy and homology between the two
 organs.
+
+(ii) On what basis is the classification of organisms
+into prokaryotic and eukaryotic done ?
+[Board Term II, Set FF7NBE6, 2015]
 
 Ans. (i) The two basic characteristics that decide about
 analogy and homology are origin, structures and
@@ -43131,6 +37466,30 @@ evolutionary history of an organism.
 [CBSE Marking Scheme 2016]
 Q. 31.
 
+(a) Identify the fossils A and B ?
+(b) What type of fossils are these ?
+[Board Term II, Set UV6TF2N, 2015]
+Ans. (i) Ammonite, Trilobite
+(ii) Invertebrate.
+1½+1½
+Q. 32. (a) Cite the evidence on the basis of which it is
+concluded that birds have evolved from reptiles.
+(b) Insects, Octopus, Planaria and Vertebrates also
+possess eyes. Can these animals be grouped
+together on the basis of the eyes they possess.
+Why or why not ? Give reason to justify your
+answer. [Board Term II, Delhi Set I, II, III, 2014]
+[Board Term II, Foreign Set I, 2015]
+Ans. (a) (i) Fossils showing imprints of feathers along
+with the bones in dinosaurs/reptiles found.
+		(ii) They could not fly and presumably use the
+feathers for insulation.
+		(iii) Later they developed/evolved and adapted
+feathers for flight.
+		(iv) Thus, they give evidence that birds have
+evolved from reptiles.
+½×4 = 2
+
 (b) No, the structure of the eye in each of these
 organisms is different/they have separate
 evolutionary origins.
@@ -43176,30 +37535,6 @@ Planaria to perfect eyes in vertebrates.
 (A)
 
 (B)
-
-(a) Identify the fossils A and B ?
-(b) What type of fossils are these ?
-[Board Term II, Set UV6TF2N, 2015]
-Ans. (i) Ammonite, Trilobite
-(ii) Invertebrate.
-1½+1½
-Q. 32. (a) Cite the evidence on the basis of which it is
-concluded that birds have evolved from reptiles.
-(b) Insects, Octopus, Planaria and Vertebrates also
-possess eyes. Can these animals be grouped
-together on the basis of the eyes they possess.
-Why or why not ? Give reason to justify your
-answer. [Board Term II, Delhi Set I, II, III, 2014]
-[Board Term II, Foreign Set I, 2015]
-Ans. (a) (i) Fossils showing imprints of feathers along
-with the bones in dinosaurs/reptiles found.
-		(ii) They could not fly and presumably use the
-feathers for insulation.
-		(iii) Later they developed/evolved and adapted
-feathers for flight.
-		(iv) Thus, they give evidence that birds have
-evolved from reptiles.
-½×4 = 2
 
 (ii) Dinosaur is a type of reptile which has wings. Birds
 also have wings, so it can be proved that birds have
@@ -43250,8 +37585,33 @@ the chances of adaptability with respect to the
 change in the environment.
 1+1+1
 
+Q. 38. Does the occurrence of diversity of animals
+
+on earth suggest their diverse ancestry also ?
+Discuss this point in the light of evolution.
+[NCERT Exemplar 2017]
+Ans. Though animals have a vast diversity in structures
+they probably do not have a common ancestry
+because common ancestry may greatly limit the
+extent of diversity. As many of these diverse animals
+are inhabiting the same habitat, their evolution by
+geographical isolation and speciation is also not
+likely.
+3
 Q. 37. (i) A husband has 46 chromosomes, his wife
 
+has 46 chromosomes. Then why don’t their
+offsprings have 46 pairs of chromosomes, which
+is obtained by the fusion of male and female
+gametes ?
+(ii) “Geographical isolation is not a major factor
+in the speciation of a self pollinating plant
+species.” Justify this statement with the help of an
+example.		
+Ans. (i) Male individual has 46 chromosomes but because
+the gametes are always haploid i.e., they have half
+the no. of chromosomes; sperms will be haploid
+(23 chromosomes). Female individual also contains
 only 23 chromosomes in egg. It is the fusion of this
 sperm and egg which leads to an offspring with 46
 chromosomes.
@@ -43261,60 +37621,22 @@ the speciation of a self-pollinating plant species. It
 involves the same flower / plant from where male
 and female gametes are formed. 	
 1½
-Q. 38. Does the occurrence of diversity of animals
 
-on earth suggest their diverse ancestry also ?
-Discuss this point in the light of evolution.
-[NCERT Exemplar 2017]
-Sol. Though animals have a vast diversity in structures
-they probably do not have a common ancestry
-because common ancestry may greatly limit the
-extent of diversity. As many of these diverse animals
-are inhabiting the same habitat, their evolution by
-geographical isolation and speciation is also not
-likely.
-3
-
-has 46 chromosomes. Then why don’t their
-offsprings have 46 pairs of chromosomes, which
-is obtained by the fusion of male and female
-gametes ?
 Q. 39. How were farmers able to obtain present day
-(ii) “Geographical isolation is not a major factor
 cabbage, cauliflower and broccoli from wild
-in the speciation of a self pollinating plant
 cabbage ?
-species.” Justify this statement with the help of an
 Ans. Farmers were able to grow present day cabbage,
-example.		
 cauliflower and broccoli from wild cabbage by
 [Board Term II, Set (67003) 2012]
 selective breeding. Broccoli was selected by
-Ans. (i) Male individual has 46 chromosomes but because
 breeding larger flower stalks and cabbage was
-the gametes are always haploid i.e., they have half
 bred by selecting shorter petioles. Cauliflower is
-the no. of chromosomes; sperms will be haploid
 also a descendent of wild cabbage. It was bred by
-(23 chromosomes). Female individual also contains
 selecting sterile flowers.
 3
 
 Long Answer Type Questions
 
-(5 marks each)
-
-Q. 1. Define evolution. How does it occur ? Describe how fossils provide us evidences in support of evolution.
-[Board term II, O.D. Set III 2016]
-Ans.
-
-		
-
-[Topper Answer, 2016] 5
-
-236 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Q. 2. What is multiple fission ? How does it occur in an
 
@@ -43791,6 +38113,19 @@ the benefit of society.
 (a) Dramas or plays to make awareness in the
 public.
 
+		
+(b) Doctor’s camp to satisfy the confusions of the
+people.
+		
+(c) Group discussion with people, about sex
+determination.
+2
+
+Q. 4. While playing near a sugarcane field, Mohan
+noticed that the plants are almost similar to one
+another. At the same time, he noticed the mango
+trees in the next plot of land are not similar to one
+
 another. Mohan concluded there is little variation.
 Mango reproduces sexually, hence there is larger
 variation.
@@ -43858,28 +38193,15 @@ ancestors) footprints, preserved in volcanic ash.
 Darwin ?
 1
 
-		
-(b) Doctor’s camp to satisfy the confusions of the
-people.
-
 (ii) ‘Both Human beings and chimpanzee have a
 common ancestor’. Justify the statement by giving
 reason behind the conclusion.
 2
 
-		
-(c) Group discussion with people, about sex
-determination.
-2
 
 Ans. (i) Natural selection and generation of new
 species.
 1+1
-
-Q. 4. While playing near a sugarcane field, Mohan
-noticed that the plants are almost similar to one
-another. At the same time, he noticed the mango
-trees in the next plot of land are not similar to one
 
 (ii) (a) Changes due to genetic drift and natural
 selection will result in isolation of two subpopulation which become more and more
@@ -52269,7 +46591,7 @@ may be corrected using a lens of appropriate
 focal length.
 [Delhi Comptt. 31/1/3 2017]
 
-Sol. l Hypermetropia/ Long-sightedness
+Ans. l Hypermetropia/ Long-sightedness
 l Defective eye
 
 1
@@ -53060,7 +47382,7 @@ Sunlight
 Q. 12. Why danger signs are made in red colour ?
 
 [DDE 2017]
-Sol. Red is the least scattered colour. It is least scattered
+Ans. Red is the least scattered colour. It is least scattered
 by fog and smoke and can be seen in the same
 colour over a long distance. So, danger signs are
 made in red colour.
@@ -53244,7 +47566,7 @@ visible to us about 2 minutes before the actual
 sun-rise and about 2 minutes after the actual
 sunset.
 [OD Comptt. 31/2 2017]
-Sol. l Atmospheric refraction.
+Ans. l Atmospheric refraction.
 ½
 Apparent position
 of the sun
@@ -63789,7 +58111,7 @@ smoke than wood.
 1
 [DDE 2017]
 Q. 10. What is nuclear energy ?
-Sol. The energy released during nuclear fission or
+Ans. The energy released during nuclear fission or
 fusion, especially when used to generate electricity
 is called nuclear energy.
 1
