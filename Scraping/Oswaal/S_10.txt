@@ -9287,8 +9287,7 @@ O2(g)
 
 (Water)
 (Hydrogen gas) (Oxygen gas)
-Q.
-3.
+Q. 3.
 Write
 the
 steps
@@ -17840,8 +17839,7 @@ of this series is :
 CH3Cl (Chloromethane)
 C2H5Cl (Chloroethane)
 ½+½
-Q.
-3.
+Q. 3.
 Write
 the
 molecular
@@ -18205,8 +18203,7 @@ between oppositely charged ions
 
 		
 [CBSE Marking Scheme]
-Q.
-3.
+Q. 3.
 Give
 reason
 why
@@ -26074,8 +26071,7 @@ Ans. Two events that occur during photosynthesis are :
 and splitting of water molecules into hydrogen and
 oxygen.
 1+1
-Q.
-6.
+Q. 6.
 Which
 is
 the
@@ -33608,8 +33604,7 @@ of the muscles in the uterus.
 uterus slowly breaks and comes out through the
 vagina as blood and mucous (Menstruation)
 1
-Q.
-15.
+Q. 15.
 In
 the
 diagram
@@ -36035,8 +36030,7 @@ the next generation.
 frequently than the other form of the same
 character.
 1+1+1
-Q.
-14.
+Q. 14.
 Give
 reasons
 for
@@ -38928,36 +38922,6 @@ the objects formed by convex mirrors.
 Ans. Four specific characteristics of the image formed
 by convex mirror :
 
-Ans.
-S.
-No.
-
-Real Image
-
-Virtual Image
-
-(i) Formed when reflected Formed at a point from
-rays meet.
-which the reflected
-rays appear to diverge.
-(ii) Image is always
-It is always erect.
-inverted.
-[CBSE Marking Scheme, 2012] 1+1
-Q.
-12.
-A
-ray
-of
-light
-is incident on a convex mirror as
-A
-shown. Redraw the diagram and complete the
-path of this ray after reflection from the mirror.
-Mark angle of incidence and angle of reflection
-on it.
-[Board Term II Delhi Set I, 2016]
-
 (i) It is always formed behind the mirror, between
 the pole and its focus.
 (ii) The image is always virtual and erect.
@@ -39016,31 +38980,24 @@ Q. 11. Differentiate a real image from a virtual image
 giving two points of difference.
 [Board Term II, Set (2021), 2012]
 
+
 Ans.
+S.
+No.
 
-i
-C
+Real Image
 
-i
+Virtual Image
 
-r
+(i) Formed when reflected Formed at a point from
+rays meet.
+which the reflected
+rays appear to diverge.
+(ii) Image is always
+It is always erect.
+inverted.
+[CBSE Marking Scheme, 2012] 1+1
 
-r
-F
-
-P
-
-P
-
-F
-
-C
-
-Tracing the reflected ray
-1
-Marking ∠i & ∠r
-½+½
-[CBSE Marking Scheme, 2016]
 Q. 13. The linear magnification produced by a
 spherical mirror is +3. Analyse this value and
 state the (i) type of mirror and (ii) position of
@@ -39085,1138 +39042,6 @@ Ans. When two plane mirrors are placed at right angle
 to each other then incident and reflected rays will
 always be parallel to each other.
 
-248 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ans.
-
-(iv) Real image
-
-[CBSE Marking Scheme, 2016] ½ × 4 = 2
-Q. 16. AB and CD, two spherical mirrors, form parts
-of a hollow spherical ball with its centre at O
-1
-as shown in the diagram. If arc AB = arc CD,
-2
-what is the ratio of their focal lengths ? State
-which of the two mirrors will always form
-virtual image of an object placed in front of it
-and why.
-[Board Term II Foreign Set I, 2016]
-
-R'
-
-I
-
-B
-
-II II IIII IIII IIII
-
-Image
-
-Q
-
-C
-
-Image
-
-IIII
-
-R
-
-lllllllllll
-
-l l l l l l l l l l ll
-
-Ans. When the object is located between the focus (F)
-and the pole (P) of the mirror, the image is formed
-behind the mirror; this image is virtual, erect and
-large.
-1
-
-C
-
-F
-
-Q'
-P
-
-I III
-II
-
-ll
-
-ll
-
-I
-
-D
-
-ll
-
-l
-
-Ans. Focal length of both the mirrors will be the same
-1:1
-1
-
-II II
-
-observed to be virtual, erect and larger than
-the object. Where should be the position of the
-object relative to the mirror ? Draw ray diagram
-to justify your answer.
-[Board Term II, Outside Delhi Set II, III, 2014]
-
-lll
-
-B
-
-III
-
-[CBSE Marking Scheme, 2015] 2
-
-ll
-
-O
-
-C
-
-Q. 19. The image formed by a concave mirror is
-
-ll
-
-A
-
-l
-
-II
-
-I II
-
-ll
-
-A
-
-1
-
-Q. 20. Draw a ray diagram to show the path of the
-
-Mirror AB will always form virtual image as it is a
-diverging / convex mirror.
-½+½
-
-reflected ray corresponding to an incident ray
-which is directed parallel to the principal axis
-of a convex mirror. Mark on it the angle of
-incidence and the angle of reflection.
-
-[CBSE Marking Scheme, 2016]
-
-[Board Term II, Delhi Set I, II, 2014]
-III
-
-I II
-
-P
-
-C
-
-III
-
-III
-
-II
-
-reflected ray corresponding to an incident ray
-of light parallel to the principal axis of a convex
-mirror and show the angle of incidence and
-angle of reflection on it.
-[Board Term II, O.D. II, 2015]
-
-M
-
-II II I I I III I II III II
-II
-
-Q. 18. Draw a ray diagram to show the path of the
-
-i
-
-r
-
-IIII
-
-Ans. (i) Concave Mirrors / Converging Mirrors.
-½
-(ii) When a solar furnace is placed at the focus of a
-large concave mirror/ reflector, it focuses a parallel
-beam of light on the furnace, consequently a high
-temperature is achieved after some time.
-[CBSE Marking Scheme, 2016] 3×½=1½
-
-Ans.
-III
-I
-
-solar furnaces. Explain how high temperature is
-achieved by this device.
-[Board Term II, O.D. Set I, 2016]
-
-IIII
-
-Q. 17. Name the type of mirrors used in the design of
-
-
-
-I
-
-(iii) Concave mirror
-
-F
-
-II
-
-(ii) Magnified
-
-II
-
-P
-
-IIII
-
-Ans. (i) Inverted image
-
-III
-
-1+1
-Q. 15. ''The magnification produced by a spherical
-mirror is – 3''. List four informations you obtain
-from this statement about the mirror/image.
-[Board Term II, O.D. Set I, 2016]
-
-IIII
-
-r
-
-II I I III III I II III I
-
-i
-
-r
-
-II
-
-i
-
-IIII
-IIII
-
-i
-r
-
-III
-
-I II
-N
-
-2
-
-Q. 21. Draw a ray diagram to show the path of the
-
-reflected ray corresponding to an incident ray
-which is directed parallel to the principal axis
-of a concave mirror. Mark on it the angle of
-incidence and the angle of reflection. 	
-[Board Term II, Delhi Set III, 2014]
-
-[ 249
-
-LIGHT–REFLECTION AND REFRACTION
-
-Ans.
-I
-
-III
-
-A
-
-1 1
-1
-7
-=
-=
-v 15 20
-60
-
-IIII
-
-r
-
-IIIIIIIIIIIIIIIIIII
-
-C
-
-					
-
-D
-
-III
-
-i
-
-F
-
-P
-
-III
-
-At
-infinity
-
-I II
-
-B
-
-2
-
-N
-
-Q. 21. “A concave mirror of focal length ‘f’ can form
-
-a magnified erect as well as an inverted image
-of an object placed in front of it.” Justify this
-statement stating the position of the object with
-respect to the mirror in each case for obtaining
-these images. [Board Term II O.D. Set I, 2013]
-IIII
-
-Ans.
-
-II
-IIII
-III
-IIIIII
-
-A
-
-M
-
-IIIIIIIIIIIIIIII
-I
-I
-I
-I
-I
-IIIII
-IIII
-I
-
-C
-
-B
-
-at
-ge ty
-a
-Im nfini
-I
-
-P
-
-F
-
-Image formed by a concave mirror with object
-placed at F
-1
-I
-IIII
-IIII
-II
-IIIII
-
-B'
-
-C
-B
-
-A'
-
-F
-N
-
-IIIIIIIIIIIIIIIIII
-I
-I
-I
-I
-I
-IIII
-IIII
-I
-
-M
-
-A
-
-1
-1
-1
-=
-−
-v
-15 −20
-
-M
-
-II
-
-Image formed by a concave mirror with object
-placed between F and C.
-1
-Q. 22. An object is placed at a distance of 20 cm from
-a convex mirror of focal length 15 cm. Find the
-position and nature of the image.
-[Board Term II, Set (2021), 2012]
-Ans. u = – 20 cm, f = 15 cm.
-1 1 1
-= +
-,
-f u v
-					
-
-					
-1½
-		
-v = 8·57 cm
-.
-		Nature of the image : Virtual.
-½
-[CBSE Marking Scheme, 2012]
-Q. 23. The radius of curvature of a concave mirror is
-50 cm. Where should an object be placed from
-the mirror so as to form its image at infinity ?
-Justify your answer.
-[Board Term II, Set
-(2025), 2012]
-Ans. Here R = 50 cm,
-
-R
-50
-=
-= 25 cm
-1
-2
-2
-		The object held at focus, that is 25 cm from the
-mirror, will have its image at infinity.
-1
-[CBSE Marking Scheme, 2012]
-Q. 24. An object is kept at a distance of 5 cm in front of
-a convex mirror of focal length 10 cm. Calculate
-the position and nature of the image formed.
-[Board Term II, Set (2013), 2012]
-		
-
-f=
-
-Ans. u = – 5 cm, f = 10 cm, v = ?
-1 1 1
-1 1 1
-+ =
-= or
-v u f
-v f u
-			
-
-in front of a concave mirror of focal length 10
-cm. At what distance from the mirror should a
-
-½
-
-1 1
-1
-3
-=
-v 10 ( - 5) = 10
-
-					
-		or
-
-v=
-
-10
-= 3·33 cm
-3
-
-½
-
-			Nature of image : Virtual and erect.
-½
-[CBSE Marking Scheme, 2012]
-Q. 25. An object is placed at a distance of 20 cm in
-front of convex mirror of radius of curvature 30
-cm. Find the position and nature of the image.
-[Board Term II, Set (2025), 2012]
-Ans. Here, u = – 20 cm, r = 30 cm
-R
-30
-f=
-=
-= 15 cm
-½
-2
-2
-				
-		
-		
-Using mirror formula and substituting the above
-60
-values, we get		v =
-cm
-½
-7
-60
-cm
-7
-behind the mirror.			
-½
-		Nature of image : Virtual and erect.
-½
-[CBSE Marking Scheme, 2012]
-∴ The image will be formed at a distance of
-
-Short Answer Type Questions-II
-Q. 1. An object 4 cm in height, is placed at 15 cm
-
-½
-
-(3 marks each)
-
-screen be placed to obtain a sharp image of the
-object Calculate the height of the image.
-[Delhi 31/1/1 2017]
-
-250 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ans. h1 = + 4 cm, f = – 10 cm, u = – 15 cm, v = ?, h2 = ?
-1
-1 1
-= +
-½
-f
-v u
-			
-1 1
-1
-⇒
-= −
-f u
-v
-1
-1
-1
-−
-=
-− 10 cm − 15 cm
-v
-
-			
-∴
-
-1
-
-v = – 30 cm
-h2
-v
-=–
-h1
-u
-
-			
-∴
-
-h2 = –
-
-½
-
-½
-
-v
-× h1
-u
-
-C
-
-A
-B
-
-A'
-
-F 10 cm
-15 cm
-
-		Using the mirror equation,
-1
-1 1
-= +
-f
-v u
-			
-1
-1
-1
-+
-⇒
-=
-v − 15
-− 10
-		
-1
-1
-1
-+
-⇒
-=
-− 10 15
-v
-		
-( − 15 + 10 )
-1
-⇒
-=
-v
-150
-		
-=
-
-⇒
-		
-
-(− 3 + 2)
-1
-=
-v
-36
-
-m=
-
-hi
-ho
-
-m=
-
-− 36
-= 18 = – 2
-− 18
-
-–2 =
-
-				
-		
-v = – 30 cm
-Thus, to obtain a sharp image of the object the
-screen should be placed in front of the mirror at a
-distance of 30 cm from the mirror.
-Magnification,
-hi
-−v
-m=
-=
-h
-u
-o
-			
-− 30
-m=
-=–2
-− 15
-			
-h
-–2 = i
-4
-			
-3
-
-−1
-36
-
-				
-			
-v = – 36 cm
-−v
-Magnification,
-m=
-u
-		
-
-			
-
-N
-
-1
-1
-1
-=
-+
-v
-12 18
-
-=
-
-Also,
-		
-
-P
-
-−5
-150
-
-			
-hi = – 8 cm
-The image height will be 8 cm.
-
-concave mirror of focal length 12 cm. At what
-distance from the mirror should a screen be
-placed to see a sharp image of the object on the
-screen. Also calculate the height of the image
-formed.
-[Delhi 31/1/2 2017]
-Ans. Given, u = – 18, f = – 12, u = ?
-Using the mirror equation,
-1
-1 1
-= +
-f
-v u
-			
-1
-1
-1
-+
-⇒
-=
-v − 18
-− 12
-⇒
-		
-
-− 30 cm
-=–
-× 4 cm
-− 15 cm
-				
-				= – 8 cm
-½
-[CBSE Marking Scheme] 1+1
-Detailed Answer :
-M
-
-B'
-
-Q. 2. A 3 cm tall object is placed 18 cm in front of a
-
-hi
-3
-
-			
-			
-hi = – 6 cm
-		The image height will be 6 cm.
-3
-Q. 3. The image of a candle flame placed at a distance
-of 30 cm from a mirror is formed on a screen
-placed in front of the mirror at a distance of
-60 cm from its pole. What is the nature of the
-mirror ? Find its focal length. If the height of
-the flame is 2.4 cm, find the height of its image.
-State whether the image formed is erect or
-inverted.
-[Delhi 31/1/3 2017]
-Ans. The nature of the mirror is concave since the image
-formed is real.
-Given, u = – 30 cm, v = 60 cm, h = 2.4 cm
-Using mirror equation,
-1
-1 1
-= −
-f
-v u
-			
-			
-
-1  1 
-1
-= 60 −  − 30 
-f
-
-
-=
-
-1
-1
-+
-60 30
-
-				
-3
-1
-=
-=
-60
-20
-			
-		Therefore
-
-f = 20 cm
-
-[ 251
-
-LIGHT–REFLECTION AND REFRACTION
-
-Magnification,
-		
-
-M=
-
-Height of image
-v
-=
-Height of object
-u
-
-Q. 6. A student wants to project the image of a candle
-
-flame on a screen 80 cm in front of a mirror by
-keeping the candle flame at a distance of 20 m
-from its pole.
-
-60
-v
-h'
-=
-=
-− 30
-u
-2.4
-
-			
-
-h' =
-
-			
-
-(i) Which type of mirror should the student use ?
-(ii) Find the magnification of the image produced.
-
-60
-× 2.4 = – 4.8 cm
-− 30
-
-(iii) Find the distance between the object and its image.
-
-		The required height of the image is – 4.8 cm
-The image formed by the mirror is inverted. 1 + 1 + 1
-Q. 4. If the image formed by mirror for all positions of
-
-the object placed in front of it is always virtual
-and diminished, state the type of the mirror.
-Draw a ray diagram in support of your answer.
-Where are such mirrors commonly used and
-why ?
-[Board Term II O.D. Set I, 2016]
-
-Ans.		Convex mirror
-
-Ans. (i) Concave mirror
-
-m =
-		
-(iii)		
-
-M
-
-½
-
-u = –20 cm, v = –80 cm, m= ?
-
-(ii)
-
-½
-i
-
-A
-
-(iv) Draw a ray diagram to show the image formation
-in this case and mark the distance between the
-object and its image.
-[Board
-Term II Foreign Set I, 2015]
-
--v
-= -( -80cm) = 4
-u
-( - 20 cm)
-
-v – u = 60 cm
-
-½
-M E
-
-(iv)
-
-r
-
-1
-
-A'
-
-B
-
-B' F
-
-P
-
-A
-
-C
-
-B′
-
-D
-P
-
-C
-B
-
-F
-
-N
-
-		
-1
-		
-Use of convex mirror—as rear view mirror in
-vehicles.
-½
-		
-Why—always gives erect image with large field of
-view. 		
-[CBSE Marking Scheme, 2016] 1
-Q. 5. The image of an object formed by a mirror is
-
-real, inverted and is of magnification – 1. If the
-image is at a distance of 40 cm from the mirror,
-where is the object placed ? Where would the
-image be if the object is moved 20 cm towards
-the mirror? State reason and also draw ray
-diagram for the new position of the object to
-justify your answer.
-[Board Term II O.D. Set I, 2016]
-
-Ans. Object position : At C ( Centre of curvature)
-
-½
-
-Object distance = 40 cm
-
-½
-
-Position of the image - at infinity
-
-½
-
-A′
-N
-1
-[CBSE Marking Scheme, 2015]
-
-Q. 7. Draw a ray diagram to show the path of the
-
-reflected ray in each of the following cases. A
-ray of light incident on a convex mirror
-
-(i) Strikes at its pole making an angle θ from the
-principal axis.
-(ii) Is directed towards its principal focus.
-(iii) Is parallel to its principal axis.
-		
-
-[Board Term II, Foreign Set I, 2015]
-
-Ans. (i)
-
-Reason : Focal length of the mirror = 20 cm
-If the object is moved 20 cm towards the mirror
-then its new position would be at the focus of the
-mirror.
-½
-ll
-
-l
-ll
-lll
-
-lllllll
-
-C
-
-F
-
-P
-
-ll
-l
-
-ll
-
-l
-
-20 cm
-40 cm
-
-(deduct ½ mark if arrows are missing/not marked)
-[CBSE Marking Scheme, 2016]
-
-i
-r
-
-P
-
-F
-
-C
-
-252 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(ii)
-
-i
-
-r
-
-P
-
-F
-
-C
-
-(iii)
-
-r
-
-i
-
-F
-
-P
-
-C
-
-Detailed Answer :
-Rays which are choose to construct ray diagram for
-reflection are :
-(i) A ray parallel to the principal axis and
-(ii) A ray passing through the centre of curvature of a
-concave mirror or appear to pass through the centre
-of curvature of convex mirror.
-Path of these rays after reflection :
-(i) After reflection, it will pass through the principal
-focus of a concave mirror or appear to diverge in
-case of a convex mirror.
-(ii) After reflection, it is reflected back along the same
-path.
-		
-f = –12 cm, u = –8 cm
-1
-1
-1
-we know,
-=
-+
-f
-v
-u
-1
-1
-1
-1
-1
-=
-–
-–
-=
-(
-8)
-v
-f
-u
--12
-
-			
-
-				
-
-[CBSE Marking Scheme, 2015] 3
-Q. 8. To construct ray diagrams, two rays of light are
-generally so chosen that it is easy to determine
-their directions after reflection from a mirror.
-Choose two such rays and state the path /
-direction of these rays after reflection from a
-concave mirror. Use these two rays to find the
-position and nature of the image of an object
-placed at a distance of 8 cm from concave mirror
-of focal length 12 cm.
-[Board Term II, Delhi Set I, 2015]
-Ans. The candidate may choose any two of the
-following rays :
-(i) A ray parallel to the principle axis, after reflection,
-will pass through the principle focus of concave
-mirror.
-(ii) A ray passing through the principle focus of
-a concave mirror after reflection will emerge
-parallel to the principle axis.
-(iii) A ray passing through the centre of curvature of
-a concave mirror after reflection is reflected back
-along the same path.
-(iv) A ray incident obliquely to the principle axis
-towards the pole of a concave mirror is reflected
-obliquely, making equal angles with the principal
-axis.
-(Any two) 1 × 2
-A
-
-M
-E
-
-				
-				
-
-1
-1
-–
-8
-12
-
-=
-
-3-2
-24
-
-=
-
-1
-= 24 cm
-24
-
-v = +ve, So image is virtual and is formed at a
-distance of 24 cm behind the mirror.
-1+1+1
 Q. 9. A student wants to project the image of a candle
 flame on a screen 60 cm in front of a mirror by
 keeping the flame at a distance of 15 cm from its
@@ -40239,588 +39064,9 @@ The minus sign in magnification shows that the
 image formed is real and inverted.
 (iii) The image is formed at a distance of 45 cm from
 the object.
-III
-
-C
-
-F
-
-III III I
-III
-
-Q'
-
-IIIIIIIII
-
-B
-
-IIII
-
-P
-
-B
-
-Object
-Q
-
-(iv)
-Image
-R'
-
-II
-
-I II
-
-1
-[CBSE Marking Scheme, 2015]
-
-III
-
-N
-
-B
-
-I II
-
-r
-
-C
-
-I
-
-III
-
-R
-
-A
-
-F
-
-=
-
-A
-
-P
-
-[ 253
-
-LIGHT–REFLECTION AND REFRACTION
-
-(iii) The image is formed at a distance of 36 cm from the object.
-III
-
-(iv)
-
-P
-
-B
-
-B' F
-
-C
-
-N
-1
-Use : As rear view mirror in vehicles / Also in
-Malls, Hotels, Airports for security reasons.
-½
-Why : (i) Forms erect image,
-½
-(ii) Wider field of view.
-½
-		
-[CBSE Marking Scheme, 2015]
-Detailed Answer :
-The type of a mirror is convex mirror.
-
-B
-
-A
-
-R'
-
-II
-
-A'
-
-Image
-
-Ans. (i)
-
-m =–
-
-		
-
-A'
-
-F
-
-P
-
-A
-
-In this case, the image is formed beyond the centre
-of curvature. This image is real, inverted and
-enlarged.
-½+1+½+1
-Q. 12. (i) A concave mirror produces three times
-enlarged image of an object placed at 10 cm
-in front of it. Calculate the focal length of the
-mirror.
-(ii) Show the formation of the image with the help of a
-ray diagram when object is placed 6 cm away from
-the pole of a convex mirror.
-
-[Board Term II, Set (2007), 2012]
-
-–3 =
-
-		
-			
-(ii)
-
-v
-; u = – 10 cm
-u
-
--v
--10
-
-v = + 30
-½
-= + 3 × – 10 = – 30 cm
-
-		
-		
-
-B'
-
-II I
-
-i
-
-F
-
-III
-
-M
-
-C
-
-I II
-
-r'
-
-Q
-Q'
-
-II I
-
-A
-
-½
-
-I III IIIII IIIII III IIII
-
-Ans. Convex mirror
-
-IIII
-
-Object
-
-Q. 10. If the image formed by a mirror for all positions
-of the object placed in front of it is always erect
-and diminished, what type of mirror is it ? Draw
-a ray diagram to justify your answer. Where and
-why do we generally use this type of mirror ?
-[Board Term II O.D. Set I, 2015]
-
-B
-
-III
-
-R
-
-[CBSE Marking Scheme, 2014] 1+1+1
-
-III
-III
-
 In this case, the image is formed beyond the
 centre of curvature. This image is real, inverted
 and enlarged.
-
-–
-
-1
-1
-1
-–
-=
-30
-10
-f
-
-1
-½
-
-f = – 7·5 cm
-II
-
-I II I
-II I
-I I II I
-
-A'
-
-IIIIIIIIIIIIIIIIIIIIIIII
-
-A
-
-B'
-
-6 cm
-
-P
-
-B
-
-C
-
-I I II
-
-II I I
-
-I
-
-Convex mirror can be used as rear–view mirrors in
-automobiles because it gives a wider field of view as
-the mirror is curved outward. It produces erect and
-diminished image of the traffic behind the driver of
-the vehicle.
-1+2
-Q. 11. A student wants to project the image of a candle
-flame on a screen 48 cm in front of a mirror by
-keeping the flame at a distance of 12 cm from its
-pole.
-(i) Suggest the type of mirror he should use.
-(ii) Find the linear magnification of the image
-produced.
-(iii) How far is the image from its object ?
-(iv) Draw ray diagram to show the image formation in
-this case.
-[Board Term II, O.D. Set II, III, 2014]
-Ans. (i) He should use a concave mirror, as it forms a real
-image on the same side of the mirror.
-(ii) Object distance, u = – 12 cm
-Image distance, v = – 48 cm
-Magnification, m = – v /u   = – (– 48) / (– 12)   = – 4
-The minus sign in magnification shows that the
-image formed is real and inverted.
-
-[CBSE Marking Scheme, 2012] 1
-Q. 13. A spherical mirror produces an image of
-
-magnification – 1 on a screen placed at a
-distance of 50 cm from the mirror.
-(i) Write the type of mirror.
-(ii) Find the distance of the image from the object.
-(iii) What is the focal length of the mirror?
-(iv) Draw the ray diagram to show the image formation
-in this case. [Board Term II Delhi Set I, II, III, 2014]
-Ans. (i) As magnification is negative, the image formed is
-real.
-		Hence, it is a concave mirror.
-(ii)		
-m = – v/ u  = – 1
-		
-\
-u = v = – 50 cm
-
-254 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-		Distance of the image from the object
-			
-v – u = – 50 – (– 50) = 0 cm
-(iii) By using mirror formula :
-			
-1/f 	= 1/v  + 1/u
-				 = 1/(– 50)  + 1/(– 50) = – 1/25
-\		
-f = – 25 cm
-III
-
-I
-III
-
-(iv)
-
-III
-III
-
-II I I
-
-III IIIII
-
-Object
-
-IIIIIIIIIII
-
-F
-Image
-
-Q. 16. Mention the types of mirrors used as (i) rear
-
-IIII
-III
-III
-
-II
-
-III
-
-II
-
-1+1+1
-
-N=V
-
-Q. 14. Rohit wants to have an erect image of an object,
-
-using a converging mirror of focal length 40 cm.
-(i) Specify the range of distance where the object can
-be placed in front of mirror. Give reason for your
-answer.
-(ii) Will the image be bigger or smaller than the object ?
-(iii) Draw a ray diagram to show the image formation
-in this case. [Board Term II, Set 8XSVHLC, 2014]
-
-Ans. (i) Object should be placed at <40 cm (Less than 40
-cm) in front of the mirror, i.e. between focus and
-pole, as concave mirror forms a virtual, erect and
-magnified image when object is placed between
-focus and pole.
-(ii) Image will be bigger than the object.
-(iii)
-
-(ii) Rear view mirror of vehicles : Convex mirror
-Convex mirror is used because it always produces
-a virtual and erect image whose size is smaller than
-the object. Therefore, it enables the driver to see
-wider field of view and traffic behind the vehicle in
-a small mirror.
-(iii) Solar furnace : Concave mirror
-Concave mirror has the property to concentrate the
-sunlight coming from sun along with heat radiation
-at its focus. As a result, temperature at its focus
-increases and the substance placed at the focal
-point gets heated to a high temperature.
-1+1+1
-
-R'
-
-view mirrors (ii) shaving mirrors. List two
-reasons to justify your answers in each case.
-[Board Term II Delhi Set I, 2013]
-Ans. (i) A convex mirror always forms an erect, virtual and
-diminished image of an object placed anywhere in
-front of it. Thus, convex mirrors enable the driver to
-view much larger traffic behind him that would not
-be possible with a plane mirror.
-(ii) A concave mirror is used as a shaving or make-up
-mirror because it forms an erect and enlarged image
-of the face when it is held closer to the face.
-1½ + 1½
-Q. 17. (i) Name the spherical mirror used as :
-
-(a) Shaving mirror
-(b) Rear view mirror in vehicles
-(c) Reflector in search-lights.
-(ii) Write any three differences between a real and a
-virtual image.
-[Board Term II, Set (2017), 2012]
-Ans. (i) (a) Shaving mirror– Concave mirror
-
-½
-
-		(b) Rear view mirror – Convex mirror
-
-½
-
-		(c) Reflector in search-lights – Concave mirror ½
-B
-
-Q'
-P
-
-II II
-
-II
-
-A
-
-[CBSE Marking Scheme, 2014] 1+1+1
-Q. 15. Name the type of mirror used in the following
-
-		(c) Real image is always inverted while virtual
-image is always erect.
-½
-[CBSE Marking Scheme, 2012]
-Q. 18. Draw the following diagram, in which a ray of
-light is incident on a concave/convex mirror, on
-your answer sheet. Show the path of this ray,
-after reflection, in each case.
-
-[Board Term II Delhi Set I, 2016]
-ll
-
-l
-
-ll
-
-lll
-lllllll
-
-F
-
-F
-
-ll
-l
-
-situations :
-(i) Headlights of a car
-(ii) Rear–view mirror of vehicles
-(iii) Solar furnace
-Support your answer with reasons.
-[Board Term II Foreign 2013]
-Ans. Type of mirror used in :
-(i) Headlights of a car : Concave mirror
-Concave mirror is used because light from the bulb
-placed at the focus of it gets reflected and produces
-a powerful parallel beam of light to illuminate the
-road.
-
-		(b) Reflected / Refracted rays actually meet
-where real image is formed while for virtual
-they only appear to meet.
-½
-
-l
-
-F
-
-I I I I II I I I I I I I I I
-
-Q
-C
-
-Image
-
-IIIII
-
-R
-
-IIII
-
-Object
-
-ll
-
-III
-
-(ii) (a) Real image can be obtained on screen but
-virtual image cannot be obtained.
-½
-
-F
-
-lll
-
-lllllllll
-
-F
-
-F
-
-ll
-
-[ 255
-
-ll
-
-l
-
-LIGHT–REFLECTION AND REFRACTION
-
-Q. 19. Define the magnification as referred to spherical
-
-mirrors. If a concave mirror forms a real image
-40 cm from the mirror, when the object is placed
-at a distance of 20 cm from its pole, find the
-length of the mirror. [Delhi Comptt. 31/1/1 2017]
-
-F
-
-Ans.
-
-ll
-
-l
-
-ll
-
-lll
-lllllll
-
-F
-
-F
-
-ll
-l
-
-Ans. (a) The relative extent to which the image of an
-object is magnified with respect to object size. It
-is the ratio of size of the image to the size of the
-object.
-1
-(b) v = – 40 cm, u = – 20 cm, f = ?
-½
-1
-1 1
-= +
-½
-f
-v u
-			
-1
-1
-1
-+
-=
-½
-f
-− 40 − 20
-			
-− 40
-f=
-cm
-3
-			
-[CBSE Marking Scheme, 2017]
-
-		
-
-ll
-
-l
-
-F
-
-[CBSE Marking Scheme, 2016] 3 × 1 = 3
 
 Long Answer Type Questions
 Q. 1. (a) Define the following terms in the context of
@@ -40840,27 +39086,6 @@ M
 
 (5 marks each)
 (b) (i)
-
-i
-
-F
-
-At
-Infinity
-B
-
-G
-r
-i
-
-A
-
-F
-
-M
-D
-E
-P
 
 State the type of the mirror M and one
 characteristic property of the image Q.
@@ -40989,6 +39214,26 @@ this case, the incident ray will be reflected back by
 the reflecting surface of the concave mirror obliquely
 and making equal angles with the principal axis.
 
+(iii)
+
+Let an object is placed between the focus and pole
+of the concave mirror. Then using above two rays,
+image of the candle can be located as shown below :
+
+Image
+
+P
+
+1
+M
+
+Q'
+
+A
+The image is formed behind the mirror. The image
+is virtual, erect and magnified.
+1+1+1
+
 (iii) Given, m = – 3, u = – 20 cm, v = ?
 As we know,
 v
@@ -41033,59 +39278,6 @@ generally kept at a distance more than 10 cm.
 		 					
 3 × ½ = 1½
 A
-
-(iii)
-
-C
-F
-
-B
-
-A'
-
-M E
-
-r
-
-B'
-
-P
-
-N
-
-P
-C
-B'
-
-Let an object is placed between the focus and pole
-of the concave mirror. Then using above two rays,
-image of the candle can be located as shown below :
-R'
-
-C
-
-R
-t
-c
-je
-ob Q
-F
-
-B
-
-Image
-
-P
-
-1
-M
-
-Q'
-
-A
-The image is formed behind the mirror. The image
-is virtual, erect and magnified.
-1+1+1
 
 C
 
@@ -41182,580 +39374,10 @@ Show the positions of pole, principal focus and the centre of curvature in the a
 1
 
 Ans. (i) Range of distance – between 0 cm - < 12 cm
-
-		
-
 (ii) larger than the object
 
-½
-ll
-
-lll
-lllllll
-
-F
-
-l
-
-ll
-
-A
-C
-
-A'
-
-B
-
-P
-
-B'
-
-ll
-
-l
-
-ll
-
-l
-
-12 cm
-
-1½
 (iii) Image also at 24 cm in front of the mirror
 
-½
-ll
-
-l
-
-ll
-lll
-lllllll
-
-F
-
-C
-
-P
-
-ll
-
-l
-
-ll
-
-l
-
-12 cm
-24 cm
-
-[CBSE Marking Scheme, 2016] 1½
-OR
-
-[Topper Answer, 2016]
-
-[ 259
-
-LIGHT–REFLECTION AND REFRACTION
-
-Q. 6. A student has focused the image of a candle
-
-flame on a white screen using a concave mirror.
-The situation is as given below :
-Length of the flame = 1.5 cm
-Focal length of the mirror = 12 cm
-Distance of flame from the mirror = 18 cm
-If the flame is perpendicular to the principal axis
-of the mirror, then calculate the following :
-(i) Distance of the image from the mirror
-(ii) Length of the image
-If the distance between the mirror and the flame
-is reduced to 10 cm, then what would be observed
-on the screen ? Draw ray diagram to justify your
-answer for this situation.
-[Board Term II Foreign Set I, 2015]
-
-(ii) At what distance, in terms of focal length ‘f’ of the
-mirror, should he place the candle flame to get the
-magnified image on the wall ?
-(iii) Draw a ray diagram to show the formation of the
-image in this case.
-(iv) Can he use this mirror to project a diminished
-image of the candle flame on the same wall ? State
-‘how’ if your answer is ‘yes’ and ‘why not’ if your
-answer is ‘no.’ [Board Term II, Delhi Set II, 2014]
-Ans. (i) He should use a concave mirror as it forms real
-images.
-(ii) He should place the candle flame between the focus
-and centre of curvature of the mirror to get the
-magnified image on the wall.
-(iii) The ray diagram for the formation of the image is
-shown below :
-II I
-
-=
-
--1
-36
-
-		
-∴
-
-v = – 36 cm
-
-(b)
-		
-
-h' = -
-
-II
-
--1 1
--3 + 2
-=
-+
-12 18
-36
-
-1
-
-v
-×h
-u
-
-= -36 cm × 1.5 = – 3 cm
-				 -18 cm
-(Magnified Inverted image)
-(ii) If
-u = – 10 cm
-1
-No distinct image would be formed on the screen
-In this case the image formed will be virtual
-(object will be within focal length)
-1
-(iii)
-A
-M
-
-E
-A
-
-r
-
-C
-F
-
-P
-
-B
-
-R'
-
-B
-
-1
-
-[CBSE Marking Scheme, 2015]
-Q. 7. A student wants to project the image of a candle
-flame on the walls of the school laboratory by
-using a mirror.
-(i) Which type of mirror should he use and why ?
-
-P
-
-A
-
-(iv) Yes, he can get a diminished image of the candle
-flame when the object is located at bayonets.
-2+1+1+1
-Q. 8. (i) 4·5 cm needle is placed 12 cm away from a
-convex mirror of focal length 15 cm. Give the
-location of the image and the magnification.
-Describe what happens as the needle is moved
-farther from the mirror.
-(ii) What kind of mirror is used in a solar furnace ?
-Give reason for using this mirror.
-(iii) One half of a convex lens is covered with a black
-paper. Will this lens produce a complete image of
-the object ? Justify your answer.
-[Board Term II, Set (2022), 2012]
-Ans. (i)
-u
-			
-f
-		using mirror formula
-1
-f
-			
-1
-⇒		
-v
-⇒
-
-N
-
-III
-
-=
-
-Image
-III
-
-				
-
-½
-
-F
-
-III
-
-				
-
-1
-1
-( -12 ) ( -18 )
-
-Q
-
-III
-
-				
-
-I I I I I I I II II I I II II III I
-
-=
-
-IIII
-
-Object
-Q'
-C
-
-B
-
-II I
-
-R
-
-1
-1 1
-= v
-f u
-
-∴
-		
-
-III
-III
-
-Ans. (i) h = + 1.5 cm; f = – 12 cm; u = – 18 cm; v = ?
-h' = ?
-1
-1 1
-(a)
-= +
-½
-f
-v u
-
-= – 12 cm
-=+ 15 cm
-=
-
-1 1
-1 1
-1
-+ ⇒
-= −
-f u
-u v
-v
-
-=
-
-1
-1
-−
-15 −12
-
-v=
-
-60
-= 6·7 cm
-9
-
-h
-−v
-Magnification
-m =–
-= 2
-h1
-u
-		
-				= – 6·7 / – 12 = 0·558
-h
-			
-m= 2
-h1
-
-½+½
-
-260 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-			
-h2 = h1 × m
-			
-h2 = 0·558 × 4·5
-			
-h2 = 2·5 cm
-½+½
-As the needle is moved farther from the mirror,
-image moves to the focus and the size of image
-goes on decreasing.
-½+½
-(ii) Concave mirrors are used in solar furnaces as they
-concentrate solar energy in the focal plane and
-help in attaining high temperatures.
-1
-(iii) When one half of a convex lens is covered with
-a black paper, the lens will produce a complete
-image of the object but the intensity of the image
-is reduced because rays from the top portion of
-the lens only are refracted and forms the image. 1
-[CBSE Marking Scheme, 2012]
-Q. 9. (i) An object is placed at a distance of 60 cm
-from a convex mirror where the magnification
-1
-produced is
-. Where should the object be
-2
-
-cases to show the position and nature of image
-formed when the object is placed :
-(i) Between pole and focus of a concave mirror.
-(ii) Between focus and centre of curvature of a concave
-mirror.
-(iii) At the centre of curvature of a concave mirror.
-(iv) Between infinity and pole of a convex mirror.
-(v) At infinity from a convex mirror.		
-[Board Term II, Set A1, 2011]
-A'
-Ans. (i)
-A
-
-C
-
-(ii)
-
-A
-F
-
-A' C'
-B'
-
-1
-
-(iii)
-I II I I
-
-B
-
-IIIIIIII
-IIIIIIIIIIIIII
-
-v
-1
-–
-2
-u
-
--v
-1
-=
-- 60
-2
-
-P
-
-A A'
-
-f = 60 cm
-1
-1
-1
-1
-1
-1 1
-1
-+ =
-Now m = ∴
-⇒
-+
-=
-f
-u v
-3
--u
-v
-60
-		
-
-I II I
-
-B
-
-I II I I I I I I I I I I I I I I I I I I
-
-(iv)
-
-			
-
-P
-
-B' F
-
-C
-
-1
-
-I I I I I I I II I I II
-
-II III
-
-I I II
-
-I II
-
-(v)
-
-P
-
-A'
-F
-
-C
-
-[CBSE Marking Scheme, 2012]
-
-I
-
-1
-
-I II
-IIII
-
-I I I II
-
-F
-
-A'
-
-I
-II II
-
-A
-
-I I II II I I I
-
-		
-∴
-u = – 60 cm
-(ii) When a small electric lamp is placed at the focus of
-a convex lens, a parallel beam of light is produced
-by the lens.
-1
-		Ray diagram.		
-
-1
-
-II
-
-B'
-
-I II I I I
-
-1
-
-II I I I
-
-			
-			
-v = 30 cm
-		Using mirror formula
-1
-1 1
-1
-		
-= + =
-f
-60
-u v
-
-F
-
-P
-
-I
-
-			
-
-IIIIIIIIIIIIIIIIIIIIIIII
-
-m =–
-
-1
-
-
-I II II
-
-			
-
-B'
-
-P
-
-B
-
-B
-
-1
-
-u = – 60 cm,
-1
-M =+
-2
-
-F
-
-N
-
-(ii) A small electric lamp is placed at the focus of
-a convex lens. State the nature of beam of light
-produced by the lens. Draw a diagram to show
-this.
-[Board Term II, Set (2023), 2012]
-Ans.(i)
-
-E
-
-M
-
-II I I
-
-1
-placed to get a magnification of
-?
-3
-
-Q. 10. Draw a ray diagram in each of the following
-
-1
-
-[ 261
-
-LIGHT–REFLECTION AND REFRACTION
 
 TOPIC-2
 
@@ -41960,6 +39582,13 @@ sum of their individual powers.
 1
 [CBSE Marking Scheme, 2012]
 
+Q. 8. Mention the kind of lens that can form :
+
+(i) Real, inverted and magnified image
+(ii) Virtual, erect and magnified image
+(iii) Real, inverted and diminished image
+(iv) Virtual, erect and diminished image.		
+[Board Term II, Set 8XSVHLC, 2014]
 Ans. (i) Convex lens
 (ii) Convex lens
 (iii) Convex lens
@@ -41976,77 +39605,6 @@ The rays converge at a point. The distance between
 converging point and lens is measured which gives
 the rough focal length of the convex lens.
 2
-[CBSE Marking Scheme, 2015]
-Q.10. The absolute refractive indices of glass and
-water are 4/3 and 3/2 respectively. If the speed of
-light in glass is 2 × 108 m/s, calculate the speed
-of light in (i) vacuum, (ii) water.
-[Board Term II O.D. Set I, 2015]
-Ans. Since, refractive index of glass
-		 = Speed of light in vacuum (v )
-Speed of light in glass ( o )
-		
-v
-C =
-n
-			
-			
-			
-
-v
-4
-=
-2 × 10 8
-3
-
-v =
-
-			 =
-			
-
-4
-× 2 × 108
-3
-8
-× 108 = 2.6 × 108 m/s
-3
-
-v = 3 × 108 m/s
-
-		Refractive index of water
-			 =
-
-			
-		
-
-Q. 8. Mention the kind of lens that can form :
-
-n =
-w =
-
-Speed of light in vacuum
-Speed of light in water
-u
-w
-3 × 10 8
-v
-=
-3
-n
-2
-
-(i) Real, inverted and magnified image
-3 × 10 8 × 2
-=
-= 2 × 108 m/s
-2
-(ii) Virtual, erect and magnified image
-3
-				
-(iii) Real, inverted and diminished image
-[CBSE Marking Scheme, 2015]
-(iv) Virtual, erect and diminished image.		
-[Board Term II, Set 8XSVHLC, 2014]
 Q. 11. The refractive indices of glass and water with respect to air are 3/2 and 4/3 respectively. If speed of light in
 glass is 2 × 108 m/s, find the speed of light in water. 
 [Board Term II O.D. Set III, 2016]
@@ -42088,280 +39646,7 @@ Speed of light in water =
 OR
 
 [Topper Answer, 2016]
-Q. 12. “A ray of light incident on a rectangular glass
 
-slab immersed in any medium emerges
-parallel to itself." Draw a diagram to justify the
-statement.
-[Board Term II Delhi Set I, 2013]
-
-Ans.
-
-Ans. For the same angle of incidence in media P, Q
-and R, the angles of refraction is minimum for
-the medium R. Hence velocity of light would be
-c sin i
-minimum in R as
-=
-1+1
-v sin r .
-[CBSE Marking Scheme, 2012]
-
-Normal
-
-A
-
-Q. 14. Draw the ray diagram for the formation of image
-
-i1
-Air (na)
-
-B
-
-P
-
-Glass (na)
-r1
-
-S
-
-Air
-
-Q
-
-Ans.
-
-Iateral
-displacement
-
-i2
-
-by a concave lens when the object is placed in
-between infinity and optical centre of the lens.
-State the nature of the image formed.
-[Board Term II, Set (2018), 2012]
-
-N
-
-M
-A
-
-R
-
-C
-
-A'
-
-r2
-Normal
-
-D
-
-2F
-
-B
-
-F1
-
-B'
-
-O'
-
-Refraction through a glass slab
-The emergent ray CD is parallel to the incident
-ray AB, but it has been laterally displaced by a
-perpendicular distance CN with respect to the
-incident ray.
-2
-Q. 13. For the same angle of incidence in media P, Q
-
-and R, the angles of refraction are 45°, 35° and
-15° respectively. In which medium will the
-velocity of light be minimum ? Give reason for
-your answer. [Board Term II, Set (2022), 2012]
-
-1½
-Nature of the image : Virtual and erect.
-
-½
-
-[CBSE Marking Scheme, 2012]
-Q. 15. A ray of light falls normally on the surface of
-a transparent glass slab. Draw a ray diagram to
-show its path and also mark angle of incidence
-and angle of emergence.
-[Board Term II Delhi Set I, 2013]
-
-264 ]
-Ans.
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Incident ray
-
-Ans. Absolute refractive index of a medium
-=
-
-i
-
-				
-v=
-
-∠i = Angle of incidence = 0o ,∠e = Angle of
-emergence = 0°
-2
-Q.
-16.
-Light
-enters
-from
-air
-into
-glass
-plate
-which
-has
-A
-refractive index 1·5. Calculate the speed of light in
-glass (velocity of light in air is 3 × 108 m/s).
-[Board Term II, Set (2016), 2012]
-
-=
-
-1
-
-3 × 10 8
-1.5
-
-						
-						 = 2 × 108 m/sec
-1
-[CBSE Marking Scheme, 2012]
-absolute
-refractive
-inA Q. 17. Define
-dex of a medium. Light enters from
-air to water having refractive index
-4
-. Find the absolute refractive index of a me3
-dium if the speed of light in vacuum is 3 × 108
-m/s.
-[Board Term II, Set (2026), 2012]
-
-a distance of 12 cm from a wall. Calculate the
-distance from the lens where an object can be
-placed so as to form its distinct real image on
-the wall.
-Ans. v = + 12 cm, f = +10 cm.
-1 1 1
-- = ⇒ 1 -1= 1
-v u f
-12 u 10
-
-		
-u = – 60 cm.
-2
-Q. 19. The refractive index of a dense flint glass is 1·65
-and for alcohol it is 1·36 with respect to air. Find
-the refractive index of dense flint glass with
-respect to alcohol.
-[Board Term II, Set (2023), 2012]
-Ans.
-
-µ =
-
-al fl
-
-=
-
-Q. 1. State the laws of refraction of light. If the speed
-
-of light in vacuum is 3 × 108 m/s find the absolute
-refractive index of a medium in which light travels
-with a speed of 1.4 × 108 m/s.
-[Board Term II, Outside Delhi Set I, III, 2015]
-[DDE 2017]
-
-Ans. (i) There are two laws of refraction :
-(a) The ratio of the sin of the angle of incidence to
-the sin of the angle of refraction is constant. This
-is known as Snell’s law. Mathematically, it can be
-expressed as :
-			
-sin i/ sin r = n12
-Here, n12 is the relative refractive index of medium
-1 with respect to medium 2.
-(b) The incident ray, the refracted ray and the normal
-to the interface of two media at the point of
-incidence lie on the same plane.
-1×2
-		
-Given
-c = 3 × 108 m/s
-			
-v = 1.4 × 108 m/s
-
-a µ fl
-a µ al
-
-1.65
-= 1·21
-1.36
-
-				
-		Refractive index of dense flint glass with respect
-to alcohol is 1·21. [CBSE Marking Scheme, 2012] 2
-
-Short Answer Type Questions-II
-
-
-
-1
-
-Q. 18. A convex lens of focal length 10 cm is placed at
-
-Emergent ray
-
-Ans.
-
-3 × 10 8
-c
-=
-= 2·25 × 108 m/s
-4
-n
-3
-
-[CBSE Marking Scheme, 2012]
-
-e
-
-c
-vg =
-a µg
-
-Velocity of light in vaccum
-1
-Velocity of light in medium
-
-(3 marks each)
-
-(ii) Absolute refractive index
-Speed of light in vacuum
-=
-½
-Speed of light in medium
-				
-=
-				
-
-3 × 10 8 m/s
-= 2.14
-1.4 × 10 8 m/s
-
-½
-
-[CBSE Marking Scheme, 2015]
 Q. 2. State the laws of refraction of light. If the speed
 
 of light in vacuum is 3 × 108 m/s, find the speed
@@ -42391,385 +39676,22 @@ index 1·5 is 2 × 108 m/s
 Q. 3. (i) Define the term magnification. Write the
 formula for magnification of mirror explaining
 the symbols used in the formula.
-(ii)
-
-The magnification produced by a convex lens
-is –2. What is meant by this statement and also
-write the information regarding image obtained
-from it. [Board Term II, Set QNA4XWT, 2012]
-
 Ans. (i) Ratio of height of the image to height of the
 object is magnification.
 			
-
-M (mirror) = h1/h = – v/u
-
-			
-
-Q. 4. Define the power of lens. The power of lens is
-
-+ 2·0 D.
-(i) Find the focal length of lens in m.
-(ii) Name the kind of this lens. Explain with the help
-of figure whether this lens would converge or
-diverge a beam of lens.
-[Board Term II, Set QNA4XWT, 2014]
-
-
-
-Ans.		(i) The ability of a lens to converge/diverge a beam
-of light rays is expressed in terms of its power
-(P). It is the inverse of focal length, f (in meters).
-		Hence, power of a lens is given by the relation
-
-M = Magnification
-
-		
-
-h = Height of object
-
-		
-
-h1 = Height of image
-
-		
-
-v = Image distance
-
-		
-
-u = Object distance.
-
-			
-		
-(ii) Convex lens
-
-P=
-
-1
-f ( in meters)
-
-F = 1/P = +1/2 = + 0·5 m
-
-Light rays converging
-at a point
-
-(ii) It means image formed is two times the size of
-object and the image formed is inverted, formed
-in front of the lens. 			
-2+1
-
-Incident
-light rays
-
-[CBSE Marking Scheme, 2014]
-[CBSE Marking Scheme, 2014] 1+1+1
-Q. 5. Draw a ray diagram to show that path of the refracted ray in each of the following cases :
-
-A ray of light incident on a concave lens is
-(i) passing through its optical centre.
-(ii) parallel to its principal axis.
-(iii) directed towards its principal focus.
-
- 	
-
-[Board Term II, Outside Delhi Set I, III, 2014]
-Ans.
-(i)
-
-(ii)
-
-O
-
-		
-
-O
-
-Optical centre
-
-(iii)
-
-Principal axis
-
-O
-
-F
-
-F'
-
-I''
-
-Principal focus
-
-1+1+1
-
-Q. 6. If the image formed by a lens for all positions of an object placed in front of it is always erect and diminished,
-
-what is the nature of this lens ? Draw a ray diagram to justify your answer. If the numerical value of the
-power of this lens of 10 D, what is its focal length in the Cartesian system ?
-[OD 31/1 2017] 3
-
-Ans.
-
-266 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-(Topper Answer,2017)
-Q. 7. Draw ray diagrams to show the formation of three times magnified (a) real, and (b) virtual image of an object
-
-by a converging lens. Mark the positions of O, F and 2F in each diagrams.
-
-
-
-[OD 31/2 2017]
-
-Ans.
-A
-O
-B
-
-2F
-
-2F
-
-F
-
-8'
-
-F
-
-A'
-
-Labelling O, F and 2F
-A'
-
-M
-
-A
-B' 2F
-1
-
-F1 B
-
-F2
-
-O
-
-2F2
-C2
-
 N
 Q. 8. An object is placed perpendicular to the principal axis of a convex lens of focal length 8 cm. The distance of
 
 the object from the lens is 12 cm. Find the position and nature of the image.
 
-[Delhi Comptt. 31/1/1 2017]
 
 Ans. u = – 12 cm, f = + 8 cm, v = ?
-
-					
-
-1
-1 1
-−
-=
-f
-v u
-
-					
-
-1
-1
-1
-−
-=
-v ( − 12 )
-8
 
 					
 Image is real and inverted
 
 v = + 24 cm
 
-					2 + 1
-
-Q. 9. The image formed by a spherical mirror is real inverted and is of magnification -2. If the image is at
-
-distance of 30 cm from the mirror, where is the object placed ? Find the focal length of the mirror. List two
-characteristics of the image formed if the object is moved 10 cm towards the mirror. [Board Term II, O.D.
-Set III, 2016]
-
-[ 267
-
-LIGHT–REFLECTION AND REFRACTION
-
-Ans.
-
-		
-
-[Topper Answer, 2016] 3
-Q. 10. (i) Draw a ray diagram to show the refraction
-
-of light through a glass slab and mark angle of
-refraction and the lateral shift suffered by the
-ray of light while passing through the slab.
-[NCERT Exemplar]
-
-(ii) If the refractive index of glass for light going from
-air to glass is 3/2, find the refractive index of air for
-light going from glass to air. [Delhi Set III, 2016]
-
-c glass
-c air
-
-∴		
-
-Ans. (i)
-
-Q. 11. An object of height 5 cm is placed perpendicular
-
-to the principal axis of a concave lens of length
-10 cm. If the distance of the object from the
-optical centre of the lens is 20 cm, determine the
-position, nature and size of the image formed
-using the lens formula.
-[Board Term II O.D. III, 2015]
-
-1
-1
-1
-=
-+
-f
-v
-u
-
-			 =
-		
-
-Diagram
-
-		
-
-Marking ∠r and x
-
-		Alternately,
-
-1
-
-3
-n =
-a g
-2
-n =
-
-a g
-
-				
-		
-
-1
-a ng
-
-c air
-3
-=
-2
-c glass
-
-½+½
-
-=
-
-1
-2
-3/2 = 3
-
-1
-
-[CBSE Marking Scheme, 2016]
-
-			
-
-x
-
-		
-∴
-
-2
-3
-
-Ans. f = –10 cm, u = –20 cm, v = ?
-1
-1
-1
-Using,
-=
-– , we get
-f
-v
-u
-
-r
-
-(ii)
-
-=
-
-			
-
-=
-
-1
-1
-+ ( -20 )
--10
-
--2 - 1
- 3
-=–  
- 20 
-20
-
-v=
-
--20
-cm
-3
-
-m=
-
-h1
-v
-=
-h0
-u
-
-			 = h1 =
-
-v
-× h0
-u
-
-268 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-			 =
-				 =
-
-20
-×5
-3 × 20
-
-5
-= 1.6 cm
-3
-
-Image is virtual and diminished.
-3
-[CBSE Marking Scheme, 2015]
 Q. 12. If the image formed by a lens for all positions of
 the object placed in front of it is always virtual,
 erect and diminished, state the type of the lens.
@@ -42956,578 +39878,6 @@ h1 =
 		Size of the image is 1·98 cm.
 
 2+1
-
-Q. 15. The image of candle flame placed at a distance
-
-of 40 cm from a spherical lens is formed on a
-screen placed on the other side of the lens at
-a distance of 40 cm from the lens. Identify the
-types of lens and write its focal length. What
-will be the nature of the image formed if the
-candle flame is shifted 25 cm towards the lens ?
-Draw ray diagram to justify.  [Board Term II,
-Foreign Set I, II, III, 2014]
-Ans. Given,
-		Object distance,
-u = – 40 cm
-		Image distance,
-v = 40 cm
-		Using lens formula,
-1
-= 1/v – 1/u = 1/40 – 1/(– 40)
-f
-			
-
-[ 269
-
-LIGHT–REFLECTION AND REFRACTION
-
-		or Focal length,
-			
-f = + 20 cm
-		The positive sign of focal length shows that it is a
-convex lens.
-		Now,
-		Magnification,
-m = v/u = 40/(– 40) = – 1
-		Thus, the image is real, inverted and same size as
-object.
-v
-h
-
-Q. 17. Calculate the distance at which an object should
-
-Ans. 		
-		
-		
-
-be placed in front of a convex lens of focal
-length 100 cm to obtain an erect image of double
-its size.
-[Board Term II SQP 2013]
-f = 100 cm
-v
-m=
-=2
-u
-
-			
-
-v = 2u
-1
-1
-1
-=
-+
-f
-v
-u
-
-			
-
-1
-1
-1
-=
-–
-100
-2u
-u
-1
-1−2
-=
-100
-24
-
-F'
-F
-
-			
-h'
-
-Image
-u
-If candle flame is shifted 25 cm towards the lens,
-then
-			
-u = – (40 – 25) = – 15 cm
-		then,
-1/20 = 1/v – 1/(– 15) = 1/v + 1/15
-		or
-v = – 60 cm
-			
-m = v/u = – 60/– 15 = 4
-Thus the image will be virtual, erect and enlarged.
-For this you can refer to the following diagram,
-Q'
-
-Q
-P'
-
-P
-2F1
-
-F1
-
-O
-
-F2
-
-2F2
-
-3
-Q. 16. (a) An object is kept at a distance of 18 cm, 20
-cm, 22 cm and 30 cm, from a lens of power + 5D.
-(i) In which case or cases would you get a magnified
-image ?
-(ii) Which of the magnified image can we get on a
-screen ?
-(b) List two widely used applications of a convex
-lens.
-[Board Term II, Set (2020), 2012]
-Ans. (a) (i) P =
-
-1
-100
-,f=
-= 20 cm
-5
-f
-
-Object at 18 cm, 22 cm, and 30 cm, image can
-be magnified.
-		
-1
-(ii) At 22 cm and 30 cm, image can be obtained on
-a screen.
-		
-1
-(b) Film projectors and telescopes.
-1
-[CBSE Marking Scheme, 2012]
-
-=–
-
-1
-24
-
-				
-		
-
-2u = – 100
-		
-
-u = 50 cm.
-3
-2
-of the size of the object is formed by
-Q. 18. An image
-3
-a convex lens at a distance of 12 cm from it. Find
-the focal length of the lens.
-
-[Board Term II, Set (2020), 2012]
-Ans. The image formed is real (convex lens forms
-diminished real image)
-2
-v
-2
-m = – , v = + 12 cm, m =
-=–
-= 12 u.
-u
-3
-3
-		
-1
-			
-– 2u = 36.
-		
-u = – 18 cm
-½
-1
-1 1
-= f
-v u
-			
-1
-1
-1
-=
-f
-12
-18
-			
-3+2
-=
-36 		
-				
-36
-f=
-= 7·2 cm
-1½
-5
-[CBSE Marking Scheme, 2012]
-Q. 19. A glass slab made of a material of refractive
-index n, is kept in a medium of refractive index
-n2. A light ray is incident on the slab. Complete
-the path of rays of light emerging from the glass
-slab, if :
-[Board Term II, Set (2008), 2012]
-(i) n1 > n2,
-(ii) n1 = n2,
-(iii) n1 < n2.
-Ans. (i) When n1 > n2
-Light goes from rarer to denser medium ∴ it
-diverges.
-n2
-
-		
-
-n1
-
-1
-
-270 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ans. (i) ∠ i = 0° and ∠ r = 0°
-
-(ii) When n1 = n2
-There is no change in the medium ∴ no bending
-or refraction occurs.
-
-½+½
-
-c
-3 × 10 8
-nx =
-=
-=2
-vx
-1.5 × 10 8
-
-(ii)
-
-2
-
-[CBSE Marking Scheme, 2012]
-Q. 22. Where should an object be placed from a
-converging lens of focal length 20 cm, so as to
-obtain a real magnified image.
-[Board Term II, Set (2016), 2012]
-
-n2
-
-n1
-
-1
-
-Ans. f = 20 cm, u = ?, m = 2
-v
-v
-m=
-⇒2=
-⇒ v = 2u
-u
-u
-			
-
-(iii) When n1 < n2
-
-1
-
-1
-1
-1
-=
-–
-v
-u
-f
-
-Light goes from denser to rarer medium
-
-			
-
-∴ It converges.
-
-1
-1 1
-=
-20
-2u u
-⇒		
-u = – 10 cm.
-1
-			
-v = – 20 cm
-1
-[CBSE Marking Scheme, 2012]
-Q. 23. A concave lens has focal length of 15 cm. At
-what distance should the object from the lens be
-placed so that it forms an image at 10 cm from
-the lens ? Also find the magnification produced
-by the lens.
-[Board Term II, Set (2017), 2012]
-⇒
-
-n2
-n1
-
-1
-[CBSE Marking Scheme, 2012]
-Q. 20. (a) Two lenses have power of (i) + 2 D, (ii) – 4 D.
-
-What is the nature and focal length of each lens ?
-(b) An object is kept at a distance of 100 cm from lens
-of power – 4 D. Calculate the image distance.
-[Board Term II, Set (2007), 2012]
-
-Ans. (a) (i) Convex lens = + 50 cm
-		(ii) Concave lens = 25 cm
-(b)
-		
-
-½
-
-			
-			
-
-u = – 100 cm
-
-			
-⇒
-Magnification,
-1
-
-1 1
-1
-= +
-f u
-v
-		
-1
-1
-= - 25 100
-		
-=
-
-1
-−5
-= 20
-100
-
-				
-			
-v = – 20 cm
-
-1
-1
-1
-= − +
-u
-10 15
-
-½
-
-1
-1 1
-= f
-v u
-1
-f=
-= – 25 cm
-−4 D
-
-Ans. f = – 15 cm, v = – 10 cm, u = ?
-1
-1
-1
-–
-=
-f
-v
-u
-			
-1
-1
-1
-- =
--10 u
--15
-
-1
-
-[CBSE Marking Scheme, 2012]
-Q. 21. (i) A ray of light falls normally on a face of a
-
-glass slab. What are the values of angle of
-incidence and angle of refraction of this ray ?
-(ii) Light enters from air to a medium ‘X’. Its speed in
-medium ‘X’ becomes 1·5 × 108 m/s. Speed of light
-in air is 3 × 108 m/s. Find the refractive index of
-medium ‘X’.
-[Board Term II, Set (2015), 2012]
-
-−3 + 2
-1
-=–
-30
-30
-u = – 30 cm.
-v
--10
-m=
-=
-u
--30
-
-2
-
-1
-1
-				 3
-[CBSE Marking Scheme, 2012]
-Q. 24. A concave lens made of a material of refractive
-index n1 is kept in a medium of refractive index
-n2. A parallel beam of light is incident on the
-lens. Trace the path of rays of light parallel to
-the principal axis incident on the concave lens
-after refraction when :
-(i)
-n1> n,
-(ii) n1 = n2.
-Give reason for each.
-Ans. (i)
-=
-
-n2
-
-n1
-
-n1 > n2, lens behaves as diverging lens
-
-1½
-
-[ 271
-
-LIGHT–REFLECTION AND REFRACTION
-
-(ii)
-
-(c) In (iii) case, because object is at the centre of
-curvature.
-[CBSE Marking Scheme, 2012] 1
-
-n2
-
-Q. 26. (i) Water has a refractive index 1·33 and alcohol
-
-n1 = n2, no refraction occurs.
-1½
-Q. 25. A student focused the image of a candle flame
-on a white screen by placing the flame at
-various distances from a convex lens. He noted
-his observations as :
-
-[Board Term II, Set (2008), 2012]
-S.
-No.
-
-Distance of flame
-from the lens (cm)
-
-Distance of the screen
-from the lens (cm)
-
-(i)
-
-60
-
-20
-
-(ii)
-
-40
-
-24
-
-(iii)
-
-30
-
-30
-
-(iv)
-
-24
-
-40
-
-(v)
-
-15
-
-70
-
-has refractive index 1·36. Which of the two
-medium is optically denser ? Give reason for
-your answer. Draw a ray diagram to show the
-path of a ray of light passing obliquely from
-water to alcohol.
-(ii) The absolute refractive index of diamond is 2·42
-and the absolute refractive index of glass is 1·50.
-Find the refractive index of diamond with respect
-to glass.
-[Board Term II SQP 2013]
-Ans. (i) Refractive index of alcohol > refractive index of
-water.
-		So, alcohol is optically denser than water.
-		When a ray of light enters from water to alcohol, it
-bends towards the normal :
-1½
-Water
-
-i
-
-r
-
-(a) From the above table, find the focal length of lens
-without using lens formula.
-(b) Which set of observations is incorrect and why ?
-(c) In which case, the size of the object and image will
-be same ? Give reason for your answer.
-Ans. (a) u = 30 cm, v = 30 cm
-		This is possible if the object is placed at 2 f
-		
-∴		2f = 30 cm, f = 15 cm
-1
-(b) u = 15 cm, v = 70 cm is incorrect. This is because
-if the object is at focus then image is formed at
-infinity.			
-1
-
-Alcohol
-a
-
-(ii)		
-
-µ =
-g D
-
-a
-
-µD
-µg
-
-=
-
-2.42
-= 1·61
-1.5
-
 Long Answer Type Questions
 
 (5 marks each)
@@ -43696,21 +40046,6 @@ F2
 
 [CBSE Marking Scheme, 2016] 1
 
-Q. 3. (a) Define focal length of a divergent lens.
-
-(b) A divergent lens of focal length 30 cm forms the image of an object of size 6 cm on the same side as the object
-at a distance of 15 cm from its optical centre. Use lens formula to determine the distance of the object from the
-lens and the size of the image formed.
-(c) Draw a ray diagram to show the formation of image in the above situation.
-Ans.
-
-[Board Term II O.D. Set II, 2016]
-
-[ 273
-
-LIGHT–REFLECTION AND REFRACTION
-
-[Topper Answer, 2016] 5
 Q. 4. (a) State the laws of refraction of light. Explain
 the term absolute refractive index of a medium
 and write an expression to relate it with the
@@ -43789,411 +40124,6 @@ Speed of light in medium A =
 
 = 1.5 × 108 m/s
 
-[CBSE Marking Scheme, 2015]
-Q. 5. Analyse the following observation table
-showing variation of image distance (v) with
-object distance (u) in case of a convex lens and
-answer the questions that follow, without doing
-any calculations :
-S.
-No.
-
-Object distance
-u (cm)
-
-Image distance
-v (cm)
-
-1
-
-– 90
-
-+18
-
-2
-
-– 60
-
-+ 20
-
-3
-
-– 30
-
-+ 30
-
-4
-
-– 20
-
-+ 60
-
-5
-
-– 18
-
-+ 90
-
-6
-
-– 10
-
-+ 100
-
-(a)
-
-What is the focal length of the convex lens?
-Give reason in support of your answer.
-
-(b)
-
-Write the serial number of that observation
-which is not correct. How did you arrive at this
-conclusion?
-
-(c)
-
-Take an appropriate scale to draw ray diagram
-for the observation at S. No. 4 and find the
-approximate value of magnification.
-[Delhi 31/1/1 2017]
-
-274 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ans. (a)
-
-f = + 15 cm
-
-½
-
-		Reason : Objects at S. No. (3) indicates u = – 30 cm,
-v = + 30 cm
-		Thus, object is at 2F (2f = 30 cm)
-		
-∴
-
-f = 15 cm
-
-1
-
-(b) Observation at S. No. (6)
-
-½
-
-The value, u = – 10 cm, indicates that the object
-is in between the optical centre and the focus (i.e.,
-less than the focal length) of the lens and hence
-the image should be on the same side as the object.
-Thus the image distance cannot be positive.
-1
-
-S.
-No.
-
-Object-Distance
-u (cm)
-
-Image-Distance
-v (cm)
-
-1
-
-– 100
-
-+25
-
-2
-
-– 60
-
-+ 30
-
-3
-
-– 40
-
-+ 40
-
-4
-
-– 30
-
-+ 60
-
-5
-
-– 25
-
-+ 100
-
-6
-
-– 15
-
-+ 120
-
-(a)
-
-What is the focal length of the convex lens ?
-Give reason to justify your answer.
-
-(b)
-
-Write the serial number of the observation
-which is not correct. On what basis have you
-arrived at this conclusion ?
-
-(c)
-
-Select an appropriate scale and draw a ray
-diagram for the observation at S. No. 2. Also
-find the approximate value of magnification.
-
-(c) u = – 20 cm ; v = + 60 cm : f = + 15 cm
-A
-h1
-
-B'
-
-F
-B
-
-15 cm
-
-O
-
-20 cm
-
-60 cm
-
-[OD 31/1 2017]
-
-h2
-
-A'
-
-m =
-
-			
-
-- 4.5 cm
-h2
-=
-=–3
-h1
-+ 1.5 cm
-
-½
-
-		
-[CBSE Marking Scheme, 2017]
-Detailed Answer :
-(i) From S. No- 3, we can say that the radius of curvature
-of the lens is 30 cm because when an object is placed
-at the centre of curvature of a convex lens, its image
-is formed on the other side of the lens at the same
-distance from the lens. And, we know that focal
-length is half of the radius of curvature. Thus, the
-focal length of the lens is + 15 cm.
-(ii) S. No- 6 is not correct as the object distance is
-between focus and pole so for such cases the image
-formed is always virtual but in this case a real image
-is forming as the image distance is positive.
-(iii) Approximate value magnification for distance
-object – 20 cm and image distance + 60 cm is 3.
-60 cm
-Q
-
-2F1
-
-P
-
-F1
-
-O
-
-F2
-
-P'
-2F2
-
-15 cm
-20 cm
-Q'
-Q. 6. Analyse
-
-the following observation table
-showing variation of image-distance (v) with
-object-distance (u) in case of a convex lens and
-answer the questions that follow without doing
-any calculations :
-
-Ans. (a) The focal length of the convex lens can be
-calculated from S.No. 3 as when an object is placed
-at a distance from the convex lens its image is
-formed on the other side of the lens at the same
-distance from the lens. So, the radius of curvature
-is i.e., + 20 cm.
-(b) S.No. 6 is incorrect as the object distance is between
-focus and pole and here the real image is formed as
-the image distance is positive.
-(c) Approximate value magnification for object
-distance – 60 cm and image distance + 30 cm is 0.5.
-30 m
-
-F2
-
-O
-P 2F1
-
-F1
-20 m
-60 m
-
-P'
-2F2
-
-2F2
-
-Q. 7. "A convex lens can form a magnified erect as
-
-well as magnified inverted image of an object
-placed in front of it". Draw ray diagram to
-justify this by statement stating the position of
-the object with respect to the lens in each case.
-
-An object of height 4 cm is placed at a distance
-of 20 cm from a concave lens of focal length 10
-cm. Use lens formula to determine the position
-of the image formed.
-[Board Term II Delhi Set I, 2015]
-Ans. Convex lens form magnified erect image when
-object is placed between F1 and optical centre O.
-Image formed is virtual, erect and enlarged and on
-the same side of the lens as the object.
-
-[ 275
-
-LIGHT–REFLECTION AND REFRACTION
-B'
-
-B
-2F2
-A'
-
-O
-
-F1 A
-
-2F2
-
-F2
-
-C
-
-Convex lens form magnified inverted image when
-object is placed at F1. Image formed is real, inverted
-and enlarged at infinity.
-B
-
-A
-O
-
-F1
-
-F2
-
-Given focal length f = +10 cm (concave)
-Object distance (u) = –20 cm
-For concave lens
-1
-1
-1
-=
-–
-, we get
-v
-u
-f
-
-			
-
-1
-1
-1
-+
-=
-f
-u
-v
-
-			
-
-		
-
-
-1
-1
-1
-1
-1
-1
-+
-=
-⇒
-= − −
-20
-v
-−
-10
-v
-10
-20
-			
-
-∴
-		
-
-v =–
-
-20
-cm
-3
-
-		
-
-m =
-
-h1
-v
-=
-h0
-u
-
-		
-
-h1 =
-
-v
-×h0
-u
-
-				
-
-=
-
-−20
-4
-×4 =
-= 1.3 cm
-3 × −20
-3
-3+2
-
-		Image is diminished.
-
 Q. 8. (a) Explain the following terms related to
 
 spherical lenses :
@@ -44201,42 +40131,11 @@ spherical lenses :
 (i) Optical centre
 (ii) Centres of curvature
 (iii) Principal axis
-
-u =–
-
-48
-= – 16 cm
-3
-
-So, the distance of the object from the lens is 16
-cm.
-½×6+2=5
-Q. 9. (i) Define power of a lens. Write its SI units.
-(ii) You are provided with two convex lenses of focal
-length 15 cm and 25 cm, respectively. Which of
-the two is of larger power ? Give reason for your
-answer.
-(iii) A 20 cm tall object is placed perpendicular to the
-principal axis of a convex lens of focal length 10
-cm. The distance of the object from the lens is 15
-cm. Find the nature, position and size of the image.
-Also find its magnification.
-
-[Board Term II, Set (2017), 2012]
-
-1
-2 −1
-−2 − 1
-−3
-=
-=
-=
-v
-20
-20
-20
-
-			
+	
+(iv) Aperture
+(v) Principal focus
+(vi) Focal length
+	
 
 Ans. (a) (i) Optical centre : The centre point of a lens
 is known as its optical centre. It always lies inside
@@ -44257,45 +40156,14 @@ focus.
 the centre of lens or mirror at which a parallel
 ray of beam converge (or diverge) is called
 focal-length and the point is called focus.
-(b) Focal length of the converging lens, f = 12 cm
-Image distance, v = 48 cm
-Using the lens formula, we get :
-1
-1
-1
-=
-=
-f
-v
-u
-			
-1 1
-1
-1
-1
-= − =
-−
-v f
-v
-48 12
-			
-1−4
-−3
-=
-=
-48
-48
-				
 
-(iv) Aperture
-(v) Principal focus
-(vi) Focal length
-
-(b) A converging lens has focal length of 12 cm.
-Calculate at what distance should the object be
-placed from the lens so that it forms an image at 48
-cm on the other side of the lens.
-[Board Term II, Outside Delhi Set I, III, 2014]
+½×6+2=5
+Q. 9. (i) Define power of a lens. Write its SI units.
+(ii) You are provided with two convex lenses of focal
+length 15 cm and 25 cm, respectively. Which of
+the two is of larger power ? Give reason for your
+answer.
+[Board Term II, Set (2017), 2012]
 
 Ans. (i) Ability of a lens to converge or diverge light
 rays is termed as power of a lens.
@@ -44310,40 +40178,8 @@ SI unit of power is Dioptre.
 because power is inversely proportional to the
 focal length.
 1
-(iii)		
-
-		
-
-1 1
-1
-- =
-f
-v u
-1
-1
-1
-+
-=
-v
--15 10
-
-276 ]
-
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-1
-∴ v = 30 cm
-30
-		
-Image is real and inverted
-3
-h'
-v
-		
-Magnification =
-= ,m=–2
-h
-u
 [CBSE Marking Scheme, 2012]
 Q. 10. What is meant by the power of a lens ? What
 is its S.I. unit ? Name the type of lens whose
@@ -44376,281 +40212,7 @@ P= =
 = 5 dioptre ½
 f
 20cm
-(v) A
-=
 
-1
-1 1
-= v u
-f
-
-(ii) Relation :
-
-½+½
-
-(iii) m = –1; u = – 20 cm; v = ?, f = ?		
-Marking of u & v 		
-½
-v
-m=
-u
-			
-∴		
-v = + 20 cm
-		Thus object is at 2F
-		
-i.e.,
-2f = 20 cm
-		
-∴
-f = 10 cm = 0.1 m
-1
-1
-p= =
-= + 10 D
-f
-.1
-0
-			
-
-½
-
-1
-1
-
-[CBSE Marking Scheme, 2016]
-Q. 12. (i) Draw a ray diagram to show the formation
-
-of image by a concave lens when an object is
-placed in front of it.
-(ii) In the above diagram mark the object-distance (u)
-and the image-distance (v) with their proper signs
-(+ve or –ve as per the new Cartesian sign convention)
-and state how these distances are related to the focal
-length (f) of the concave lens in this case.
-(iii) Find the nature and power of a lens which forms
-a real and inverted image of magnification –1 at a
-distance of 40 cm from its optical centre.
-5
-[Board Term II Foreign Set I, 2016]
-
-Ans. (i)
-
-B
-B'
-
-F2
-
-O
-2F1
-
-F1
-
-2F2
-
-A
-
-B
-A
-
-1
-
-Q. 11. (i) Draw a ray diagram to show the formation of
-
-image by a convex lens when an object is placed
-in front of the lens between its optical centre
-and principal focus.
-(ii) In the above ray diagram mark the object-distance
-(u) and the image-distance (v) with their proper
-signs (+ve or – ve as per the new Cartesian sign
-convention) and state how these distances are
-related to the focal length (f) of the convex lens in
-this case.
-(iii) Find the power of a convex lens which forms a
-real, and inverted image of magnification –1 of an
-object placed at a distance of 20 cm from its optical
-centre.
-[Board Term II Delhi Set I, 2016]
-
-Ans. (i)
-
-A'
-
-A
-B'
-
-F1
-–v
-
-B –u O
-
-+f
-
-F2
-
-1
-
-F
-–u
-
-A'
-
-v
-
-(ii) Marking – u and – v			
-1
-1 1
-		Relation :
-= f
-v u
-(iii) As, m = – 1. hence, the lens is convex.
-v
-Q		
-m=
-u
-∴		
-v =–u
-		Thus, object is at 2F
-			
-2f = 40 cm
-∴		
-f = 20 cm = 0.2 m
-1
-1
-			
-p=
-=
-= + 5D
-f
-0.2
-
-1
-
-½+½
-
-½
-
-½
-
-1
-
-					
-(convex lens) 1
-[CBSE Marking Scheme, 2016]
-Q. 13. At what distance from a concave lens of focal
-length 20 cm a 6 cm tall object be placed so as
-to obtain its image at 15 cm from the lens ? Also
-calculate the size of the image formed.
-Draw a ray diagram to justify your answer for the
-above situation and label it.
-[Board Term II Foreign Set I, 2016]
-
-[ 277
-
-LIGHT–REFLECTION AND REFRACTION
-
-The ray diagram for the formation of the diminished image is shown below :
-
-Ans. f = – 20 cm; h1 = 6 cm; v = – 15 cm; u = ?
-1 1
-1
-= Lens formula :
-v u
-f
-		
-
-½
-
-vf
-f -v
-
-½
-
-u =
-
-⇒
-		
-
-				
-
-=
-
--15 cm × -20 cm
--20 cm - ( -15 cm )
-
-				
-
-=
-
-2F2
-
-F1
-
-1+2+2
-Q. 15. (i) The refractive index of diamond is 2·42. What
-
-object at 60 cm from the lens
-			
-
-2F1
-
-1
-
-				 = – 60 cm
-
-h2 =
-
-F2
-
-v
-× h1
-u
-
-is the meaning of this statement ?
-(ii) Redraw the diagram given below in your answer
-book and complete the path of the ray.
-
--15 cm
-× 6 cm
--60 cm
-
-				 = + 1.5 cm diminished,erect 1
-
-2F
-
-F
-
-2F
-
-F
-
-O
-
-F
-
-2F
-
-F
-
-2F
-
-M
-
-A
-A'
-B
-
-F1
-
-2F1
-
-B'
-
-O
-
-N
-2
-[CBSE Marking Scheme, 2016]
 Q. 14. A student wants to project the image of a candle
 flame on the walls of school laboratory by using
 a lens :
@@ -44659,8 +40221,6 @@ a lens :
 the lens should he place the candle flame so as to
 get (i) a magnified, and (ii) a diminished image
 respectively on the wall?
-(iii) Draw ray diagram to show the formation of the image
-in each case ? 	
 [Board Term II, Delhi Set I, 2014 ]
 Ans. (i) He should use a convex lens as it forms real
 images.
@@ -44669,154 +40229,8 @@ images.
 to get the magnified image on the wall while the
 diminished image is obtained when the object is
 located at a distance greater than 2F.
-(iii) The ray diagram for the formation of the magnified
-image is shown below :
-
-(iii) What is the difference between virtual images
-produced by concave, plane and convex mirrors ?
-(iv) What does the negative sign in the value of
-magnification produced by a mirror indicates
-about a image ? [Board Term II, Set (2007), 2012]
-Ans. (i)This means that the ratio of speed of light in air
-and speed of light in diamond is 2.42.
-1
-(ii) (a)
-
-F
-
-2F
-
-O
-
-F
-
-2F
-
-1
-(b)
-
-F
-
-2F1
-
-F1
-
-F2
-
-1
-
-2F2
-
-(iii) Virtual image produced by concave mirror is
-magnified, that produced by plane mirror is of
-the same size and the virtual image produced by
-convex mirror is diminished.
-1
-(iv) Real.
 
 [CBSE Marking Scheme, 2012] 1
-
-278 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Comment on the nature and behaviour of the
-emergent beam in all the three cases.
-
-Q. 16. (i) Two convex lenses A and B have powers P1
-
-and P2, respectively and P2 is greater than P1.
-Draw a ray diagram for each lens to show which
-one will be more converging. Give reason for
-your answer.
-(ii) A 2·0 cm tall object is placed perpendicular to the
-principal axis of a convex lens of focal length 10
-cm. The distance of the object from the lens is 15
-cm. Find the nature, position and size of the image.
-Also find its magnification.
-[Board Term II, Set (2016), 2012]
-
-Ans. (i) P2 > P1 ∴ F2 < F1 			
-
-(i)
-
-2
-
-(iii)
-
-(ii)
-
-There is a similarity between two of the
-emergent beams. Identify the two.
-When light enters from air to glass, the angles of
-incidence and refraction in air and glass are 45°
-and 30°, respectively. Find the refractive index
-of glass.
-1
-1
-(Given that sin 45° =
-; sin 30° = )
-2
-2
-
-B
-
-Ans.
-
-A
-
-B is more converging because rays are refracted
-more.
-			
-1
-1
--1 1
-1
-+
-(ii)		
-=
-⇒
-⇒ v = + 30 cm 1
-u
-15 10
-30
-		The image formed is real and inverted and on the
-other side of optical centre
-h'
-v
-m=
-=
-⇒ m = – 2 inverted and 4 cm tall 1
-h
-u
-		
-[CBSE Marking Scheme, 2012]
-
-Q. 17. A very thin narrow beam of white light is made
-
-In (i) emergent beam is white and laterally
-displaced.
-½+½
-In (ii)
-emergent beam is a spectrum of seven
-colours bent in different angles.
-½+½
-In (iii) emergent beam from the second prism is
-white only.
-½
-Similarity between (i) and (iii) as both emergent
-rays are white in colour.
-½
-		
-nga = sin i / sin r = sin 45° / sin 30°
-½+½
-1
-= 2 = 2
-½+½
-1
-2
-
-incident on three glass objects shown below.
 
 High Order Thinking Skills (HOTS) Questions
 Q. 1. An object is placed between two plane mirrors
@@ -45268,253 +40682,7 @@ when viewed from sides.
 LIGHT–REFLECTION AND REFRACTION
 
 Practical Based Questions
-Experiment 1 :
-		
-Experiment 2 :
 
-(i) To determine the focal length of a concave mirror by obtaining image of a distant object.
-(ii) To determine the focal length of a convex lens by obtaining image of distant object.
-To trace the path of a ray of light passing through a rectangular slab for different angles of incidence,
-angle of refraction and angle of emergence and interpret the result.
-To trace the path of rays of light passing through a glass prism.
-To draw the images of an object formed by a convex lens when placed at various positions.
-
-Experiment 3 :
-Experiment 4 :
-
-15 cm, a student obtains on a screen a sharp image
-of a bright object by placing it at 20 cm distance
-from the lens. After that he gradually moves the
-object away from the lens and each time focuses
-the image on the screen.
-(i) In which direction-towards or away from the lens
-does he move the screen to focus the object ?
-(ii) How does the size of image change ?
-(iii) Approximately at what distance does he obtain the
-image of magnification –1 ?
-(iv) How does the intensity of image change as the
-object moves farther and farther away from the lens
-?
-[Board Term II, Foreign I, 2016]
-
-Q. 1. A student focuses the image of a well illuminated
-distant object on a screen using a convex lens.
-After that he gradually moves the object towards
-the lens and each time focuses its image on the
-screen by adjusting the lens.
-
-[Board Term II, Delhi Set I, 2016]
-(i) In which direction-towards the screen or away
-from the screen, does he move the lens ?
-(ii) What happens to the size of the image-does it
-decrease or increase ?
-(iii) What happens to the image on the screen when he
-moves the object very close to the lens ?
-
-Ans. (i) Lens towards the screen/ screen away from the
-lens
-(Note : One mark to be awarded for any other
-Ans.(i) Towards the lens.
-answer)
-1
-(ii) Size decreases gradually.
-(ii) Increase.
-½
-(iii)
-Nearly 30 cm from the lens.
-(iii) No image on the screen.
-½
-[CBSE Marking Scheme, 2016]
-(iv) Intensity of the image gradually increases. 4 × ½
-Q. 2. To find the image distance for varying object
-[CBSE Marking Scheme, 2016]
-distances in case of a convex lens of focal length
-Q. 3. An object of height 2.5 cm is placed at a distance of 15 cm from the optical centre 'O' of a convex lens of focal
-length 10 cm. Draw a ray diagram to find the position and size of the image formed. Mark optical centre 'O',
-principal focus F and height of the image on the diagram.
-[Board Term II, O.D. Set I, 2016]
-
-Ans.
-
-2.5 cm
-
-A
-B'
-B
-
-15 cm
-
-O
-
-5 cm
-
-10 cm
-30 cm
-
-A'
-
-Marking of O, F and size of the image. 2
-[CBSE Marking Scheme, 2016]
-OR
-
-282 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-[Topper Answer, 2016]
-Q. 4. Observe the following incomplete ray diagram
-of an object where the image A'B' is formed after
-refraction of a convex lens.
-[Board Term I, Delhi Set FF 7 NBE 6, 2016]
-
-Ans.
-
-A
-2 cm
-B
-2F
-1
-C
-1
-
-O
-F
-2
-
-O
-
-F1
-
-F2
-
-2F2
-B
-
-On the basis of above information fill in the blanks :
-(i) The position
-been________.
-
-of
-
-object
-
-AB
-
-would
-
-have
-
-(ii) Size of the object would have been______than the
-size of image.
-Ans. (i) beyond 2F1
-
-2F
-2
-C2 B'
-2 cm
-
-20 cm
-
-A
-2F1
-
-F
-2
-
-A'
-
-Q. 7. A student performed an experiment with convex
-lens and found the virtual image of an object. Find
-(i) Position of the object
-(ii) Draw ray diagram for the above situation
-[Board Term II, Set GFUTB86, 2015]
-Ans. (i) Position of object is between lens and focal
-length of a convex lens.
-1
-(ii)
-
-1
-
-(ii) greater.
-
-1
-
-Q. 5. A students place a candle flame at a distance of
-about 60 cm from a convex lens of focal length
-10 cm focuses the image of the flame on a screen.
-After that he gradually moves the flame towards
-the lens and each time focuses the image on the
-screen.
-(a) In which direction-toward or away from the lens,
-does he move the screen to focus the image?
-(b) How does the size of the image change?
-(c) How does the intensity of the image change as the
-flame moves towards the lens?
-(d) Approximately for what distance between the
-flame and the lens, the image formed on the screen
-is inverted and of the same size ?
-[Delhi 31/1/1 2017]
-
-2F1
-
-A
-
-F1
-
-A
-
-O
-
-F2
-
-2F2
-
-1
-Q. 8. A student places a 8.0 cm tall object perpendicular
-to the principal axis of a convex lens of focal length
-20 cm. The distance of the object from the lens is
-30 cm. He obtains a sharp image of the object on a
-screen placed on the other side of the lens. What
-will be the nature (inverted, erect, magnified,
-diminished) of the image he obtains on a screen ?
-Drawn a ray diagram to justify your answer.
-Ans. Inverted, magnified
-1
-A
-
-Ans. (a) Away from the lens
-F2
-
-(b) Size increases
-B
-
-(c) Intensity decreases
-(d) About 20 cm
-
-4×½
-
-Q. 6. An object of height 2.0 cm is placed on the principal
-axis of a convex lens of focal length 10 cm. The
-distance of the object from the optical centre (O) of
-the lens is 20 cm. Choose a proper scale and draw a
-ray diagram to find the position, nature and size of
-the image. Also measure and write the size of the
-image and its distance from the optical centre of
-the lens.
-[OD Comptt. 31/1 2017]
-
-F1
-
-20cm
-
-30cm
-
-O
-
-B
-
-A
-1
 Q. 9. Write two precautions to be taken while finding
 the image distance using a convex lens.
 Ans. (i) Use a very sharp tipped pencil to draw thin lines
@@ -45843,8 +41011,7 @@ eye ?
 [Board Term II, Set A1, 2011]
 Ans. 25 cm to infinity.
 1
-Q.
-6.
+Q. 6.
 What
 is
 the
@@ -45872,7 +41039,6 @@ Ans. (i) Pupil, (ii) Retina.
 Q. 8. What is the nature of the image formed on the
 retina ?
 Ans. Real, inverted and same-sized.
-human eye ?
 
 Ans. It is like a camera having a lens system forming an
 inverted, real image on the light sensitive screen,
@@ -45886,6 +41052,28 @@ Ans. The person is suffering from hypermetropia.
 
 Short Answer Type Questions-I
 Q. 1. What are Rods and Cones ?
+
+Ans. Rods and cones are light sensitive cells present in
+the retina. Rods control the intensity of light, while
+cones control the colour perception .
+2
+Q. 2. State the structure of iris and its function in
+human eye.
+[Board Term II, Set-8XSVHLC,
+Set-QNA4XWT, 2014]
+Ans. Just behind the cornea is a dark coloured muscular
+diaphragm which has a small circular opening in
+the middle. Iris is made of muscles. They control
+the size of opening of pupil.
+1+1
+[CBSE Marking Scheme, 2014]
+Q. 3. What is meant by near point and far point of an
+eye ? State their values for the normal human
+eye.
+[Board Term II, Set (67001), 2012]
+OR
+What is far point and near point of the human
+eye with normal vision ?
 
 Ans. The nearest point to the eye at which an object is
 visible distinctly is called the near point. (25 cm).1
@@ -45918,31 +41106,8 @@ length of lenses.
 [OD Comptt. 31/1 2017]
 Ans. Hypermetropia or Long sightedness
 
-Ans. Rods and cones are light sensitive cells present in
-the retina. Rods control the intensity of light, while
-cones control the colour perception .
-2
-Q. 2. State the structure of iris and its function in
-human eye.
-[Board Term II, Set-8XSVHLC,
-Set-QNA4XWT, 2014]
-Ans. Just behind the cornea is a dark coloured muscular
-diaphragm which has a small circular opening in
-the middle. Iris is made of muscles. They control
-the size of opening of pupil.
-1+1
-[CBSE Marking Scheme, 2014]
-Q. 3. What is meant by near point and far point of an
-eye ? State their values for the normal human
-eye.
-[Board Term II, Set (67001), 2012]
-OR
-What is far point and near point of the human
-eye with normal vision ?
-
 1
 
-Q. 9. What is the principle of the working of the
 
 		
 
@@ -46014,6 +41179,15 @@ The vision of the defected eye can be restored by
 the cataract surgery.
 2
 
+Q. 9. Why does it take some time to see the objects
+
+in a dim room when we enter the room from
+bright sunlight outside ?
+[Board Term II, Set A1, 2011]
+Ans. In bright light, the size of the pupil is small to
+control the amount of light entering the eye.
+1
+
 When we enter a dim room, it takes some time so
 that the pupil expands and allows more light to
 enter and helps to see things clearly.
@@ -46026,26 +41200,17 @@ Ans. (i) The pupil regulates and controls the amount of
 light entering the eye.
 1
 
-Q. 9. Why does it take some time to see the objects
-
-(ii) How does the thickness of the eye lens change
-when we shift looking from a distant tree to
-reading a book ?
-[Board Term II, Set A1, 2011]
-
-in a dim room when we enter the room from
-bright sunlight outside ?
-[Board Term II, Set A1, 2011]
-Ans. In bright light, the size of the pupil is small to
-control the amount of light entering the eye.
-1
-
 (ii) In bright sunlight, the size of the pupil is small and
 when we enter the cinema hall it takes some time
 for the pupil to expand in size due to dim light. 1
 Q. 11. (i) What is meant by least distance of distinct
 
 vision ?
+
+(ii) How does the thickness of the eye lens change
+when we shift looking from a distant tree to
+reading a book ?
+[Board Term II, Set A1, 2011]
 
 Ans. (i) It is the minimum distance to which, normal eye
 can see two similar object distinctly.
@@ -46145,14 +41310,6 @@ thereby decrease the focal length of the lens Hence,
 the lens becomes thick. This enables you to see the
 nearby objects clearly.
 
-A bifocal lens consists of both convex lens and
-concave lenses. The convex lens used in bifocal lens
-is used to correct hypermetropia (far-sightedness)
-and concave lens is used to correct myopia (shortsightedness).
-3
-Q. 7. Study the diagram given below and answer the
-following questions :
-
 Image
 Object
 
@@ -46220,6 +41377,40 @@ l Upper portion/part
 		
 Lower part
 		
+
+—
+—
+—
+—
+
+N'
+
+1
+
+O'
+
+Concave/ Diverging lens
+
+To view far off objects
+Convex/converging lens
+To facilitate/ view nearby
+objects
+[CBSE Marking Scheme] 3
+
+Detailed Answer :
+The defect caused due to gradual weakening of
+ciliary muscles and diminishing flexibility of the eye
+lens is presbyopia.
+The type of lens required by such person to improve
+the vision is bifocal lens.
+
+A bifocal lens consists of both convex lens and
+concave lenses. The convex lens used in bifocal lens
+is used to correct hypermetropia (far-sightedness)
+and concave lens is used to correct myopia (shortsightedness).
+3
+Q. 7. Study the diagram given below and answer the
+following questions :
 		
 
 (i) Name the defect of vision depicted in the diagram.
@@ -46257,32 +41448,6 @@ lens required to correct the problem ?
 Ans. (i)
 
 O
-
-—
-—
-—
-—
-
-N'
-
-1
-
-O'
-
-Concave/ Diverging lens
-
-To view far off objects
-Convex/converging lens
-To facilitate/ view nearby
-objects
-[CBSE Marking Scheme] 3
-
-Detailed Answer :
-The defect caused due to gradual weakening of
-ciliary muscles and diminishing flexibility of the eye
-lens is presbyopia.
-The type of lens required by such person to improve
-the vision is bifocal lens.
 
 (ii) (a) Elongation of the eye ball
 (b) Decrease in focal length of eye lens.
@@ -46341,95 +41506,8 @@ The focal length of the eye lens is adjusted so that
 the image distance does not change. Thus the image
 distance is equal to distance from the centre of the
 eye lens to the retina.
-1+2
-Q. 11. The near point of a person suffering from
-hypermetropia is 75 cm. Calculate the focal
-length and power of the lens required to enable
-him to read the newspaper which is kept at 25
-cm from the eye.
-Ans.
-u = – 25 cm
-			
-v = – 75 cm
-1
-1 1
-- =
-f
-v u
-			
-1
-1
-1
-1
-1
-1
-−
-+
-=
-⇒
-=
-f
-f
-75
-25
--75 25
-			
-1
-2
-=
-f
-75
-			
+1+2		
 
-⇒
-		
-
-			
-
-1
-1
-1
-= ( -25) - u
-5
-
-			
-
-1
-1
-1
-= ( -25) - 5
-u
-
-			
-			
-			
-
-Long Answer Type Questions
-parts of human eye : Cornea; iris; crystalline
-lens; ciliary muscles.
-
-(b) Millions of people of the developing countries
-of world are suffering from corneal blindness.
-These persons can be cured by replacing the
-defective cornea with the cornea of a donated eye.
-A charitable society of your city has organised
-a campaign in your neighbourhood in order to
-create awareness about this fact. If you are asked
-
-75
-= 37·5 cm
-2
-
-100
-So,
-P=
-cm
-37
-.5
-		
-				
-= 2·6 D
-3
 Q. 12. Discuss how the brain perceives the image
 formed on the retina.
 Ans. Retina contains light sensitive cells known as
@@ -46446,46 +41524,23 @@ Q. 13. (i) Ravi kept a book at a distance of 10 cm from
 the eyes of his friend Hari. Hari is not able to
 read anything written on the book. Explain
 why ?
-(ii) A lens of focal length 5.0 cm is being used by a
-student in the laboratory as a magnifying glass.
-His least distance of distinct vision is 25 cm. What
-magnification is the student getting ?
-[Board Term II, Set B1, 2011]
 Ans. (i) Because least distance of distinct vision is 25 cm,
 and book is kept at a distance of 10 cm.
-1
-(ii) u = ?, v = – 25 cm, f = 5 cm.
-1
-1 1
-= f
-v u
-			
-1
 
-			
-
+	
+Long Answer Type Questions
 Q. 1. (a) Write the function of each of the following
+parts of human eye : Cornea; iris; crystalline
+lens; ciliary muscles.
 
-f=
-
-u=
-
-−25
-6
-
-m=
-
-v
-u
-
-m = (–25) ×
-m =6
-
-6
-−25
-1
-
-(5 marks each)
+(b) Millions of people of the developing countries
+of world are suffering from corneal blindness.
+These persons can be cured by replacing the
+defective cornea with the cornea of a donated eye.
+A charitable society of your city has organised
+a campaign in your neighbourhood in order to
+create awareness about this fact. If you are asked
+		
 
 to participate in this mission how would you
 contribute in this noble cause ?
@@ -46518,12 +41573,6 @@ N
 (iv) Ciliary muscles – Holds the eye lens and
 adjusts its focal length.
 ½
-
-l Two causes :
-(i) The focal length of the eye lens is too long. 1
-(ii) The eyeball has become too small.
-1
-l Correction of the defect using appropriate lens
 
 (b) (i) Objectives – To make people aware and
 realize their duties towards society.
@@ -46601,6 +41650,12 @@ N
 N'
 
 [CBSE Marking Scheme]
+
+l Two causes :
+(i) The focal length of the eye lens is too long. 1
+(ii) The eyeball has become too small.
+1
+l Correction of the defect using appropriate lens
 
 Q. 4. Name the eye defect in which eye lens becomes
 
@@ -46747,10 +41802,6 @@ Q. 8. (a) State the reasons which lead to
 hypermetropia. With the help of suitable
 diagram explain this defect of vision and its
 correction.
-(b) Draw diagram of an experimental arrangement for
-observing scattering of light in colloidal solution.
-Name the two chemicals used in this activity.
-[Board Term II, Set 8XSVHLC, 2014]
 Ans. (a) This defect arises either because :
 (i) the focal length of the eye lens is too long, or
 (ii) the eyeball has become too small.
@@ -46766,176 +41817,7 @@ lens of appropriate power.
 additional focusing power required for forming
 the image on the retina.
 
-N
-
-N'
-
-(A) Near point of a Hypermetropic eye
-
-N
-
-N'
-(b) Hypermetropic eye
-
-[ 293
-
-HUMAN EYE AND COLOURFUL WORLD
-
-Q. 10. (a) A person cannot read newspaper placed
-
-N
-
-nearer than 50 cm from his eyes. Name the
-defect of vision he is suffering from. Draw a
-ray diagram to illustrate this defect. List its two
-possible causes. Draw a ray diagram to show
-how this defect may be corrected using a lens of
-appropriate focal length.
-(b) We see advertisements for eye donation on
-television or in newspaper. Write the importance
-of such advertisements.
-
-[Board Term II Delhi Set-I, 2013]
-Ans. (a) The person is suffering from hypermetropia.
-
-N'
-
-(c) Correction for Hypermetropic eye
-
-(b)
-Tyndall cone
-
-Scattered light
-
-Light
-source
-
-N
-
-N'
-Hypermetropic eye
-
-Colloidal solution
-
-Mixture of milk and water can be used.
-[CBSE Marking Scheme, 2014] 3+2
-Q. 9. (i) What type of spectacles should be worn by
-a person having the defect of myopia as well as
-hypermetropia ?
-(ii) The far point of a myopic person is 150 cm. What
-is the nature and the power of lens required to
-correct the defect ?
-(iii) With the help of ray diagrams, show the formation
-of image by (i) a myopic eye (ii) correction of
-myopic eye by using an appropriate lens.
-Ans. (i) Spectacle having bifocal lens.
-1
-(ii) u = ∞, v = – 150 cm.
-Using lens formula,
-			
-		
-⇒
-
-1
-1
-1
-=
-–
-f
-v
-u
-
-2
-
-(iii)
-
-O'
-
-Myopic eye
-
-O'
-Correction for myopia
-
-2
-
-N'
-Correction for Hypermetropic eye
-
-1+1
-
-Two possible causes :
-		
-(i) Greater focal length of the lens.
-		(ii) Eye ball becoming smaller.
-Use convex lens of focal length
-		
-u = – 25 cm
-			
-v = – 50 cm.
-			
-			
-
-1
-1
-1
-=
-∴ f = – 150 cm.
--150 ∞
-f
-
--100
-1
-Power of lens
-P=
-=
-150
-f
-				
-= – 0·67 D
-		Nature of lens : Concave.
-
-N
-
-½
-½
-
-1
-1
-1
-1
-1
-=
-–
-=
-–
-v
-u
--50
--25
-f
-=
-
--1 + 2
-1
-=
-cm ⇒ f = 50 cm
-50
-50
-
-P=
-
-100
-= 2 D is required. 1
-50
-
-			
-(b) Eye donation advertisements are important as :
-		(i) They make the people aware about donation of
-organs after their death.
-		(ii) Sympathetic nature towards others.
-1
-Q.
-11.
+Q. 11.
 (i)
 Name
 the
@@ -46949,82 +41831,12 @@ eye
 A
 loses its power of accommodation due to old
 age.
-(ii) The near point of a person suffering from
-hypermetropia is at 50 cm from his eye. What is
-the power of the lens needed to correct this defect/
-(near point of normal eye is 25 cm).
-(iii) With the help of ray diagrams, show the formation
-of image by
-		(a) a hypermetropic eye.
-		(b) correction of hypermetropia by using an
-appropriate lens. [Board Term II, Set B1, 2011]
 Ans. (i) Presbyopia
-(ii) v = – 50 cm
-u = – 25 cm.
-1
 
 294 ]
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-Using lens formula
-
-(a)
-
--1 + 2
-1
-1 1
-1
-1
-1
-= - ⇒
-=
-+
-=
-50
-f
-f
--50 25
-v u
-
-			
-					
-
-N
-
-1
-
-1
-1
-=
-∴ f = 50 cm
-50
-f
-
-			
-Power of lens,
-
-P=
-
-1
-100
-=
-= +2 D
-f ( m) 50
-
-N'
-Hypermetropic eye
-
-1
-
-(b)
-1
-N
-
-N'
-Correction for Hypermetropic eye
-
-1
 
 TOPIC-2
 
@@ -47044,8 +41856,7 @@ Q. 2. What is tyndall effect ?
 Ans. The scattering of light by colloidal solution is called
 tyndall effect.
 1
-Q.
-3.
+Q. 3.
 Name
 the
 type
@@ -47101,11 +41912,6 @@ Q. 8. The sky appears dark instead of blue to an
 
 astronaut. State its reason.
 
-(ii) Name the colour that deviates least and the one
-which deviates most while passing through a glass
-prism.
-[Board Term II, Set-FF7NBE6, 2015]
-
 [NCERT]
 
 [Board Term II, Delhi 2012, 2010]
@@ -47128,6 +41934,11 @@ prism. Also, prism has non–parallel surfaces.
 
 Short Answer Type Questions-I
 Q. 1. (i) Define dispersion of light
+
+(ii) Name the colour that deviates least and the one
+which deviates most while passing through a glass
+prism.
+[Board Term II, Set-FF7NBE6, 2015]
 
 (1 mark each)
 
@@ -47297,8 +42108,7 @@ reddish appearance. But during the day shorter
 wavelength are scattered more by molecules of air
 and scattered blue light enters our eyes.
 [CBSE Marking Scheme, 2012] 1
-Q.
-10.
+Q. 10.
 Explain
 why
 the
@@ -47318,11 +42128,6 @@ twinkling effect.
 1
 		
 [CBSE Marking Scheme, 2015]
-Q. 11. Why do different colours get separated when
-white light passes through a prism ? How can
-we recombine the components of white light
-after a prism has separated them. Explain.
-
 Q. 14. (i) Why do parallel rays of different colours
 
 deviate differently while passing through a
@@ -47353,6 +42158,11 @@ sunset consists mainly of longer wavelength red
 colour due to which it appears to be red.
 2
 
+Q. 11. Why do different colours get separated when
+white light passes through a prism ? How can
+we recombine the components of white light
+after a prism has separated them. Explain.
+
 [Board Term II, Foreign Set-II, 2014]
 Ans. A spectrum is the band of distinct colours we obtain
 when the white light is splitted by a prism. We can
@@ -47365,19 +42175,6 @@ prism disperses white light but the second prism
 recombines them. Thus light emerging from second
 prism is white.
 2
-
-Q. 16. Draw a labelled diagram to explain the
-
-formation of a rainbow in the sky.
-
-
-
-[Board Term II Foreign Set-III, 2015]
-Ans.
-
-Raindrop
-
-Sunlight
 
 Q. 12. Why danger signs are made in red colour ?
 
@@ -47609,39 +42406,9 @@ to temperature and other conditions.
 ½
 Q. 7. (i) Define power of a lens and write its SI unit.
 
-(ii) A convex lens of power 4D is placed at a distance
-of 40 cm from a wall. At what distance from the
-lens should a candle be placed so that its image is
-formed on the wall ? [Board Term II, Set A1, 2011]
 Ans. (i) Reciprocal of focal length expressed in metres is
 called power. SI unit is dioptre.
-1
-1
-1
-1
-(ii)
-f=
-=
-=
-m = 25 cm
-1
-P
-4D
-4
 		
-v = 40 m
-
-⇒
-		
-
-u=
-
--200
-cm
-3
-
-		So candle should be placed 200/3 cm from the lens.		
-			
 1
 Q. 8. State Snell’s law of refraction of light. Express it
 
@@ -47667,6 +42434,36 @@ nm =
 Speed of light in the medium
 vm
 
+		
+[CBSE Marking Scheme] 2
+Q. 9. State the difference in colours of the sun
+observed during sunrise/sunset and noon. Give
+explanation for each ?
+
+
+sunset ? Draw a labelled diagram to explain
+these phenomena.
+[Board Term II, Foreign Set-I, 2015]
+
+
+
+Ans. The sun rays have to travel through a larger
+atmospheric distance. As λb < λr, most of the blue
+light and shorter wavelengths are removed by
+scattering. Only red colour, which is least scattered
+is received by our eye and appears to come from
+sun. Hence the appearance of sun at sunset or
+sunrise or full noon near the horizon may look
+reddish.
+3			
+
+Q. 10. Why does the sun appear reddish early in the
+
+morning ? Will this phenomenon be observed
+by an observer on the moon ? Justify your
+answer with a reason. [Board Term II, Delhi
+Set-I, 2016]
+
 OR
 Why does the sun appear reddish early in the
 morning ?
@@ -47687,11 +42484,11 @@ moon.
 [CBSE Marking Scheme, 2016] ½
 
 1
+Q. 11. What is meant by advance sunrise and delayed sunset ?
 
-Ans. (i) Due to atmospheric refraction, the sun is visible
+Ans. Due to atmospheric refraction, the sun is visible
 to us about two minutes before the actual sun-rise
 and about two minutes after the actual sun-set. 1
-(ii) For Diagram See Topic 2, S.A.T.Q.II (16)
 		
 [CBSE Marking Scheme, 2015] 2
 Q. 12. Enlist at least six phenomena observed in nature
@@ -47708,54 +42505,7 @@ and sunset) and white when seen overhead.
 ½×6=3
 Q. 13. Explain in brief the reason for each of the
 
-		
-[CBSE Marking Scheme] 2
-Q. 9. State the difference in colours of the sun
-observed during sunrise/sunset and noon. Give
-explanation for each ?
-
 
-morning ? Will this phenomenon be observed
-by an observer on the moon ? Justify your
-answer with a reason. [Board Term II, Delhi
-Set-I, 2016]
-
-sunset ? Draw a labelled diagram to explain
-these phenomena.
-[Board Term II, Foreign Set-I, 2015]
-
-1 1
-1
--3
-= =
-v
-f
-u
-200
-
-			
-
-Q. 10. Why does the sun appear reddish early in the
-
-Q. 11. What is meant by advance sunrise and delayed
-
-1
-1 1
-- =
-f
-v u
-
-			
-
-Ans. The sun rays have to travel through a larger
-atmospheric distance. As λb < λr, most of the blue
-light and shorter wavelengths are removed by
-scattering. Only red colour, which is least scattered
-is received by our eye and appears to come from
-sun. Hence the appearance of sun at sunset or
-sunrise or full noon near the horizon may look
-reddish.
-3
 
 [Board Term II Delhi Set-I, 2013]
 
@@ -47842,31 +42592,12 @@ occurs at the sunset.
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-Ans. Sunlight reaches the Earth’s atmosphere and is
-scattered in all directions by the gases and particles
-in the air. Blue light is scattered more than the other
-colours because it has the shortest wavelength. This
-is why the sky appears blue to an observer from the
-surface of the Earth.
-
 Apparent position
 of the Sun
 
 Observer
 
 Horizon
-
-For an astronaut staying in the international space
-station orbiting the Earth, the colour of the sky
-will be black because the light reaching it does not
-scatter.
-3
-
-Earth
-
-Q. 19. Explain with the help of labelled diagram, the
-
-cause of twinkling of stars.
 
 [Board Term II, Delhi Set-II, 2014]
 
@@ -47903,21 +42634,6 @@ the horizon when it is actually slightly below the
 horizon. It is also due to atmospheric refraction that
 we can still see the Sun for about two minutes even
 after it has set below the horizon. 	
-2
-
-B
-
-l l
-
-l l l
-
-A
-
-l l l
-
-l l
-
-l l
 
 Actual position
 of the sun
@@ -47925,6 +42641,50 @@ of the sun
 
 Atmospheric
 refraction
+
+As seen
+from the
+earth
+
+1
+
+Q. 18. Explain giving reason why the sky appears blue
+
+to an observer from the surface of the earth ?
+What will the colour of the sky be for an astronaut
+staying in the international space station orbiting
+the earth ? Justify your answer giving reason.
+
+[Board Term II, Delhi Set-I, 2014]
+
+Ans. Sunlight reaches the Earth’s atmosphere and is
+scattered in all directions by the gases and particles
+in the air. Blue light is scattered more than the other
+colours because it has the shortest wavelength. This
+is why the sky appears blue to an observer from the
+surface of the Earth.
+
+For an astronaut staying in the international space
+station orbiting the Earth, the colour of the sky
+will be black because the light reaching it does not
+scatter.
+3
+
+Earth
+
+Q. 19. Explain with the help of labelled diagram, the
+
+cause of twinkling of stars.
+
+Ans. Light coming from the stars undergoes refraction
+on entering the Earth’s atmosphere. This refraction
+continues until it reaches the Earth’s surface. This
+happens because of uneven heating of atmospheric
+air. Hence, the atmospheric air has changing
+refractive index at various altitudes. In this case,
+starlight continuously travels from a rarer medium
+to a denser medium. Hence, it continuously bends
+towards the normal.
 
 Apparent position
 Refractive index
@@ -47956,313 +42716,26 @@ sometimes fainter. All this together, gives rise to the
 twinkling effect of stars.
 3
 
-l l l
-
-Horizon
-
-l l l
 
 The sun appears
 to be above the
 horizon
 l l
 
-Ans. Light coming from the stars undergoes refraction
-on entering the Earth’s atmosphere. This refraction
-continues until it reaches the Earth’s surface. This
-happens because of uneven heating of atmospheric
-air. Hence, the atmospheric air has changing
-refractive index at various altitudes. In this case,
-starlight continuously travels from a rarer medium
-to a denser medium. Hence, it continuously bends
-towards the normal.
-
-As seen
-from the
-earth
-
-1
-
-Q. 18. Explain giving reason why the sky appears blue
-
-to an observer from the surface of the earth ?
-What will the colour of the sky be for an astronaut
-staying in the international space station orbiting
-the earth ? Justify your answer giving reason.
-
-[Board Term II, Delhi Set-I, 2014]
-
-Q. 20. A beam of white light falling on a glass prism
-
-gets split up into seven colours. A student
-makes the statement :
-
-(i) The colour at positions marked 1 and 3 are similar
-to the colour of ‘turmeric’ and the colour of
-‘Chilly powder’, respectively. Is the above
-statement correct or incorrect ? Justify.
-
-[ 301
-
-HUMAN EYE AND COLOURFUL WORLD
-
-(ii) Which two positions correspond to the colour of
-solution of copper sulphate and signal used to
-move the vehicles ?
-(iii) Light of colour of chilly powder bends the most
-while the light of colour of brinjal bends the least.
-Is the statement correct ? Justify.
-[Board Term II, Set 8XSVHLC, 2014]
-
-(ii) Where else in nature is this phenomenon observed?
-(iii) Based on this observation, state the conclusion
-which can be drawn about the constituents of
-white light. [Board Term II, Outside Delhi Set-I,
-III, Foreign Set-I, 2014]
-Ans.
-
-Screen
-
-White Light
-
-Red
-Orange
-Yellow
-Green
-Blue
-Indigo
-Violet
-
-C
-
-E
-
-½+½
-
-(i) The phenomenon of the splitting up of the white
-light into its constituent colours is called dispersion
-of light.
-
-½+½
-
-Dispersion of light is caused because different
-constituent colours of light offer different refractive
-indexes to the material of the prism.
-
-(ii) Copper sulphate—blue colour—position—5
-½+½
-
-Q. 21. What is Tyndall effect ? Give at least two
-
-examples illustrating Tyndall effect.
-
-Ans. The phenomenon of scattering of white light by
-colloidal particles is known as Tyndall effect.
-1
-Examples :
-(i) A fine beam of sunlight entering a smoke filled
-room through a hole. Smoke particles scatter the
-white light and hence the path of light beam
-becomes visible.
-1
-
-(ii) The formation of rainbow is caused by the
-dispersion of the white sunlight into its constituent
-colours.
-(iii) Based on the dispersion of white light into its
-constituent colours, we can conclude that–
-(a) the white light consists of seven colours.
-(b) the violet light suffers maximum deviation and the
-red light suffers minimum deviation. 1+½+½+1
-Q. 23. A person is unable to see objects nearer than 50
-
-cm. He wants to read a book placed at a distance
-of 25 cm. Find the nature, focal length and power
-of the lens he requires for his spectacles.
-
-(ii) (a) Sunlight passing through the trees of forest.
-		(b) Tiny water droplets in mist scattering white
-light.
-1
-Q. 22. A narrow beam PQ of white light is passing
-
-through a glass prism ABC as shown in the
-diagram.
-A
-
-Glass prism
-
-Dispersion of White Light
-
-1- chilli powder (red)
-
-(iii) Incorrect, violet bends the most.
-
-Q
-
-B
-
-Ans. (i) Incorrect
-
-Green—position—4
-
-White
-Sun Light
-P
-
-1
-2
-3
-4
-5
-6
-7
-
-3- turmeric (yellow)
-
-D
-
-A
-
-[Board Term II, Set A1, 2011]
-
-D
-
-[Board Term II, Set-8XSVHLC, 2014]
-Ans. This person has defect of Hypermetropia which is
-far sightedness that means the image is formed
-beyond the retina so it requires a convergent lens
-to get focused at retina.
-Now corrective measure is
-					
-
-Q
-
-P
-
-u = – 25 cm
-
-					
-
-v = – 50 cm
-
-					
-
-1/f = 1/v – 1/u
-
-					
-
-1/f = 1/– 50 – 1/– 25
-
-						= – 1 + 2/50 = 1/50
-B
-
-C
-
-E
-
-Trace it on your answer sheet and show the path
-of the emergent beam as observed on the screen
-DE.
-(i) Write the name and cause of the phenomenon
-observed.
-
-					
-
-f = 50 cm
-
-					
-
-p = 1/f
-
-					
-
-p = 100/50 = 2 D
-
-		
-		
-
-Focal length = 50 cm,
-Power = 2 D
-
-3
-
-[CBSE Marking Scheme, 2014]
-
-302 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
 Long Answer Type Questions
 Q. 1. (i) What is dispersion of white light ? State its
 
 cause.
 
-(5 marks each)
-
-(ii)
-
-(ii) “Rainbow is an example of dispersion of sunlight.”
-Justify this statement by explaining, with the help
-of a labelled diagram, the formation of a rainbow in
-the sky. List two essential conditions for observing a
-rainbow.
-[Board Term II Foreign-I, 2016]
-
-R + B +Y
-
 Ans. (i) Definition of Dispersion : Splitting of white
 light into seven constituent colours by a prism. 1
-R
-Y
-B
 
 Cause of dispersion : When white light passes
 through a glass prism, different constituent
 colours bend through different angles with respect
 to the incident ray and hence are separated.
 1
-(ii)
 
-[CBSE Marking Scheme, 2015] 1+1
-
-Raindrop
-
-Sunlight
-
-Q. 3. (a) Draw a ray diagram to explain the term angle
-
-of deviation.
-
-Red
-
-(b)
-
-Why do the component colour of incident
-white light split into a spectrum while passing
-through a glass prism, explain.
-
-(c)
-
-Draw a labelled ray diagram to show the
-formation of a rainbow.
-[Delhi 31/1/1 2017]
-
-Ans. (a)
-
-Violet
-
-A
-
-2
-		
-Conditions for observing a rainbow :
-		
-(a) after the rainfall/ at a water fountain.
-		
-(b) sun is at the back of the observer.
-½+½
-[CBSE Marking Scheme, 2016]
 Q. 2. (i) Define dispersion of light. How is scattering
 of light different from dispersion ? Give one
 example of natural phenomenon based on each
@@ -48288,80 +42761,10 @@ interaction of light and particles suspended in a
 medium. Rainbow–dispersion.
 Blue colour of sky, red colour of sky at sunrise or
 or sunset–scattering. (Any one example)
-3
-
-H
-M
-
-N
-G
-D
-i
-
-e
-
-r
-N' M' F
-
-Q
-
-R
-S
-
-P
-B
-
-C
-
-(b) Different colour of white light bend through
-different angles with respect to the incident light,
-as they pass through the glass prism. Thus, each
-colour emerges along a different path, forming a
-spectrum.
-1
-Raindrop
-(c)
-Sunlight
-
-Red
-Violet
-
-[CBSE Marking Scheme, 2017]
 
 [ 303
 
 HUMAN EYE AND COLOURFUL WORLD
-
-Detailed Answer :
-(i) Emergent ray bends at an angle to the direction
-of the incident ray and the angle between them is
-known as angle of deviation.
-
-each colour passing through the prism bends at
-different angles with the respect to the incident
-beam. This gives rise to the formation of the colour
-spectrum.
-
-A
-Incident
-ray
-
-D
-
-i
-
-e
-Emergent
-ray
-
-(ii) When a beam of light enters a prism, it gets refracted
-and splits into its seven constituent colours. This
-splitting of the light ray occurs because of the
-different angles of bending of each colour. Hence,
-
-(ii)
-Diagram to show the formation of rainbow in the
-sky.
 
 Q. 4. (a) A student suffering from myopia is not able to see distinctly the objects placed beyond 5 m. List two
 
@@ -49360,21 +43763,6 @@ Q. 1. Define the SI unit of potential difference.
 
 [Board Term I, Set-1ZHNPNO, 2016] [DDE 2017]
 
-			
-
-R= ρ
-
-(1 mark each)
-l
-l
-R
-=ρ
-= ( decreases)
-A
-4 × 4 A 16
-
-1
-
 Ans. If amount of work done in bringing a one coulomb
 charge from one point to the other is 1 joule then
 potential difference between two points is said to
@@ -49411,13 +43799,6 @@ Q. 10. The voltage-current (V-I) graph of a metallic
 
 Q. 6. State in brief the meaning of an electric circuit.
 
-the potential difference across its two ends is
-decreased to half of its former value. State the
-change that will occur in the current through
-it.
-[Board Term I, Set (40), 2011]
-Ans. Current will be half of its former value.
-1
 
 [Board Term I, Set (34); 2010 (C2), 2011]
 Ans. A closed conducting path through which electric
@@ -49483,6 +43864,13 @@ Ans. A thick wire.
 
 Q. 12. The resistance of a resistor is kept constant and
 
+the potential difference across its two ends is
+decreased to half of its former value. State the
+change that will occur in the current through
+it.
+[Board Term I, Set (40), 2011]
+Ans. Current will be half of its former value.
+1
 Q. 13. What happens to the resistance of a conductor
 
 when its area of cross-section is increased ?
@@ -49513,29 +43901,11 @@ with the potential difference across a resistor.
 [ 315
 
 ELECTRICITY
+Ans.
 
 A device to regulate current without changing
 the voltage source in an electric circuit is called a
 variable resistor or a rheostat.
-½+½
-Q. 15. 400 J of heat is produced in 4 s in a 4 W resistor.
-Find potential difference across the resistor.
-[Board Term I, Set (17), 2011]
-
-Ans.
-
-V2
-× t = 400
-R
-
-Ans.
-
-		
-		or
-		or
-
-V2 = 400
-V = 20 Volt.
 
 Short Answer Type Questions-I
 Q. 1. Define electric current. Name the particles that
@@ -49552,6 +43922,16 @@ Electrons.
 		
 [CBSE Marking Scheme, 2013]
 
+Q. 2. Define ‘1 Volt’. State the relation between work,
+
+charge and potential difference for an electric
+circuit. Calculate the potential difference
+between the two terminals of the battery if
+100 joules of work is required to transfer 20
+coulombs of charge from one terminal of the
+battery to the other.[Board Term I, Set (48), 2012]
+
+1
 Ans. 1 volt is the potential difference between two points
 in a current carrying conductor when 1 joule of
 work is done to move a charge of 1 coulomb from
@@ -49613,16 +43993,6 @@ Ans.
 S.
 No.
 
-Q. 2. Define ‘1 Volt’. State the relation between work,
-
-charge and potential difference for an electric
-circuit. Calculate the potential difference
-between the two terminals of the battery if
-100 joules of work is required to transfer 20
-coulombs of charge from one terminal of the
-battery to the other.[Board Term I, Set (48), 2012]
-
-1
 
 		
 
@@ -49672,54 +44042,7 @@ conductor depends :
 SI unit of resistivity is ohm-m.
 1
 		
-[CBSE Marking Scheme, 2012]
-Q. 7. Calculate the resistance of a metal wire of
-length 2 m and area of cross section 1·55 × 10–6
-m2, if the resistivity of the metal be 2·8 × 10–8
-Wm ?
-[Board Term I, Set-WJ7QPA9, 2013]
-Ans.
-
-R=
-
-				
-
-=
-
-ρl
-A
-2·8 × 10 -8 × 2
-1·55 × 10 -6
-
-½
-
-½
-
-316 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-				
-
-=
-
-Ans.
-
-2·8 × 2 × 10 -8 -( -6 )
-1·55
-
-2·8 × 2
-=
-× 10 -2 = 0·036 W
-1·55
-				
-		
-[CBSE Marking Scheme, 2013] 1
 Q. 8. A battery of 12 V is connected to a series
-
-+
-
-+
 
 combination of resistors 3 W, 4 W, 5 W and 12 W.
 How much current would flow through the 12 W
@@ -49768,10 +44091,6 @@ R 24 Ω 2
 
 ½
 
-[CBSE Marking Scheme, 2012]
-
-			
-
 Q. 9. On what factors does resistance of a conductor
 
 depend ?
@@ -49811,19 +44130,6 @@ the circuit is broken and current is zero. However
 the bulbs in parallel combination shall continue to
 glow with the same brightness.
 1+1
-Q. 11. Draw a schematic diagram of an electric
-
-circuit comprising of 3 cells and an electric
-bulb, ammeter, plug-key in the ON mode and
-another with same components but with two
-bulbs in parallel and a voltmeter across the
-combination.
-[Board Term I, Set (40), 2012]
-
-–
-
-2
-		
 [CBSE Marking Scheme, 2012]
 Q. 12. Mention the condition under which charges can
 move in a conductor. Name the device which is
@@ -49906,6 +44212,7 @@ R2
 +
 
 Short Answer Type Questions-II
+Q. 1. Define resistance. Write the SI unit of resistance.
 Match the correct
 materials given :
 (i) Conductors
@@ -49987,15 +44294,12 @@ A
 
 		
 
-Q. 1. Define resistance. Write the SI unit of resistance.
 
 –
 
 R3
 
 (3 marks each)
-
-(iii) Electric bulb
 
 1+1+1
 
@@ -50041,22 +44345,13 @@ K
 
 [CBSE Marking Scheme, 2012]
 
-Q. 3. Draw symbol of :
-
-(i) Rheostat, (ii) Voltmeter,
-– +
-(iii) Electric bulb		
-A
 [NCT-2014]
 Now, plug the key. Note the current in the ammeter.
 Now replace the wire by a thicker nichrome wire,
-Ans. (i) Rheostat
 of the same length. A thicker wire has a larger
 –
 +
 cross-sectional area. Again note down the current
-V
-(ii) Voltmeter
 through the circuit. Instead of taking a nichrome
 
 318 ]
@@ -50066,552 +44361,6 @@ Oswaal CBSE Question Bank, SCIENCE, Class – 10
 wire, connect a copper wire in the circuit. Again
 note down the current.
 3
-Q. 6. (a) Nichrome wire of length L and radius ‘R’ has
-resistance of 10Ω. How would the resistance of
-the wire change when :
-		
-(i) Only length of the wire is doubled ?
-		(ii) Only diameter of the wire is doubled ? Justify
-your answer.
-(b) Why element of electrical heating devices are
-made up of alloys ? [Board Term I, Set (15), 2012]
-Ans. (a) (i) R ∝ L
-
-V
-1.5
-1.0
-0.5
-0
-
-0.2
-
-0.4
-
-0.6
-
-1.5V × 4
-
-			 So resistance becomes two times i.e., R = 20 Ω 1
-1
-1
-(ii) R ∝ ∝ 2
-A d
-		
-
-Ans. Placement of ammeter, voltmeter, direction of
-current 4 cells in series with a closed key.
-½+½+½+½
-+
-
-–
-
-			So when diameter is doubled, resistance becomes
-one-fourth of the original i.e., R = 2.5 Ω
-1
-(b) Elements of heating devices are made up of alloys
-because :
-
-X
-
-		(i) They have high melting points.
-		(ii) They have high resistances, so when even a
-small magnitude of current passes through
-them, they get heated up enormously.
-		(iii) They do not oxidise readily.
-		
-
-1
-
-[CBSE Marking Scheme, 2012]
-
-Q. 7. A wire of length l and area of cross-section
-
-A was drawn into a wire of double its length
-by melting it. If its original resistivity and
-resistance were r and R respectively, what will
-be its new resistivity and resistance ?
-[Board Term I, Set (23), 2012]
-
-Ans. We know, R = ρ
-
-l
-A
-
-When a wire is doubled by melting, its length
-would become double and area of cross-section
-would be halved i.e., length of wire = 2l and area
-A
-of cross-section =
-.
-1
-2
-Thus, we have
-
-R1 =
-
-2ρl 4ρl
-=
-A
-A
-2
-
-where R1 is the new resistance.
-
-+
-
-1
-
-As resistivity of a material is the characteristic of a
-given material, hence it remains unchanged.
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 8. An electric circuit consisting of a 0.5 m long
-nichrome wire XY, an ammeter, a voltmeter,
-four cells of 1.5V each and a plug key was set
-up. Draw a diagram of this circuit in the ‘ON’
-position. Following graph was plotted between
-the value of potential difference (V) and electric
-current (I). State the conclusion that you draw
-about the relation between V and I from this
-graph.
-[Board Term I Set (49) 2011]
-
-V
-
-A
-
-–
-
-Relation : For a given resistance, current flowing
-through a conductor is directly proportional to
-potential difference across it, if other physical
-conditions remain constant i.e., V ∝ I.
-1
-		
-[CBSE Marking Scheme, 2011]
-Q. 9. Derive an expression for electric energy
-consumed in a device in terms of V, I and t,
-where V is the potential difference applied to it,
-I is the current drawn by it and t is the time for
-which the current flows ?
-[Board Term I, Set-3R6WRQL, 2013]
-Ans. We know that work done = W = QV
-W
-			
-\ P=
-t
-QV
-t
-
-		 Now,
-
-P=
-
-			
-
-V = IR
-Q
-P = IR = I 2 R
-t
-
-		
-\
-
-Therefore, the new resistance of the wire is 4 R.
-
-Y
-
-			
-Energy = P × t
-				 = I2R × t
-				
-
-=
-
-V
-R2
-
-1
-
-×R×t
-
-=
-
-V2
-t
-R
-
-Energy =
-
-V2
-t
-R
-
-				
-
-1
-
-				
-		Where, V = voltage, R = resistance, t = time. 1
-		
-[CBSE Marking Scheme, 2013]
-
-[ 319
-
-ELECTRICITY
-
-Q. 10. Three resistors of 5 Ω, 10 Ω and 15 Ω are
-
-connected in series and the combination is
-connected to the battery of 30 V. Ammeter and
-voltmeter are connected in the circuit. Draw
-a circuit diagram to connect all the devices
-in proper correct order. What is the current
-flowing and potential difference across 10 Ω
-resistance ?
-[Board Term I, Set (15), 2012]
-5
-
-Ans.
-–
-+
-
-10 
-
-15 
-
-V
-A
-
-			
-
-Charge = 2 coulomb.
-20 J
-		 Potential of Point B = VB =
-= 10 V
-2C
-
-		Potential difference between two point A and B is
-			
-V = VB – VA
-				= 10 V – 5 V = 5 V.
-		Work done directly from A to B.
-			 Work done = Potential difference × charge
-				= 5 V × 2 C
-				= 10 Joule
-2+1
-		
-[CBSE Marking Scheme, 2014]
-Q. 13. Three resistors of 3 Ω each are connected to a
-battery of 3 V as shown. Calculate the current
-drawn from the battery.
-3
-
-			
-
-R = R1 + R2 + R3 = 30 Ω
-
-			
-			
-
-I = V/R = 30/30 = 1 A
-V across 10Ω = IR2 = 1 × 10 = 10 V
-
-		
-
-1
-½
-
-[CBSE Marking Scheme, 2012]
-
-If the resistivity of the material of the wire is 50
-×10–8 ohm meter, find the length of the wire.
-[Board Term I, Set-5X7289R, 2014]
-Ans. Given, Radius = 0.01 cm = 0.01 × 10–2m.
-			 Resistivity ρ = 50 × 10–8 Ωm.
-			 Resistance R = 10 Ω
-l
-l
-R = ρ =ρ 2
-A
-πr
-			
-l=
-
-				
-				
-
-=
-=
-
-3V
-
-½
-
-Q. 11. The resistance of a wire of 0.01 cm radius is 10Ω.
-
-			
-
-3
-
-1
-
-30 V
-
-Rπr 2
-ρ
-
-[Board Term I, Set WH1SGOB, 2014]
-R 4 = R 1 + R2 = 3 Ω + 3 Ω = 6 Ω
-
-Ans.
-
-1
-1
-1
-1 1 1+ 2 3 1
-=
-+
-= + =
-= = .
-R5
-R4 R3 6 3
-6
-6 2
-
-			
-			
-
-R5 = 2Ω
-Current I =
-
-			
-
-[CBSE Marking Scheme, 2014] 3
-
-		
-
-10W. It the resistivity of the material of the
-wire is 50 × 10–8 ohm metre, find the area of
-cross-section of the wire.
-[Board Term-I, Set-JYNE6XG, 2015]
-
-50 × 10 -8
-314 × 10 -4
-
-R =
-
-		
-
-10 =
-
-50 × 10 -8 × 1
-A
-
-		
-
-A =
-
-50 × 10 −8 × 1
-= 5 × 10–8 m2
-10
-
-		Given, work done = 20 Joule
-
-3
-
-Q. 15. Find out the reading of ammeter and voltmeter
-
-in the circuit given below :
-
-[Board Term I, Set (36), 2012]
-V
-
-Ans.
-			
-
-Work done = 10 Joule
-Charge = 2 Coulomb
-10 J
-		 Potential of point A = VA =
-=5V
-2C
-
-ρl
-A
-
-Ans.		
-
-50 × 10 -8 × 10 5
-
-= 0.628 m.
-Length =
-3
-10 -3
-		
-Q. 12. In an electric field the work done in bringing a
-2 coulomb charge from infinity to a point A is 10
-joules and in bringing the same charge to some
-another point B is 20 joules. Find the potential
-difference between two points A and B. What
-would be the work done if the same charge is
-brought directly from A to B ?
-		
-[Board Term I, Set-WH1SGOB, 2014]
-
-V 3V
-=
-= 1.5 Amp
-R 5 2Ω
-
-Q. 14. The resistance per metre length of a wire is
-
-10 × 3.14 × 0.01 × 10 -2 × 0.01 × 10 -2
-
-6.28 × 10 -4
-
-3
-
-2
-
-–
-
-+
-
-6V
-
-3
-
-3
-
-4
-
-A
-
-320 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Ans.		Equivalent resistance R = (2 + 3 + 3 + 4) Ω
-				 = 12Ω
-
-1
-
-V
-Total current drawn = Ammeter reading =
-R
-		
-=
-
-6
-= 0.5 A
-12
-
-1
-
-				
-		Voltmeter reading = IR1 = 0.5 × 2 = 1V
-1
-		
-[CBSE Marking Scheme, 2012]
-
-		
-Applied potential difference
-			
-V = 5 × 2 = 10 V
-		
-Total resistance
-			
-R = 5 + 10 + 15 = 30 Ω
-V 10
-=
-= 0.33 A
-Current, I =
-R 30
-			
-
-Ans. The required circuit diagram is :
-5
-10 
-15 
-
-[CBSE Marking Scheme, 2012]
-
-		
-
-its resistance. If the voltage drops to 192V,
-calculate the power consumed and the current
-drawn by the bulb. (Assume that the resistance
-of the bulb remains unchanged).
-[Board Term I, Set (48), 2011]
-
-Ans.
-
-		
-
-			
-			
-		
-
-+
-
-		
-
-1½
-
-Q. 17. An electric bulb is rated at 60W, 240V. Calculate
-
-Q. 16. Draw schematic diagram of a circuit consisting
-
-of a battery of five 2V cells, a 5 ohm, a 10
-ohm and a 15 ohm resistor and a plug key,
-all connected in series. Calculate the electric
-current passing through the above circuit when
-the key is closed. [Board Term I, Set (42), 2012]
-
-1½
-
-P=
-
-(240V)2
-V2
-V2
-= 960 Ω 1
-\ R=
-=
-60 W
-R
-P
-
-P=
-
-V2
-(192 V )2
-=
-= 38.4 W
-R
-960 Ω
-
-1
-
-I=
-
-192 V
-V
-= 0.2 A
-=
-960
-Ω
-R
-
-1
-
-[CBSE Marking Scheme, 2011]
-
-5×2 V
-–
-
 Long Answer Type Questions
 Q. 1. What does an electric circuit mean ? Name
 
@@ -50711,484 +44460,6 @@ ELECTRICITY
 
 Resistance across A and B :
 
-Q. 3. (i) Draw a labelled circuit diagram to study a
-
-relationship between potential difference (V)
-across the two ends of a conductor and the
-current (I) flowing through it. State the formula
-to show how I in a conductor varies when
-V across it is increased step wise. Show this
-relationship also on a schematic graph.
-
-		
-
-R =
-
-4 × 4 16
-=
-= 2W
-4+4 8
-
-3+2
-
-Q. 5. (a) Two identical resistors each of resistance 10
-
-ohm are connected in :
-(i) series, (ii) parallel.
-
-(ii) Calculate the resistance of a conductor if the
-current flowing through it is 0.25 A when the
-applied potential difference is 1.0 V.
-
-in turn to a battery of 6V. Calculate the ratio of
-power consumed by the combination of resistor
-in the two cases.
-
-[Board Term I, Set-1ZHNPNO, 2016]
-
-(b) List two factors on which the resistance of a
-conductor depends.
-
-Ans. (i) Refer Ans. 8 (Short Answer Type)-II.
-(ii)		
-V = 1.0V
-		
-I = 0.25 A
-		
-V = IR
-V
-		
-R=
-= 4Ω
-I
-		
-
-=
-
-1
-= 4Ω 1 + 2 + 2
-0.25
-
-[CBSE Marking Scheme, 2016]
-
-		
-Q. 4.
-
-(c) Write a difference between an ammeter and
-voltmeter.
-[Board Term I, Set (45), 2012]
-Ans. (a) R1 = R2 = 10 Ω
-		(i) When connected in series
-		
-RS= R1 + R2 = 20 Ω
-V2 6 × 6
-=
-= 1.8 W
-PS=
-20
-RS
-		
-
-		(ii) When connected in parallel
-			
-
-			
-
-With the help of a circuit diagram prove that
-when a number of resistors are connected in
-parallel, the reciprocal of equivalent resistance
-of the combination is equal to the sum of the
-reciprocals of the individual resistances of the
-resistors.
-
-R P=
-
-R1R 2
-10 × 10
-=
-=5Ω
-R1 + R 2 10 + 10
-
-P P=
-
-V2 6 × 6
-=
-= 7.2 W
-5
-RP
-
-		(i) length of the conductor
-
-½
-
-		(ii) area of cross section
-
-½
-
-(c)
-S.
-No.
-
-Ans. If there are two resistances in parallel i.e. R1 and R2
-
-a
-
-4Ω
-
-2Ω
-
-C
-
-		
-
-1
-1
-1
-+
-=
-R
-R
-R
-1
-2
-
-Where
-
-R1 = 2W + 2W = 4W
-
-		
-
-R 2+R1
-1
-=
-R1R 2
-R
-
-Now
-
-R1R 2
-R =
-R1+R 2
-
-B
-
-			
-
-Ammeter
-
-Voltmeter
-
-(i)
-
-Is is used to It is used to measure the
-measure
-the potential difference.
-current.
-
-(ii)
-
-It is connected It is always connected
-in series in the in parallel in the circuit.
-circuit.
-
-\ Equivalent resistance R :
-
-A
-
-1
-
-(b) Resistance of a conductor depends on :
-
-[Board Term I, Set-JYNE6XG, 2015]
-
-b
-
-1
-
-PS
-1.8W 1
-=
-= = 1: 4
-PP
-7.2W 4
-
-			
-
-Find the resistance between A and B in the
-following network.
-
-2Ω
-
-1
-
-(Any one difference) 1
-[CBSE Marking Scheme, 2012]
-
-Q. 6. (i) How will you convert a given set of resistors
-
-so that the equivalent resistance is increased ?
-Give reason for your answer.
-
-(ii) In the given circuit diagram, calculate :
-(a) the value of current through each resistor
-(b) the total current in the circuit
-(c) the total effective resistance of the circuit.		
-[Board Term I, Set (40), 2012]
-
-322 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-5
-
-Ans. (a) R1 > R2
-			Hence, diagram 1 is correct as R1 is large so the
-V
-slope of V – I graph   is greater in Diagram
-
-I
-1
-
-10 
-30 
-
-2
-
-and is correctly represented as R1.
-
-(b) R1 = 24W, R2 = 6W, V = 12 V
-12 V
-
-R1R 2
-6 × 24
-=
-= 4.8 Ω
-(i) R =
-R1 + R 2
-30
-		
-
-+
-
-–
-
-A
-
-(ii) I =
-
-Ans. (i) In series because R = R1 + R2 + R3
-5 + 10 + 30 = 45 W
-V 12
-=
-= 2.4 A
-I1 =
-R1
-5
-
-				 =
-
-(ii) (a)
-
-		
-
-I2 =
-
-V
-R2
-
-I3 =
-
-V 12
-=
-= 0.4 A
-R 3 30
-
-1
-½
-½
-
-			
-½
-(b) Total current
-I = I 1 + I2 + I3
-				= 2.4 A + 1.2 A + 0.4 A 1
-				= 4 A
-1
-1
-1
-1
-		(c) Total effective resistance
-=
-+
-+
-½
-R R1 R 2 R 3
-				
-
-=
-
-1 1
-1
-+
-+
-5 10 30
-
-=
-
-10
-= 3Ω
-30
-
-1
-
-V 12 V 10
-=
-=
-A = 2.5 A
-R 4.8
-4
-
-1
-
-		
-(iii) Potential difference across the conductor will
-be 12V because these are joined across the
-battery.
-[CBSE Marking Scheme, 2012] 1
-Q. 8. Draw a circuit diagram for a circuit consisting
-of a battery of five cells of 2 volts each, a 5 Ω
-resistor, a 10 Ω resistor and a 15 Ω resistor, an
-ammeter and a plug key; all connected in series.
-Also connect a voltmeter to record the potential
-difference across the 15 Ω resistor and calculate
-:
-(i) the electric current passing through the above
-circuit and
-(ii) potential difference across 5Ω resistor when the
-key is closed.
-[Board Term I, Set (51), 2012]
-Ans. (i)
-5
-
-10 
-
-V –
-15 
-
-R1
-
-R2
-
-R3
-
-+
-
-–
-
-1
-
-				
-			
-[CBSE Marking Scheme, 2012]
-
-+
-
-A
-
-Q. 7. (a) Two students perform experiments on two
-
-given resistors R1 and R2 and plot the following
-V-I graphs. If R1 > R2, which of the two diagrams
-correctly represent the situation on the plotted
-curves ? Justify your answer.
-Graph 1
-
-Graph 2
-
-R1
-V
-
-R2
-R2
-
-V
-
-+
-
-–
-
-(2 × 5 = 10V)
-
-		 10 V battery; Rest components
-
-1
-
-			Equivalent resistance = R1 + R2 + R3
-
-½
-
-				= 5 + 10 + 15
-R1
-
-				 = 30 Ω
-		Current in the circuit, I =
-
-I
-
-½+½
-
-					
-
-I
-
-(b) An electric lamp of 24 Ω and a conductor of 6 W are
-connected in parallel to a 12 V battery. Calculate :
-
-			
-
-I=
-
-V
-R
-10V 1
-= A or 0.33 A
-30Ω 3
-
-(ii) Potential difference across 5W resistor, V = IR
-
-		(i) Total resistance
-
-=
-
-				
-
-		(iii) Potential difference across the conductor.
-
-				= 1.67 V
-		
-
-½
-½
-½
-
-1
-A × 5Ω
-3
-
-		
-(ii) Total current in the circuit
-[Board Term I, Set (38), 2012]
-
-½
-
-½
-
-[CBSE Marking Scheme, 2012]
-
-[ 323
-
-ELECTRICITY
-
 TOPIC-2
 Resistance in Series and Parallel Combination, Electric
 Power and Heating Effect
@@ -51277,14 +44548,15 @@ Req =
 1
 n
 5
-			
-Q. 12. Write the relation between resistance (R) of
 
-filament of a bulb, its power (P) and a constant
-voltage V applied across it.
-[Board Term I, Set-WJ7QPA9, 2013]
+Q. 13. Which is having more resistance—a 220 V, 100
+W bulb or a 220 V, 60 W bulb.
+[Board Term I, Set 19, 2011]
+Ans. 60 W bulb, because R ∝ 1 ·
+1
 
-Ans. R=
+Short Answer Type Questions-I
+Q. 1. Define least count with one example.
 
 Ans. The smallest value that can be measured by the
 measuring instrument is called its least count.
@@ -51297,35 +44569,15 @@ starting from zero up to mark 1 i.e. least count
 = 0.1
 10
 
-1
+(1 mark each)
 
-W bulb or a 220 V, 60 W bulb.
-[Board Term I, Set 19, 2011]
-Ans. 60 W bulb, because R ∝ 1 ·
-1
-P
-
-(2 marks each)
+1+1
 
 Q. 2. State the factors on which the heat produced in
 
 [Board Term-I Set 2ZGOVVV 2015]
 
 		
-
-V2
-.
-P
-
-Q. 13. Which is having more resistance—a 220 V, 100
-
-Short Answer Type Questions-I
-Q. 1. Define least count with one example.
-
-(1 mark each)
-
-1+1
-
 a current carrying conductor depends. Give one
 practical application of this effect. H = I2Rt
 [Board Term I, Set-51, 2012]
@@ -51343,8 +44595,9 @@ iron or any other/electric bulb/electric fuse.
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Q. 3. (i) Why are electric bulbs filled with chemically
-
-Q. 9. Give reasons for the following :
+inactive nitrogen or argon ?
+(ii) What is meant by the statement that the rating of a
+fuse in a circuit is 5A ? [Board Term I, Set-15, 2012]
 
 Ans. (i) To prolong the life of filament.
 1
@@ -51367,29 +44620,6 @@ the rate at which energy is delivered by an
 electric current. State and define the unit of this
 physical quantity. [Board Term I, Set-50, 2012]
 
-Ans. (i) So that the filament does not burn on heating. 1
-(ii) It melts and stops the flow of any unduly high
-electric current and breaks the circuit.
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 10. While experimentally verifying ohm‘s law a
-student observed that pointer of the voltmeter
-coincide with 15th division when the voltmeter
-has a least count of 0.05 V. Find the observed
-reading of voltmeter.
-[DDE-2015] [Board Term I, Set-JYNE6XG, 2015]
-Ans. Reading of voltmeter = 15 × 0.05
-= 0.75 volt.
-2
-Q. 11. An electric heater rated 800 W operates 6h/day.
-Find the cost of energy to operate it for 30 days at
-` 3.00 per unit.
-[Board Term I, Set-(15), 2012]
-
-inactive nitrogen or argon ?
-(ii) What is meant by the statement that the rating of a
-fuse in a circuit is 5A ? [Board Term I, Set-15, 2012]
 
 Ans. Quantity — Electric power
 ½
@@ -51429,11 +44659,31 @@ wiring and the appliance if something goes wrong.
 The fuse contains a piece of wire that melts easily. If
 the current going through the fuse is too great, the
 wire heats up until it melts and breaks the circuit. 2
-
+Q. 9. Give reasons for the following :
 (i) Electric bulbs are usually filled with chemically
 inactive gases like nitrogen and argon.
 (ii) Fuse wire is placed in series with the device.		
 [Board Term I, Set-38, 2012]
+
+Ans. (i) So that the filament does not burn on heating. 1
+(ii) It melts and stops the flow of any unduly high
+electric current and breaks the circuit.
+1
+		
+[CBSE Marking Scheme, 2012]
+Q. 10. While experimentally verifying ohm‘s law a
+student observed that pointer of the voltmeter
+coincide with 15th division when the voltmeter
+has a least count of 0.05 V. Find the observed
+reading of voltmeter.
+[DDE-2015] [Board Term I, Set-JYNE6XG, 2015]
+Ans. Reading of voltmeter = 15 × 0.05
+= 0.75 volt.
+2
+Q. 11. An electric heater rated 800 W operates 6h/day.
+Find the cost of energy to operate it for 30 days at
+` 3.00 per unit.
+[Board Term I, Set-(15), 2012]
 
 Ans.		 Energy consumed = P × t = 800 × 6 × 30
 				= 144000 Wh
@@ -51724,201 +44974,6 @@ Nichrome wire
 A
 X L Y
 
-Q. 9. Show four different ways in which three
-
-resistors of ‘r’ ohm each may be connected
-in a circuit. In which case is the equivalent
-resistance of the combination :
-[DDE-2015]
-(i) Maximum
-(ii) Minimum
-[Board Term I, Set-5X7289R, 2014]
-
-Ans. (a)
-
-½
-
-½
-
-(b)
-
-½+½
-
-(iii) Nichrome; Very high resistivity / as it is an alloy, it
-does not oxidize readily at high temperature. ½+½
-
-+
-
-(i)
-
-–
-
-When this experiment is repeated by
-inserting another nichrome wire of the
-same thickness but twice the length (2L),
-what changes are observed in the ammeter
-reading ?
-
-(ii) State the changes that are observed in the
-ammeter reading if we double the area of
-cross-section without changing the length
-in the above experiment.
-Justify your answer in both the cases.
-
-½
-
-(c)
-
-(b) ‘‘Potential difference between points A and B in an
-electric field is 1 V’’. Explain the above statement.
-[Board Term I, Set-51, 2012]
-
-r
-
-(d)
-
-Silver
-
-1.60 × 10–8
-
-Copper
-
-1.62 × 10–8
-
-Ans. (a) (i) The ammeter reading will decrease (becomes
-half). This is because with the increase in
-length, resistance of the circuit increases,
-hence current decreases.
-1
-		(ii) The ammeter reading will increase (becomes
-two times). This is because as area increases,
-resistance decreases and hence current
-increases.
-1
-(b) It means that 1 J of work is being done to move a
-charge of 1 coulomb from point A to point B.
-1
-		
-[CBSE Marking Scheme, 2012]
-
-Tungsten
-
-5.2 × 10–8
-
-Q. 12. Derive the relation for equivalent resistance
-
-Mercury
-
-–8
-
-Y
-
-X
-r
-
-½
-
-r
-
-(i) Circuit (a) have maximum resistance
-(ii) Circuit (b) have minimum resistance
-
-½
-½
-
-Q. 10. Electrical resistivities of some substances, in
-
-ohm-meter, at 20°C are given as follows :
-
-94 × 10
-
-Iron
-
-10 × 10–8
-
-Nichrome
-
-10 × 10–6
-
-when three resistances are connected in parallel.
-[Board Term I, Set-WJ7QPA9, 2013]
-
-[ 327
-
-ELECTRICITY
-
-L
-
-Ans.
-
-X
-
-R1
-
-M
-
-R2
-
-P
-
-R3
-
-Y
-
-Q
-
-– V +
-
-I
-
-I
-
-[Board Term I, Set-42, 2011, Set (B1), 2010]
-Ans. Two resistors of resistance R1 and R2 are connected
-in series. Let I be the current flowing through the
-circuit. The current through each resistor is also I.
-The two resistors joined in series is replaced by an
-equivalent single resistor of resistance R such that
-the potential difference V across it, and the current
-I through the circuit remains same.
-1
-X
-
-+
-
-–
-
-A +
-½
-		It is observed that the total current I, is equal to the
-sum of the separate currents through each branch
-of the combination.		
-			
-I = I 1 + I2
-½
-		Let Rp be the equivalent resistance of the parallel
-combination of resistors. By applying Ohm’s law
-to the parallel combination of resistors, we have
-			
-I = V/Rp
-½
-		On applying Ohm’s law to each resistor, we have
-			
-I1 = V/R1; I2 = V/R2;
-½
-		From eqns., we have
-			
-V/Rp = V/R1 + V/R2
-½
-		or
-1/Rp = 1/R1 + 1/R2
-½
-		Thus, we may conclude that the reciprocal of the
-equivalent resistance of a group of resistances
-joined in parallel is equal to the sum of the
-reciprocals of the individual resistances.
-		
-[CBSE Marking Scheme, 2013]
 Q. 13. Explain the following :
 (i) The elements of electric heating devices such as
 bread-toasters and electric iron are made of an
@@ -51956,29 +45011,14 @@ No, we cannot run.
 Current needed is more than 5 A
 Q. 15. Derive an expression for the combination of
 two resistances connected in series.
+Ans. Two resistors of resistance R 1 and R 2 are connected
+in series. Let I be the current flowing through the
+circuit. The current through each resistor is also I.
+The two resistors joined in series is replaced by an
+equivalent single resistor of resistance R such that
+the potential difference V across it, and the current
+I through the circuit remains same.
 
-–
-+
-
-R2
-
-R1
-
-Y
-
-+ V –
-
-A
-
-I
-
-I
-+
-
-–
-
-K
-1
 (Resistors in series)
 		As, V = IR, V1 = IR1, V2 = IR2
 			
@@ -52277,990 +45317,7 @@ I=
 R 10
 1+1+1
 
-			
-		
-[CBSE Marking Scheme, 2014]
-Q. 24. Study the following electric circuit and calculate
-the energy drawn from the battery in 10 s.
-[DDE-2015]
 
-[ 329
-
-ELECTRICITY
-30 
-20 
-
-+
-
-3V
-
-–
-
-( )
-
-Ans. From ohm’s law, V = IR
-
-Ans.		
-		
-		
-
-1 1
-1
-1
-1
-20 + 30
-50
-1
-= +
-=
-+
-=
-⇒
-= Ω
-R R1 R 2 30 20
-600
-600 12
-
-\
-As
-
-R = 12W
-V = IR Þ 3 = I × 12
-3 1
-= A
-I=
-12 4
-
-		
-
-		
-
-Potential difference across 5 W resistor.
-		
-V = IR
-1
-		
-V = ×5
-4
-
-Electrical energy W = VIt
-1
-		
-=3×
-× 10
-4
-30 15
-=
-=
-= 7.5 J.
-4
-2
-
-		
-
-3
-
-Q. 25. Study the following electric circuit (i) the
-
-current flowing in the circuit and (ii) the
-potential difference across 10W resistor
-		
-[DDE-2015]
-
-Ans.		
-R = R1 + R2 = 10 + 20 = 30 W
-		
-V =3V
-(i) From ohm’s law V = IR
-3
-1
-=
-		3 = I × 30 Þ I =
-Ampere or 0.1 A
-30 10
-(ii) Potential difference across 10W resistor
-		
-V = IR
-1 × 10
-		
-=
-= 1 volt.
-10
-
-V = IR
-R = 3 + 4 + 5 = 12 W
-3 = I × 12
-3 1
-= Ampere
-I=
-12 4
-
-		
-
-=
-
-5
-V or 1.25 V
-4
-
-1½+1½
-
-Q. 28. An electric heater is used on 220 V supply
-
-and takes a current of 5A. What is its power ?
-Calculate the per hour cost of using the heater if
-1 unit costs Rs 6.0.
-Ans.		
-Power = VI
-		
-= 220 × 5 = 1100 Watt
-		
-= 1.1 kW
-Cost per hour = 1.1 × 6
-		
-` = 6.6
-1½+1½
-
-Q. 29. Show how would you connect three resistors
-
-1
-1
-
-each of resistance 6Ω, so that the combination
-has a resistance of (i) 9Ω and (ii) 4Ω.[NCT-2014]
-Ans. (i) 9Ω
-A
-
-6
-
-6
-
-B
-
-6
-
-1
-
-A
-
-Q. 26. Calculate the amount of heat generated while
-
-transferring 90000 coulombs of charge between
-the two terminals of a battery of 40V in one
-hour. Also determine the power expended in
-the process.
-		
-[DDE-2015]
-Ans. Q = 90000, t = 1h = 3600s, V = 40V
-Q 90 , 000
-= 25A
-=
-I=
-t
-3, 600
-R=
-
-V 40
-=
-= 1.6W
-I 25
-
-H = I2Rt = 25 × 25 × 1.6 × 3600
-= 36 × 105 J or 3600 kJ
-P = I2R = 25 × 25 × 1.6
-		 = 1000 W = 1 KW.
-3
-Q. 27. Study the following electric circuit and calculate
-the potential difference across 5 W resistor 3.
-[Board Term-I, Set-2ZGOVV, 2015]
-
-V
-
-1
-1
-1
-1 1 2
-+
-=
-= + =
-R4
-R1 R 2
-6 6 6
-
-			
-			
-			
-
-R4 = 3Ω
-R 5 = R 3 + R4
-				 = 6 + 3
-				 = 9Ω
-		In this circuit, equivalent resistance will be 9Ω.
-(ii) 4Ω
-6
-
-6
-
-6
-
-( )
-
-A
-
-330 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-			
-
-R4 = R1 +R2
-				 = 6 Ω + 6 Ω =12 Ω
-1
-1
-1
-+
-=
-R5
-R3 R4
-			
-1 1 2+1 3
-=
-=
-= +
-6
-12
-12
-12
-				
-R5 =
-
-(iii)
-∴
-		
-
-12
-= 4 Ω.
-3
-
-R1 = 4 
-
-(ii)		
-
-+
-
-6V
-
-In the given circuit, calculate :
-(i) the total resistance of the circuit
-(ii) the current through the circuit, and
-(ii) the potential difference across R1 and R2
-[DDE – 2014]
-Ans. Given, The resistance of conductor R1 = 4Ω
-			The resistance of conductor R2 = 20Ω
-(i) The total resistance of the circuit
-		 R= R1 + R2 (series combination)
-		R
-= 4 + 20 = 24Ω
-		Now by ohm’s Law,
-(ii) The current through the circuit,
-V 6
-1
-=
-= = 0.25 Amp.
-V = IR,
-I=
-R 24 4
-(iii) The potential difference across the two terminals of
-the battery = 6V.
-			 V1 = I × R1
-				 = 0.25 × 4 = 1V (Potential difference across
-the conductor R1)
-			 V2 = I × R2
-				 = 0.25 × 20 = 5V (Potential difference across
-the conductor R2)
-1+1+1
-Q. 31. A hot plate connected to a 220 V line has two
-
-resistance coils A and B, each of 22 W resistance.
-Calculate the amount of electric current flowing
-when these coil are :
-(i) used individually.
-(ii) connected in series.
-(iii) connected in parallel.
-[NCERT]
-[Board Term I, Set-3R6WRQL, 2013]
-
-Ans. (i)
-(ii)		
-			
-
-I =
-
-V 220
-=
-=10 Ampere.
-R
-22
-
-R = R1 + R2 = 22 + 22 = 44Ω
-220
-= 5 Ampere.
-I =
-44
-
-220
-= 20 Ampere.
-11
-
-[Board Term I, Set-WJ7QPA9, 2013]
-Ans. (i)
-
-A
-
-22
-= 11 Ω
-2
-
-1
-			
-		
-[CBSE Marking Scheme, 2013]
-Q. 32. A torch bulb is rated 5 V and 500 mA. Calculate
-its (i) power, (ii) resistance, (iii) energy
-consumed when it is lighted for 4 hours.
-
-R2 = 20 
-
-–
-
-R =
-I =
-
-			
-		In this circuit, equivalent resistance will be 4Ω.
-					
-1½ + 1½
-Q. 30.
-
-1
-2
-1
-1
-1
-1
-+
-=
-+
-=
-=
-R 1 R 2 22 22 22
-R
-
-1
-
-1
-
-P = VI = 5 × 0·5 = 2·5 Watt
-V
-5
-=
-= 10Ω
-R =
-I 0.5
-
-1
-1
-
-(iii)		
-W = P × t = 2·5 × 4 × 3600
-			
-= 36000 = 3·6 × 104 J
-1
-		
-[CBSE Marking Scheme, 2013]
-Q. 33. Amongst iron, silver, nichrome, tungsten,
-copper, which metal / alloy should be used to
-make the
-(i) Heating element of electric geysers
-(ii) Filament of incandescent bulbs.
-An electric iron has rating of 750W, 220V.
-Calculate :
-(i) Current required and
-(ii) Its resistance when it is in use.
-[Board Term I, Set-42, 2012]
-Ans. (i) Heating element – Nichrome
-(ii) Filament of bulb – Tungsten
-		P = 750 W
-V = 220 V
-P 750
-=
-= 3.4 A
-(i) P = VI
-∴I =
-V 220
-
-½
-½
-
-1
-
-220 V
-= 64.5 Ω
-(ii) R = V/I =
-3.4 A
-
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 34. (i) Draw a diagram to show how two resistors R1
-and R2 are connected in parallel.
-(ii) In a circuit if two resistors of 4 W and 8 W are
-connected in parallel, find out the ratio of current
-passing through the two resistors.
-[Board Term I, Set-40, 2012]
-Ans. (i)
-
-R1
-
-R2
-
-(ii)		
-R1 = 4 Ω
-			
-R2 = 8 Ω
-			 Potential difference = V
-
-1
-
-[ 331
-
-ELECTRICITY
-
-
-
-2
-
-4=
-
-2
-
-
-
-
-
-2
-
-5=
-
-
-
-[CBSE Marking Scheme, 2012] 1
-
-R
-
-A
-
-
-
-			
-			
-			
-
-1
-1
-1 1 2
-1
-+
-= + = = 1Ω
-=
-R1 R 2 2 2 2
-R1, 2
-
-½
-
-Similarly R3, 4 = 1Ω
-R5, 6 = 1Ω		
-R7, 8 = 1Ω
-½
-		Now R1, 2 and R3, 4 are connected in series
-½
-			 R1, 2, 3, 4 = R1, 2 + R3, 4 = 1 + 1 = 2Ω
-		Also, R5, 6 and R7, 8 are connected in series
-			 R5, 6, 7, 8 = R5, 6 + R7, 8 = 1 + 1 = 2Ω
-½
-		Now, equivalent resistance		
-1
-1
-1 1 2
-1
-+
-= + = = 1Ω ½
-=
-R
-R
-2
-2 2
-R
-1, 2 , 3 , 4
-5 , 6 ,7 , 8
-			
-R = 1Ω
-½
-		
-[CBSE Marking Scheme, 2012]
-Q. 38. Calculate the amount of heat generated when
-7200 coulombs of charge is transferred in one
-hour through a potential difference of 50 V.
-[Board Term I, Set-54, 2012]
-Ans. Q = 7200C, t = 1h = 60 × 60 = 3600s, V = 50V
-Q 7200
-=
-= 2 A.
-I=
-t 3600
-			
-1
-V 50 V
-=
-= 25Ω
-R=
-I
-2A
-			
-1
-
-			
-H = I2Rt
-				= 2 × 2 × 25 × 60 × 60
-				= 36 × 104 J or 360 kJ.
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 39. An electric iron consumes energy at a rate of
-840W when heating is at the maximum and
-360W, when the heating is at the minimum. The
-voltage at which it is running is 220V. What are
-the current and resistance values in each case ?
-[Board Term I, Set-38, 2012]
-Ans.
-
-K
-
-
-
-2
-
-V
-
-2
-
-6=
-
-1
-
-7=
-
-R
-
-½
-
-R
-
-
-
-R
-= 25
-R′
-
-½
-
-B
-=2
-R8
-
-Ans. Resistance of each part = R/5
-		
-When connected in parallel :
-5 5 5 5 5 25
-1
-= + + + + =
-R
-R R R R R
-R
-′
-			
-
-		
-
-3=
-
-R
-
-A
-
-Ans. P1 = 60 W
-P2 = 800 W
-		E1 = 60 × 6
-E2 = 800 × 6
-		 = 360 watt-hr.		 = 4800 watt-hr.
-			 Total energy consumed E = E1 + E2
-				 = 360 + 4800
-				 = 5160 watt-hour
-			Energy consumed in 30 days = 5160 × 30
-					= 154800 watt-hour
-				 = 154.8 kWh.
-3
-			
-[CBSE Marking Scheme, 2012]
-Q. 36. A wire of resistance R is cut into five equal parts.
-These parts are then connected in parallel. If the
-equivalent resistance of this combination is R′.
-Calculate the ratio R/R′. Draw a circuit diagram
-to show two resistors R1 and R2 connected in
-parallel along with a battery, key, ammeter and
-voltmeter.
-[Board Term I, Set-43, 2012]
-
-B
-
-
-
-½
-
-I1
-2
-⇒
-=
-I2
-1
-		
-		
-\
-I1 : I2 = 2 : 1
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 35. A lamp rated 60W and an electric iron rated
-800W are used for 6 hours everyday. Calculate
-the total energy consumed in 30 days.
-[Board Term I, Set-40, 2012]
-
-∴
-		
-
-2
-
-⇒
-		
-
-I1
-8
-=
-I2
-4
-
-R
-
-2
-
-			
-
-I1
-V/4 Ω
-=
-I2
-V /8Ω
-
-Ans.
-½
-
-1=
-
-V
-V
-=
-R2 8 Ω
-
-ends A and B of this circuit.
-[Board Term I, Set-46, 2012]
-
-2=
-
-I2 =
-
-Q. 37. Find the equivalent resistance across the two
-
-R
-
-			
-
-V1
-V
-=
-R1 4 Ω
-
-R
-
-			
-
-I1 =
-
-P1 = 840 W, V = 220 V,
-P
-Current drawn I1 = 1
-V 		
-			
-840 42
-=
-= 3.8 A
-=
-1
-220 11
-		
-
-332 ]
-			
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-			
-		By Ohms law,
-			
-V = I1 R1
-V 220 220 × 11 1210
-=
-=
-Ω = 57.5 Ω
-=
-42
-42
-21
-R1 = I 1
-11
-			
-			
-
-Ans. (i) Other bulbs will glow with same brightness. 1
-(ii) When the bulbs are in parallel, wattage will be
-added (4.5 W) and the ammeter reading would be
-4.5 W
-P
- I=
-1
-= 4.5 V = 1.0 Ampere
-V
-
-P2 = 360 W, V = 220 V,
-P
-360
-= 1.6 A
-Current drawn I2 = 2 =
-V 220
-
-V = I2 R2
-V 220
-11
-=
-= 220 ×
-= 134.4 Ω
-R2 =
-18
-I2
-18
-11
-
-1
-
-(iii) Since ammeter reading is 1.0 ampere, resistance of
-4.5 V
-the combination is
-1
-= 4.5 Ω.
-1.0 A
-Q. 42. How many resistors of 88 W are connected in
-
-1
-
-			
-		
-[CBSE Marking Scheme, 2012]
-Q. 40. Five resistors are connected in a circuit as
-shown. Find the ammeter reading when circuit
-is closed.
-[Board Term I, Set-29, 2011]
-C
-
-parallel to carry 10 A current on a 220 V line ?
-[Board Term I, Set-36, 2011]
-Ans. Let n number of resistance are connected in
-parallel.
-1
-n
-		Equivalent resistance,
-=
-RP
-88
-RP =
-
-			
-3
-
-3
-
-B
-
-3
-
-0.5 
-A
-
-+
-
-–
-
-0.5 
-
-–
-
-A
-
-+
-
-		Now the resistance of the whole combination is
-			
-R = 0.5 Ω + x + 0.5 Ω
-				 = 0.5 Ω + 2.0 Ω + 0.5 Ω
-				 = 3.0 Ω
-3V
-∴ Ammeter reading =
-= 1.0 ampere.
-3
-Ω
-		
-
-3
-
-Q. 41. Study the circuit shown in which three identical
-
-bulbs B1, B2 and B3 are connected in parallel
-with a battery of 4.5V.
-(i) What will happen to the glow of other two bulbs if
-the bulb B3 gets fused ?
-(ii) If the wattage of each bulb is 1.5 W, how much
-reading will the ammeter A show when all the
-three bulbs glow simultaneously.
-(iii) Find the total resistance of the circuit.
-4.5 V
-+
-–
-A
-B1
-A1
-B2
-A2
-B3
-A3
-
-[Board Term I, Set-29, 2011]
-
-88 220
-=
-n
-10
-
-88
-= 4 resistors.
-22
-
-3
-			
-Q. 43. (i) What is the total resistance of n resistors each
-of resistance ‘R’ connected in :
-(a) Series, (b) Parallel.
-(ii) Calculate the resultant resistance of 3 resistors 3 Ω,
-4 Ω and 12 Ω connected in parallel.
-[Board Term I, Set-37, 2011]
-Ans. (i)
-RS = (R + R + ........ R) = nR
-1
-1
-1 1
-= n  + + ......... + 
-RP
-
-
-R
-R
-R
-			
-R
-∴
-RP =
-1
-n
-n =
-
-E
-3V
-Ans. The resistance between the points B and D is x
-3Ω × 6Ω
-= 2Ω
-x=
-3
-Ω + 6Ω
-			
-+
-
-V = IR or R =
-
-			
-
-D
-
-88
-n
-
-(ii)
-		
-
-1 1 1
-8
-1
-=
-= + +
-3
-4
-12
-1
-2
-R
-
-12
-= 1.5 Ω
-8
-
-2
-			
-Q. 44. A 400 W refrigerator operates for 16 h per day.
-Calculate the cost to operate if for 30 days at `
-3.40 kWh.
-[Board Term I, Set-25, 2011]
-Watt × hours × No. of days
-Ans.		Energy consumed =
-1000
-R=
-
-=
-
-400 × 16 × 30
-= 192 kWh (unit)
-1000
-
-			
-			 Cost of energy consumed = Rate × kWh
-				= 3.40 × 192
-				 = ` 652.80.
-3
 Q. 45. The resistance offered by a wire of unit
 length and unit cross-sectional area is called
 resistivity. For a material irrespective of length
@@ -53297,172 +45354,12 @@ Q. 1. What is meant by electric current ? Name and
 
 define S.I. unit. In a conductor electrons are
 flowing from B to A. What is the direction of
-conventional current ? Give justification for your
-answer.
-A steady current of 1 Ampere flows through a
-conductor. Calculate the number of electrons
-that flow through any 5 section of conductor in 1
-second. (Charge on electron = 1.6 × 10–19 C)
-[DDE-2014] [Board Term-I, Set-A85V2IL, 2015]
-
+conventional current ? 
 Ans. Definition of Electric current : Refer quick Review
 S.I. Unit of Current-ampere
 Definition of 1 Ampere : Refer Quick Review
 Direction of Current from A to B - Justification
-Justification : Refer to Quick Review
-I×t
-ne
-I=
-⇒n=
-e
-t
-=
-
-1A × 1s
-1.6 × 10
-
-−19
-
-C
-
-(5 marks each)
-24
-= 2 Ω.
-12
-
-1
-			
-		
-[CBSE Marking Scheme, 2012]
-Q. 3. Establish a relationship to determine the
-equivalent resistance R of a combination of
-three resistors having resistances R1, R2 and R3
-connected in series. Calculate the equivalent
-resistance of the combination of three resistors
-of 2Ω, 3Ω and 6Ω joined in parallel.
-[Board Term I, Set-L7ZSVLH, 2016,
-WH1SGOB, 2015]
-Ans. An applied potential V produces current I in the
-resistors R1, R2 and R3, causing a potential drop V1,
-V2 and V3 respectively through each resistor.
-RP =
-
-R1
-
-V1
-
-= 6.25 × 1018
-
-R2
-
-R3
-
-V2
-
-V3
-
-I
-
-+
-A
-
-–
-
-[CBSE Marking Scheme, 2015] 5
-Q. 2. (i) What is meant by potential difference ? State
-
-its SI unit.
-(ii) Name a device that helps to maintain a potential
-difference across a conductor.
-(iii) Calculate : (a) the highest, (b) the lowest resistance
-that can be obtained by the combination of four
-coils of resistances 4W, 8W, 12W and 24W ?
-[Board Term I, Set-41, 2012]
-
-Ans. (i) Potential difference : Potential difference
-between two points in an electric circuit carrying
-same current is the work done to move a unit
-charge from one point to another. Volt.
-1½
-(ii) A battery.		
-(iii) (a) Highest resistance RS = R1 + R2 + R3 + R4 1
-				 = (4 + 8 + 12 + 24)Ω
-				 = 48 Ω
-1
-			(b) Lowest resistance R parallel		
-1
-1
-1
-1
-1
-+
-+
-+
-=
-½
-RP
-R1 R 2 R 3 R 4
-			
-
-1 1 1
-1
-1
-+
-= + +
-4 8 12 24
-RP
-
-6+3+2+1
-12
-=
-=
-24
-24
-				
-
-K
-
-V
-
-		Total Potential,
-V = V1 + V2 + V3
-		By Ohm’s Law,
-V1 = IR1
-			
-V2 = IR2
-			
-V3 = IR3
-		Thus,
-V = IR1 + IR2 + IR3
-				 = I(R1 + R2 + R3)
-		If R is the equivalent resistance, V = IR
-		Hence,
-IR = I(R1 + R2 + R3)
-			
-R = R1 + R2 + R3
-		This proves that overall resistance increases when
-resistors are connected in series.
-		Three resistors 2Ω, 3Ω and 6Ω, are joined in parallel
-combination.
-		Equivalent resistance,
-1
-1 1 1
-= + +
-RP
-2 3 6
-			
-3+2+1 6
-=
-=
-6
-6
-				
-RP = 1 Ω
-
-			
-
-4+1
-
+	
 Q. 4. (i) Derive an expression for Joule’s law of
 
 heating.
@@ -53653,489 +45550,11 @@ can bear the current.
 [CBSE Marking Scheme, 2012]
 Q. 7. (i) What is meant by the statement that the
 resistance of a wire is 1 Ω ?
-(ii) Two identical resistors each of resistance 12 Ω are
-connected (i) in series (ii) in parallel, in turn to a
-battery of 6 V.
-Calculate the ratio of power consumed in the
-combination of resistors in the two cases.
-(iii) What combination is used for connecting the
-circuit to measure the potential difference across
-two points ?
-[Board Term I, Set-36, 2012]
-
-[ 335
-
-ELECTRICITY
 
 Ans. (i) When 1 ampere current flows through a
 conductor whose potential difference is 1 volt,
 then resistance is 1 ohm.
 1
-(ii)		
-R1 = R2 = 12Ω
-			
-V = 6V
-			
-RS = R1 + R2
-		
-		= (12 + 12)Ω = 24 Ω
-½
-1
-1
-1
-+
-=
-RP
-12 12
-			
-1
-2
-⇒
-=
-RP
-12
-		
-		
-\
-RP = 6 Ω
-½
-		Power consumed by series combination
-				 = Ps
-=
-				
-
-6×6
-V2
-=
-24
-Rs
-
-				= 1.5 W
-1
-		 Power consumed by parallel combination 		
-6×6
-V2
-= Pp =
-=
-6
-Rp
-		
-				= 6 W
-1
-Ratio =
-
-Q. 9. (i) State Ohm’s law. Give mathematical relation
-
-between potential difference (V), Current (I)
-and resistance (R) of a conductor. Draw an
-electric circuit for studying ohm’s law.
-(ii) When a 12 V battery is connected across an
-unknown resistor, 2.5 mA current flows in the
-circuit. Find the resistance of the resistor.
-[Board Term I, Set-2ZGOVVV, 2015]
-Ans.
-(i) Refer to Topic II SAQ-II-Q.N.5
-(ii) V = IR
-V = 12 V, I = 2.5 mA Þ 2.5 × 10–3 A
-12 = 2.5 × 10–3 × R
-R=
-
-12
-2.5 × 10
-
-−3
-
-=
-
-12 × 10 3
-= 4.8 k W	
-2.5
-
-3+2
-
-Q. 10. Two wires X and Y are of equal length and
-have equal resistances. If the resistivity of X is
-more than that of Y, which wire is thicker and
-why ? For the electric circuit given below
-calculate :
-[DDE-2015]
-
-Ps 1.5 1
-=
-= = 1: 4
-Pp
-6
-4
-
-		
-\
-(iii) Voltmeter is connected in parallel across the two
-points in the circuit.
-1
-			
-[CBSE Marking Scheme, 2012]
-Q. 8. (i) Explain the term : Heating effect of electric
-current.
-(ii) Derive an expression for the heat produced by
-electric current and state Joule‘s Law.
-(iii) Explain why an inert gas like argon is filled in
-bulbs.
-[Board Term I Set (40) 2012]
-Ans. (i) Heating effect of electric current : When an
-electric current is passed through a high resistance
-wire like nichrome, the resistance wire becomes
-very hot and produces heat. This is called heating
-effect of electric current.
-1
-Q
-(ii)
-P = V×
-T
-			
-P = VI
-			
-E =P×t
-				= VI × t = VIt
-			
-E = IRIt [V = IR; Ohm’s law]
-				 = I2 Rt.
-2
-		
-Joule’s Law : When current of I ampere flows in
-a wire of resistance R Ω for t seconds, the heat
-2
-energy dissipated by it is given by H = I Rt
-
-1
-
-(iii) The bulbs are usually filled with chemically inactive
-nitrogen and argon gas so that filament does not
-burn out and the life of filament is prolonged. 1
-		
-[CBSE Marking Scheme, 2012]
-
-(i) Current in each resistor
-(ii) Total current drawn from the battery and
-(iii) Equivalent resistance of circuit
-Ans. V = IR. Wire A is thicker
-6 1
-= = 0.2 A
-(i) for 30 W, I =
-30 5
-for 10 W, I =
-for 5 W, I =
-(ii)
-
-6
-= 0.6 Ampere
-10
-6
-= 1.2 Ampere
-5
-
-1
-1
-1 1 1
-=
-+
-+ = ⇒ R=3W
-R 30 10 5 3
-
-V = IR Þ I =
-
-V 6
-= = 2 Ampere
-R 3
-
-(iii) Equivalent Resistance = 3 W	
-
-2+2+1
-
-Q. 11. Study the following current time graphs from
-
-two different sources.
-
-336 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Q. 13. Draw a labelled circuit diagram to study the
-
-relationship between the current (I) flowing
-through a conductor and the potential
-difference (V) applied across its two ends. State
-the formula co-relating the I in a conductor and
-the V across it. Also show their relationship by
-drawing a diagram.
-
-(i) Use above graphs to list word differences between
-the current in the two cases.
-(ii) Name the type of current in two cases
-(iii) Identify one source each for these currents.
-(iv) What is meant by the statement that “the frequency
-of current in India is 50 Hz ?‘‘
-[Board Term-I, Set-JYNE6XG, 2015]
-Ans.
-(i) (a) In (I) current is constant while in (II) current is
-variable.
-(b) In (I) current is in positive state while in (II)
-current is in both state.
-(ii) I — Direct current
-II — Alternating current
-(iii) I — From Battery
-II — From power supply in our houses
-(iv) Because current type is alternating current that’s
-why frequency varies form 0 to 50 Hz.2 + 1 + 1 + 1
-Q. 12. (i) Calculate the resistance of the wire using the
-graph.
-(ii) How many 176W resistors in parallel are required
-to carry 5A on a 220 V line ?
-(iii) Define electric power. Derive relation between
-power, potential difference and resistance.
-
-What would be the resistance of a resistor if the
-current flowing through it is 0.15 A when the
-potential difference across it is 1.05 V ?
-[Board Term I, Set-JYNE6XG, 2015]
-Ans.
-
-The formula states that the current passing through
-a conductor is directly proportional to the potential
-difference across its ends, provided the physical
-conditions like temperature, density, etc. remain
-unchanged. This is Ohm‘s law.
-I µ V or I =
-
-		
-		
-
-V = ± IR.
-
-R is called resistance of the conductor.
-As
-
-V = 1.05 V
-
-		
-
-I = 0.15 A
-
-		
-
-V = IR
-
-		
-
-1.05 = 0.15 × R
-
-Current (A)
-
-		
-
-1.05
-=7W
-0.15
-
-given in the figure.
-
-1+2+2
-
-[Board Term I, Set-37, 2012]
-
-(i) Effective resistance of two 8Ω resistors in the
-combination
-
-2
-4
-Potential difference (V)
-
-(ii) Current flowing through 4Ω resistor
-
-[DDE-2014] [Board Term I, Set-15, 2012]
-Ans. (i)
-
-R=
-
-V
-2
-,R=
-= 20Ω ½+½
-I
-0.1
-
-(ii)
-
-R=
-
-V 220
-=
-= 44Ω
-I
-5
-
-1
-
-176
-Number of resistors is =
-=4
-1
-44
-		
-(iii) The rate at which electric energy is dissipated or
-consumed in an electric circuit is called electric
-V2
-power P =
-2
-· 			
-R
-		
-
-R =
-
-Q. 14. Find out the following in the electric circuit
-
-0.1
-
-0
-
-V
-R
-
-[CBSE Marking Scheme, 2014]
-
-(iii) Potential difference across 4Ω resistor
-(iv) Power dissipated in 4Ω resistor
-(v) Difference in reading of ammeter A1 and A2 (if
-any).
-B
-A
-C
-A1
-+
-–
-4
-+
-–
-
-8V
-8
-
-–
-
-A2
-
-+
-
-8
-
-[ 337
-
-ELECTRICITY
-
-Ans. (i) Effective resistance of two 8W resistors
-1
-1 1 2
-= + =
-R
-8
-8 8
-			
-
-Ans. (i)
-
-			
-R = 4Ω
-1
-(ii) Current flowing through the circuit = current
-flowing through 4Ω
-			Equivalent resistance of the circuit = 4Ω + 4Ω
-				
-= 8Ω
-V 8V
-=
-= 1A 1
-Current flowing in the circuit =
-R 8Ω
-		
-(iii) Potential difference across 4Ω = V1 = IR1
-				 = 1A × 4Ω = 4V
-1
-(iv) Power dissipated in 4Ω = P = VI = 4V × 1A
-			
-= 4 watt
-1
-(v) Both A1 and A2 show same reading because current
-remains same in series combination.
-1
-		
-[CBSE Marking Scheme, 2012]
-Q. 15. Two conductors A and B of resistances 5 Ω and
-10 Ω respectively are first joined in parallel and
-then in series. In each case the voltage applied
-is 20 V.
-(i) Draw the circuit diagram to show the combination
-of these conductors in each case.
-(ii) In which combination will the voltage across the
-conductors A and B be the same ?
-(iii) In which arrangement will the current through A
-and B be the same ?
-(iv) Calculate the equivalent resistance for each
-arrangement.
-[Board Term I, Set-45, 2012]
-
-Parallel arrangement
-5
-A
-
-10 
-+
-
-B
-
-–
-
-20V
-Series arrangement
-5 A
-
-+
-
-		
-
-10  B
-
-–
-
-2
-
-20V
-
-(ii) Voltage across A and B will be same in parallel
-arrangement.			
-½
-(iii) Current in A and B will be same in series
-arrangement.			
-½
-(iv) Equivalent resistance in
-		
-(a) Parallel combination Rp
-R1R 2
-5 × 10 10
-=
-=
-=
-R1 + R 2 5 + 10 3
-			
-				= 3·33 W
-1
-		
-(b) Series combination Rs = R1 + R2
-				= 5 + 10
-				= 15 W
-1
-		
-[CBSE Marking Scheme, 2012]
-
 High Order Thinking Skills (HOTS) Questions
 Q. 1. How does the resistance of a wire depend upon its
 radius ?
@@ -54382,433 +45801,17 @@ involves the use of electricity many times. 1+1+1
 [CBSE Marking Scheme, 2015]
 
 Practical Based Questions
-Experiment 1 : (1) To study the dependence of potential difference (V) across a resistor on the current (I)
-passing through it and determine its resistance. Also plot a graph between V and I.
-		
-(2) To determine the equivalent resistance of two resistors when connected in series.
-		
-(3) To determine the equivalent resistance of two resistors when connected in parallel.
-Q. 1. Explain how we connect an ammeter and a
-voltmeter in a circuit while performing experiment
-for studying the dependence of current (I) on
-potential difference (V) across a resistor ?
-[Board Term I, Set-L7ZSVLH, 2016]
 
-		
-= 0.1 A.
-2
-		
-[CBSE Marking Scheme, 2016]
-Q. 3. In a voltmeter there are 20 divisions between the 0
-mark and 0.5 V mark. Calculate the least count of
-the voltmeter. [Board term I, Set-OQKPLGV, 2016]
-
-Ans. Ammeter - in series
-+
-
-A
-
-–
-
-Voltmeter - in parallel
-+
-
-Ans. Range of ammeter AR = 3 ampere.
-No. of divisions in ammeter = 30.
-Range
-3
-∴ Least count of ammeter =
-=
-Total Division
-30
-
-V –
-
-		
-
-1+1
-
-		
-
-[CBSE Marking Scheme, 2016]
-
-Q. 2. A ammeter has a range of 0 – 3 ampere and these
-are 30 divisions on its scale. Calculate the least
-count of the ammeter.
-[Board Term I, Set-1ZHNPNO, 2016]
-
-Ans. Range of voltmeter = 0.5 V
-No. of divisions = 20
-∴ Least count of voltmeter =
-
-		
-		
-
-=
-
-Range
-Total Division
-
-0.5
-= .025 V.
-20
-
-2
-
-[CBSE Marking Scheme, 2016]
-
-340 ]
-
-Oswaal CBSE Question Bank, SCIENCE, Class – 10
-
-Q. 4. To verify ohm’s law a student drew graph between
-electric current (I) and potential difference (V)
-across a resistor.
-[Board Term I, Set-WDCXXOV, 2016]
-Y
-
-A
-B
-
-P
-B
-
-C
-
-V (Volt)
-
-D
-
-Fill in the blanks :
-(i) From graph we calculate current by side ............
-and potential difference by side ................... .
-(ii) From graph we calculate resistance by ............. .
-Ans. (i) Side AC
-Side BC
-(ii) Slope
-[CBSE Marking Scheme, 2016] 1+1
-Q. 5. To verify Ohm’s law a circuit diagram was drawn
-by a student as shown below. What do K, L, M, N
-stand for ?
-[Board Term I, Set-A85V2IL, 2015]
-
-–
-
-K
-M
-
-L
-
-+
-–
-
-+
-
-( )
-
-N
-
-Ans. K = Voltmeter, L = Rheostat, M = Ammeter,
-N = Key
-½+½+½+½
-[CBSE Marking Scheme,2015]
-Q. 6. The current flowing through a conductor and the
-potential difference across its ends are as per the
-readings of ammeter and voltmeter shown below.
-The resistance of the conductor would be _____
-200
-150
-
-4
-
-250
-
-100
-
-300
-
-50
-
-350
-
-0
-
-5
-
-3
-
-400
-
-Ans. A, B and C are incorrect. D is correct.
-Reason : Negative terminal of each cell should
-connect to the positive terminal of the next cell or
-positive terminal of each cell should connect to the
-negative terminal of the next cell.
-1+1
-Q. 8. If the applied voltage (V) across both the resistors
-R1 and R2 is same but R1 > R2, then what would be
-true about ammeter readings A1 and A2 ?
-R1
-
-A1
-
-Ans. A1 < A2.
-Reason : In parallel combination, current depends
-on resistance, I ∝ 1/R i.e., more will be the resistance,
-less is the current.
-1+1
-Q. 9. The correct voltmeter and ammeter connections,
-in an experiment to find the equivalent resistance
-when two resistors are connected in parallel is
-shown in ______.
-
-()
-
-+
-V
--
-
-+
-A
--
-
-6
-7
-8
-
-1
-
-10
-
-+
-R1
-
--
-
-A
-
-R2
-(I)
--
-
-+
-
-+
-- R1
-
-R2
-
-9
-
-0
-
-V
-
-R2
-
-R1
-
-+
-
-2
-
-A2
-
-R2
-
--
-
-V
-
-+A (II)
--
-
-+
-A
--
-
-R1
-
-+
-
-R2
-
-+
-(III)
-
-290 mA
-
-5.8 V
-
-5.8 V
-58×1000
-V
-Ans. Resistance (R) =
-=
-A=
-I 290×10 -3
-290×10
-		
-⇒
-R = 20 W.
-2
-Q. 7. Four students connect 4 cells of 1.5V each to get
-a battery of voltage 6V. Connections of which
-student is incorrect ?
-
-()
-
-X
-
-I (mA)
-
-()
-
-O
-
-C
-
-()
-
-A
-
-V
-(IV)
-
--
-
-Ans. Diagram IV is correct.
-Reason : In a circuit, voltmeter should be connected
-in parallel and ammeter should be connected in
-series.
-1+1
 Q. 10. If two resistors of value R are connected in series
 and then in parallel, what is the difference in
 equivalent resistance in both cases ?
-3R
 Ans. (a)
-2
-
-[ 341
+3R/2
 
 ELECTRICITY
 
 Equivalent resistance in series (Rs) = R + R = 2R
 Equivalent resistance in parallel, (Rp),
-1 1
-1
-= +
-R R
-Rp
-			
-2
-1
-=
-R
-Rp
-			
-\
-		
-
-Rp =
-
-\
-
-R
-2
-
-4R - R
-3R
-=
-2
-2
-
-R3
-R1
-
-B
-
-Ans. Figure I and IV have series combinations only.
-Resistance are placed between terminal A and B
-only.
-1+1
-Q. 12. Which of these represent relation between voltage
-(V) and current (I) ?
-
-A
-
-B
-
-V
-I
-
-B
-
-R2
-
-V
-R4
-
-B
-
-(III)
-
-I
-D
-
-C
-
-R3
-
-R1
-
-A
-
-V
-
-R2
-
-A
-
-R2
-
-R3
-
-1+1
-				
-Q. 11. Identify the series combination in the following
-circuit.
-R1
-(I) A
-
-(II)
-
-(IV)
-
-R
-2
-
-Rs – Rp = 2R –
-=
-
-R1
-
-V
-
-I
-Ans. Figure B. It verifies Ohm’s Law.
-
-I
-1+1
-
-R2
-
-A
-
-B
-R3
-
-R4
 
 Know the Links
  physicsadda.blogspot.com
@@ -55121,8 +46124,7 @@ conductor placed in a magnetic field is the
 maximum when conductor is kept perpendicular to
 the direction of the magnetic field.
 1
-Q.
-10.
+Q. 10.
 List
 two
 sources
@@ -56588,8 +47590,7 @@ Q. 15. In domestic electric circuit, with which wire do
 we connect a fuse ? [Board Term I, Set-37, 2012]
 Ans. Live wire.
 [CBSE Marking Scheme, 2012] 1
-Q.
-16.
+Q. 16.
 What
 is
 the
@@ -58752,8 +49753,7 @@ Ans. Black surfaces absorb more heat as compared to
 white surfaces. Therefore, for making solar cookers,
 black surfaces are used.
 1
-Q.
-14.
+Q. 14.
 Which
 country
 is

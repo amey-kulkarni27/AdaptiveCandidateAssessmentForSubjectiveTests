@@ -1,14 +1,15 @@
 ,questions,answers
-0,Q. 1. Define the SI unit of potential difference.  R= ρ (1 mark each) l l =ρ = ( decreases) 4 × 4 A 16,Ans. If amount of work done in bringing a one coulomb charge from one point to the other is 1 joule then potential difference between two points is said to be 1 volt. 
+0,Q. 1. Define the SI unit of potential difference. ,Ans. If amount of work done in bringing a one coulomb charge from one point to the other is 1 joule then potential difference between two points is said to be 1 volt. 
 1,"Q. 2. What is meant by potential difference between two points ? [Board Term I, Set (21) 2011]",Ans. Potential difference between two points in an electric field is the amount of work done to move a unit charge from one point to other.
 2,Q. 3. Name the device that helps to maintain a potential difference across a conductor. ,Ans. A battery is used to maintain potential difference across a conductor.
 3,"Q. 4. Name the physical quantity which is same in all the resistors when they are connected in series. [Board Term I, Set (42) 2011]",Ans. Electric current.
 4,"Q. 5. State the relationship between 1 ampere and 1 coulomb. [Board Term I, Set (36), 2011] 1 coulomb",Ans. 1 ampere = 1 second
-5,"Q. 6. State in brief the meaning of an electric circuit. the potential difference across its two ends is decreased to half of its former value. State the change that will occur in the current through it. [Board Term I, Set (40), 2011]",Ans. A closed conducting path through which electric charge may flow.
+5,"Q. 6. State in brief the meaning of an electric circuit. [Board Term I, Set (34); 2010 (C2), 2011]",Ans. A closed conducting path through which electric charge may flow.
 6,"Q. 7. Name the physical quantity whose unit is volt/ ampere. [Board Term I, Set (15) 2011]",Ans. Resistance.
 7,Q. 8. A charge of 150 coulomb flows through a wire in one minute. Find the electric current flowing through it. ,Ans. Charge (Q) = 150 coulomb Time (t) = 1 minute = 60 sec. Current (I) = ? I= t = 2.5 Amp.
 8,"Q. 9. A given length of a wire is doubled of itself and this process is repeated once again. By what factor does the resistance of the wire changes ? [Board Term I, Set (16), 2011]","Ans. At temperature T1, because its slope is greater."
 9,"Q. 11. Through which of the two wires, the electric current will flow more easily ? (i) a thick wire or (ii) a thin wire of the same material, and of the same length when connected to the same source ? [Board Term I, Set (32), 2011]",Ans. A thick wire.
-10,"Q. 13. What happens to the resistance of a conductor when its area of cross-section is increased ? [Board Term I, Set (29), 2011]",Ans. Resistance is decreased.
-11,Q. 14. Calculate the number of electrons constituting,Ans. one coulomb of charge. (Charge on 1 electron = 1·6 × 10–19 C)  q = 6.25 × 10 -18 C ½ + ½ n= = e 1.6 × 10 −19
-12,"Q. 15. 400 J of heat is produced in 4 s in a 4 W resistor. Find potential difference across the resistor. [Board Term I, Set (17), 2011]",Ans. 		or 		or V2 = 400 V = 20 Volt.
+10,"Q. 12. The resistance of a resistor is kept constant and the potential difference across its two ends is decreased to half of its former value. State the change that will occur in the current through it. [Board Term I, Set (40), 2011]",Ans. Current will be half of its former value.
+11,"Q. 13. What happens to the resistance of a conductor when its area of cross-section is increased ? [Board Term I, Set (29), 2011]",Ans. Resistance is decreased.
+12,Q. 14. Calculate the number of electrons constituting,Ans. one coulomb of charge. (Charge on 1 electron = 1·6 × 10–19 C)  q = 6.25 × 10 -18 C ½ + ½ n= = e 1.6 × 10 −19
+13,"Q. 15. State in brief the meaning of a variable resistor. Draw a circuit diagram to illustrate its function specially in the study of variation in current with the potential difference across a resistor. [Board Term I, Set (38), 2011]",Ans. A device to regulate current without changing the voltage source in an electric circuit is called a variable resistor or a rheostat.
