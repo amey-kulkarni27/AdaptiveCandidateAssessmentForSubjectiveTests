@@ -7,7 +7,6 @@ def rem_q(s):
     if s == None:
         print("YES")
         return ""
-    print("NO")
     s = re.sub(r'Q\. \d+\. ', '', s)
     return s
 
@@ -15,7 +14,6 @@ def rem_a(s):
     if s == None:
         print("YES")
         return ""
-    print("NO")
     s = re.sub(r'Ans\. ', '', s)
     return s
 
@@ -23,7 +21,6 @@ def clean(s):
     if s == None:
         print("YES")
         return ""
-    print("NO")
     s = re.sub(r'\([^)]*\)', '', s)
     s = re.sub(r'\[[^)]*\]', '', s)
     s = re.sub(r'\d marks each', '', s)
@@ -31,7 +28,7 @@ def clean(s):
     s = re.sub(r'\d.\d=\d', "", s)
     return s
 
-folder = "10_1/"
+folder = "10_2/"
 for topic in os.listdir(folder):
     for filename in os.listdir(folder + topic + "/"):
         if filename.endswith(".csv"):
