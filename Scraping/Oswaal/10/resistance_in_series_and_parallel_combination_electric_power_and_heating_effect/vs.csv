@@ -1,13 +1,13 @@
-,questions,answers
-0,Q. 1. Write SI unit of resistivity. ,Ans. Ohm metre (Wm).
-1,"Q. 2. What is commercial unit of energy ? [Board Term I, Set (23), 2011]",Ans. Kilowatt hour or kWh.
-2,Q. 3. What is electric power ? State its SI unit. ,Ans. Rate at which energy is consumed is called electric power. Its unit is watt.
-3,Q. 4. Name the instrument used for measuring : (i) Potential difference (ii) Current. ,Ans. (i) Voltmeter (ii) Ammeter.
-4,Q. 5. On what principle is an electric bulb based ?,Ans. Heating effect of current. 
-5,Q. 6. Mention one reason why tungsten is exclusively used for making filaments of electric lamps. ,"Ans. Tungsten has a high resistivity and a high melting point. So, most of the power consumed by this, is dissipated in the form of heat."
-6,Q. 7. How is an ammeter connected in a circuit to measure the current flowing through it ? ,Ans. In series.
-7,Q. 8. What determines the rate at which energy is delivered by a current ? ,Ans. Electric power determines the rate at which energy is delivered by a current.
-8,Q. 9. In a circuit if two resistors of 5 W and 10 W are connected in series. Compare the current passing through the two resistors. ,"Ans. In a series connection of resistors, same current passes through all the resistors. Hence, current will be same. Ratio of the current will be 1 : 1."
-9,Q. 10. Why are coils of electric toasters and electric irons made of alloy rather than pure metals ? ,Ans. Alloys are preferred to make coils of toasters and irons because they have higher resistivity and do not oxidise easily at high temperature.
-10,"Q. 11. Find the minimum resistance that can be made using five resistors, each of 5Ω. ","Ans. By connecting resistors in parallel, resistance 1Ω is obtained R 5Ω Req = = 1Ω n"
-11,"Q. 13. Which is having more resistance—a 220 V, 100 W bulb or a 220 V, 60 W bulb. ","Ans. 60 W bulb, because R ∝ 1 ·"
+questions,answers
+Write SI unit of resistivity. ,Ohm metre (Wm).
+"What is commercial unit of energy ? [Board Term I, Set (23), 2011]",Kilowatt hour or kWh.
+What is electric power ? State its SI unit. ,Rate at which energy is consumed is called electric power. Its unit is watt.
+Name the instrument used for measuring : (i) Potential difference (ii) Current. ,(i) Voltmeter (ii) Ammeter.
+On what principle is an electric bulb based ?,Heating effect of current. 
+Mention one reason why tungsten is exclusively used for making filaments of electric lamps. ,"Tungsten has a high resistivity and a high melting point. So, most of the power consumed by this, is dissipated in the form of heat."
+How is an ammeter connected in a circuit to measure the current flowing through it ? ,In series.
+What determines the rate at which energy is delivered by a current ? ,Electric power determines the rate at which energy is delivered by a current.
+In a circuit if two resistors of 5 W and 10 W are connected in series. Compare the current passing through the two resistors. ,"In a series connection of resistors, same current passes through all the resistors. Hence, current will be same. Ratio of the current will be 1 : 1."
+Why are coils of electric toasters and electric irons made of alloy rather than pure metals ? ,Alloys are preferred to make coils of toasters and irons because they have higher resistivity and do not oxidise easily at high temperature.
+"Find the minimum resistance that can be made using five resistors, each of 5Ω. ","By connecting resistors in parallel, resistance 1Ω is obtained R 5Ω Req = = 1Ω n"
+"Which is having more resistance—a 220 V, 100 W bulb or a 220 V, 60 W bulb. ","60 W bulb, because R ∝ 1 ·"
