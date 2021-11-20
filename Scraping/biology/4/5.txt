@@ -1,109 +1,109 @@
 Very Short Answer Type Questions
-Q.1. Define the term poikilotherms.
+Q. 1. Define the term poikilotherms.
 Ans. The cold blooded animals which change their body temperature according to the
 surroundings (do not possess a constant body temperature) are known as poikilotherms.
 They are also called cold blooded or ectothermic animals.
-Q.2. What are radiata ?
+Q. 2. What are radiata ?
 Ans. Radiata are animals having radial symmetry of their bodies.
-Q.3. What is open type circulatory system ?
+Q. 3. What is open type circulatory system ?
 Ans. A circulatory system in which the blood is not confined into blood vessels and bathes
 the cells as well as tissues is known as open type circulatory system.
-Q.4. Write a technical term for an animal having true body cavity.
+Q. 4. Write a technical term for an animal having true body cavity.
 Ans. Coelomate are animals having true body cavity.
-Q.5. What are bilateria ?
+Q. 5. What are bilateria ?
 Ans. Animals with bilateral symmetry are called bilateria.
-Q.6. What is metamerism?
+Q. 6. What is metamerism?
 Ans. In some animals the body is externally and internally divided into segments with a serial
 repetition of at least some organs E.g. Earthworm, Neries etc.
-Q.7. Name the special cells characteristics of coelenterates.
+Q. 7. Name the special cells characteristics of coelenterates.
 Ans. Nematoblast or nematocysts.
-Q.8. Name a sanguivorous annelid.
+Q. 8. Name a sanguivorous annelid.
 Ans. Hirudinaria ganulosa (Cattle leech).
-Q.9. What organs do echinoderms have for respiration and locomotion ?
+Q. 9. What organs do echinoderms have for respiration and locomotion ?
 Ans. Dermal branchiae for respiration and tube feet for locomotion.
-Q.10. Which sponge is used as a marriage gift?
+Q. 10. Which sponge is used as a marriage gift?
 Ans. Euplectella (the venus's flower basket).
 Q11. What prevents the blood from clotting while the leech is feeding ?
 Ans. An anti-coagulant hirudin from salivary glands of leech.
-Q.12. Name the toxin found in the cnidoblast of coelenterates.
+Q. 12. Name the toxin found in the cnidoblast of coelenterates.
 Ans. The toxin is hypnotoxin.
 
-Q.13. Name the larva found in mollusca and annelids.
+Q. 13. Name the larva found in mollusca and annelids.
 Ans. Trochophore larva.
-Q.14. What do you understand by hermaphrodite ?
+Q. 14. What do you understand by hermaphrodite ?
 Ans. Animals having both male and female reproductive organs in a single individual are
 called hermaphrodite.
-Q.15. What is polymorphism ?
+Q. 15. What is polymorphism ?
 Ans. The phenomenon where an organism have different kinds of zooids for different
 functions is called polymorphism e.g., cnidarians.
-Q.16. What are benthos ?
+Q. 16. What are benthos ?
 Ans. Animals that live at the bottom of sea, oceans and lakes are called benthos. E.g.,
 echinoderms.
-Q.17. What are worm castings ?
+Q. 17. What are worm castings ?
 Ans. Compacted pellets of faeces of earthworm laid as heaps are called worm castings.
-Q.18. What is mantle ?
+Q. 18. What is mantle ?
 Ans. Mantle is a membranous projection of bodv whose edge secretes a shell of calcium
 carbonate to form a covering of body wall.
-Q.19. Name the type of mouth part found in Cockroach and Mosquito.
+Q. 19. Name the type of mouth part found in Cockroach and Mosquito.
 Ans. (i) Cockroach - Biting and chewing type.
 (ii) Mosquito - Piercing and sucking type. ½ + ½
-Q.20. What are choanocytes ?
+Q. 20. What are choanocytes ?
 Ans. Collar cells that lines spongocoel and other canals in sponges, are called choanocytes.
-Q.21. what are flame cells ?
+Q. 21. what are flame cells ?
 Ans. Flame cells are the excretory organs of Platyhelminthes and related animals which
 possess flickering cilia or flagella for driving the excretory products.
-Q.22. What is radula ?
+Q. 22. What is radula ?
 Ans. Radula is a teeth like structure found in the buccal cavity of snail.
-Q.23. Why do parasitic tapeworms not have digestive tracts ?
+Q. 23. Why do parasitic tapeworms not have digestive tracts ?
 Ans. parasitic tapeworm lacks alimentary canal because the digested food of the host is
 diffused directly through the general body surface.
-Q.24. What are green glands ?
+Q. 24. What are green glands ?
 Ans. Excretory organs of phylum Arthropoda are called green glands.
 
-Q.25. Name two adaptations for an aerial mode of life.
+Q. 25. Name two adaptations for an aerial mode of life.
 Ans. (i) Fore legs modified into wings.
 (ii) Uricotelic excretion and pneumatic bone. e.g., bird, crow, sparrow etc.
-Q.26. Why do the fishes belonging to class chondrichthyes have to swim constantly?
+Q. 26. Why do the fishes belonging to class chondrichthyes have to swim constantly?
 Ans. Air bladder is absent in these fishes therefore, they have to swim constantly to avoid
 sinking.
-Q.27. Name the two classes of vertebrates whose heart is four – chambered?
+Q. 27. Name the two classes of vertebrates whose heart is four – chambered?
 Ans. Aves and Mammalia.
-Q.28. What unique features do mammals possess?
+Q. 28. What unique features do mammals possess?
 Ans. The unique features of mammals are presence of mammary glands and hairs on the
 skin.
-Q.29. Give an example of urochordata and cephalochordata ?
+Q. 29. Give an example of urochordata and cephalochordata ?
 Ans. Doliolum and Branchiostoma.
-Q.30. What is the function of lateral line sense organs in fishes?
+Q. 30. What is the function of lateral line sense organs in fishes?
 Ans. The lateral line sense organs in fishes helps in detection of current and waves in water.
-Q.31. Define pneumatic bones.
+Q. 31. Define pneumatic bones.
 Ans. A bone that is hollow or contains many air cells.
-Q.32. Give one difference between cartilaginous and bony fishes.
+Q. 32. Give one difference between cartilaginous and bony fishes.
 Ans. In cartilaginous fishes endoskeleton is made up of cartilages, while in bony fishes it is
 made up of bones.
-Q.33. What is aestivation ?
+Q. 33. What is aestivation ?
 Ans. Aestivation is a state of animal dormancy characterized by inactivity and a lowered
 metabolic rate, in response to high temperature and arid conditions.
-Q.34. Name a fish which has lungs in addition to gills.
+Q. 34. Name a fish which has lungs in addition to gills.
 Ans. Protopterus commonly called as lung fish.
-Q.35. What is the sound producing organs of the birds ?
+Q. 35. What is the sound producing organs of the birds ?
 Ans. Syrinx is the sound producing organs of the birds.
-Q.36. Name two flightless birds.
+Q. 36. Name two flightless birds.
 Ans. Ostrich, Emu, Kiwi and Penguin.
 
 (Any two)
 
-Q.37. What is notochord?
+Q. 37. What is notochord?
 Ans. Notochord is a solid, cylindrical, rod like structure formed of vacuolated cells present in
 the mid dorsal body axis of the chordates.
 
-Q.38. Name two division of vertebrata.
+Q. 38. Name two division of vertebrata.
 Ans. (i) Agatha
 
 (ii) Gnathostomata
 
-Q.39. Name any two poisonous snake.
+Q. 39. Name any two poisonous snake.
 Ans. Cobra and Krait.
-Q.40. Distinguish between Viviparous and Oviparous animals.
+Q. 40. Distinguish between Viviparous and Oviparous animals.
 Ans. Viviparous are animals which give birth to young ones of their own kind. e.g., Mammals.
 Oviparous are animals which lay eggs e.g., Reptiles, birds etc.
 

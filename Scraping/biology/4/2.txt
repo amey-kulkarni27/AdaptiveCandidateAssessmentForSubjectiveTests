@@ -1,5 +1,5 @@
 Short Answer Type Questions-II
-Q.1. Which symmetry is most common in animals? Define it.?
+Q. 1. Which symmetry is most common in animals? Define it.?
 
 [Most Imp.]
 
@@ -7,13 +7,13 @@ Ans. Bilateral symmetry.
 In bilateral type of symmetry, the body can be divided into two equal halves by a single plane
 only because the important body organs are paired and occur on the two sides of a central
 axis.
-Q.2. Define germinal layers.
+Q. 2. Define germinal layers.
 Ans. (i) Germinal or germ layers are primary layers of cell which differentiate in developing
 embryo and from which various tissues and organs of the animal body develop.
 (ii) A maximum of three germinal layers are found in embryo. They are ectoderm, mesoderm
 and endoderm. Out of these, mesoderm is the last to develop in between ectoderm and
 endoderm.
-Q.3. What is metamerism ? Differentiate between metameric and non metameric
+Q. 3. What is metamerism ? Differentiate between metameric and non metameric
 segmentation ?
 [DDE Practice Paper]
 Ans. Segmentation of external and internal body into linear sequence of segments (repetition
@@ -22,7 +22,7 @@ Metameric Segmentation: External segmentation correspond to internal segmentatio
 Earthworm.
 Non-metameric Segmentation : External segmentation do not correspond internal
 segmentation, e.g. Platyhelminthes.
-Q.4. What are the peculiar features that you find in parasitic platyhelminthes ?
+Q. 4. What are the peculiar features that you find in parasitic platyhelminthes ?
 Ans. The main features of platyhelminthes are given below :
 (i) They have dorso-ventraly flattened body, hence are called flatworms.
 (ii) Hooks and suckers are present, which absorb nutrients from the host directly through their
@@ -30,13 +30,13 @@ body surface.
 (iii) Flame cells are present, which helps in osmoregulation and excretion.
 (iv) Some members like Planaria possess high regeneration capacity.
 (v) Example : Tapeworm, Liver fluke etc.
-Q.5. What are corals and coral reefs ?
+Q. 5. What are corals and coral reefs ?
 Ans. Corals are minute cnidarians, which secrete deposits of lime and calcium carbonate.
 Coral reefs : In many coral species, new living corals develop over the old dead corals giving
 rise to coral reefs and island. The coral reefs provide a comfortable living place for a variety of
 animal species. They form stable marine ecosystems.
 
-Q.6. Write short notes on:
+Q. 6. Write short notes on:
 (i) Malphigian tubules
 (ii) Medusa
 (iii) Flame cells
@@ -46,7 +46,7 @@ Ans. (i) Malphigian tubules : These are excretory organs in insects and cockroac
 (iii) Flame cells: They are excretory organs of Fasciola and Taenia.
 (iv) Cephalothorax : Head and thorax fuse to form cephalothorax in some arthropods. It
 bears antennae, antennules, eyes, maxillipeds and legs.
-Q.7. Differentiate between male and female Ascaris. [V. Imp.]
+Q. 7. Differentiate between male and female Ascaris. [V. Imp.]
 Ans.
 S.No.
 (i)
@@ -75,7 +75,7 @@ No pineal spicules.
 
 There are no such structure.
 
-Q.8. Members of which phylum are known as "the segmented worms" ? Name the
+Q. 8. Members of which phylum are known as "the segmented worms" ? Name the
 excretory units of these organisms. Write about their body symmetry and mode of
 respiration also.
 Ans. The members of phylum Annelida are known as the segmented worms". Their body is
@@ -86,7 +86,7 @@ Body Symmetry: Segmented worms have the typical metameric segmentation. Their bo
 consists of segments called somites or metameres and ring like grooves known as annuli.
 They have bilateral symmetry.
 Respiration : Respiration in annelids occurs by the skin. In some, gills are present.
-Q.9. Give important characters of Phylum Aschelminthes.
+Q. 9. Give important characters of Phylum Aschelminthes.
 Ans. Phylum Aschelminthes:
 (i) Commonly known as round worms or nematodes and covered by cuticle.
 
@@ -97,7 +97,7 @@ Ans. Phylum Aschelminthes:
 (vi) Respiratory organs and blood vascular systems are absent.
 Example : Ascaris (Round worm), Oxyuris (Pin worm), Ancylostoma (Hook worm),
 Enterobius, and Rhabditis etc.
-Q.10. (i) Name any two phyla which have parasitic members.
+Q. 10. (i) Name any two phyla which have parasitic members.
 (ii) What is bioluminescence? Give an example.
 [KVS 2016]
 Ans. (i) Two phyla which have parasitic members are:
@@ -105,7 +105,7 @@ Ans. (i) Two phyla which have parasitic members are:
 (b) Achelminthes : The Round worms.
 (ii) Bioluminiscence is the production and emission of light by a living organisms. It is a form of
 chemiluminescence .e.g. Noctiluca, Gonyaulax.
-Q.11. (i) How important is the presence of air bladder in class Osteichthyes ?
+Q. 11. (i) How important is the presence of air bladder in class Osteichthyes ?
 (ii) Expand ICZN.
 [KVS 2016]
 Ans. (i) Class osteichthyes (Bony fishes) have a sac-like outgrowth, called air bladder, arising
@@ -113,7 +113,7 @@ from the dorsal wall of the oesophagus. It is air filled organ, used to maintain
 swim up and down. It also enables the fish to stay at particular depth without spending
 energy.
 (ii) International Code of Zoological Nomenclature.
-Q.12. How are the animals of Arthropoda different from those of Mollusca?
+Q. 12. How are the animals of Arthropoda different from those of Mollusca?
 2017]
 
 [KVS
@@ -151,7 +151,7 @@ They have distinct foot for moving around.
 Excretion occurs through nephridia.
 Respiration occurs through gills.
 
-Q.13. Write two difference between cartilaginous and bony fishes. [DDE Practice
+Q. 13. Write two difference between cartilaginous and bony fishes. [DDE Practice
 Paper]
 OR
 Write three iamportant features of cartilaginous fish and bony fish. Also give one
@@ -175,7 +175,7 @@ Tail fin is homocercal.
 
 e.g. Labeo, catla
 
-Q.14. Enumerate the peculiar features that you find in phylum Chordata.
+Q. 14. Enumerate the peculiar features that you find in phylum Chordata.
 Practice Paper]
 
 [DDE
@@ -185,7 +185,7 @@ Ans. features of Chordates are as follows :
 (ii) A hollow tube like structure called dorsal nerve cord is present.
 (iii) Pharynx perforated by gill slits.
 (iv) Post-anal tail is present.
-Q.15. Write the main characteristics of Chondrichthyes.
+Q. 15. Write the main characteristics of Chondrichthyes.
 Ans. Class-Chondrichthyes :
 (i) Chondrichthyes are exclusively marine fishes.
 (ii) They have cartilaginous endoskeleton. Their body is streamlined.
@@ -194,7 +194,7 @@ Ans. Class-Chondrichthyes :
 (v) Pelvic fins bear claspers in males.
 (vi) Skin is tough. It has minute placoid scales.
 (vii) Animals are predatory. They have powerful jaws with teeth e.g., sharks, rays, skates etc.
-Q.16. which features make reptiles successful on land ?
+Q. 16. which features make reptiles successful on land ?
 Ans. Four features that make reptiles true land animals are :
 (i) The amnion (embryonic membrane) encloses the embryo and provides it with a watery
 environment during development, therefore, the embryo does not need watery environment.
@@ -202,13 +202,13 @@ environment during development, therefore, the embryo does not need watery envir
 (ii) Internal fertilization.
 (iii) Shell around the egg to check desiccation.
 (iv) Horny scales on the body of reptiles check loss of water.
-Q.17.Give three basic chordate characters.
+Q. 17.Give three basic chordate characters.
 Ans. Chief characteristics of the phylum are :
 (i) Notochord : A dorsal solid notochord is present throughout life or in larval stages.
 (ii) Nerve cord : A dorsal hallow nerve cord is present.
 (iii) Pharyngeal gill slits : A perforated pharynx is present in young condition or throughout
 life.
-Q.18. Distinguish between a whale and a fish.
+Q. 18. Distinguish between a whale and a fish.
 Ans.
 S.No.
 (i)
@@ -241,7 +241,7 @@ Mammary glands are absent in them.
 Limbs absent. For locomotion, the fins
 are present.
 
-Q.19. Distinguish between the following by giving one main point :
+Q. 19. Distinguish between the following by giving one main point :
 (i) Worm and Snake.
 (ii) Bony fishes and Cartilaginous fishes.
 (iii) Ovipary and Vivipary.
@@ -282,7 +282,7 @@ Vivipary
 A phenomenon of producing young
 ones e.g., Eutheria.
 
-Q.20. Mention the behaviour that birds exhibit.
+Q. 20. Mention the behaviour that birds exhibit.
 Ans. The birds exhibit following behaviour :
 (i) They produce peculiar sound and communicate with each other by song and bird calls.
 (ii) Several species exhibit courtship in the form of mating dance.
@@ -291,7 +291,7 @@ e g, Male weaver and Tailor bird.
 (iv) Most of the birds show parental care. The parent guard and sit on the eggs till they are
 hatch and look after their young ones till they get independent.
 (v) Bird migration is another surprising behaviour.
-Q.21. Difference between turtle and tortoise.
+Q. 21. Difference between turtle and tortoise.
 
 (Any three)
 [Most Imp.]
