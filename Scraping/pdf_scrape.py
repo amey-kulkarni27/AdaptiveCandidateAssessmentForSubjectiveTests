@@ -29,3 +29,8 @@ pg_num2 = re.compile("\d+ \]")
 textfile = open('S_10.txt', 'r')
 lines = textfile.readlines()
 ctr = 0
+
+folder = "biology/"
+for chapter in os.listdir(folder):
+    for filename in os.listdir(folder + chapter + "/"):
+        fpath = folder + chapter + "/" + filename

@@ -1,0 +1,66 @@
+High Order Thinking Skills (HOTS) Question
+Q.1. What makes smaller cells metabolically more active?
+Ans. Metabolically active cells are usually smaller due to higher nucleo-cytoplasmic ratio.
+The former will allow the nucleus to have better of metabolic activities while the latter will
+allow quicker exchange of materials between the cell.
+Q. 2. Write about cellular autonomy in unicellular organisms.
+Ans. (i) The cell has complete independent existence.
+(ii) All life activities are carried out by the same cell.
+(iii) Division of labour is absent.
+(iv) The cell depends upon its own internal and intrinsic information.
+Q.3. What are the facts which prove that all cells are autonomous?
+Ans. All cells are autonomous because of the following facts:
+(i) Each and every cell converts non-living materials into components of living matter.
+(ii) Each cell builds up its own macromolecules from micromolecules.
+(iii) All cells obtain or manufacture food.
+(iv) A cell is always building a new structure to
+Q. 4. What are the factors which set the limit of cell size?
+Ans. The factors which set the limit of cell size or volume are:
+(i) Nucleo-cytoplasmic ratio which determines the range of control of metabolic activities by
+nucleus.
+(ii) Ability of oxygen and other materials to reach every part of cell.
+(iii) Ability of waste products to pass to the outside.
+(iv) Rate of metabolic activity.
+(v) Rate of surface area to the volume of the cell.
+Q. 5. What is cytoplasmic streaming? How many types of streaming are there?
+Ans. The autonomic movement of the matrix of cytoplasm of eukaryotic cells is called
+cytoplasmic or protoplasmic streaming or cyclosis. These are of two types : (i) Rotation, (ii)
+Circulation. In rotation, the cytoplasmic matrix moves in one direction around a central
+vacuole. In circulation, the matrix moves in different directions around different vacuoles of
+the cell.
+
+Q.6. What are the shortcomings of Schleiden and Schwann theory? Who modified it and
+how?
+Ans. They did not explain the rise of new cells. Rudolph Virchow modified it and stated that
+cells arise from the pre-existing cells.
+Q. 7. A student collected water sample from water body and took it to the bio lab. There
+he observed that it had microorganisms in it. He observed one organism with small
+extension whole over the body and one organism with few long extension over the
+body. According to above information what extensions are these and explain about it.
+Ans. Short extensions are cilia; long extensions are flagella. Cilia are short and numerous.
+Hair like cilia beat like tiny oars or pedals. Flagella are much longer, fewer and bring about
+whip-like lashing movement.
+Q. 8. What do you understand by cellular totipotency? Where it is used?
+Ans. Cellular totipotency is the ability of a living somatic nucleated cell to form the complete
+organism.
+All somatic cells should be totipotent since they carry the full gene complement of the
+individual.
+Cellular totipotency is being extensively used in:
+(i) Rapid multiplication of desired plant.
+(ii) Embryo which fail to reach maturity.
+(iii) Multiplication of sterile hybrids.
+(iv) Production of virus free plants.
+(v) Multiplication of products of protoplast fusion.
+(vi) Induction and selection o f mutants.
+(vii) Development of resistance to chemicals like weedicides.
+
+Q. 9. Why nucleolus is larger in actively working cell?
+Ans. Nucleolus are involved in actively synthesizing RNA that ultimately results in protein
+formation.
+Q.10. A student got injured someday. He took the medicine from the doctor and got
+cured. He wonders that how medicine got to know where to act. He asks doctor about
+the reason. What could be the possible reason according to you?
+Ans. Every cell membrane has some receptor over it, which perceives the drugs and this
+stimulate cascade effects in cell and disease is cured.
+
+

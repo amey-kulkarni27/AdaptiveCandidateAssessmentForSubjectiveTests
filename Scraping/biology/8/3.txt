@@ -1,0 +1,198 @@
+Long Answer Type Question
+Q. 1. Discuss the modern concept of cell theory.
+
+[NCT-2008, 09]
+
+Ans. Modern cell theory is also known as cell doctrine or cell principle. This theory states
+that: (i) The bodies of all living beings are made up of cells and their products. (ii) Cells are
+the structural and functional units of living organisms. (iii) Life exists only in cells because all
+the activities of life are performed by cells. (iv) Each cell maintains its individuality. It has a
+specific internal environment and homeostasis. (v) Growth of an organism involves the
+growth and multiplication of its cell. New cells arise from pre-existing cells through division.
+Q. 2. Describe the structure of cell wall.
+Ans. The cell wall is differentiated into three parts middle lamella, primary wall and
+secondary wall.
+(i) Middle lamella: (i) It is a thin amorphous cementing layer between two adjacent cells.
+(ii) It is the first layer, which is deposited at the time of cytokinesis.
+(iii) It is composed of calcium and magnesium pectate.
+(ii) primary wall: (i) It is thin, elastic and extensible in growing cell.
+(ii) it grows by addition of wall material within the existing one. Such growth is termed as
+intussusception susception.
+(iii) This wall consist of a loose network of cellulose microfibrils.
+(iv) These microfibrils in fungi are made up of a polymer of acetyl glucosamine.
+(v) The matrix of wall is chiefly composed of water, hemicellulose, pectins and glycoproteins.
+(iii) Secondary wall: (i) After maturity, a thick secondary wall is laid inner to the primary wall
+by accretion or deposition of materials. It is found in many layers.
+(ii) A number of different materials may be deposited in the secondary wall, e.g., lignin and
+suberin.
+
+Q. 3. Describe the ultrastructure and main functions of centrioles and basal bodies.
+Ans. Centrioles and Basal Bodies : Centrioles are cylindrical structures. They appear as
+small granules associated with a meiotic spindle during cell division. They occur in all lower
+plants, protozoa and higher animals.
+Ultrastructure: (i) Under the electron microscope, each centriole is seen to be formed of nine
+sets of evenly spaced peripheral fibrils of tubulin protein.
+(ii) Each of these sets is a triplet composed of three microtubules. Each microtubule has a
+𝑜
+diameter of about 250 . The triplets are found in the matrix.
+𝐴
+(iii) Sometimes delicate strands appear to connect sets of the triplets to each other. Also, from
+the central core of the cylinder, delicate strands connect sets of the triplets to each other
+giving a cartwheel appearance.
+(iv) Basal bodies are structures similar to the centrioles. They produce cilia and flagella.
+Functions of Centrioles:
+(i) Centrioles are the self-duplicating bodies. They contain DNA and RNA.
+(ii) The centrioles which give rise to cilia and flagella are known as basal bodies.
+(iii) Out of the two centrioles in the sperm, the distal centriole forms the axial filament.
+
+Functions of Basal bodies:
+(i) Cilia and flagella arise from the basal bodies.
+(ii) Basal bodies are converted into centrioles.
+Q. 4. What are the methods of passage of substances across the cell membrane?
+Ans. The passage of substances across the cell membrane occurs by three methods :
+
+(i) Passive transport: It is a mode of membrane transport which occurs without the
+expenditure of cell energy. Passive transport occurs by diffusion or osmosis. Neutral solutes
+may move across the membrane by the process of simple diffusion along the concentration
+gradient. Osmosis is a special type of diffusion in which only water molecules migrate across
+a semipermeable membrane from the area of high concentration to the area of low
+concentration.
+(ii) Active transport: It is the movement of materials across the membrane against the
+concentration gradient. This often leads to accumulation of substances at a higher
+concentration within the cell than outside. Energy is required for such a process, which is
+usually provided by ATP. There are certain proteins in the membrane, which acts as a carrier
+molecules or carrier proteins. It has a binding site for the substrate. This transports the carrier
+bound substrate to other side of the membrane.
+(iii) Bulk transport: It includes exocytosis and endocytosis, which are the processes for
+active cellular extrusion and intake respectively of such materials that cannot pass through the
+unbroken plasma membrane. Both the processes involve movement and folding of the
+membrane, which depends on its fluidity and mobility.
+Q. 5. Explain the structure of ribosome? Name two organelles of the cytoplasm in
+which they are found.
+Ans. Ribosomes: (i) These are granular organelles which are not enclosed by any
+membrane.
+(ii) These are found either in free state in the cytoplasm or attached to the endoplasmic
+reticulum.
+(iii) The ribosomes found in mitochondrial matrix and chloroplast stroma are of 70S type.
+(iv) Ribosomes are commonly called as cell engines as they are the sites of protein synthesis.
+
+𝑜
+𝑜
+to 250 in
+𝐴
+𝐴
+diameter. Ribosomes are composed of roughly equal amount of protein and RNA.
+(v) under electron microscope, they appear as spherical bodies of about 150
+
+(vi) The ribosomes consist of two unequal sized units arranged on top of each other. The
+eukaryotic cells have large ribosomes than prokaryotic cells.
+(vii) The prokaryotic ribosomes are 70S while the eukaryotic ribosomes are 80S type. 70S
+ribosomes have two sub-units 50S and 30S while 80S ribosome have larger 60S and smaller
+40S subunit.
+Q. 6. What are the three structural elements of endoplasmic reticulum ? Explain in brief.
+Ans. ER is an inner connected system of membrane- bound channels in the cytoplasm of the
+cells. There are three structural elements of ER :
+(i) Cisternae: The cisternae are broad flat membrane bound space arranged parallel to each
+other to form lamellae. e.g., Pancreas and liver cells.
+(ii) Vesicles: The vesicles are spherical spaces (25-500 nm in diameter).
+(iii) Tubules: The tubules are less small and branched tubular spaces found in cells which
+synthesize steroids and are 50-100 nm in diameter.
+
+Q. 7. Describe the ultrastructure of mitochondria with diagram.
+
+[NCT-2007, 08]
+
+Ans. Ultrastructure: (i) A mitochondrion is enclosed by a double membrane envelope, outer
+and inner membrane, which are separated by a narrow fluid filled space called the outer
+compartment or peri-mitochondrial space.
+(ii) The outer membrane is smooth and is permeable to small molecules.
+(iii) The inner membrane is infolded i nto the matrix as incomplete partitions called cristae.
+
+(iv) The cristae bear numerous small tennis racket like particles called elementary particles,
+Fo – F1 particles or oxysomes. Each oxysome has a head, a stalk and a base.
+(v) The enzymes of electron transport are located in the inner membrane in contact with
+elementary particles.
+(vi) The Fo – F1 combination function as ATP synthetase.
+(vii) The matrix possess single circular DNA molecule, a few RNA molecules, 70S type
+ribosomes.
+(viii) Mitochondria was first observed by Kolliker and the name mitochondria was given by C.
+Benda For diagram Refer to SAQ-II, Q.2.
+Q. 8. Describe the ultrastructure and function of Golgi apparatus.
+Ans. Ultrastructure of Golgi apparatus:
+(i) The structure of Golgi apparatus appears to be complex. Under the electron microscope,
+the structure appears as stacks of flattened sacs (cisternae) which are bounded by a
+membrane having a smooth surface.
+(ii) These are often connected with flattened sacs or vesicles of various shape and size.
+Functions of Golgi apparatus :
+(i) Secretion: It has been established that the cells that perform secretory functions have
+well developed Golgi apparatus. The secretion may be in the form of lipids, enzymes,
+hormones, etc.
+(ii) Cell wall formation in plants : In plants, dictyosomes are known to synthesize pectin
+and some carbohydrates necessary for the formation of the cell walls.
+(iv) Acrosome formation: During spermatogenesis, Golgi apparatus forms the acrosome.
+(v) Lysosome formation : It has been established that secretory vesicles or primary
+lysosomes are produced from the sacs of the Glogi apparatus.
+(vi) Membrane transformation: Golgi bodies are also involved in the transformation of one
+type of membrane into another type.
+(vii) Storage, condensation and packaging of the materials: The Golgi bodies are
+involved in storage, condensation, packaging and transfer of materials.
+
+Q. 9. What are plastids? How are they classified?
+Ans. Plastids are semi-autonomous organelles having DNA and double membrane envelope
+which store or synthesize various types of organic compounds.
+Depending upon their colour, plastids are of three types:
+(i) Leucoplast: They are colourless plastids of varied shapes and sizes with stored nutrients
+occurs near the nucleus and possess internal lamellae.
+Leucoplast are of three types: starch containing amyloplast, fats storing elaioplast and
+proteins bearing proteinoplast. Grana and photosynthetic pigments are absent in leucoplast.
+(ii) Chromoplast: These are coloured plastids with reddish and yellow colours because of the
+presence of carotenoid pigments. The pigments are often found in crystallised state so that
+the shape of the plastids can be like needles, spindles or irregular. These provide colour to
+many flowers for attracting pollinating insects. They are also the site of synthesis of
+membrane lipids.
+(iii) Chloroplast: They are green plastids which possess photosynthetic pigments, chlorophyll
+and carotenoids, and take part in the synthesis of food from inorganic raw materials in the
+presence of radiation energy.
+Q. 10. Who proposed the fluid mosaic model of plasma membrane? Describe the fluid
+mosaic model of plasma membrane with the help of labelled diagram.
+[NCT-2010, 11]
+OR
+Describe the composition of cell membrane as suggested by Singer and Nicolson.
+[NCT-2009]
+OR
+Describe the fluid mosaic model of plasma membrane with the help of labelled diagram.
+[NCT-2008]
+Ans. Fluid mosaic model:
+(i) Fluid mosaic model was proposed by Singer and Nicolson.
+
+(ii) According to this model, there is a central lipid bilayer of phospholipids with their polar
+head group towards the outside and the non-polar tails pointing inwards.
+(iij) Some proteins which are embedded in the lipid layer are called integral or intrinsic
+proteins and they cannot be separated from the membrane.
+(iv) There are large globular integral proteins which project beyond the lipid layer on both the
+sides are believed to have channels through which water-soluble materials can pass across.
+(v) Superficially attached proteins are called extrinsic. or peripheral proteins and can be easily
+removed.
+(vi) Some membrane lipids and integral proteins remains bound to oligosaccharides which project
+into the extracellular fluid and influence the manner in which cells interact with one another.
+
+Q. 11. Describe the ultra-structure of a cilium or flagellum.
+OR
+Draw a diagram of cilia to show its different parts.
+Ans. Cilium and flagellum: (i) Cilia and flagella have fundamentally the same structures.
+Each cilium or flagellum consists of eleven microtubules.
+(ii) These microtubules are arranged in two radii. Of these, nine are doublets. These are
+situated at the periphery and the remaining two are single microtubules situated in the centre.
+(iii) The microtubules are enclosed in a cytoplasmic matrix to form an axial filament.
+(iv) The outer tubules are 360
+
+𝑜
+in diameter and are composed of two sub-units.
+𝐴
+
+(v) These are found around the cylinder. The central microtubules are enclosed in a common
+sheath.
+(vi) From the centre arise nine secondary filaments These are connected with tubules of the
+outer doublets.
+
+
