@@ -1,0 +1,22 @@
+High Order Thinking Skills (Hots)
+Q. 1. What is oxygen debt? Explain.
+Ans. (i) The muscles fails to get sufficient oxygen during strenuous exercise to fulfil their
+energy requirements and contracts anaerobically. It accumulates lactic acid produced by
+glycolysis. The oxygen consumption of muscles exceed during recovery, known as oxygen
+debt of the muscle.
+(ii) This oxygen is used in oxidising the accumulated lactic acid aerobically and restoring ATP
+in muscle fibre.
+Q. 2. Why a red muscle fibre works for a prolonged period while a white muscle fibre
+suffers from fatigue after a shorter work?
+Ans. (i) Red muscle fibres are rich in myoglobin and contain large number of mitochondria.
+(ii) Function of myoglobin is to bind and store oxygen and oxymyoglobin.
+(iii) During muscle contraction oxygen is released from the oxymyoglobin.
+(iv) Red muscle fibres produce energy only under aerobic conditions so very less amount of
+lactic acid gets accumulated in the muscle. Hence these muscles can work for a prolonged
+period.
+(v) White muscle fibre, myoglobin is absent and there are very less number of mitochondria so
+they depend on aerobic glycolysis for their energy production.
+(vi) As a result of this, large amount of lactic acid gets accumulated in the muscle and hence
+these muscle gets fatigued soon.
+
+

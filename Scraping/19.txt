@@ -1,0 +1,113 @@
+Long Answer Type Question
+Q.1. Describe in brief the respiratory organs of man. [V. Imp.]
+Ans. Human respiratory system : The following are the main respiratory organs:
+(i) Nostrils : These are the paired openings that opens into two nasal chambers. They are
+lined up with ciliated epithelium and mucous cells. These cells prevent the entrance of dust
+into the lungs and help in warming and moistening the air. The nasal chamber opens into the
+pharynx.
+(ii) Larynx: It is situated at the anterior part of trachea and communicates with the pharynx.
+The glottis is protected by a stiff cartilage called epiglottis. The larynx contains pairs of vocal
+cords which sets into vibrations when the air enters into it and produces the sound.
+(iii) Trachea: It is a long ringed tube. It is supported by C-shaped elastic cartilaginous rings
+to prevent its collapsing. It is lined internally with mucous membrane to hold the dust
+particles, bacteria and other foreign bodies. It also warms the air.
+(iv) Bronchi : Inside the thorax, the trachea bifurcates into two bronchi and each of which
+enters into one lung. In each lung, the bronchus undergoes repeated divisions to form the
+secondary and tertiary bronchi which further sub-divide into bronchioles. These bronchioles
+further redivide at its ends to form respiratory bronchioles.
+(v) Lungs : There are two large bag like spongy structure which are the main respiratory
+organs. These are enclosed by double pleural membranes. The right lung consists of three
+lobes and left comprises two lobes. Inside the lungs, the respiratory bronchioles give rise to
+alveolar ducts, alveolar sac and finally smaller alveoli. Each lung contains millions of alveoli.
+Q. 2. Explain the structure of human lungs in detail.
+Ans. (i) The lungs are soft, spongy and elastic organs, pinkish in colour.
+(ii) The upper most portion of lungs is called the apex and the inferior portion is called the
+base.
+(iii) The left lung is smaller than the right lung.
+(iv) Each lung is enclosed by two membranes called the 𝑝𝑙𝑒𝑢𝑟𝑎.
+(v) The outer membrane is called parietal pleura and the inner membrane is known as
+visceral pleura.
+(vi) A narrow space between the two pleura is filled with pleural fluid.
+(vii) The left lung has two lobes: superior and inferior lobes.
+(viii) The right lung has three lobes: superior, middle and inferior lobe.
+(ix) The trachea at its lower bifurcates into a pair of primary bronchi which enter the right and
+left lungs.
+(x) As soon as primary branches enters each lung it divides to form secondary bronchi.
+
+(xi) These bronchi also have cartilaginous rings.
+(xii) The tertiary bronchi sub-divides into smaller branches, the bronchioles.
+(xiii) Each terminal bronchioles give rise to a number of very thin, irregular walled and
+vascularised bag like structures called alveoli.
+
+Fig. Tracheal division upto tertiary bronchi
+Q. 3. Why is it not healthy to breath in a closed room in winters where a large number
+of persons are sitting near an angithi ?
+Ans. In a closed room there is no provision of fresh air coming into the room. The oxygen
+already present in the air of that room shall be gradually consumed. Moreover if more
+number of people are sitting in that room the percentage of oxygen will go on decreasing and
+the percentage of carbon dioxide will go on increasing by continuous use of oxygen during
+respiration. If in such a room there is angithi also then it is positively harmful for the persons
+sitting in the room. It is because burning of coal or wood in the angithi would consume
+oxygen very rapidly. Also it produce poisonous gases like carbon monoxide in addition to
+carbon dioxide.
+Q. 4. Give a detail account on respiratory capacities.
+Ans. The quantities of air the lungs can receive, hold or expel under different conditions are
+called pulmonary volumes. Many pulmonary volumes are collectively known as respiratory
+capacities.
+(i) Inspiratory Capacity (IC): It is the total volume of air that can be inhaled after a normal
+expiration. It includes tidal volume plus the inspiratory reserve volume. (IC = TV + IRV). It is
+normal about 3000 to 3500 ml of air.
+(ii) Functional Residual Capacity (FRC) : When a person breathes normally the amount
+which remains in the lung after normal expiration is called functional residual capacity. It is
+
+the sum total of residual volume and the expiratory reserve volume (FRC RV+ERV). It is
+about 2500 ml of air.
+(iii) Vital Capacity (VC) : It is the amount of air which one can inhale and exhale after a
+forced expiration and after a forced inspiration respectively. It varies from 3.5-4.5 litres in a
+normal adult person. It is the sum total of TV, IRV and ERV.
+(iv) Total Lung Capacity (TLC): It is the total amount of air present in the lungs, and the
+respiratory passage after a maximum inspiration. It is the sum of the vital capacity and the
+residual volume. (TLC = VC + RV). It is 5000 to 6000 ml.
+Q. 5. Explain why the following things happen:
+(i) The more oxygen is released from oxyhaemoglobin in a more active tissue than in
+a less active one.
+(ii) Oxygenation of blood promotes the release of carbon dioxide from the blood in the
+lungs.
+(iii) Oxygen leaves the blood from tissue capillaries, out carbon dioxide enters the
+blood in tissue capillaries.
+(iv) Erythrocytes can carry out anaerobic metabolism only.
+(v) Gaseous exchanges continue in the lungs. without interruption even during
+expiration.
+Ans. (i) The more oxygen is released from oxyhaemoglobin in a more active tissue because
+its partial oxygen pressure is lower than the least active tissue. The lower pO 2 in the active
+tissue causes the dissociation of oxyhaemoglobin to release sufficient oxygen required by the
+tissues.
+(ii) The CO 2 from the tissue is carried in the blood in three different forms; bicarbonate in
+plasma and erythrocytes, carbamino-haemoglobin in erythrocytes and small amounts of
+dissolved carbon dioxide in plasma. On reaching the lungs blood is oxygenated. It donates
+H+ which joins bicarbonate (HCOs) to form carbonic acid. This carbonic acid cleaves into
+H2Oand CO2 by carbonic anhydrase. In this way the CO 2 is released from the
+carbaminohaemoglobin. The oxygen affinity of haemoglobin also gets enhanced with the fall
+in the blood pCO 2 resulting from the elimination of CO 2 from the blood in the lungs.
+(iii) The blood in the tissue capillaries contains higher pO2 than the tissue fluid. So, oxygen is
+released from oxyhaemoglobin and diffuse from the capillary blood to the tissue fluid and
+finally to the cells to the tissue fluid to raise its pCO 2 than the capillary blood. This enables
+carbon dioxide to diffuse from the tissue fluid to the capillary blood.
+(iv) Erythrocytes lack mitochondria and respiratory enzymes to perform the process of
+aerobic respiration. Therefore, they undergo anaerobic respiration to carry out anaerobic
+metabolism only.
+(v) Gaseous exchange continues in the lungs continuously because some air remains inside
+the lungs even after deepest exhalation. This air is called as residual volume which never get
+drived out and this is sufficient to proceed gaseous exchange without any interruption.
+
+Q. 6. What is a respiratory centre ? What is its use in the process of respiration ?
+Ans. Respiration is controlled by a respiratory centre located in the floor of the medulla
+oblongata of the brain. The centre is bilateral and its two halves are connected together by
+commissural neurons. The sides of this centre are connected with motor respiratory neurons.
+The nerve cells of the centre are connected with the breathing apparatus forming a reflex arc.
+These nerve cells are sensitive to chemical composition of blood. Half of the respiratory
+centre is an inspiratory centre and the other half is an expiratory centre. These two centres
+control the entire breathing in man with his knowledge about it. Dorsal respiratory group,
+ventral respiratory group and pneumotaxic groups act as respiratory centres in the brain.
+
+

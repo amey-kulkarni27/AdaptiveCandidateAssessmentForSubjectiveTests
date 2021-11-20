@@ -1,0 +1,421 @@
+Short Answer Type Questions-II
+Q.1. How nerve impulses are conducted in non- myelinated nerves? [KVS Agra 2016]
+Ans. Transmission of nerve impulse through non-myelinated nerves:
+(i) In resting stage, the Nat ions are pumped out from the axoplasm. It needs energy to work
+normally.
+(ii) Thus axon membrane is electronegative inside and electropostive outside, this is called
+resting potential. In this state the nerve is said to be in polarized state.
+(iii) When the nerve fibre is stimulated, it cause electrochemical disturbance in the nerve fibre,
+a change in potential. This change is called action potential.
+(iv) Thus, Na+ migrate into the axoplasm and Cl− ions diffuses out. Thus negativity is
+increased outside and positivity is increased inside. This is called depolarisation.
+(v) Depolarisation progresses along the nerve fibre in both directions from the point of
+stimulus.
+Q. 2. Write short notes on hind brain. [KVS Agra 2017]
+Ans. Hind Brain: It consists of three regions: pons, cerebellum, and medulla oblongata.
+(i) Pons is band of nerve fibers that lies between medulla oblongata and midbrain. It connects
+the lateral parts of cerebellar hemisphere together.
+(ii) Cerebellum is large and well-developed part of hindbrain. It is located below the posterior
+sides of cerebral hemispheres and above the medulla oblongata. It is responsible for
+maintaining posture and equilibrium of the body.
+(iii) Medulla oblongata is the posterior and simplest part of the brain. It is located beneath
+the cerebellum. Its lower end extends in the form of spinal cord and leaves the skull through
+foramen magnum.
+Q.3. How are neurons classified based on the number of axons and dentrites? [KVS
+Silchar 2017]
+Ans. The structural classification of neurons depends upon the number of dendrites extending
+from the cell body.
+(i) Multipolar neurons have one axon and several dendrites; the majority of neurons in the
+spinal cord and brain are multipolar.
+(ii) Bipolar neurons have only two processes: a single dendrite and an axon. Biopolar neurons
+are found in the sense organs-and in the retina of the eye and in olfactory cells.
+(iii) Unipolar neurons lack dendrites and have a single axon, and are also sensory neurons.
+Q. 4. What are the different parts of fore brain?
+Ans. Fore brain (Prosencephalon):
+
+(i) Olfactory lobes: Each lobe consists of two parts, an anterior olfactory bulb and a posterior
+olfactory tract. They are fully covered by the cerebral hemispheres.
+(ii) Cerebrum : The cerebrum is the largest part of the human brain. It consists of left and
+right hemispheres connected by a large bundle of myelinated fiber’s, the corpus callosum and
+other smaller fibre bundles. The outer portion of cerebrum is called the cerebral cortex that
+makes up the grey matter of the cerebrum. There are three kinds of cortex: sensory, motor
+and associative. Beneath the grey matter, the large concentration of medullated nerve fiber’s
+gives this tissue an opaque white appearance, collectively called white matter. Each cerebral
+hemisphere is divided into four lobes : frontal, parietal, temporal and occipital lobe.
+(iii) Diencephalon : Its main parts are epithalamus, thalamus and hypothalamus.
+Epithalamus is thin and not formed of nervous tissue. Hypothalamus is relatively small but is
+highly vascular. The thalamus lies superior to mid brain is composed primarily of grey matter.
+Q.5. What are the basic functions of nervous system?
+Ans. The nervous system of higher animals performs three basic functions:
+(i) They receive sensory input from internal and external environment by nerves.
+(ii) They process the input information; and
+(iii) They respond to the stimuli transmitting motor commands to determine the response of
+the body parts or cells.
+Q. 6. In how many parts human nervous system is divided?
+Ans. Human nervous system is divisible into three main parts:
+(i) Central Nervous System: It is a hollow, dorsally placed structure lying along the middorsal axis of the body. It comprises the brain and spinal cord.
+(ii) Peripheral Nervous System: The nerves arising from the central nervous system
+constitute the peripheral nervous system. The nerves originate from the brain and spinal cord
+and are known as cranial nerves and spinal nerves respectively.
+(iii) Autonomic Nervous System: It controls and co-ordinates organs which are under
+involuntary control. It consists of sympathetic and parasympathetic nervous system.
+Q.7. Distinguish between the following pairs:
+(i) Afferent neurons and Efferent neurons.
+(ii) Mixed and motor nerves
+(iii) Dorsal and ventral spinal roots.
+Ans. (i)
+S. No
+
+Afferent neuron
+
+Efferent neuron
+
+(i)
+
+They conduct impulses from
+the receptors to the CNS
+They are sensory in nature.
+
+They conduct impulses from
+CNS to the effectors.
+They are motor in nature.
+
+(ii)
+
+(ii)
+S. No
+
+Mixed
+
+Motor nerve
+
+(i)
+
+It has both motor and sensory
+neurons.
+
+It has only motor neurons.
+
+(ii)
+
+Sensory carry impulses to CNS from
+receptors and simultaneously motor
+fibres conduct impulses from CNS to
+muscles and glands.
+
+It conducts nerve impulses from CNS to
+some muscle or gland to control their
+activities.
+
+(iii)
+
+Arise from spinal cord.
+
+Arise from spinal cord brain (CNS).
+
+S. No
+
+Dorsal spinal roots
+
+Ventral spinal roots
+
+(i)
+
+They are made of sensory (afferent)
+nerves.
+
+They are made of motor (efferent) nerves.
+
+(ii)
+
+Their cell bodies are located in
+dorsal root ganglia.
+
+The cell bodies of ventral spinal root is
+located in ventrolateral horn or grey
+mater.
+
+(iii)
+
+Q.8. Draw and label the structure of a neuron. [KVS Mumbai 2016]
+Ans.
+
+Q.9. Draw a labelled diagram of a synapse.
+
+[KVS Mumbai 2016]
+
+Ans.
+
+Q.10 Distinguish between:
+(i) Motor and pre-motor area,
+(ii) Receptor and motor end plate.
+Ans.
+(i)
+S. No
+
+Myelinated Neuron
+
+Non-myelinated Neuron
+
+(i)
+
+The axons are covered by lipid rich
+myelin sheath.
+
+The myelin sheath is absent.
+
+(ii)
+
+Conduction of nerve impulse is faster
+and called saltatory conductions.
+
+Conduction is comparatively slower.
+
+(iii)
+
+Action potential occurs only in the
+nodes of ranvier.
+
+Action potential occurs along the nerve
+fibres.
+
+(iv)
+
+Myelinated nerve fibres are found in
+spinal cord.
+
+Non-myelinated nerve fibre is found in
+autonomous and the somatic neural
+system.
+
+(ii)
+S. No
+
+Receptor
+
+Motor end Plate
+
+(i)
+
+It is a structure of sensory terminal.
+
+It occurs at neuromuscular junction.
+
+(ii)
+
+On the nerve fibre, there are structures
+for collecting information which are
+called receptors.
+
+The axon of a neuron ends into a
+muscle fibre or a gland cell.
+
+Q.11. Name the lobes of cerebrum and write their functions.
+Ans. Cerebral lobes and their main functions:
+S. No
+
+Cerebral Lobe
+
+Major Functions
+
+(i)
+
+Frontal lobe
+
+Reasoning will power, monitoring of thoughts and actions,
+creative ideas, translation of perceptions and memories into
+plans, muscle movement, reality testing by judgement,
+intellectual insight.
+
+(ii)
+
+Temporal lobe
+
+Memory, smell, as well as emotions.
+
+(iii)
+
+Occipital lobe
+
+Decoding and interpretation of visual information: colour and
+shape.
+
+(iv)
+
+Parietal lobe
+
+Taking information from environment, organizing it and
+communicating it to rest part of brain, registration of sensory
+perception called the feelings about touch, pain, heat and
+cold; knowledge about position in space
+
+Q.12. Define nerve impulse and explain its conduction [KVS 2007, 2010, 11]
+Ans. Nerve impulse Nerve impulse is any signal initiated by the stimulus at the receptor.
+Nerve cells are excitable.
+Conduction of Nerve Impulse in Non-Myelinated Nerve Fibre: It is divided into three
+phases:
+(i) Resting phase: During this phase, there is more 𝑁𝑎+ ions on outside of axon membrane
+in ECF than inside of the axon membrane. 𝐾 + ions move out and the membrane is positively
+charged outside and negatively charged inside. Thus, membrane is in resting potential (-80
+mV).
+(ii) Action Potential: It is other name of nerve impulse with resting potential. When the
+stimulus is applied, the axon membrane is negatively charged outside and positively charged
+inside. It is called depolarized or an action potential (+30 mV). The electrogenic pump expels
+three Na+ for every two 𝐾 + imported. 𝑁𝑎+ 𝐾 + ions transmembrane pumps are very important
+in membrane potential.
+(iii) Recovery Phase: During this phase depolarized point becomes repolarized and 𝑁𝑎+ ions
+move to outside while 𝐾 + ions move inside.
+
+Q.13. What do you call the conduction of impulse along a myelinated nerve fibre? [KV
+2007, KV 2008]
+OR
+Why is the mode of conduction of electrical impulse along the myelinated neuron is
+advantageous to a non-myelinated neuron?
+What is this type of conduction called?
+Ans. (i) Along a myelinated nerve fibre, the conduction of impulse is called saltatory
+conduction.
+(ii) This is so because the ionic changes and consequent depolarization takes place only at
+the nodes of Ranvier free from myelin sheath leading to the jumping of action potential from
+one node to the next.
+
+Q.14. How nerve fibres gets terminated?
+Ans. Nerve fibres terminate in three ways:
+(i) The axon of one neuron ends on the dendrites of the next neuron. Such a junction is called
+synapse.
+(ii) The axon of a neuron terminates on either a muscle fibre, or a gland cell. When it ends on
+a muscle fibre, it forms the neuromotor junction. The contact between a neuron and glandular
+cells is called neuroglandular junction.
+(iii) Many nerve fibres, for example in the skin, divides into fine branches known as the
+sensory nerve endings.
+Q.15.What are the main properties of nervous tissue?
+Ans. The nervous tissue has two outstanding properties excitability and conductivity.
+(i) Excitability: It is the ability of the nerve cells and fibres to enter into an active state called
+the state of excitation in response to a stimulus. Excitation arises at the receptors on account
+of various stimuli such as light, temperature, chemical, electrical or pressure which constantly
+act on the organisms.
+(ii) Conductivity: The excitation does not remain at the site of its origin. It is transmitted along
+nerve fibres. The transmission of excitation in a particular direction is called conductivity
+Q.16. What are the functions of Hypothalamus?
+Ans. (i) Hypothalamus integrates and controls the visceral activities.
+(ii) It maintains homeostasis.
+(iii) It provides anatomical connection between the nervous and endocrine systems by its
+relationship to the pituitary gland.
+(iv) Hypothalamus is thermoregulatory centre. Hence it is called "thermostat" of the body. It
+keeps body temperature at roughly 37°C by means of a complex thermostat system.
+(v) It is also associated with behavioural activities.
+(vi) Appetite and thirst centres are located in the hypothalamus.
+Q. 17. What is the difference between unipolar, bipolar and multipolar neurons? Give
+one example of each.
+Ans.
+
+Unipolar neurons
+
+Bipolar neurons
+
+Multipolar neurons
+
+Unipolar neu-ron has only
+one axon.
+
+Bipolar neuron has one
+axon and one dendrite.
+
+Multipolar neu-ron has one
+axon and many den-drites.
+
+E.g., found in the ganglia in
+brain and spinal cord.
+
+E.g., found in the sense
+organs.
+
+E.g., found in the central
+neurons system.
+
+Q.18. Draw a labelled diagram of human eye and label various parts.
+Guwahati 2016]
+
+[KVS
+
+Ans. Labelled diagram of human eye
+
+Q.19. Draw a sketch of human ear and label various parts.
+2016]
+
+[KVS Guwahati
+
+Ans. Labelled diagram of human ear
+
+Q 20. Discuss the role of middle ear in hearing. [DDE 2017]
+Ans. Middle ear: The middle ear contains three ossicles called malleus, incus and stapes
+which are attached to one another in a chain-like fashion. The malleus is attached to the
+
+tympanic membrane and the stapes is attached to the oval window of the cochlea. The ear
+ossicles increase the efficiency of transmission of sound waves to the inner ear.
+Eustachian tube help in equalising the pressure of either side of ear drum.
+Q. 21. Name the two humours found inside the mammalian eye. List the functions they
+perform.
+Ans. Aqueous humour and vitreous humour.
+Functions of aqueous humour:
+(i) Gives nutrition to non-vascular lens and cornea;
+(ii) Helps in inflating eye ball and gives shape to the eye;
+(iii) Supports the lens; and
+(iv) Refract the light rays to focus on retina.
+(Any three)
+Functions of vitreous humour:
+(i) Helps in maintaining shape of the eye;
+(ii) Supports retina and lens; and
+(iii) Refracts the light rays.
+Q.22. What is a reflex arc? And how many parts does it consists of?
+Ans. The path travelled by an impulse in a reflex action is called the reflex arc. It consists of
+five parts:
+(i) A receptor or skin, the neurons of which start a sensory impulse.
+(ii) An afferent nerve, which brings sensory impulse from the receptor to the central nervous
+system.
+(iii) The neurons present in the spinal cord change the sensory impulse into the motor
+impulse.
+(iv) An efferent nerve, which carries the motor impulses from the spinal cord to the specific
+effectors like muscles fibres or gland cells.
+(v) An effector, where impulse terminates and response is given.
+Q. 23. What is meant by 'reflex action'? Give one example. Name the components of a
+reflex arc in proper sequence from the receptor upto the effector.
+Ans. Reflex Action: It is an involuntary, spontaneous nerve mediated action produced at
+unconscious level by stimulating specific receptors. Reflex action is rapid and automatic
+response. 𝐸. 𝑔., peristalsis, respiration, watering in mouth etc.
+Components of a Reflex Arc: It includes
+(i) receptors,
+(ii) afferent sensory neuron,
+(iii) spinal cord/ganglion,
+
+(iv) efferent motor neuron and
+(v) the effector muscle or gland.
+Receptor → Afferent sensory neuron → Interneuron → Efferent motor neuron → Effector
+muscle/gland.
+Q.24. Explain the mechanism of reflex action. [NCT-2007]
+Ans. (i) Reflex action is a form of animal behavior in which the stimulation of a sensory organ
+(receptor) results in the activity of some organ without the intervention of will.
+(ii) For a reflex action five things are normally essential:
+(a) receptor,
+(b) sensory nerve fibres,
+(c) a part of the central nervous system,
+(d) motor nerve fibres and
+(e) effector organ such as muscles and glands.
+(iii) The sensory nerve fibres bring sensory impulses from the receptor organ to the central
+nervous system.
+(iv) The motor nerve fibres relay the motor impulses from the central nervous system to the
+effector organs.
+Q.25. Why does your mouth usually waters at the sight of tasty food? Give some other
+examples also.
+Ans. It is due to the reflex action. Reflex is “an involuntary action performed by muscles under
+the direction of spinal cord in response to the stimulus". In short, reflex actions are automatic
+responses to stimulus. They are of definite and mechanical type.
+Some other example of reflex action:
+(i) Narrowing of the pupil of the eye when strong light falls upon it.
+(ii) When a hot object is touched accidentally by our hand, it is withdrawn at once.
+(iii) Flow of bile from the gall bladder into the duodenum.
+(iv) Opening of mouth on hearing a loud sound.
+Q.26. Draw a labelled diagram of reflex arc that operates when a person responds in
+case of knee jerk. [NCT-2011]
+Ans.
+
+

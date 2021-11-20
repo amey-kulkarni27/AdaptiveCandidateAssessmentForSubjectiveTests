@@ -1,0 +1,200 @@
+Long Answer Type Question
+Q.1. Define essential elements. Give the criteria for knowing the essentiality of an
+element. Give some essential elements.
+[KVS 2013-14]
+Ans. Essential Elements: An essential element is the one which has a specific structural or
+physiological role and without which plants cannot complete their life cycle.
+The criteria for the essentiality of an element are:
+(i) It is indispensable for the growth of plant.
+(ii) The element is directly involved in the nutrition of plants. It becomes a component of either
+a structural or functional molecule. The element may additionally have a corrective effect of
+mineral balance and other soil conditions.
+(iii) A plant is unable to complete its vegetative or reproductive phase in the absence of the
+element.
+(in) The element cannot be replaced by any other element.
+(v) The absence or deficiency of the element produces disorders that are a direct result of the
+lack or deficiency of the element.
+17 elements have been found to be essential. They are C, H, O, N, P, K,S, Mg, Ca, Fe, B, Mn,
+Cu, Zn, Mo, Cl and Ni
+Q. 2. Make a list of macronutrients and mention their major functions.
+Ans. Different macronutrients and their functions are :
+(i) Carbon : It is the major component of carbohydrates and other cellular constituents.
+(ii) Oxygen : It is an important component of carbohydrates and other structural constituents
+of the cells.
+(iii) Magnesium: It is an essential component of chlorophyll and is involved in binding
+of ribosome components. It acts as enzyme activator in those cases which are concerned with
+phosphate metabolism.
+(iv) Calcium :
+(a) Synthesizes calcium pectinate, the constituents of middle lamella in the cell wall.
+(b) It helps in translocation of carbohydrates.
+(c) It regulates cell permeability.
+(d) It helps in lipid metabolism.
+(v) Nitrogen:
+(a) It is an important constituent of protoplasm and protein.
+(b) It is found in amino acids, NAD, NADP, purines, pyrimidines, chlorophyll enzyme etc.
+
+(vi) Phosphorus:
+(a) An important constituent of cell membrane, certain proteins, all nucleic acid and
+nucleotides.
+(b) It is present in AMP, ADP ATP GDP and GTP and plays an important role in the energy
+transfer of photosynthesis and respiration.
+(c) Essential for all phosphorylation reactions.
+Q. 3. Briefly mention the functions of mineral elements in plants.
+Ans. The mineral elements are required by higher plants. General functions of mineral
+elements are given below:
+(i) Constituents of plant body : Various mineral elements become permanent constituents of
+molecules found in the protoplasm and cell wall. Elements like carbon, hydrogen and oxygen
+are used in the formation of carbohydrates. Nitrogen is an essential component of all amino
+acids, protein, nucleic acids, chlorophyll, auxins, cytokinins and vitamins. Calcium is a
+constituent of calcium pectate of middle lamella. Magnesium is an essential part of the
+chlorophyll molecule and also activates certain enzymes.
+(ii) Osmotic potential of cells: The osmotic potential of a cell is maintained by the inorganic
+salts present in the cell sap. Osmotic potential is required for water absorption and
+maintenance of cell's turgidity.
+(iii) Permeability of cytoplasmic membranes: The permeability of cytoplasmic membranes
+is affected by the presence of various cations and anions in the external medium.
+Monovalent cations commonly increase the membrane permeability, while divalent cations
+decrease the same.
+(iv) Toxic effects: Many minerals elements in their ionic form produce a toxic effect on the
+protoplasm Important among them are arsenic, copper, mercury etc.
+(v) Catalytic effects: Several mineral elements participate in catalytic systems of plants. For
+example, calcium, magnesium, manganese, sodium, potassium and chlorine serve as
+cofactors at enzymes.
+Q. 4. Make a list of micronutrients and mention their principal function in plants.
+[V. Imp.]
+Ans. Following micronutrients are involved in many metabolic activities of the plants:
+(i) Boron (B) is involved in the formation of pectin in the cell wall, in the translocation of
+carbohydrates absorption of water and calcium.
+(ii) Copper (Cu), being an essential component of plastocyanin, is involved in the electron
+transport and plays a role in photosynthesis.
+(iii) Manganese (Mn) and molybdenum plays an important role in nitrogen metabolism.
+(iv) Zinc (Zn) helps in the synthesis of Indole Acetic Acid (IAA).
+
+As catalysts in the enzymatic reactions : Zinc, copper and manganese act as enzyme
+activators for various enzymatic reactions in plant cells. As for example:
+(i) Zinc activates many enzymes such as lactic dehydrogenase, carboxy peptidases, glutamic
+acid dehydrogenase and alcohol dehydrogenase.
+(ii) Manganese acts as an activator for the enzymes which are involved in decarboxylation
+reaction and dehydrogenation during respiration.
+Q. 5. What are the reasons for minerals depletion in soil and how it is restored ?
+Ans. Minerals get depleted in the soil due to several reasons :
+(i) Overcropping which withdraws minerals from the top layers of the soil.
+(ii) Use of high yielding varieties which require higher quantity of mineral nutrients.
+(iii) Non-rotation of crops causing deficiency of minerals at a particular level in the soil.
+(iv) Leaching or washing down of minerals along with gravitational water.
+(v) Precipitation of minerals due to change in soil pH.
+Restoration of Mineral Fertility : It is done through two methods, natural and artificial.
+(i) Natural replenishment : In soil under natural vegetation, mineral fertility is restored
+naturally through :
+(a) Recovery of minerals from decomposition of fallen leaves, twigs, dead roots, dead
+animals and animal excreta.
+(b) Slow process of weathering of bed rocks.
+(c) Burrowing habit of some animals like earthworms which bring sub-soil over the surface of
+top soil.
+(d) Biological nitrogen fixation.
+(ii) Artificial replenishment: It is carried out by human efforts :
+(a) Addition of farmyard manure. Manure contains humus. Humus form colloidal particles in
+soil for increased hydration, crumb structure, aeration, loosening the soil, slow release of
+minerals and organic substances that stimulate plant growth.
+(b) Green manuring.
+(c) Crop rotation or sowing of alternate crops successively in the same field. It helps in
+maintaining nitrogen fertility of the soil.
+(d) Addition of fertilizers.
+
+Q. 6. Explain the process of nitrogen fixation in leguminous plant. Where does this
+process occur in plant ?
+Ans. (i) 𝑅ℎ𝑖𝑧𝑜𝑏𝑖𝑢𝑚 is nitrogen fixing bacterial symbiont of legumes, Rhizobia increase in
+number and attach with epidermis of roots. Root hairs curls and bacteria invade it. An
+infection thread is formed carrying the bacteria into the cortex of root.
+(i) Nodule formation starts in cortex of root. Bacteria is released from the thread into the cells
+which leads to formation of specialized nitrogen fixing cells.
+(ii) Nodules establish direct vascular connection with host for exchange of nutrients.
+(iii) Nodule contain all necessary biochemical components like enzyme nitrogenase and
+leghaemoglobin.
+(iv) Enzyme nitrogenase is a Mo-Fe protein and catalyses the conversion of atmospheric
+nitrogen into ammonia.
+(v) The reaction is as follows :
+N2 + 8e- + 8H+ + 16ATP → 2NH3 + H2 + 16ADP +16Pi
+Q. 7. Explain nitrogen cycle.
+Ans. There are four steps in the nitrogen cycle namely, nitrogen fixation, ammonification,
+nitrification and denitrification.
+(i) Nitrogen fixation
+(a) During this step, the atmospheric free nitrogen is converted into those nitrogen
+compounds which can be absorbed by plants.
+(b) The fixation may be biological and carried out by free living bacteria, (e.g., 𝐴𝑧𝑜𝑡𝑜𝑏𝑎𝑐𝑡𝑒𝑟,
+𝐶𝑙𝑜𝑠𝑡𝑟𝑖𝑑𝑖𝑢𝑚) or cyanobacteria or bacterium in symbiotic association (e.g., 𝑅ℎ𝑖𝑧𝑜𝑏𝑖𝑢𝑛).
+(c) The fixation can also occur by physical processes in the atmosphere.
+(d) Ammonium compounds are formed as a result of this process.
+(ii) Ammonification
+(a) When the dead/waste parts of plants and animals are decomposed, ammonia is
+formed.
+(b) It is carried out by certain fungi and certain bacteria.
+(c) The process of formation of ammonia from organic nitrogenous wastes, is called
+ammonification.
+(iii) Nitrification
+(a) The process of conversion of ammonia into nitrites and then into nitrates is called
+nitrification.
+
+(b) The first step, i.e., conversion of ammonia to nitrite is carried out by bacteria like
+𝑁𝑖𝑡𝑟𝑜𝑠𝑜𝑚𝑜𝑛𝑎𝑠 and 𝑁𝑖𝑡𝑟𝑜𝑐𝑜𝑐𝑐𝑢𝑠.
+(c) The second step, i.e., conversion of nitrites to nitrates is done by 𝑁𝑖𝑡𝑟𝑜𝑏𝑎𝑐𝑡𝑒𝑟.
+2NH3 + 3O2 → 2NO2- + 2H+ + 2H2O
+2NO2- + O2 → 2NO3(d) The nitrates are absorbed and metabolised by plants.
+(iv) Denitrification
+(a) The process by which the fixed forms of nitrogen, i.e., nitrites and nitrates, are converted
+back into free nitrogen, is called denitrification.
+(b) It is carried out by 𝑃𝑒𝑢𝑑𝑜𝑚𝑜𝑛𝑎𝑠 like bacterium.
+(c) This nitrogen again enters the nitrogen cycle.
+Q. 8. Briefly describe the mechanism of biological nitrogen fixation.
+OR
+What is meant by biological nitrogen fixation ? Elaborate your answer with the example
+OR
+Explain symbiotic nitrogen fixation in leguminous plants.
+Ans. Biological nitrogen fixation is the process in which certain living organisms convert the
+free nitrogen into those compounds which can be used by plants.
+(i) The organisms may be free-living bacteria (e.g., 𝐴𝑧𝑜𝑡𝑜𝑏𝑎𝑐𝑡𝑒𝑟), symbiotic bacteria like
+𝑅ℎ𝑖𝑧𝑜𝑏𝑖𝑢𝑚 or Cyanobacteria.
+(ii) The enzyme involved in the process is nitrogenase, which is a Mo-Fe protein.
+(iii) During this process, the atmospheric nitrogen is reduced by the addition of hydrogen.
+(iv) The three bonds between the two nitrogen atoms (N ≡ N) are broken and hydrogen is
+progressively added to form ammonia.
+(v) This fixation requires three components:
+(a) ATP, to supply energy.
+(b) A strong reducing agent, to transfer hydrogen atoms.
+(c) The enzyme system (nitrogenase)
+(vi) The overall reaction is as follows :
+N2 + 8e- + 8H+ + 16 ATP-→ 2NH3 + H2 + 16 ADP +16 Pi
+
+Q. 9. Distinguish between the following: Micronutrients and Macronutrients.
+Ans
+S. No.
+(i)
+(ii)
+
+(iii)
+
+Micronutrients
+Micronutrients form minor portion of dry
+weight of a plant.
+They are required in minute quantities i.e.,
+less than 10 m mole/kg of dry matter
+Most of them act as activators for enzymes,
+e.g., Manganese, Zinc, Boron etc.
+
+(iv)
+These are called trace elements.
+(Any three)
+
+Macronutrients
+Macronutrients form major portion
+of dry weight of a plant.
+They are required in relatively
+large quantities i.e., in excess of
+10 mmole kg-1 of dry matter
+They enter into the structure of
+macromolecules of the cell, e.g.,
+Carbon, Hydrogen and Nitrogen
+etc.
+These are called major elements.
+
+

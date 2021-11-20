@@ -1,0 +1,92 @@
+Very Short Answer Type Questions
+Q. 1. What is the value of water potential of pure water?
+
+(KVS Agra 2017)
+
+Ans. Zero
+Q. 2. Which two factors affect water potential?
+
+(DDE 2017)
+
+Ans. Concentration of solute and external pressure.
+Q. 3. What will happen to water potential when solutes are added?
+Ans. When solutes are added it lowers water potential of a system i.e., it exhibits negative
+value.
+Q. 4. Why all solutions have a lower water potential than pure water?
+Ans. If some solute is dissolved in pure water, the solution has fewer free water and the
+concentration of pure water decreases, reducing its water potential, hence all solutions have
+lower water potential than pure water.
+Q. 5. Why is inhibition considered as diffusion?
+Ans. Imbibition is considered as diffusion, since water movement is along a concentration
+gradient.
+Q. 6. What do you understand by the term facilitated diffusion?
+Ans. The concentration gradient through fixed members transport protein without involving
+energy expenditure is called facilitated diffusion.
+Q. 7. Define solute potential.
+Ans. The magnitude by which water potential is lowered due to dissociation of a solute is
+called solute potential.
+Q. 8. What do you understand by bleeding?
+Ans. The exudation of watery sap from the injured parts of a plant is called bleeding.
+Q. 9. Why endodermis is impervious to water?
+Ans. The inner boundary of the cortex i.e., endodermis, is impervious to water because of a
+band of suberized matrix called the casparian strip.
+Q.10. What is turgor pressure?
+Ans. The pressure built up against the cell wall by the cytoplasm due to diffusion of water into
+the cell is known as turgor pressure.
+Q.11. Write two factors on which the rate and direction of osmosis depends.
+Ans. The two factors on which the rate and direction of osmosis depends:
+(i) Pressure gradient.
+
+(ii) Concentration gradient.
+Q.12. What would be the 𝚿p of a flaccid cell?
+Ans. Negative.
+Q.13. What is water potential?
+Ans. Water potential is the potential energy of water which helps in the movement of water
+and is determined by solute potential and pressure potential.
+Q.14. Mass flow hypothesis is related to which process in plants?
+
+[KVS 2015]
+
+Ans. Mass flow hypothesis is related to translocation of sugars from source to sink.
+Q. 15. Name the pathways by which water flows from roots hair to the deeper layers of
+root.
+[KVS Silchar 2017]
+Ans. Apoplast pathway and symplast pathway.
+Q. 16. Define translocation.
+Ans. Translocation refers to "the transport over longer distances proceeding through
+vascular system -xylem and phloem."
+Q. 17. What is trans-membrane pathway?
+Ans. Trans-membrane pathway is the movement through the cell membrane.
+Q. 18. Which fraction of soil water is available to plants for absorption by roots?
+Ans. Capillary water.
+Q. 19. What is a mycorrhiza?
+Ans. A mycorrhiza is a symbiotic association of a fungus with the root system of higher
+Plants.
+Q. 20. Name the four elements that are easily, mobilised in plants.
+Ans. N2, Mg, P, S, and K
+Q. 21. What is absorption lag?
+Ans. Absorption lag is the short fall of rate of water absorption over the rate of transpiration.
+It is due to high rate of transpiration.
+Q. 22. When does wilting occurs?
+Ans. Wilting occurs when the loss of water by evaporation exceeds the rate of uptake by
+roots.
+Q. 23. Name the theory proposed by Dixon for ascent of sap.
+Ans. Transpiration pull theory.
+
+Q. 24. Which metal element is involved in the opening and closing of stomata?
+Ans. K+ ion is involved in the opening and closing of stomata.
+Q. 25. Define the term ‘source’ and 'sink’ in phloem transport.
+Ans. The region which synthesize carbohydrates are called 'source' while the regions, where
+carbohydrates are utilized or stored are known as sink.
+Q. 26. How does ascent of sap occur?
+Ans. Ascent of sap occurs through the tracheary elements of xylem.
+Q. 27. Why rate of transpiration increases with an increase in root-shoot ratio?
+Ans. The rate of transpiration increases with an increase in root-shoot ratio because of
+greater availability of water due to more extensive root system.
+Q. 28. What does the fungal partner provide to the plant in the symbiotic association
+mycorrhiza?
+Ans. The fungus provides minerals and water to the roots.
+Q. 29. What are the channels of transport of food in plants?
+Ans. The channels of transport are sieve tubes and companion cells of phloem.
+
+

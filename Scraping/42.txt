@@ -1,0 +1,243 @@
+Short Answer Type Questions-II
+Q. 1. Complete the blank spaces in the table given below :
+Minerals
+(i) Zinc
+
+Absorbed in the form of ions
+……………………….
+
+Functions
+Needed for synthesis of auxins.
+
+(ii) …………
+
+……………………….
+
+Is central atom in chlorophyll
+molecule.
+
+(iii) Nitrogen
+
+……………………….
+
+Major constituent of proteins,
+vitamins, enzymes & nucleic
+acids.
+
+Ans. (i) Zn2+
+(ii) Mg, Mg 2+
+(iii) NO 3Q. 2 What do you understand by solution culture ? How is it used to study the mineral
+requirements of plants.
+Ans. Solution culture : It is a method in which plants are grown in solutions.
+(i) In this method a set of waterproof earthern vessels or troughs are taken. These are filled
+with nutrient solution.
+(ii) In one vessel, normal nutrient solution is taken while in other, the same nutrient solution
+minus one of the elements (whose effect you want to study is taken).
+(iii) In these seedlings of same size, species are now grown. The growth, appearance and
+symptoms displayed by the seedlings are then noted.
+Q. 3. What is hydroponics ? Give an application of this technique.
+Ans. Hydroponics is the technique of growing plants with their roots are immersed in the
+nutrient solution without soil.
+(i) It is useful in areas having infertile and dry soils.
+(ii) It is useful to cultivate plants in the areas deficient in one or more nutrient.
+Q. 4. In what form do plants absorb phosphorus from the soil ? Name one cell organelle
+and one organic molecule that require phosphorus in the cell. List any two phosphorus
+deficiency symptoms in leaves.
+Ans. (i) Plants absorb phosphorus from the soil in the form of phosphate ions (either as H2PO-4
+4 or as H2PO 2 ).
+(ii) Phosphorus is a constituent of cell membrane.
+
+(iii) It is a constituent of nucleic acids, proteins and the nucleotides.
+(iv) Two phosphorus deficiency symptoms are :
+(a) Delay in seed germination.
+(b) Purple spots on the leaves of the plants.
+Q. 5. Give the classification of mineral needed by plants on the basis of their diverse
+function.
+Ans. Essential elements are grouped into the following categories on the basis of their
+functions :
+(i) Structural Elements : Carbon (C), hydrogen (H), oxygen (O) and nitrogen (N), sulphur
+(S), phosphorus (P) and magnesium (Mg).
+(ii) Bio-catalytical Elements : They form part of biocatalysts e.g., iron (Fe), copper (Cu),
+manganese (Mn) and cobalt (Co).
+(iii) Indispensable Elements : They are potassium, calcium, boron and molybdenum.
+(iv) Stimulating Elements : Sodium, arsenic, titanium, nickel, bromine, rubidium, chlorine,
+cobalt and iodine are examples of these.
+Q. 6. Write one function of sulphur, potassium and iron?
+
+[KVS Agra 2016]
+
+Ans. Functions of sulphur, potassium and iron are:
+(i) Sulphur : Chlorophyll formation and nodule formation in legumes.
+(ii) Potassium : It plays important role in energy transfer and cell division.
+(iii) Iron : It is involved in development of chloroplast, chlorophyll and other pigments.
+Q. 7. The ammonia that is absorbed by the plants is used to synthesize various amino
+acids. Explain the main two ways by which this is done.
+[KVS Silchar
+2017]
+Ans. At physiological pH, the ammonia is protonated to form NH4+ (ammonium) ion while
+most of the plants can assimilate nitrate as well as ammonium ions, the latter is quite toxic to
+plants and hence cannot accumulate in them.
+There are two main ways by which this can take place :
+(i) Reductive amination : In these processes, ammonia reacts with α-ketoglutaric acid and
+The two most important amides - asparagine and glutamine - found in plants are a structural
+part of proteins. They are formed from two amino acids, namely aspartic acid and glutamic
+acid, respectively, by addition of another amino group to each. The hydroxyl part of the acid is
+replaced by another NH 2-radicle.
+Q. 8. What is non-symbiotic N2 fixation? Give examples of some microorganism.
+[KVS Guwahati 2016]
+Ans. When atmospheric nitrogen fixation takes place by free living bacteria or cyanobacteria
+without showing any mutual relationship with any other species is called non-symbiotic
+
+nitrogen fixation. E.g. 𝐴𝑧𝑜𝑡𝑜𝑏𝑎𝑐𝑡𝑒𝑟, 𝐴𝑛𝑎𝑏𝑎𝑒𝑛𝑎, 𝑁𝑜𝑠𝑡𝑜𝑐.
+Q. 9. (i) Name the enzyme involved in nitrogen fixation by 𝑹𝒉𝒊𝒛𝒐𝒃𝒊𝒖𝒎.
+(ii) Name the pigment seen in root nodules of leguminous plants and explain its role in
+nitrogen fixation.
+(iii) Explain the two ways by which NH4+ is used to synthesise amino acids in plants.
+[KVS Mumbai 2016]
+forms glutamic acid as indicated in the equation given below:
++
+𝒂-ketoglutaric acid + NH + NAD
+𝟒
+
+(ii) Transamination: It involves the transfer of amino group from one amino acid to the keto
+group of a keto acid. Glutamic acid is the main amino acid from which the transfer of NH 2, the
+amino group takes place and other amino acids are formed through transamination. The
+enzyme transaminase catalyses all such reactions.
+For example,
+
+Ans. (i) Nitrogenase
+(ii) Leghaemoglobin : Leghaemoglobin is pinkish pigment found around bacteroides of
+𝑅ℎ𝑖𝑧𝑜𝑏𝑖𝑢𝑚 inside the cells of legume roots that protects the nitrogenase from oxygen.
+Leghaemoglobin absorbs oxygen and thus it creates anaerobic conditions inside the root
+nodule. The enzyme nitrogenase is functional only under anaerobic conditions.
+(iii) Ammonium ion is converted into amino acids by two methods : Reductive amination and
+Transamination.
+Q. 10. What is nitrification Name two nitrifying bacteria of soil.
+Ans. Nitrification refers to the phenomenon of conversion of ammonia into NO 2- (nitrite) and
+then into NO 3- (nitrates).
+Two nitrifying bacteria are :
+(i) 𝑁𝑖𝑡𝑟𝑜𝑠𝑜𝑚𝑜𝑟𝑎𝑠: It converts ammonía (NH 3) into nitrites (NO 2-).
+2NH3 + 3O2 → 2H+ 2H2O + 2NO2(ii) 𝑁𝑖𝑡𝑟𝑜𝑏𝑢𝑐𝑡𝑒𝑟 : It converts nitrites into nitrates.
+2NO2- + O2 → 2NO3
+
+Q. 11. What do you understand by reduction of nitrite?
+Ans. (i) Reduction of nitrite to ammonia is carried out by an enzyme called nitrite reductase.
+(ii) This enzyme does not contain molybdenum but requires copper and iron as activators. It
+requires a reducing power, which is NADPH.
+(iii) The process of reduction also requires ferredoxin which occurs in the higher plants mostly
+in the leaves and hence this step is carried out in the leaves.
+Q. 12. In the root nodules of leguminous plants, what is the role of nitrogenase and
+leghaemoglobin?
+Ans. (i) The enzyme nitrogenase in root nodules of legume plants catalyses the conversion of
+atmospheric N2 to ammonia (NH 3).
+N2 + 8e- + 8H+ + 16ATP → 2NH3 + H2 + 16ADP + 16Pi
+(Nitrogen)
+
+(Ammonia)
+
+(ii) Leghaemoglobin is an oxygen scavenger. It protects nitrogenase from oxygen.
+Q. 13. Differentiate between: (i) Chlorosis and Necrosis, (ii) Mottling and Interveinal
+chlorosis, (iii) Haemoglobin and Leghaemoglobin.
+Ans. (i)
+S. No.
+(i)
+
+Chlorosis
+The yellowing of leaves due to
+reduction of chlorophyll content in a
+green part is known as chlorosis.
+
+Necrosis
+The death of a cell or a group of
+cells in a living plant is known as
+necrosis.
+
+(ii)
+
+It is caused due to the deficiency of
+Magnesium, Sulphur, Iron, Manganese and Nitrogen.
+
+It is caused due to deficiency of Ca, Mg,
+Cu and K.
+
+(ii)
+S.No.
+(i)
+
+Mottling
+It is the patchy appearance of green and
+non-green areas of a leaf.
+
+Interveinal chlorosis
+The yellowing of leaf between the
+veins is called interveinal chlorosis.
+
+(ii)
+
+It is caused due to the deficiency of zinc and
+molybdenum.
+
+It is caused due to the deficiency of
+iron and molybdenum.
+
+(iii)
+S.No.
+(i)
+
+Haemoglobin
+It is found in animals.
+
+Leghaemoglobin
+It is found in root nodules of leguminous
+plants.
+
+(ii)
+
+It is bright red in colour.
+
+It is reddish pink in colour.
+
+(iii)
+
+It acts as an oxygen carrier.
+
+It acts as an oxygen scavenger.
+
+(iv)
+
+It transports oxygen in the bodies
+of animals.
+
+It protects the enzyme nitrogenase.
+
+Q. 14. Describe the process of progressive reduction of one molecule of nitrogen
+during fixation in leguminous plants.
+Ans. Process of progressive reduction of one molecule of nitrogen during fixation in
+leguminous plants:
+(i) The nodules are the sites of nitrogen fixation in leguminous plants. Nodules contain
+leghaemoglobin (Lb) and the enzymenitrogenase.
+(ii) Leghaemoglobin is a pink colour pigment similar to haemoglobin of vertebrates and
+functions as an oxygen-scavenger and protects the nitrogenase from oxygen.
+(iii) During this process, a dinitrogen (N ≡ N) molecule is reduced by the addition of hydrogen
+atoms into two molecules of ammonia catalysed by the nitrogenase enzyme.
+(iv) It requires (a) a strong reducing agent, (b) energy in the form of ATP to transfer the
+hydrogen atom and (c) the enzyme systems. The reaction is as follows:
+N2 + 8e- + 8H+ + 16 АТР → 2NH3 + H2 + 16 ADP + 16 Pi
+Q. 15. The toxicity symptoms of manganese are actually the combined deficiency
+symptoms of iron, magnesium and calcium. Explain.
+Ans. The prominent symptom of manganese toxicity is the appearance of brown spots
+surrounded by chlorotic veins. This is due to reduction in uptake of iron and magnesium,
+inhibition of binding of magnesium to specific enzymes and inhibition of calcium translocation
+in shoot apex. Therefore, excess of manganese causes deficiency of iron, magnesium and
+calcium. Thus the toxicity symptoms of Mn are actually the combined deficiency symptoms of
+Fe, Mg and Ca.
+Q. 16. Describe two important functions of each of the element P Fe and Zn in green
+plants. Mention deficiency symptoms of any two of these elements.
+Ans. Phosphorus (P) : It forms the constituent of cell membrane protein, nucleic acids, ATP,
+NADP and energy rich compounds. Deficiency symptoms : It causes poor growth, leaves
+become dull green and chlorosis occurs. Iron (Fe): It helps in the synthesis cytochrome and
+ferredoxin. It activates enzyme catalase. Deficiency symptoms : It results in chlorosis.
+Zine (Zn) : It activates enzyme synthesis. It is a constituent of carbonic anhydrase. This is a
+also cnstituent of dehydrogenase. Deficiency symptoms : Leaves are not properly formed.
+
+

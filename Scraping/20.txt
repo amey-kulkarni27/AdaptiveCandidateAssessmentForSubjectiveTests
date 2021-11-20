@@ -1,0 +1,405 @@
+Short Answer Type Questions-II
+Q. 1. What are the various types of nitrogen bases found in DNA ? Name the type of
+bond seen between (i) two nitrogen bases of DNA (ii) phosphate and hydroxyl group of
+sugar of DNA.
+[KVS Silchar 2017]
+Ans. Types of nitrogenous bases found in DNA are:
+(a) Adenine : Abbreviated 'A', has a 2-ring structure, so that it is a purine.
+(b) Thymine: Abbreviated T, is a pyrimidine, which. means it has a 1-ring structure. It's only
+present in DNA, where it pairs with adenine.
+(c) Guanine: Abbreviated 'G', is part of both DNA, where it bonds with cytosine.
+(d) Cytosine : abbreviated C, is part of DNA and bonds with guanine. It has one ring, so it's
+a pyrimidine.
+(i) Hydrogen bond
+(ii) Phosphodiester bond
+Q. 2. Give the structural formula of (i) adenine (ii) adenosine (iii) adenylic acid.
+[KVS Agra 2017]
+Ans.
+
+Q. 3. Describe the primary, secondary and tertiary structure of a protein ? [KVS Agra
+2016]
+Ans. (i) Primary Structure : The linear sequence of amino acids units in a polypeptide chain
+is called the primary structure of protein molecule.
+Ribonuclease an enzyme, is a protein with primary structure only.
+(ii) Secondary Structure : The polypetides chain that forms a 3-dimensional structure, is
+called as secondary structure. It possess three forms :
+
+(a) α helix: The coils of helix are held together by hydrogen bonds between amino acids.
+(b) β helix : More than one chain lie side by side joined together by hydrogen bonds between
+the carboxyl group of amino acids.
+(c) Collagen proteins: It is a right handed super helix formed by the twisting of three helices
+of polypeptide chains interwined with each other.
+(iii) Tertiary Structure : The tertiary structure of protein brings distant amino acid side, chains
+nearer to form active sites of enzyme proteins. The tertiary structure is maintained by weak
+bonds, such as hydrogen, ionic and hydrophilic hydrophobic bonds, formed between one part
+of a polypeptide and another The biological activity of a protein molecule depends largely on
+the specific tertiary structure Tertiary structure is found in globular proteins.
+Q. 4. RNA and DNA are the basic genetic material of living beings. Write three points of
+difference between them.
+[KVS Guwahati 2016]
+Ans. Difference between DNA and RNA is :
+S.No.
+DNA
+(i)
+It usually occurs inside the nucleus
+and some cell organelles.
+(ii)
+DNA is the genetic material
+(iii)
+
+It is double stranded except some
+viruses.
+(iv)
+It contains deoxyribose sugar.
+(v)
+Nitrogen base thymine occurs in DNA
+along with three others-adenine,
+cytosine and guanine
+(Any three)
+
+RNA
+Very little RNA occurs inside the nucleus.
+Most of it is found in the cytoplasm.
+RNA is not the genetic material except in
+certain viruses.
+RNA is single stranded with exception of
+some viruses.
+It contains ribose sugar.
+Thymine is replaced by uracil. The other
+three are similar.
+
+Q. 5. Distinguish between Biomicromolecules and Biomacromolecules.
+Ans.
+S.No.
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+
+Biomicromolecules
+Small in size.
+Low molecular weight.
+Possess simple structure.
+Found as molecular solution in intracellular fluid.
+Building blocks (monomers) of macromolecules.
+E.g., inorganic water compounds
+(mineral salts, gases), organic
+compounds (sugars, lipids, nucleotides).
+
+Biomacromolecules
+Large in size.
+High molecular weight.
+Possess complex structure.
+Found as colloidal solution in intracellular fluid.
+Constituted by polymerization of
+macromolecules.
+E.g., only organic compounds (polysaccharides, proteins and nucleic acids).
+
+Q.6. What is the difference between nucleotide and nucleoside ? Give one example of
+each.
+Ans.
+S.No.
+Nucleotide
+(i)
+Nucleotide is made up of base, sugar and
+phosphoric acid.
+(ii)
+Nucleotide of RNA is called ribonucleotide and nucleotide having deoxyribonucleotide is called deoxyribonucleotide.
+(iii)
+
+Example : Adenylic acid, guanylic acid,
+cytidylic acid, thymidylic acid, uridylic
+acid, AMP.
+
+Nucleoside
+Nitrogenous base and sugar form a
+nucleoside.
+Nucleoside with - ribose sugar is
+called riboside or ribonucleoside.
+Nucleoside with deoxyribose sugar is
+called deoxyribonucleoside.
+Example: Adenosine, guanosine,
+cytidine, thymidine and uridine.
+
+Q. 7. What are nucleotides ? Describe their structure. [KVS Guwahati 2016]
+Ans. Nucleotides are the building blocks of nucleic acids. They are composed of three subunit
+molecules:
+(i) Nitrogenous bases : Cytosine (C). Thymine (T), Adenine (A), Guanine (G).
+(ii) Five carbon sugar.
+(iii) Phosphate group.
+The phosphate group and 5-carbon sugar compose the backbone of the double helix, while
+the nitrogenous bases are located in the middle and are bonded to each other.
+Q. 8. What is meant by tertiary structure of protein? Why a tertiary structure is essential
+for a protein?
+[KVS Mumbai 2016]
+Ans. The complex three dimensional shape formed by the coiling and folding of helical
+polypeptide chain is known as tertiary structure of proteins. Such structure are held together
+by weak bonds formed between various parts of polypeptide chain. The biological activity of a
+protein molecule depends largely upon the specific tertiary structure.
+Q. 9. List out six major proteins and their functions.
+Ans. Collagen - Intercellular ground substance
+Trypsin - Enzyme
+Antibody - Fights infectious agents
+Receptor - Sensory perception
+GLUT-4 - Enable glucose transport into cells.
+Insulin – Hormone
+
+Q.10. List any five functions of nucleic acids.
+Ans. (i) DNA is a genetic material which carries all the hereditary information.
+(ii) DNA also transfer genetic information from one generation to other.
+(iii) RNAs are involved in the expression of genetic code of DNA by forming specific protein.
+(iv) Some RNAs act as enzyme.
+(v) RNA helps in protein synthesis. (Any three)
+Q. 11. What are fatty acids ? Compare saturated and unsaturated fatty acids.
+Ans. Fatty acids : Fatty acids are organic acids with a long hydrocarbon chain ending in
+carboxyl group (-СООН).
+Characteristics of fatty acids are:
+(i) Has a long chain of carbon atoms.
+(ii) Is insoluble in water.
+(iii) Is soluble in organic solvents.
+(iv) Must leave an oily spot on a piece of paper.
+(i) Saturated fatty acids : They do not have any double bond in between carbon atoms of
+molecular chain. Examples are:
+Palmitic acid - CH3 (CH2)14СООН
+Stearic acid – CH3 (CH2)16СООН
+(ii) Unsaturated fatty acids: They have one or more double bonds in between carbon atoms
+of molecular chain. Unsaturated fatty acids have lower melting points as compared to
+saturated fatty acids. Examples are:
+Oleic acid – CH3 (CH2)7CH = CH(CH2)7 COOH
+Linoleic acid – CH3 (CH2)4CH = (CHCH2)2 (CH2)6 COOH
+Q. 12. Differentiate between anabolic and catabolic pathways. How are the pathways
+regulated ?
+Ans.
+S. No.
+(i)
+
+Anabolic pathways
+Anabolic pathway is called anabolism.
+
+(ii)
+
+It consumes energy to make complex
+molecules like glucose.
+
+(iii)
+
+Example: Photosynthesis.
+
+Catabolic pathways
+Catabolic pathways is known as
+catabolism.
+It liberates energy by breaking
+chemical bond. Glucose is broken
+down to release energy.
+Example: Cellular respiration.
+
+Regulation of Pathways: (i) Biochemical pathways are tightly regulated by cells regulatory
+systems.
+(ii) It depends on the allosteric site on the enzyme that catalyses the first reaction in the
+pathway.
+(iii) The product of one reaction may serve as substrate for next reaction.
+(iv) The method of regulating mechanism is feedback mechanism.
+Q.13. How are amino acids bonded together ? Describe how these bonds are formed.
+Ans. Two amino acids are joined through amino group of one and carboxylic group of the
+other forming peptide group by loss of water molecule.
+
+Q.14. What are mucopolysaccharides?
+Ans. (i) Mucopolysaccharides are the slimy substances or mucilages which possess acidic or
+aminated polysaccharides formed from galactose, mannose, sugar derivatives and uronic
+acids.
+(ii) They are found inside the plant cell walls, outside the cells or bodies of bacteria, bluegreen algae, cementing layer between cells, inside body fluids, connective tissues and
+cartilages.
+Q. 15. In nutshell explain the various types of nucleic acids.
+Ans. Various types of nuclei acids are:
+S.No
+(i)
+
+Name
+Deoxyribonucleic
+acid (DNA).
+
+Type of molecule
+Shape: double
+helix; with many
+thousands of subunits.
+
+Location/site
+In nucleus, mitochondria and
+chloroplasts.
+
+Function (s)
+Acts as store of coded
+instructions; for
+synthesis of proteins
+needed by cells.
+
+(ii)
+
+Messenger
+ribonucleic acid
+(mRNA).
+
+(iii)
+
+Ribosomal
+ribonucleic acid
+(rRNA).
+
+(iv)
+
+Transfer
+ribonucleic
+acid (tRNA).
+
+Single-stranded;
+polymer, with
+hundred of subunits.
+Single-stranded
+(ss), polymer of
+less than one
+hundred sub-units.
+Single-stranded
+(ss), polymer of
+less than one
+hundred sub-units.
+
+In nucleus, cytoplasm, and ribosomes.
+Only occurs in
+ribosomes.
+
+Occurs in cytoplasm.
+
+Q. 16. Define primary and secondary metabolites.
+
+Made on DNA
+template; carry coded
+instruction for protein
+synthesis.
+Makes part of
+ribosome
+structure; helps in
+locating mRNA.
+Acts as amino acid
+carriers; takes specific
+amino acid
+from cytoplasm to
+mRNA
+template on the
+ribosomes.
+
+[KVS 2012-13]
+
+Ans. (1) Primary metabolities : Metabolites which are found in animal tissues. They play
+specific role in normal physiological process. e.g., carbohydrates, protein, fats.
+(ii) Secondary metabolites : These are metabolites found in plant, fungal and microbial
+cells as a by product of main metabolic reactions. e.g. Alkaloids, rubber, terpenoides,
+essential oils, etc.
+Q. 17. (i) On what basis are enzymes classified ?
+(ii) List any four classes of enzymes and mention their functions ? [KVS Mumbai 2016]
+Ans. Enzymes are classified according to their function and type of reaction in which they are
+taking part. Four main classes of enzymes are :
+(i) Oxidoreductases : These enzymes catalyze oxidation and reduction reactions, usually
+involving the transfer of hydrogen from one molecule to another.
+S reduced + S’ oxidized ------S oxidized + S’ reduced
+(ii) Transferases : These enzymes transfer a chemical group from one substrate to another
+but never hydrogen e.g. phosphotransferase catalyzes the transfer of a phosphate group from
+one molecule to another.
+(iii) Hydrolases : These enzymes carry out hydrolysis reactions i.e., breakdown of large
+molecules by addition of water e.g. lipases breakdown lipids into fatty acids and glycerol.
+(iv) Ligase or synthetase : These enzymes form bonds to join two molecules together, using
+energy supplied from the breakdown of ATP e.g. DNA ligase is used to repair breaks in DNA
+molecules.
+
+Q. 18. State the effect of chemicals on enzyme action with suitable example. [KVS Agra
+2016]
+Ans. The enzymes are proteins having high molecular weight. Enzymes are highly specific in
+their action. Enzymes action can be inhibited by certain chemicals. It is called enzyme
+inhibition, e.g. noncompetitive inhibition.
+Non-competitive inhibition : Some chemicals act like poison and destroy the enzyme
+structure. Non-competitive inhibitors do not resemble the substrate in structure. They inhibit
+the enzyme action by binding to the enzyme at the place other than the active site, e.g.
+cyanide inhibits the mitochondrial enzyme cytochrome oxidase which is necessary for
+respiration.
+Q. 19. Enzymes are classified into different groups based on the reaction they catalyse.
+Write the name and function of each of these groups of enzymes.
+[KVS Silchar 2017]
+OR
+In how many categories are enzymes classified?
+
+[NCT-2007]
+
+Ans. The modern system of enzyme classification was introduced by International Union of
+Biochemistry. It grouped enzymes into the following six categories :
+(i) Oxidoreductases : They take part in oxidation and reduction reactions or transfer of
+electrons.
+(ii) Transferases : They transfer group from one molecule to another e.g., glutamate pyruvate
+transaminase.
+(iii) Hydrolases : They break up large molecules into smaller ones with the help of hydrogen
+and hydroxyl groups of water molecules. The phenomenon is called hydrolysis.
+(iv) Lyases : The enzyme cause cleavage, removal of groups without hydrolysis, addition of
+groups to double bonds or reverse. e.g. aldolase.
+(v) Isomerase : The enzyme causes rearrangment of molecular structure to effect isomeric
+changes. These are of three types-isomerases, epimerases, mutase.
+(vi) Ligases : The enzyme catalyse bonding of two chemicals with the help of energy
+obtained from ATP. Е.g. pyruvate carboxylase.
+Q. 20. What are the characteristics of enzymes?
+Ans. Enzymes-characteristics:
+(i) Approximately all the enzymes are proteinaceous in nature. An enzyme/protein has a
+primary structure (amino acid sequence of protein). Enzyme like protein has secondary and
+the tertiary structure.
+(ii) The backbone of protein chain folds upon itself, chain criss-crosses itself and so several
+crevices or pockets are made out. One pocket is known as ‘active site'. So the enzymes,
+through their active site, catalyse reactions at a high rate.
+
+(iii) The enzymes get denatured at a high temperatures (above 40°C). The enzymes isolated
+from organisms who live under extremely high temperatures e.g., hot vents and sulphur
+springs, are stable and retain their catalytic power at high temperatures (upto 80°-90°C).
+(Any three)
+Q. 21. What is activation energy?
+Ans. Activation energy: It is the energy required to initiate a chemical or biochemical
+reaction. Activation energy overcomes the energy barrier of the reactants which occurs
+amongst the reactants due to (i) presence of electrons over their surface, (ii) absence of
+precise and forceful collisions, essential for bringing the reactive sites of the chemical
+together.
+
+Fig. Activation energy requirement of non catalysed and enzyme catalysed chemical reaction
+Q. 22. What is enzymatic competitive inhibition? Give one example.
+13]
+
+[KVS 2012-
+
+Ans. Enzymatic Competitive Inhibition:
+(i) Chemicals that prevent the enzyme to function, are known as inhibitors.
+(ii) Enzymatic competitive inhibition is done by the substance which closely resembles the
+substrate in its molecular structure.
+(iii) Enzyme + Inhibitor = Enzyme-inhibitor complex.
+(iv) The activity of the enzyme is limited by competitive inhibitor and no product is formed.
+Example: Malonate inhibits the action of succinic dehydrogenase because it shows close
+resemblance with the succinate substrate.
+Q. 23. Describe the steps of catalytic cycle of an enzyme action.
+OR
+Enlist four steps involved in catalytic action of an enzyme.
+
+[NCT-2011]
+[INCT-2009]
+
+Ans. Steps of catalytic cycle of an enzyme action are:
+(i) The substrate binds to the active site of the enzyme.
+(ii) This binding of the substrate induces the enzymes to alter its shape and fit more closely
+around the substrate.
+(iii) The active site of the enzyme, now is in close proximity of the substrate breaks the
+chemical bonds of the substrate and an enzyme-product complex is formed.
+(iv) The enzyme releases the products of the reaction and the free enzyme is ready to take up
+another molecule of the substrate.
+Q. 24. What is the effect of increase in substrate concentration on the rate of enzymatic
+reaction ?
+[KVS 2012-13]
+Ans. Increase in substrate concentration increases the rate of reaction. The enhanced rate is
+due to two factors :
+(i) Occupation of one and more active sites by the substrate molecules.
+(ii) Higher number of collisions between substrate molecules. The rise in velocity is quite high
+in the beginning but it decreases progressively with the increase in substrate concentration.
+
+

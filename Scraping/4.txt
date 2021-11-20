@@ -1,0 +1,193 @@
+Long Answer Type Questions
+Q.1. Describe the various salient features of Protista. Name the major groups of this
+kingdom.
+OR
+Write the distinguish features of kingdom Protista.
+OR
+Write the features of unicellular eukaryotic organisms.
+Ans. Features of Protista:
+(i) They are single celled colonial, filamentous eukaryotes.
+(ii) These grow in humid and moist environments.
+(iii) Some are photosynthetic but some are non- photosynthetic.
+(iv) Some forms are like animals whereas some are like plants.
+(v) They have membrane bound cell organelles.
+(vi) Examples are protozoa, slime moulds, Euglenoids, Chrysophytes protistan algae such as
+diatoms, dinoflagellates or phytoplanktons etc.
+(vii) The protozoan are unicellular (single celled) heterotrophs. Euglena is autotroph.
+(viii) Slime moulds are plant like or animal like.
+Theirsomatic body is called plasmodium (acellular, multinucleate, mobile mass of protoplasm
+lacking the cell wall).
+The major groups of this kingdom are:
+(a) Photosynthetic protist or protistan algae.
+(b) Consumer decomposer protists - Slime moulds.
+(c) Protozoan protists.
+Q. 2. Compare the salient features of Monera and Protista.
+Ans.
+S. No.
+
+Salient Features
+
+Monera
+
+Protista
+
+(i)
+
+Cell types
+
+Prokaryotic Type
+
+Eukaryotic type.
+
+(ii)
+
+Cell wall
+
+Non-Cellulosic
+
+Cellulosic
+
+(iii)
+
+Chloroplasts
+
+Absent
+
+(iv)
+
+Body Organization Cellular
+
+Found in some
+𝑒. 𝑔. , 𝐸𝑢𝑔𝑙𝑒𝑛𝑎.
+Celluar
+
+(v)
+
+Mode of Nutrition
+
+Autotrophic
+
+Autotrophic and
+heterotrophic.
+
+Q. 3. Classify bacteria on the basis of their shape.
+Ans. Bacteria are classified as given below:
+(i) Cocci : They are oval or spherical in shape. When they occur singly, they are called
+Micrococcus; if in pairs Diplococcus; if in a chain, Streptococcus; and if occur in clusters,
+Staphylococcus.
+(ii) Bacilli: They are rod-like, with or without flagella. Flagella may be present at one or both the
+ends or around cells. Bacteria may occur singly, Bacillus; or in pairs, Diplobacillus or may form
+filaments, Streptobacillus.
+(ii) Vibrio : They are small and curved like commas. These are mostly motile.
+(iv) Spirillum : These are twisted like a screw. They have flagella at one end or both the ends.
+Certain bacteria possess flagella for locomotion.
+Q. 4. Describe the major groups of Protista.
+Ans. The kingdom Protista includes unicellular, eukaryotic organisms. They include both
+Posynthetic and non-photosynthetic forms. The kingdom Protista includes protistan algae,
+slime moulds and protozoans.
+(i) Protistan algae: They are photosynthetic protists. They include dinoflagellates and diatoms.
+(a) Dinoflagellates: These are golden brown biflagellated Photosynthetic protists. They
+possess cellulose wall in the form of distinct interlocking plates.
+(b) Diatoms: They are group of golden brown Photosynthetic protists which are covered by two
+valved silicious wall called shell or frustule. They pile up at the bottom water reservoirs and form
+big heap called diatomite.
+(ii) Slime moulds : Slime moulds are both plants and animals like. They are plant like in the
+production of spores, and animal like in the mode of nutrition and somatic organisation. It moves
+freely on the substratum and feeds on bacteria, fungal and algal spores and also absorb
+nutrients directly from the substratum.
+(iii) Protozoa : These are microscopic unicellular organisms with varied shapes and forms. This
+may be free living, commensal or parasitic. They lack cell wall, but some possess proteinaceous
+flexible pellicle.
+Locomotion occurs by pseudopodia, flagella or cilia. These reproduce asexually by binary
+fission. Some reproduce sexually by conjugation.
+Q. 5. Write Short notes on:
+(i) Methanogens
+(ii) Halophiles
+(iii) Thermoacidophiles.
+
+Ans. (i) Methanogens: (1) The archaebacteria are strict anaerobes. Nutritionally they are
+"autotrophs" which obtain both energy and carbon from decomposition products. (2) They occur
+in marshy areas where they convert formic acid and carbon dioxide into methane. (3) This
+capability is commercially exploited in the production of methane and fuel gas inside gobar gas
+plants. e.g., Methanobacterium, Methanococcus.
+(ii) Halophiles: (1) Halophiles are named so because they usually occur in salt rich substrata
+like salt plant, and salt marshes 𝑒. 𝑔., Halobacterium, Halococcus. (2) They are aerobic
+chemoheterotrophs. Their cell membrane have red carotenoid pigment for protection against
+harmful solar radiations. (3) Halophiles are able to live under high salt conditions due to three
+reasons:
+(a) Presence of special lipids in the cell membranes.
+(b) Occurence of mucilage covering.
+(c) Absence of sap vacuoles and hence plasmolysis
+(iii) Thermoacidophiles : (1) These archaebacteria have dual ability to tolerate high
+temperature as well as high acidity. (2) They often live in hot sulphur springs where the
+temperature may be as high as 80°C and pH as low as 2, 𝑒. 𝑔. , 𝑇ℎ𝑒𝑟𝑚𝑜𝑝𝑙𝑎𝑠𝑚𝑎 𝑡ℎ𝑒𝑟𝑚𝑜𝑝𝑟𝑜𝑡𝑒𝑢𝑠.
+(3) These archaebacteria are chemosynthetic. (4) Under aerobic conditions they usually oxidise
+sulphur to sulphuric acid.
+2S + 2H2O +3O2 → 2H2SO4
+Thermoacidophiles are able to tolerate high temperature and high acidity due to two reasons:
+(a) Branched chain lipids in the cell membranes.
+(b) Presence of special resistant enzymes capable of operating under acidic conditions.
+Q.6. Briefly describe the cell structure of blue-green algae.
+Ans. (i) Cyanobacteria or blue-green algae are gram(+) photosynthetic prokaryotes which
+perform oxygenic photosynthesis
+(ii) Cell structure is typically prokaryotic-one envelope organisation with peptidoglycan wall
+naked DNA, 70S ribosomes, devoid of membrane bound cell organelles.
+(iii) The outer part of the protoplast contains a number of photosynthetic thylakoids. It is called
+as chromoplasm.
+(iv) Their membranes contain chlorophyll a, carotenes and xanthophylls. Chlorophyll b is
+absent.
+(v) DNA lies coiled generally in central part of the cytoplasm known as centroplasm.
+(vi) Small circular DNA segments may also occur in nucleoid, known as plasmid or transposons.
+Q. 7. What are the salient features of kingdom Fungi?
+
+Ans. Kingdom Fungi : The kingdom fungi, includes achlorophyllous, spore producing,
+multicellular, eukaryotic organisms .
+Salient features:
+(i) The body of fungi is filamentous called mycelium. The filaments are known as hyphae.
+(ii) The hyphae are either multicellular or coenocytic i.e. multinucleate and without cross walls.
+(iii) The cell wall contain chitin and non-cellulosic polysaccharides N-acetyl - glucosamine.
+(iv) They have two envelop type of cellular organisation.
+(v) The are heterotrophic with absorptive type of nutrition. It is either saprobic or parasitic.
+Saprobic fungi excrete digestive enzymes in the external medium to make complex organic
+matter soluble for absorption. Parasitic fungi absorb nourishment directly from another
+living organism called host.
+(vi) Reserve food is glycogen and fat.
+(vii) Reproduction is both asexual and sexual. Asexual reproduction takes place by spores like
+zoospores, conidia, ascospores and basidiospores. Sexual reproduction involves fusion of
+similar gametes. In some fungi, the fusion of two haploid (n) cells results in diploid (2n) cell or
+zygote.
+(viii) Many fungi act as decomposers and mineralisers and thus, play an important role in
+nutrient cycling in the biosphere.
+Q. 8.. Explain in detail the various methods of asexual reproduction in fungi.
+Ans. Special types of reproductive cells are formed in asexual reproduction in fungi. They are
+known as spores. Spores formed by mitosis are known as mitospores whereas some spores are
+produced after meiosis and they are called meiospores.
+Many kinds of asexual spores are formed in fungi :
+(i) Zoospores: Zoospores are motile, 𝑒. 𝑔. Phycomycetes. They may have one or two
+flagella. On germination, zoospores produces new mycelium.
+(ii) Sporangiospores: They are non-flagellate spores that develop inside sporangia. They are
+usually dispersed by air currents, e.g., mucor, Rhizopus.
+(iii) Oidia : Some oval or spherical spores are found in 𝑅ℎ𝑖𝑧𝑜𝑝𝑢𝑠. They are formed by the small
+segment of hyphae under condition of excess water, sugar and salts.
+(iv) Conidia: Conidia are formed in some fungi as a means of asexual reproduction. They are
+born on conidiospores e.g. Penicillium.
+(v) Chlamydospores: Thick walled resting spores are produced in some fungi. They may be
+terminal or intercalary.
+Q.9. Give the salient features of kingdom Plantae.
+Ans. Kingdom Plantae contains all photosynthetic eukaryotic multicellular organisms and their
+non-photosynthetic relatives..
+
+The salient features of kingdom Plantae are:
+(i) Organisms are multicellular except for some algae.
+(ii) They are eukaryotic.
+(iii) Body form is less regular and Growth is usually indefinite.
+(iv) Mode of nutrition is oxygenic photosynthesis.
+(v) The photosynthetic regions contain chlorophyll.
+(vi) The plants are usually fixed or free-floating.
+(vii) Structural differentiation into tissues is found except for certain algae.
+(viii) The cells contain central vacuoles.
+(ix) Food reserve is usually starch and fat.
+(x) Some of the plants are heterotrophic such as insectivorous plants.
+(xi) Reproduction is both asexual and sexual. Accessory spores are present in lower plants.
+
+

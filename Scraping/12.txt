@@ -1,0 +1,118 @@
+Very Short Answer Type Questions
+Q.1. Where are the photosynthetic pigments located in the chloroplast ?
+Ans. Photosynthetic pigments are located in the thylakoid membrane
+Q. 2. Where are the pigment located in photosynthetic bacteria ?
+Ans. The pigments in photosynthetic bacteria are located in the folds of cell membrane.
+Q. 3. What will happen if a plant is given only green light ?
+Ans. If a plant is given only green light, no photosynthesis will occur. Green light is not
+absorbed by the photosynthetic pigments as it is reflected back as such.
+Q. 4. Name the central element present in chlorophyll.
+Ans. Magnesium is the central element in chlorophyll.
+Q. 5. Which chlorophyll is termed as universal photosynthetic pigment ?
+Ans. Chlorophyll ′𝑎’
+Q.6. Name the photosynthetic pigment which can be converted to vitamin A.
+Ans. 𝛽 -carotene can be converted to vitamin A.
+Q. 7. Mention the difference between the structis chlorophyll ′𝒂′ and chlorophyll ′𝒃’.
+Ans. Chlorophyll 'a’ has methyl (C H3 ) group and Chlorophyll ′𝑏’, has an aldehyde (CHO)
+group.
+Q. 8. What is the main function of Chlorophyll pigment ?
+Ans. To absorb light of specific wavelength in the visible regions.
+Q.9. A potted plant otherwise kept in sunlight, is shifted to monochromatic red light.
+Will the rate of photosynthesis increase, decrease or remain the same?
+Ans. Decrease.
+Q.10.What are chromatophores?
+Ans. Chromatophores are pigment containing and light-reflecting cells or group of cells found
+in bacteria and wide range of animals.
+Q.11.Name the two classes of pigments in bacteria.
+Ans. The two classes of pigments in bacteria are:
+(i) Bacteriochlorophyll (reddish purple pigment)
+(ii) Bacterovirdin (green pigment).
+Q.12.Name the organism used by Engelmann to study first action spectrum of
+photosynthesis
+
+Ans. 𝐶𝑙𝑎𝑑𝑜𝑝ℎ𝑜𝑟𝑎.
+Q. 13. Name the most abundant enzyme in the world ?
+
+[KVS Mumbai 2016]
+
+Ans. RuBisCO
+Q. 14. How many molecules of ATP and how many molecules of NADPH + 𝐇+ are spent
+to fix three molecules of C𝐎𝟐 ?
+[KVS Agra 2016]
+Ans. Fixation of three molecules of CO2 uses 9 ATP and 6 NADPH molecules in C3 plants.In
+C4 plants for fixation of 3 CO2 molecules 15 ATP and 6 NADPH and 6 NADPH energy is
+equired.
+Q. 15. What is the site of formation of glycoxylate from glycolate?
+Ans. The site of formation of glyoxylate from glycolate is peroxisomes of mesophyll cells.
+Q. 16. Why are the 𝐂𝟒 plants more efficient in picking up C𝐎𝟐 when it is found in low
+concentration.
+Ans. The C4 plants are more efficient in picking up CO4 even when it is found in low
+concentration because of the high affinity of PEP.
+Q. 17. Give two examples of 𝐂𝟒 plants.
+Ans. (i) 𝐸𝑥𝑝𝑖𝑏𝑜𝑟𝑏𝑖𝑎, (ii)𝐵𝑜𝑢𝑔𝑎𝑖𝑛𝑣𝑖𝑙𝑙𝑒𝑎.
+Q. 18. What is assimilatory power ?
+Ans. Chemical energy of ATP and reducing power of NADP H2 , are assimilatory powers.
+Q. 19. In what form carbohydrates are translocated in plants ?
+Ans. Carbohydrates are translocated in plants in the form of sucrose.
+Q. 20. What is photon ? What is the term given to the energy contained in photon ?
+Ans. Discrete partidles believed to be present in light are called photons. The energy
+contained in a photon is termed as quantum.
+Q. 21. Why are the C, plants more affected by high temperatures ?
+Ans. At high temperature 𝐂𝟑 plants are more affected because of increased affinity of
+RuBisCo to oxygen.
+Q. 22. Name three cell organelles involved photorespiration.
+Ans. Chloroplast, Mitochondria and Peroxisomes.
+Q. 23. Name the C𝐎𝟐 acceptor in 𝐂𝟒 cycle.
+Ans. PEP (Phosphoenol Pyruvic acid).
+Q.24. What are quantasomes ?
+
+Ans. It is a distinct morphological structural unit in the thylakoid which embodies a
+photosynthetic unit.
+Q. 25. A potted plant otherwise kept in sunlight,ih shifted to monochromatic red light
+Will the rate of photosynthesis increase, decrease or remain the same ?
+Ans. Decrease.
+Q. 26. Where is NADP reductase enzyme located ?
+Ans. NADP reductase enzyme is located on the stroma side of the membrane.
+Q. 27. How does the light beyond the saturation point affect photosynthesis?
+Ans. Beyond the saturation point, an increase in incident light causes the breakdown of
+chlorophyll and a decreased process of photosynthesis.
+Q. 28. What is Kranz anatomy ?
+Ans. Kranz anatomy is the special structure of leaves in C4 PLANTS (eg. maize) where the
+tissue equivalent to the spongy mesophyll cells is clustered in a ring around the leaf veins,
+outside the bundle-sheath cells.
+Q. 29. Which compound acts as C 𝐎𝟐 acceptor in Calvin cycle ?
+Ans. Ribulose-1-5-biphosphate, a 5-carbon compound is the acceptor of C O2 in Calvin cycle.
+Q. 30. Name the primary acceptor of carbon dioxide in 𝐂𝟑 and 𝐂𝟒 plants.
+Ans. C3 plants : 5 Carbon Ketose Sugar, Ribulose-1,5- bisphosphate (RuBP) C4 plants: 3Carbon molecule phosphoend pyruvate (PEP).
+Q. 31. Name the hormones which increase and decrease the rate of photosynthesis.
+Ans. Cytokinins and gibberellins increase and ABA decrease the rate of photosynthesis.
+Q. 32. Why are transitional curves produced during low of limiting factor?
+Ans. The transitional curves are produced because of the presence of a large number of
+green cells and numerous chloroplast in the cell.
+Q. 33. Define light compensation point ?
+Ans. The point in light intensity where no gaseous exchange occur during photosynthesis is
+called as light compensation point.
+Q. 34. What is C𝐎𝟐 compensation point ?
+Ans. When CO2 conc. is reduced, there comes a point at which illuminated plant stop
+absorbing CO2 from the environment, it is known as C O2 compensation point.
+Q. 35. Name the first C𝐎𝟐 fixation produced in 𝐂𝟒 plants.
+Ans. Oxaloacetic acid (OAA)
+
+Q. 36. What is Warburg effect?
+Ans. At very high oxygen content, the rate of photosynthesis begins to decline in all plants,
+this phenomenon is called Warburg effect.
+Q. 37. What is red drop ?
+
+[Imp.]
+
+Ans. Red drop is the occasional fall in photosynthetic yield beyond red region of spectrum
+(Emersor 1943). This is also called Emerson effect.
+Q. 38. What are antennae in photosystem ?
+Ans. Antennae refers to all the pigments of the photosystem except the pigment molecule
+(Chl’a’) that forms the reaction centre.
+Q. 39. Where does calvin cycle takes place in (i) a 𝐂𝟑 plant and (i) a 𝐂𝟒 plant
+respectively.
+Ans. (i) In a C3 plant, it takes place in the mesophyll cells.
+(ii) In a C4plant, calvin cycle takes place in the bundle sheath cells.
+
+

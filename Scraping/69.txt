@@ -1,0 +1,155 @@
+Short Answer Type Questions-II
+Q. 1. Where does mitosis take place in plants and animals? What is its significance in
+multicellular organisms?.
+[KVS Agra 2017]
+Ans. It takes place both in somatic and reproductive cells of the plants and animals.
+In multicellular organisms, mitosis produces more cells for growth and repair. Mitosis division
+is responsible for growth and development of a single-celled zygote into a multicellular
+organism. Mitosis division helps in maintaining the proper size. Mitosis also helps in restoring
+wear and tear in body tissues, replacing damaged or lost part, healing wounds and regeneration
+of detached parts.
+Q. 2. Draw a labelled diagram of anaphase of mitosis.
+Write any two key features of this phase.
+
+[KVS Sichar 2017]
+
+Ans. Two key features are:
+(i) Fibres uniting chromosomes with poles of spindle starts contraction until daughter
+chromosomes are completely distinct from one another. Contraction of fibres pulls the groups of
+chromosomes further apart to their respective poles.
+(ii) The chromosomes move to their poles through
+cytoplasm.
+
+Fig. The behaviours of chromosomes at late anaphase n relation to chromosomal, polar
+and interzonal spindle fibres
+Q. 3. (i) What is meant by cytokinesis?
+(ii) How cytokinesis in plants differ from that in animals?
+
+(iii) With reference to the cell types undergoing mitosis differentiate between animal cells and
+plant cells.
+Ans. (i) Cytokinesis is the cytoplasmic division of a cell at the end of mitosis or meiosis,
+which bring about the separation into two daughter cells.
+(ii) In animal cell, division of cytoplasm likes by cleavage while in plant cell, division of
+cytoplasm takes place by cell-plate formation.
+(iii) In plants & new cell wall is fashioned between the new daughter cells, while in animal cells
+the cell membrane constricts to pinch the parent cell into daughter cells.
+Q. 4. What are the factors controlling cell division?
+Ans. Factors controlling cell division are:
+(i) Cell size: Cells capable of division attain a particular size and then undergo division.
+(ii) Karyoplasmic ratio: Rise in cell volume disturbs karyoplasmic ratio. It stimulates the cell to
+divide.
+(iii) Mitogens: Mitogens, are agents, factors or substances that trigger cell division.
+Q. 5. Differentiate between
+(i) S-phase and G2 phase,
+(ii) G1 phase and G2 phase.
+Ans. (i)
+S. NO.
+
+S-phase
+
+G2 phase
+
+(i)
+
+It is called synthetic phase.
+
+It is called pre-mitotic phase.
+
+(ii)
+
+Replication of DNA occurs.
+
+(iii)
+
+It lasts for 6-8 hours.
+
+RNA of all three types and. Proteins for
+asters and spindle in it.
+It lasts for 2-5 hours.
+
+(ii)
+S. No.
+(i)
+(ii)
+(iii)
+
+G1 phase
+
+G2 phase
+
+It is called first growth period.
+Its duration is variable.
+Cells grow in size.
+
+It is Post growth phase.
+It lasts for 2-5 hours.
+Cell prepares to go into mitotic phase.
+
+Q.6. Define the following : (i) Meiosis, (ii) Amitosis, (iii) G2 phase.
+Ans. (i) Meiosis: Meiosis is a double division that takes place in a diploid cell (2N) and involves
+reduction of chromosome number to half and forms four haploid cells. It reduces number of
+chromosomes to half. So it is popularly termed as the reduction division.
+
+(ii) Amitosis : It is a simple method of cell division, also called direct cell division. In this, there
+is no differentiation of chromosomes and spindle. Nuclear envelope does not degenerate.
+Nucleus elongates and constricts in middle to form two daughter nuclei. It is followed by a
+centripetal constriction of cytoplasm to form 2 daughter cells.
+(iii) G2 phase (second growth phase) : It is also called pre-mitotic gap phase. It has double
+DNA content as compared to original cell (4C:2C). It produces macromolecules (RNAs,
+proteins) for multiplication of organelles, spindle formation and cell growth. G phase prepares
+a cell to undergo division.
+Q. 7. Explain anaphase of mitosis briefly.
+
+[Imp.]
+
+Ans. Anaphase of Mitosis: (i) It begins by division of centromere.
+(ii) Fibres uniting chromosomes with poles of spindle begin contracting until daughter
+chromosomes are completely distinct from one another.
+(iii) Contraction of fibres pulls the groups of chromosomes further apart to their respective
+poles.
+(iv) Contraction of fibres and separation of two groups of chromosomes is very rapid.
+(v) The chromosomes move to their poles through cytoplasm.
+(vi) They assume characteristic V-, J- or I-shaped configuration. The centromere may be in
+centre or away from it or may be at terminal end.
+For diagram : Refer to SAQ-11/Q.2
+Q. 8. How do cytokinesis takes place in plants?
+Ans. In plants cytokinesis takes by two methods:
+(a) Cleavage method: This method occurs in lower plants. Cytoplasm undergo centripetal
+constriction in the middle to form two daughter protoplasts, each having a single nucleus. In
+furrow, pectin hemicellulose and microfibrils of cellulose are deposited to form a double wall.
+(b) Cell plate method: In this case, the spindle persists for some time, known as phragmoplast.
+Small vesicles produced by golgi apparatus collect at the equator of the phragmoplast. The
+membrane of vesicles fuse to form film which solidifies to form cell plate.
+Q. 9. What is the necessity of meiosis II in meiosis inspite of the reduction division of
+meiosis I?
+Ans. At the end of Meiosis-I, two groups of chromosomes are produced, with each group
+having half the number of chromosomes present in the parent nucleus, therefore meiosis-I is
+called reductional division.
+But each chromosome is still a dyad i.e., formed of two sister chromatids joined at the common
+centromere.
+Though the chromosome number has been halved, each chromosome still has double
+(2N) amount of DNA. So there is need of meiosis-II during which sister chromatids of
+
+each chromosome separate into different cells. Haploidy occurs even in DNA amount. The main
+purpose of meiosis-II is to separate genetically chromosomes formed during crossing over in
+meiosis-I.
+Q. 10. Explain diakinesis of meiosis I division.
+Ans. Diakinesis of meiosis I: (i) The bivalents become condensed to the maximum. These are
+evenly distributed throughout nucleus.
+(ii) Nucleolus is detached from its chromosomes and disappears.
+(iii) The centromeres of bivalents repel each other and the chiasmata move laterally.
+(iv) As a result, the paired chromosomes are united only at the ends. This process is known as
+the "terminalization".
+(v) In big sized chromosomes with many chiasmata terminalization is never complete.
+(vi) They remain joined together until metaphase-l Nuclear membrane is broken into pieces and
+disappears then.
+(vii) Bivalents lie evenly distributed in cytoplasm without overlapping among them.
+(viii) For counting the chromosome in sexually reproducing organisms, it seems a best stage of
+cell division.
+Q.11. Name three events which are responsible for gametic consequence during meiosis.
+Ans. Three events responsible for gametic consequences during meiosis are:
+(i) The pairing of the homologous chromosomes
+(ii) The process of crossing over and recombination, and
+(iii) The segregation of homologous chromosomes.
+
+

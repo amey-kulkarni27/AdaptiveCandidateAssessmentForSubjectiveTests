@@ -1,0 +1,151 @@
+Long Answer Type Question
+Q. 1. Describe the urinary system of humans with the help of well labelled diagram.
+Ans. Human urinary system comprises a pair of kidneys, a pair of ureters, a urinary bladder
+and a urethra.
+(i) Kidneys: (a) There is pair of kidneys which are dark-red, bean shaped, each with a notch,
+the hilum on its inner side. (b) Blood vessels, lymph vessels, nerves and ureter enter or leave
+the kidney through the hilum. (c) They are situated in the anterior part of the abdominal cavity
+one on either side of the median line. (d) Last two pair of ribs (floating ribs) protect the
+kidneys. (e) The concave side of each kidney faces inwards and convex side outwards.
+(f) The right kidney is slightly lower than the left and the left kidney is little nearer to the middle
+plane than the right. (g) The kidney is metanephric.
+(ii) Ureters: (a) The ureter of each kidney leaves from the renal pelvis in the hilum region. (b)
+They are narrow, tubular structures, and open into the urinary bladder. (c) They carry urine
+from the kidneys to the urinary bladder.
+(iii) Urinary bladder: (a) It lies in the pelvic cavity and is pear shaped, muscular, sac-like
+structure. (b) The muscular layer of the urinary bladder is well developed. The latter consists
+of three layers of smooth muscle-inner and outer layer of longitudinal fibres and middle layer
+of circular fibres. (c) Both the sympathetic and parasympathetic nervous systems innervate
+the urinary bladder. (d) The urinary bladder stores urine temporarily.
+(iv) Urethra: (a) It is a canal like structure which extends from the neck of the bladder and
+leads to exterior. (b) It opens by urethral orifice infront of vaginal aperture (genital aperture).
+(c) In male, urethra is much longer which opens out at the tip of the penis by urinogenital
+aperture. (d) Thus the urethra of male carries both urine and semen.
+
+Q. 2. Difference between Ammonotelism, Ureotelism and Uricotelism.
+Ans.
+S.
+Ammonotelism
+No.
+(i)
+Excretory waste is ammonia
+(NH3).
+(ii) It is characteristic of aquatic
+animals such as protozoans,
+sponges, coelenterates,
+crustaceans, bony fishes
+and echinoderms etc.
+(iii)
+
+Excess of water is required
+to eliminate ammonia. It is
+highly toxic.
+
+(iv)
+
+Water loss is about 300-500
+ml to remove one gram of
+ammonia.
+
+(v)
+
+Ammonia is formed in liver
+cells by the deamination of
+the amino acids.
+
+Ureotelism
+
+Uricotelism
+
+Excretory waste is urea
+(NH2-CO-NH2).
+It is characteristic of
+mammals, cartilaginous
+fishes (e.g., dogfish) and
+amphibians etc.
+
+Excretory waste is
+uric acid.
+It is characteristic of
+terrestrial reptiles
+and insects. All the
+birds are uricotelic.
+
+Less water is needed, urea
+is less toxic than ammonia.
+It can be retained for some
+time in body without any
+harmful effect.
+Water loss is about 50 ml to
+eliminate one gram of urea.
+
+Much less water is
+needed. Uric acid is
+least toxic.
+
+Urea is formed in liver by
+detoxification of ammonia.
+
+Water loss is about
+10 ml to excrete out
+one gram of uric
+acid.
+Uric acid is formed
+mainly from the
+purines in liver
+cells. In insects, uric
+acid is formed in
+malpighian tubules.
+
+Q. 3. Describe briefly the regulation of kidney function by the following.
+(i) ADH, (ii) ANE (iii) Renin
+Ans. Regulation of Kidney:
+(i) ADH: Antidiuretic hormone (ADH) is secreted by hypothalamus of the brain and released
+into the blood from the posterior lobe of the pituitary gland. The release of ADH is triggered
+when osmo-receptors in the hypothalamus detect an increase in the osmolarity of the blood
+above a set point of 300 osmo mL-1. In this situation the osmoreceptors cells also promote
+thirst. It increases the reabsorption of water in the DCT and collecting duct.
+(ii) ANF: Atrial natriuretic factor is another hormone which opposes the regulation by RAAS.
+The walls of the artery of the heart release ANF in response to an increase in blood volume
+and pressure. ANF inhibits release of renin from the JG cells and thereby inhibits NaCl
+reabsorption by the collecting duct and reduces aldosterone release from the adrenal gland.
+Thus ADH, RAAS and ANF regulate the function of the kidneys. As a result they control body
+fluid osmolarity, salt concentration, blood pressure and blood volume.
+(iii) Renin: The smooth muscle cells of both the afferent and efferent arterioles are swollen
+and contain dark granules. These cells are called juxtaglomerular cells. A fall in glomerular
+blood flow or glomerular blood pressure activate the JG cells to release renin. Renin converts
+angiotensinogen in blood into angiotensin II. The later increases blood pressure. Angiotensin
+
+also stimulates the secretion of aldosterone by the adrenal cortex, thus infusing the
+reabsorption of sodium ions by the DCT and that of water through collecting ducts.
+Q. 4. Explain the process of urine formation in human being. [KVS Guwahati]
+Ans. Urine formation includes three processes:
+(i) Ultrafiltration, (ii) Selective reabsorption,
+(iii) Selective Secretion.
+(i) Ultrafiltration: It is filtration which occurs under high blood pressure. The afferent arteriole
+supplies blood to glomerulus and efferent arteriole collects blood from glomerulus. Therefore,
+the blood pressure in glomerulus becomes 75 mm of Hg. The smaller molecules of glucose,
+water, salts, ammonia etc. diffuse from glomerulus to Bowman's capsule and this process is
+called ultrafiltration.
+About 1.5-2.5% of water and solutes are removed from the blood plasma that flows through
+glomerulus. The quantity of glomerular filtrate formed each minutes in all nephrons of both
+kidneys is called the glomerular filtration rate. In a normal person, the glomerular filtration rate
+is about 125ml. per minute.
+(ii) Selective reabsorption: It is the process by which useful material are absorbed by the
+blood from glomerular filtrate. The tubular epithelial cells in different segments of nephron
+perform this either by active or passive mechanisms. Substances like glucose, amino acids,
+Na+, etc., in the filtrate are reabsorbed actively where as the nitrogenous wastes are absorbed
+by passive transport.
+In collecting tubules some water is absorbed.
+(iii) Selective secretion: The metabolic waste products like ammonia, hippuric acid,
+creatinine, H+ ions etc., present in the blood diffuses into DCT. This process is called selective
+secretion. It changes the complete composition of glomerular filtrate which is now called urine.
+Q. 3.Human kidneys can produce urine nearly four times concentrated than the filtrate
+formed. Explain the mechanism of production of hypertonic urine.
+[KVS Mumbai]
+OR
+Explain the counter current mechanism in Vasa Recta. Also mention its significance.
+(DDE 2017)
+Ans. Refer to NCERT Exemplar LAQ Q.1.
+
+

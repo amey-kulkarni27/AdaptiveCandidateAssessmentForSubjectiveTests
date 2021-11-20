@@ -1,0 +1,184 @@
+Long Answer Type Questions
+Q. 1. Define growth. Explain the phases of growth.
+Ans. Growth is defined as 'a permanent or irreversible increase in dry weight, mass or volume
+of a cell, organ or organism’.
+Plant growth takes place in three steps or phases cell division (meristematic), cell elongation
+and cell maturation.
+(i) Cell division (Meristematic) phase: (i) It is also called formative phase. (ii) New cells are
+produced by mitotic divisions of the pre-existing cells. (iii) The meristematic cells have thin
+cellulose walls with abundant plasmodesmetal connections, dense protoplasm and conspicuous
+nuclei. (iv) In higher plants, cell division occurs in meristems or growing points. (v) As the
+formation of new cells requires intense biosynthetic activity, the rate of respiration in the cells of
+formation phase is very high.
+(ii) Cell enlargement phase: (i) This phase lies just behind the growing points and is mainly
+responsible for growth of plant parts. (ii) The newly formed cells, produced in formative phase
+ergo enlargement. (iii) The enlarging cell also develops a central vacuole. Rate of respiration is
+but less than that of the cells in the formative phase. (iv) Thus, this phase is characterised by
+cell enlargement, new cell wall deposition and increased vacuolation.
+(iii) Cell maturation phase: (i) This phase occurs just behind the phase of elongation. (ii) The
+enlarged cells develop into particular type of cells by undergoing structural and physiological
+differentiation. (iii) Hence, at this phase all the diverse tissue types observed in root or stem
+viz., epidermis, cortex, vascular tissues etc., and cell are differentiated.
+Q. 2. What is growth rate? How will you measure the rate of growth ?
+Ans. (i) Growth rate refers to the expression of increased growth per unit time.
+(ii) It can be arithmetic or geometric increase.
+(iii) In arithmetic growth, following mitotic cell division only one daughter cell continues to
+divide while the other differentiates and mature.
+(iv) The simplest expression of arithmetic growth is exemplified by a root elongating at a
+constant rate.
+(v) On plotting length of the organ at different times a linear curve is obtained.
+It is expressed as:
+Lt = L 0 + rt
+
+Here,
+
+Lt = Length at time ‘t’
+L0 = Length at time Zero’
+r = growth rate per unit time.
+
+(vi) In geometrical growth, the initial growth is slow (lag phase) and rapidly at an
+exponential rate (log or exponential phase).
+(vii) In this growth, both the progeny cells formed by mitotic cell division retain the ability to
+divide and continue to do so.
+(viii) However, with limited nutrient supply, the growth slows down (stationary phase).
+(ix) If we plot a parameter of growth against time, we get a typical S-shaped or sigmoid curve.
+(x) The exponential growth can be expressed as:
+
+W 1 = W0 𝑒 𝑟𝑡
+Here,
+W 1 = final size (Weight, height, number etc.)
+W 0 = initial size
+r = growth rate
+t = time of growth
+𝑒 = base of natural logarithms.
+Q. 3. Discuss the role of growth regulators in agriculture.
+Ans. Role of growth regulators in agriculture:
+(i) Parthenocarpy: The knowledge of the fact that application of auxins and gibberellins on
+unpollinated flowers results in the production of seedless fruits has been a great horticultural
+importance. It has been of great significance in such fruits where the number of seeds is very
+high and the seeds are of light food value (e.g., tomato, brinjal, guava, papaya, watermelon,
+orange) or the seeds are large in size (e.g., Litchi and Mango).
+(ii) Flower thinning: This problem refers to fall of unpollinated or unfertilized flowers from
+certain fruit trees e.g., in pineapple and litchi. This problem has been solved to a great extent
+by spraying the plants with 2, 4-D and Naphthalene Acetic Acid (NAA) both of which are
+synthetic auxins.
+(iii) Fruit ripening: Ethylene plays an important role in ripening of various fruits like oranges,
+lemons, grapes, banana etc.
+(iv) Root inducing or Root induction: NAA and Indole Butyric Acid (IBA) are very important
+in inducing roots on stem cuttings. Many plants are known which propagate by their stem
+cuttings such as Bougainvillea, roses, grapes, apples, coleus etc.
+(v) Seed germination: Seeds having long periods of dormancy can be made to germinate early
+by the application of auxins
+
+Q. 4. Mention elaborately the functions of Auxins.
+Ans. Functions of Auxins:
+(i) Cell enlargement: Auxins promote elongation and growth of stems and roots enlargement of
+many fruits by stimulating cell enlargement.
+The auxins cause cell enlargement by solubilization of carbohydrates, loosening of microfibrils
+synthesis of more wall materials, increased membrane permeability and respiration.
+(ii) Cell division in cambium: Auxin is responsible for initiation and promotion of cell division in
+cambium. The reactivation of cambium in the growing season is apparently triggered by IAA
+moving from the developing shoot buds.
+(iii) Cell division and tissue culture: In tissue culture auxins initiate and promote cell division,
+and result in the formation of callus.
+(iv) Root growth and root initiation: Auxins promote root growth only at extremely low
+concentration. At higher concentration, auxin is suitable for shoot elongation.
+Q. 5. Give the natural and artificial overcoming of seed dormancy.
+Ans. Natural overcoming of seed dormancy:
+(i) Weakening of tough and impermeable seed coats by microbial action.
+(ii) Rupturing or weakening of seed coats by mechanical abrasions.
+(iii) Action of digestive enzymes present in alimentary canals of birds and other animals which
+happen to feed on their fruits.
+(iv) Leaching of inhibitors present in the seed coat.
+(v) Inactivation or oxidation of inhibitors by heat, cold and light.
+Artificial overcoming of seed dormancy:
+(i) Rupturing of seed coats or scarification by abrasion through machine threshing, filing,
+chipping, vigorous shaking, etc.
+(ii) Treatment with hot water or fat solvents for dissolution of surface inhibitors, waxes, etc.
+(iii) Treatment with concentrated sulphuric acid for a short period followed by thorough washing
+to remove all traces of the mineral acid.
+(iv) Stratification or subjecting the moist seeds in the presence of oxygen to periods of low or
+high temperature.
+(v) Counteracting the effect of growth inhibitors by soaking the seeds in potassium nitrate,
+ethylene chlorohydrin, thiourea, gibberellins, etc. Exposure to high concentration of oxygen has
+similar effect.
+
+Q. 6. What is seed dormancy? How many types of dormancy are there ?
+Ans. Seed dormancy or rest is the internal or innate inhibition of germination of otherwise
+normal or viable seed even when present under most favourable conditions required for its
+germination.
+Dormancy is of several types. The important ones are as follows:
+(i) Immature embryo: The embryo is not fully developed at the time of seed shedding. The
+period of seed dormancy corresponds to the period required by the embryo for its complete
+development. e.g. Ginkgo biloba.
+(ii) After ripening: After shedding, the seeds of barley, wheat require an interval of ripening
+before they attain the power of germination. This period is needed to produce the necessary
+growth hormones.
+(iii) Impermeability of seed coats: The seed coats are impermeable to water, gases or
+chemical e.g., Chenopodium, Apple, Xanthium respectively.
+(iv) Tough seed coats: The seed coats are hard and growth of provide mechanical resistance
+to the embryo.
+Q. 7. What are the uses of Ethylene and Abscissic acid?
+Ans. Uses of Ethylene:
+(i) Ethylene is used for colour development and ripening of certain fleshy fruits.
+(ii) Application of ethephon in cucumber increases the number of female flowers and hen
+fruits
+(iii) The sprouting of storage organs such as rhizomes, corms, tubers can be enhanced by
+exposing them to ethylene.
+Uses of Abscissic acid:
+(i) ABA can be used as anti-transpirant. Application of minute quantity of ABA to leaves reduces
+transpiration to a great extent through partial closure of stomata.
+(ii) Abscissic acid can be used to promote rooting in many stem cuttings.
+(iii) The dormancy of buds, seeds and storage organs can be prolonged by the application of
+ABA.
+Q. 8. Mention the examples which prove that phytohormones act synergistically or
+antagonistically.
+Ans. The factors which prove the phytohormones act synergistically or antagonistically
+are:
+(i) Cell division is promoted by both auxins and cytokinins acting synergistically.
+(ii) Auxin and cytokinins interact to control morphogenetic differentiation of shoot and root.
+When auxin is in excess, roots differentiate on the callus, while excess of cytokinins promote
+bud formation.
+
+(iii) Auxins and cytokinins acts antagonistically in controlling apical dominance. Auxins causes
+apical dominance, while cytokinins overcome the same
+(iv) Senescence is prevented by auxins and cytokinins, while it is stimulated by abscisic acid.
+(v) The dormancy of seeds and buds is mostly due to abscissic acid, the same is broken by
+gibberellins.
+(vi) Cytokinins cause opening of stomata, while abscisic acid results in their closure.
+Q.9. Explain the role of phytohormones in parthenocarpy and weed control.
+Ans. (i) Parthenocarpy: (a) The application of auxins and gibberellins on unpollinated flowers
+results in the production of seedless fruits.
+(b) It has been of great significance in such fruits where the number of seeds is very high and
+the seeds are of little food value (e.g., tomato, brinjal, guava, papaya, watermelon, orange)
+or the seeds are large in size (e.g., Litchi and Mango).
+(c) Natural parthenocarpy in banana and grapes is because their seedless varieties have higher
+content of endogenous auxins.
+(ii) Weed control:
+(a) 2, 4-D and 2, 4, 5-T (Trichlorophenoxy acetic acid) are specific killers of dicot herbs and are
+known herbicides.
+(b) Thus in a field having monocot crop, dicot weeds may be eradicated by spraying either 2,
+4-D or 2, 4, 5-T
+(c) These weedicides penetrate the meristematic tissues of the plant and inhibit cell division.
+Q.10. Explain how is flowering considered a phytochrome mediated process. How can
+flowering be induced in a short-day plant under long-day conditions?
+Ans. Phytochrome: (i) It is the pigment which is responsible for flowering.
+(ii) It makes the plant sensitive to light effect.
+(iii) It is known as light absorbing pigment and is responsible for photosensitiveness of plants.
+(iv) It participates in flowering. In long day plants, the light interruption of dark period does not
+prevent
+(v) If the light is by infra-red, the flowering gets promoted.
+(vi) Phytochrome occurs in two forms-one red absorbing (PR) and the other far red absorbing
+(P FR).
+(vii) Both the forms are photo-chemically interconvertible.
+(viii) The red absorbing form after absorbing the red light is converted into far red form.
+(ix) They absorbs the infra-red light and is converted back into red absorbing form of pigment.
+
+(x) Flowering is considered a phytochrome mediated process.
+(xi) Photoperiodism controls flowering in plants. Short-day plants like Xanthium,
+Chrysanthemum require a relatively short day high period and a continuous dark period of about
+14-16 hours for flowering.
+(xii) Dark period is more important to induce flowering than the light period. Flowering can be
+induced in short day plants by red light treatment followed by far red light treatment.
+
+

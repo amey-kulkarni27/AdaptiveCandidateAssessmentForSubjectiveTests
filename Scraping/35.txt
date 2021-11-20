@@ -1,0 +1,110 @@
+Very Short Answer Type Questions
+Q.1. What is G0 phase?
+
+[KVS Agra 2016]
+
+Ans. G0 phase is the arrest of cell cycle and onset of differentiation.
+Q. 2. Mention two significance of mitosis.
+
+[KVS Guwahati 2016]
+
+Ans. Two significance of mitosis are:
+(i) Mitosis is essential for growth and development of multicellular organisms.
+(ii) Mitosis is the method of multiplication of unicellular organisms.
+Q.3. Which type of mitosis is known as direct cell division.
+Ans. Amitosis is called direct cell division.
+Q. 4. What are the three phases of interphase?
+Ans. The three phases of interphase are G 1, S and G2 phase.
+Q.5. What is mitotic apparatus?
+Ans. Asters and spindle fibers are collectively called mitotic apparatus.
+Q. 6. Who discovered mitosis?
+Ans. Flemming (1882)
+Q. 7. Who is premitosis or intranuclear mitosis ?
+Ans. Mitosis taking place within the nuclear membrane is called premitosis.
+Q.8. What is genome ?
+Ans. Genome is a one set of DNA instruction or single set of chromosome in a cell.
+Q. 9. Which type of cell division helps in regeneration?
+Ans. Mitosis, because it keeps all the somatic cells of an organism genetically similar, so that
+they are able to regenerate a part or whole of the organism.
+Q. 10. Name the chemical that arrests the cell division in cells.
+Ans. The two chemicals that arrest the cell division in a cell are (i) Colchicine (ii) Cyanides.
+Q. 11. What is a kinetochore ?
+Ans. Kinetochore is a part of a chromosome for the attachment of chromosomal fibres.
+Q. 12. How do cell stop dividing?
+Ans. When cell enters in G 0 cycle.
+
+Q. 13. Name the forces which help in chromosomal movement during cell division.
+Ans. Contraction of chromosome fibres, formation and expansion of interzonal fibres and
+poleward dissolution of microtubules of chromosome fibres..
+Q. 14. What are kinetochores ?
+Ans. Small disc-shaped structures at the surface of the centromeres which serve as the sites
+of attachment of spindle fibres are called as kinetochores.
+Q. 15. When does syncytium condition takes place?
+Ans. When nuclear division takes place without cytoplasmic division it results in the
+formation of large number of nuclei in a cell. This condition is called syncytium.
+Q. 16. Name the enzymes which help in breakage and reunion of chromatids.
+Ans. Enzyme that help in breakage is endonuclease and enzyme that help in reunion is Rprotein.
+Q. 17. What is a metaphase plate?
+Ans. It is an imaginary plane perpendicular to the spindle fibers of a dividing cell, along
+which chromosomes align during metaphase.
+Q. 18. What is nucleocytoplasmic ratio ?
+Ans. It is a ratio of the size (i.e. volume) of the nucleus of a cell to the size to the cytoplasm of
+that cell.
+Q. 19. What is the average cell cycle span for a mammalian cell ?
+Ans. 24 hours is average duration.
+Q. 20. Name the longest and shortest phase of mitosis ?
+Ans. Prophase has longest duration, while anaphase has the shortest duration.
+Q. 21. By which method cytokinesis occurs in an animal cell ?
+Ans. By furrowing.
+Q. 22. What do you understand by synaptonemal complex?
+
+[KVS-2007]
+
+Ans. It is made up of two lateral arms and a medium element, which forms pairing of
+homologous chromosomes.
+Q. 23. What Is generation time ?
+Ans. The time interval between two cell cycles is called generation time.
+Q. 24. Name the point from which colchicine is extracted.
+Ans. It is extracted from colchicum autumnale.
+
+Q. 25. In Which stage of cell division chromosome are seen best?
+Ans. At metaphase stage, as they are shortest and thickest.
+Q. 26. Complete the following figure for cell cycle.
+
+Ans. a → G0 , b → S, c → G2
+Q. 27. Why is meiosis known as "Reduction Division'? What is its significance?
+[KVS Silchar 2017]
+Ans. Meiosis is called as reduction division because the chromosome number gets reduced to
+its half. It helps in producing haploid gametes in sexually reproducing organisms.
+Q. 28. Name the phase of meiosis I which is characterized by the appearance of
+recombination nodules?
+Ans. Pachytene.
+Q. 29. Name the cells where mitosis and meiosis occur.
+Ans. Mitosis occurs in somatic cell whereas meiosis occurs in diploid.
+Q. 30. Why is meiosis called the reductional division whereas mitotic division is called as
+equational division?
+[NCT-2008, 11]
+Ans. Meiosis is called as reductional division because the chromosome number gets reduced to
+its half whereas mitosis is equational division because the chromosome number remains the
+same after division.
+Q. 31. What are interzonal fibres ?
+Ans. The protein fibres are formed in between the centromeres of homologous chromosomes
+during metaphase I stage of meiosis are called interzonal fibres.
+Q. 32. Define crossing over.
+Ans. Crossing over is the exchange of genetic material between the non-sister chromatids of
+homologous chromosomes during pachytene of prophase.
+Q. 33. What are dyads?
+
+Ans. The separated chromosomes are called dyads.
+Q. 34. What do you understand by synaptonemal complex ?
+
+[KVS-2007]
+
+Ans. It is made up of two lateral arms and a medium element, which forms pairing of
+homologous chromosomes.
+Q. 35. Name three types of life cycles on the basis of meiosis.
+Ans. On this basis, of meiosis, life cycles are- diplontic, haplontic and diplo-haplontic.
+Q. 36. Name the enzyme on which the process of crossing over is dependent.
+Ans. Recombinase
+
+
