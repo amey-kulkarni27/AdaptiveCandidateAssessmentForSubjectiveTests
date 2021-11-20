@@ -3,7 +3,6 @@ import pandas as pd
 import re
 
 def rem_q(s):
-    print(s)
     if s == None:
         print("YES")
         return ""
