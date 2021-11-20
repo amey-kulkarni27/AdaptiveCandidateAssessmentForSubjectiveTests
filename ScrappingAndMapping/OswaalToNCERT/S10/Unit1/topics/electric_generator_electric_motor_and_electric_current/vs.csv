@@ -1,17 +1,17 @@
-,questions,answers
-0,Q. 1. Name any two sources of direct current. ,"Ans. Some sources of direct current are cell, battery and DC generator, etc."
-1,Q. 2. Mention the advantage of A.C. over D.C. for long distance transmission. ,Ans. A.C. can be easily transmitted over long distances without much loss of energy. 
-2,Q. 3. What is the frequency of A.C. in India ? ,Ans. The frequency of alternating current in India is 50 Hz.
-3,Q. 4. List any one point of difference between A.C. and D.C. ,"Ans. As the name suggests, direct current always flows in one direction and alternating current reverses its direction periodically.  (1 mark each)"
-4,Q. 5. Name the type of current : (i) Used in household supply (ii) Given by a cell. ,Ans. (i) Alternating current (ii) Direct current. 
-5,Q. 6. An alternating current has a frequency of 50 Hz. How many times does it change its direction in one second ? ,Ans. 100 times.  1
-6,Q. 7. Who discovered the electromagnetic induction ,Ans. Electromagnetic induction was first discovered by Michael Faraday.
-7,Q. 8. Name the device used to prevent damage to the electrical appliances and the domestic circuit due to overloading. ,Ans. Electric fuse.  1
-8,Q. 9. State the value of potential difference between the live wire and the neutral wire in our country. ,Ans. 220 V.  1
-9,Q. 10. What is Short Circuit ? ,Ans. Short Circuit is simply a low resistance connection between the two conductors supplying electrical power to any circuit. This results in excessive current flow in the power source through the ‘short’ and may even cause the power source to be destroyed.
-10,Q. 11. State a difference between the wires used in the element of an electric heater and in a fuse. ,Ans. The melting point of the wire used in heater elements is high while a fuse wire has low melting point.  1
-11,Q. 12. How is the type of current that we receive in domestic circuit different from the one that runs a clock ? ,"Ans. In domestic circuit, it is A.C. while clock cell gives D.C."
-12,Q. 13. State the use of earth wire in domestic electric circuit. ,Ans. To ensure that any leakage of current to the metallic body of the appliance does not give shock to the user.  1
-13,"Q. 14. Mention the colour convention for live, neutral and earth wires. ","Ans. Live wire — Red, Neutral Wire — Black, Earth wire — Green.  1"
-14,"Q. 15. In domestic electric circuit, with which wire do we connect a fuse ? ",Ans. Live wire.  1
-15,Q. 16. What is the role of the two conducting stationary brushes in a simple electric motor ? ,Ans. The brushes are connected to the battery and touch the outer side of two halves of the split ring whose inner sides are insulated and attached to the axle. 1
+questions,answers
+Name any two sources of direct current. ,"Some sources of direct current are cell, battery and DC generator, etc."
+Mention the advantage of A.C. over D.C. for long distance transmission. ,A.C. can be easily transmitted over long distances without much loss of energy. 
+What is the frequency of A.C. in India ? ,The frequency of alternating current in India is 50 Hz.
+List any one point of difference between A.C. and D.C. ,"As the name suggests, direct current always flows in one direction and alternating current reverses its direction periodically.  ()"
+Name the type of current : (i) Used in household supply (ii) Given by a cell. ,(i) Alternating current (ii) Direct current. 
+An alternating current has a frequency of 50 Hz. How many times does it change its direction in one second ? ,100 times.  1
+Who discovered the electromagnetic induction ,Electromagnetic induction was first discovered by Michael Faraday.
+Name the device used to prevent damage to the electrical appliances and the domestic circuit due to overloading. ,Electric fuse.  1
+State the value of potential difference between the live wire and the neutral wire in our country. ,220 V.  1
+What is Short Circuit ? ,Short Circuit is simply a low resistance connection between the two conductors supplying electrical power to any circuit. This results in excessive current flow in the power source through the ‘short’ and may even cause the power source to be destroyed.
+State a difference between the wires used in the element of an electric heater and in a fuse. ,The melting point of the wire used in heater elements is high while a fuse wire has low melting point.  1
+How is the type of current that we receive in domestic circuit different from the one that runs a clock ? ,"In domestic circuit, it is A.C. while clock cell gives D.C."
+State the use of earth wire in domestic electric circuit. ,To ensure that any leakage of current to the metallic body of the appliance does not give shock to the user.  1
+"Mention the colour convention for live, neutral and earth wires. ","Live wire — Red, Neutral Wire — Black, Earth wire — Green.  1"
+"In domestic electric circuit, with which wire do we connect a fuse ? ",Live wire.  1
+What is the role of the two conducting stationary brushes in a simple electric motor ? ,The brushes are connected to the battery and touch the outer side of two halves of the split ring whose inner sides are insulated and attached to the axle. 1

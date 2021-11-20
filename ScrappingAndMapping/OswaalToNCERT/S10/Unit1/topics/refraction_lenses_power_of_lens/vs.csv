@@ -1,13 +1,13 @@
-,questions,answers
-0,Q. 1 What is meant by power of a lens ? ,"Ans. The ability of a lens to converge or diverge the rays of light, is called power of lens. It is equal to the reciprocal of the focal length (i.e., P = ) f  1"
-1,Q. 2. Define angle of incidence and angle of refraction.,Ans. Angle of incidence is the angle i made by the incident ray with the normal. Angle of refraction is the angle r made by the refracted ray in the second medium with the normal.
-2,Q. 3. What is the unit of refractive index ?,Ans. Refractive index being a ratio of two similar quantities and has no unit.
-3,Q. 4. Define 1 dioptre of power of a lens.,Ans. 1 dioptre is defined as the power of a lens of focal length 1 metre. 1 D = 1 m–1 P= f (m)
-4,Q. 5. State a condition for no refraction of light entering from one medium to another.,Ans. (i) Light incident normally. (ii) Equal refractive index of two media.
-5,Q. 6. What is the change in image observed as the object is moved from infinity towards the concave lens ?,"Ans. The size of the image increases slightly, though it remains diminished in comparison to the size of the object."
-6,Q. 7. Why is refractive index of atmosphere different at different altitudes ? ,Ans. Refractive index of atmosphere is different at different altitudes because the air density changes with altitudes.
-7,Q. 8. How does the size of the image change as the object is brought closer from infinity towards the convex lens ?,Ans. The size of the image formed keeps on increasing as the object is brought closer towards the convex lens. 1
-8,"Q. 9. Do, all cartesian sign conventions are applicable in each case of spherical lens as in mirrors ?","Ans. Yes, all distances are measured from the optical centre of the lens. Conventionally, the object is placed on the left side of the lens."
-9,Q. 10. Why does light change its path as the medium changes during the transit ?,"Ans. Speed of light is different in different media. As the medium changes, the light has to choose a path of minimum time. Hence, the direction of the light changes. This phenomenon is know as refraction of light."
-10,"Q. 11. Arrange the following common substances in the increasing order of refractive indices, Ice, Kerosene, Glass, Diamond, Alcohol, Water.","Ans. Order of increasing refractive indices : Ice, Water, Alcohol, Kerosene, Glass, Diamond. 1"
-11,Q. 12. The refractive index of diamond is 2·42. What is the meaning of this statement ?,Ans. The refractive index of diamond 2·42 suggests that the speed of light in diamond will reduce by a factor 2.42 as compared to its speed in air.
+questions,answers
+Q. 1 What is meant by power of a lens ? ,"The ability of a lens to converge or diverge the rays of light, is called power of lens. It is equal to the reciprocal of the focal length (i.e., P = ) f  1"
+Define angle of incidence and angle of refraction.,Angle of incidence is the angle i made by the incident ray with the normal. Angle of refraction is the angle r made by the refracted ray in the second medium with the normal.
+What is the unit of refractive index ?,Refractive index being a ratio of two similar quantities and has no unit.
+Define 1 dioptre of power of a lens.,1 dioptre is defined as the power of a lens of focal length 1 metre. 1 D = 1 m–1 P= f (m)
+State a condition for no refraction of light entering from one medium to another.,(i) Light incident normally. (ii) Equal refractive index of two media.
+What is the change in image observed as the object is moved from infinity towards the concave lens ?,"The size of the image increases slightly, though it remains diminished in comparison to the size of the object."
+Why is refractive index of atmosphere different at different altitudes ? ,Refractive index of atmosphere is different at different altitudes because the air density changes with altitudes.
+How does the size of the image change as the object is brought closer from infinity towards the convex lens ?,The size of the image formed keeps on increasing as the object is brought closer towards the convex lens. 1
+"Do, all cartesian sign conventions are applicable in each case of spherical lens as in mirrors ?","Yes, all distances are measured from the optical centre of the lens. Conventionally, the object is placed on the left side of the lens."
+Why does light change its path as the medium changes during the transit ?,"Speed of light is different in different media. As the medium changes, the light has to choose a path of minimum time. Hence, the direction of the light changes. This phenomenon is know as refraction of light."
+"Arrange the following common substances in the increasing order of refractive indices, Ice, Kerosene, Glass, Diamond, Alcohol, Water.","Order of increasing refractive indices : Ice, Water, Alcohol, Kerosene, Glass, Diamond. 1"
+The refractive index of diamond is 2·42. What is the meaning of this statement ?,The refractive index of diamond 2·42 suggests that the speed of light in diamond will reduce by a factor 2.42 as compared to its speed in air.
