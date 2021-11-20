@@ -22,7 +22,7 @@ for book, path in tqdm(zip(books, paths)):
 
     for index, row in csv_data.iterrows():
         para_dict = dict()
-        para_dict['context'] = str(row['context_1'])
+        para_dict['context'] = str(row['context'])
         para_dict['qas'] = []
         para_dict['qas'].append({'answers': [{'answer_start':0, 
                                             'text': str(row['answer'])
