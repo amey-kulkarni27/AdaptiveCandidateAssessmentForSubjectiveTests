@@ -27,7 +27,7 @@ def clean(s):
     s = re.sub(r'\d.\d=\d', "", s)
     return s
 
-folder = "10_2/"
+folder = "10_3/"
 for topic in os.listdir(folder):
     for filename in os.listdir(folder + topic + "/"):
         if filename.endswith(".csv"):
