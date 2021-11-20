@@ -1,0 +1,1577 @@
+Chapter 3
+ATOMS
+Ancient Indian and Greek philosophers have
+always wondered about the unknown and
+unseen form of matter. The idea of divisibility
+of matter was considered long back in India,
+around 500 BC. An Indian philosopher
+Maharishi Kanad, postulated that if we go on
+dividing matter (padarth), we shall get smaller
+and smaller particles. Ultimately, a stage will
+come when we shall come across the smallest
+particles beyond which further division will
+not be possible. He named these particles
+Parm anu. Another Indian philosopher,
+Pakudha Katyayama, elaborated this doctrine
+and said that these particles normally exist
+in a combined form which gives us various
+forms of matter.
+Around the same era, ancient Greek
+philosophers – Democritus and Leucippus
+suggested that if we go on dividing matter, a
+stage will come when particles obtained
+cannot be divided further. Democritus called
+these indivisible particles atoms (meaning
+indivisible). All this was based on
+philosophical considerations and not much
+experimental work to validate these ideas
+could be done till the eighteenth century.
+By the end of the eighteenth century,
+scientists recognised the difference between
+elements and compounds and naturally
+became interested in finding out how and why
+elements combine and what happens when
+they combine.
+Antoine L. Lavoisier laid the foundation
+of chemical sciences by establishing two
+important laws of chemical combination.
+
+AND
+
+MOLECULES
+
+much experimentations by Lavoisier and
+Joseph L. Proust.
+
+3.1.1 LAW OF CONSERVATION OF MASS
+Is there a change in mass when a chemical
+change (chemical reaction) takes place?
+
+Activity ______________ 3.1
+•
+
+Take one of the following sets, X and Y
+of chemicals–
+
+X
+
+•
+
+•
+
+•
+
+Y
+
+(i) copper sulphate sodium carbonate
+1.25 g
+1.43 g
+(ii) barium chloride sodium sulphate
+1.22 g
+1.53 g
+(iii) lead nitrate
+sodium chloride
+2.07 g
+1.17 g
+Prepare separately a 5% solution of
+any one pair of substances listed
+under X and Y each in 10 mL in water.
+Take a little amount of solution of Y in
+a conical flask and some solution of
+X in an ignition tube.
+Hang the ignition tube in the flask
+carefully; see that the solutions do not
+get mixed. Put a cork on the flask
+(see Fig. 3.1).
+
+3.1 Laws of Chemical Combination
+The following two laws of chemical
+combination were established after
+
+2021-22
+
+Fig. 3.1: Ignition tube containing solution of X, dipped
+in a conical flask containing solution of Y.
+
+Weigh the flask with its contents
+carefully.
+Now tilt and swirl the flask, so that the
+solutions X and Y get mixed.
+Weigh again.
+What happens in the reaction flask?
+Do you think that a chemical reaction
+has taken place?
+Why should we put a cork on the mouth
+of the flask?
+Does the mass of the flask and its
+contents change?
+
+•
+•
+•
+•
+•
+•
+•
+
+Law of conservation of mass states that
+mass can neither be created nor destroyed in
+a chemical reaction.
+
+3.1.2 LAW OF CONSTANT PROPORTIONS
+Lavoisier, along with other scientists, noted
+that many compounds were composed of two
+or more elements and each such compound
+had the same elements in the same
+proportions, irrespective of where the
+compound came from or who prepared it.
+In a compound such as water, the ratio of
+the mass of hydrogen to the mass of oxygen is
+always 1:8, whatever the source of water. Thus,
+if 9 g of water is decomposed, 1 g of hydrogen
+and 8 g of oxygen are always obtained.
+Similarly in ammonia, nitrogen and hydrogen
+are always present in the ratio 14:3 by mass,
+whatever the method or the source from which
+it is obtained.
+This led to the law of constant proportions
+which is also known as the law of definite
+proportions. This law was stated by Proust as
+“In a chemical substance the elements are
+always present in definite proportions by
+mass”.
+The next problem faced by scientists was
+to give appropriate explanations of these laws.
+British chemist John Dalton provided the
+basic theory about the nature of matter.
+Dalton picked up the idea of divisibility of
+matter, which was till then just a philosophy.
+He took the name ‘atoms’ as given by the
+Greeks and said that the smallest particles of
+matter are atoms. His theory was based on the
+laws of chemical combination. Dalton’s atomic
+theory provided an explanation for the law of
+
+conservation of mass and the law of definite
+proportions.
+John Dalton was born in
+a poor weaver’s family in
+1766 in England. He
+began his career as a
+teacher at the age of
+twelve. Seven years later
+he became a school
+principal. In 1793, Dalton
+left for Manchester to
+teach mathematics,
+John Dalton
+physics and chemistry in
+a college. He spent most of his life there
+teaching and researching. In 1808, he
+presented his atomic theory which was a
+turning point in the study of matter.
+According to Dalton’s atomic theory, all
+matter, whether an element, a compound or
+a mixture is composed of small particles called
+atoms. The postulates of this theory may be
+stated as follows:
+(i) All matter is made of very tiny particles
+called atoms, which participate in
+chemical reactions.
+(ii) Atoms are indivisible particles, which
+cannot be created or destroyed in a
+chemical reaction.
+(iii) Atoms of a given element are identical
+in mass and chemical properties.
+(iv) Atoms of different elements have
+dif ferent masses and chemical
+properties.
+(v) Atoms combine in the ratio of small
+whole numbers to form compounds.
+(vi) The relative number and kinds of
+atoms are constant in a given
+compound.
+You will study in the next chapter that all
+atoms are made up of still smaller particles.
+
+Q
+
+32
+
+uestions
+1. In a reaction, 5.3 g of sodium
+carbonate reacted with 6 g of
+acetic acid. The products were
+2.2 g of carbon dioxide, 0.9 g
+water and 8.2 g of sodium
+acetate. Show that these
+SCIENCE
+
+2021-22
+
+observations are in agreement
+with the law of conservation of
+mass.
+sodium carbonate + acetic acid
+→ sodium acetate + carbon
+dioxide + water
+2. Hydrogen and oxygen combine in
+the ratio of 1:8 by mass to form
+water. What mass of oxygen gas
+would be required to react
+completely with 3 g of hydrogen
+gas?
+3. Which postulate of Dalton’s
+atomic theory is the result of the
+law of conservation of mass?
+4. Which postulate of Dalton’s
+atomic theory can explain the law
+of definite proportions?
+
+We might think that if atoms are so
+insignificant in size, why should we care about
+them? This is because our entire world is
+made up of atoms. We may not be able to see
+them, but they are there, and constantly
+affecting whatever we do. Through modern
+techniques, we can now produce magnified
+images of surfaces of elements showing atoms.
+
+3.2 What is an Atom?
+Have you ever observed a mason building
+walls, from these walls a room and then a
+collection of rooms to form a building? What
+is the building block of the huge building?
+What about the building block of an ant-hill?
+It is a small grain of sand. Similarly, the
+building blocks of all matter are atoms.
+How big are atoms?
+Atoms are very small, they are smaller than
+anything that we can imagine or compare
+with. More than millions of atoms when
+stacked would make a layer barely as thick
+as this sheet of paper.
+Atomic radius is measured in nanometres.
+1/10 9 m = 1 nm
+1 m = 109 nm
+
+Fig. 3.2: An image of the surface of silicon
+
+3.2.1 W HAT
+
+A R E THE MODERN DAY
+
+SYMBOLS OF ATOMS OF DIFFERENT
+ELEMENTS ?
+
+Dalton was the first scientist to use the
+symbols for elements in a very specific sense.
+When he used a symbol for an element he
+also meant a definite quantity of that element,
+that is, one atom of that element. Berzilius
+suggested that the symbols of elements be
+made from one or two letters of the name of
+the element.
+
+Relative Sizes
+Radii (in m)
+10–10
+
+Example
+Atom of hydrogen
+
+10–9
+
+Molecule of water
+
+10–8
+
+Molecule of haemoglobin
+
+–4
+
+10
+
+Grain of sand
+
+10–3
+
+Ant
+
+–1
+
+10
+
+ATOMS
+
+Fig. 3.3: Symbols for some elements as proposed by
+Dalton
+
+Apple
+AND
+
+33
+
+MOLECULES
+
+2021-22
+
+In the beginning, the names of elements
+were derived from the name of the place where
+they were found for the first time. For example,
+the name copper was taken from Cyprus. Some
+names were taken from specific colours. For
+example, gold was taken from the English word
+meaning yellow. Now-a-days, IUPAC
+(International Union of Pure and Applied
+Chemistry) is an international scientific
+organisation which approves names of
+elements, symbols and units. Many of the
+symbols are the first one or two letters of the
+element’s name in English. The first letter of a
+symbol is always written as a capital letter
+(uppercase) and the second letter as a small
+letter (lowercase).
+
+passage of time and repeated usage you will
+automatically be able to reproduce the
+symbols).
+
+3.2.2 ATOMIC MASS
+The most remarkable concept that Dalton’s
+atomic theory proposed was that of the atomic
+mass. According to him, each element had a
+characteristic atomic mass. The theory could
+explain the law of constant proportions so well
+that scientists were prompted to measure the
+atomic mass of an atom. Since determining the
+mass of an individual atom was a relatively
+difficult task, relative atomic masses were
+determined using the laws of chemical
+combinations and the compounds formed.
+Let us take the example of a compound,
+carbon monoxide (CO) formed by carbon and
+oxygen. It was observed experimentally that 3
+g of carbon combines with 4 g of oxygen to
+form CO. In other words, carbon combines
+with 4/3 times its mass of oxygen. Suppose
+we define the atomic mass unit (earlier
+abbreviated as ‘amu’, but according to the
+latest IUPAC recommendations, it is now
+written as ‘u’ – unified mass) as equal to the
+mass of one carbon atom, then we would
+
+For example
+(i) hydrogen, H
+(ii) aluminium, Al and not AL
+(iii) cobalt, Co and not CO.
+Symbols of some elements are formed from
+the first letter of the name and a letter,
+appearing later in the name. Examples are: (i)
+chlorine, Cl, (ii) zinc, Zn etc.
+Other symbols have been taken from the
+names of elements in Latin, German or Greek.
+For example, the symbol of iron is Fe from its
+Latin name ferrum, sodium is Na from natrium,
+potassium is K from kalium. Therefore, each
+element has a name and a unique chemical
+symbol.
+
+Table 3.1: Symbols for some elements
+Element
+
+Symbol
+
+Element
+
+Symbol
+
+Element
+
+Symbol
+
+Aluminium
+Argon
+Barium
+Boron
+Bromine
+Calcium
+Carbon
+Chlorine
+
+Al
+Ar
+Ba
+B
+Br
+Ca
+C
+Cl
+
+Copper
+Fluorine
+Gold
+Hydrogen
+Iodine
+Iron
+Lead
+Magnesium
+
+Cu
+F
+Au
+H
+I
+Fe
+Pb
+Mg
+
+Nitrogen
+Oxygen
+Potassium
+Silicon
+Silver
+Sodium
+Sulphur
+Uranium
+
+N
+O
+K
+Si
+Ag
+Na
+S
+U
+
+Cobalt
+
+Co
+
+Neon
+
+Ne
+
+Zinc
+
+Zn
+
+(The above table is given for you to refer to
+whenever you study about elements. Do not
+bother to memorise all in one go. With the
+
+assign carbon an atomic mass of 1.0 u and
+oxygen an atomic mass of 1.33 u. However, it
+is more convenient to have these numbers as
+
+34
+
+SCIENCE
+
+2021-22
+
+mass of the atom, as compared to 1/12th the
+mass of one carbon-12 atom.
+
+whole numbers or as near to a whole numbers
+as possible. While searching for various
+atomic mass units, scientists initially took 1/
+16 of the mass of an atom of naturally
+occurring oxygen as the unit. This was
+considered relevant due to two reasons:
+•
+oxygen reacted with a large number of
+elements and formed compounds.
+•
+this atomic mass unit gave masses of
+most of the elements as whole numbers.
+However, in 1961 for a universally
+accepted atomic mass unit, carbon-12 isotope
+was chosen as the standard reference for
+measuring atomic masses. One atomic mass
+unit is a mass unit equal to exactly one-twelfth
+(1/12th) the mass of one atom of carbon-12.
+The relative atomic masses of all elements
+have been found with respect to an atom of
+carbon-12.
+Imagine a fruit seller selling fruits without
+any standard weight with him. He takes a
+watermelon and says, “this has a mass equal
+to 12 units” (12 watermelon units or 12 fruit
+mass units). He makes twelve equal pieces of
+the watermelon and finds the mass of each fruit
+he is selling, relative to the mass of one piece
+of the watermelon. Now he sells his fruits by
+relative fruit mass unit (fmu), as in Fig. 3.4.
+
+Table 3.2: Atomic masses of
+a few elements
+Element
+
+Atomic Mass (u)
+
+Hydrogen
+
+1
+
+Carbon
+
+12
+
+Nitrogen
+
+14
+
+Oxygen
+
+16
+
+Sodium
+
+23
+
+Magnesium
+
+24
+
+Sulphur
+
+32
+
+Chlorine
+
+35.5
+
+Calcium
+
+40
+
+3.2.3 HOW DO ATOMS EXIST?
+Atoms of most elements are not able to exist
+independently. Atoms form molecules and
+ions. These molecules or ions aggregate in
+large numbers to form the matter that we can
+see, feel or touch.
+
+Q
+
+uestions
+1. Define the atomic mass unit.
+2. Why is it not possible to see an
+atom with naked eyes?
+
+3.3 What is a Molecule?
+
+Fig. 3.4 : (a) Watermelon, (b) 12 pieces, (c) 1/12 of
+watermelon, (d) how the fruit seller can
+weigh the fruits using pieces of watermelon
+
+Similarly, the relative atomic mass of the
+atom of an element is defined as the average
+ATOMS
+
+AND
+
+A molecule is in general a group of two or
+more atoms that are chemically bonded
+together, that is, tightly held together by
+attractive forces. A molecule can be defined as
+the smallest particle of an element or a
+compound that is capable of an independent
+existence and shows all the properties of that
+substance. Atoms of the same element or of
+different elements can join together to form
+molecules.
+35
+
+MOLECULES
+
+2021-22
+
+3.3.1 MOLECULES OF ELEMENTS
+The molecules of an element are constituted
+by the same type of atoms. Molecules of many
+elements, such as argon (Ar), helium (He) etc.
+are made up of only one atom of that element.
+But this is not the case with most of the nonmetals. For example, a molecule of oxygen
+consists of two atoms of oxygen and hence it
+is known as a diatomic molecule, O2. If 3
+atoms of oxygen unite into a molecule, instead
+of the usual 2, we get ozone, O3. The number
+of atoms constituting a molecule is known as
+its atomicity.
+Metals and some other elements, such as
+carbon, do not have a simple structure but
+consist of a very large and indefinite number
+of atoms bonded together.
+Let us look at the atomicity of some
+non-metals.
+
+Table 3.3 : Atomicity of some
+elements
+Type of
+Element
+Non-Metal
+
+Name
+
+Atomicity
+
+Table 3.4 : Molecules of some
+compounds
+Compound
+
+Combining
+Elements
+
+Ratio
+by
+Mass
+
+Water (H2O)
+
+Hydrogen, Oxygen
+
+1:8
+
+Ammonia (NH3) Nitrogen, Hydrogen 14:3
+Carbon
+dioxide (CO2)
+
+Carbon, Oxygen
+
+3:8
+
+Activity ______________ 3.2
+•
+
+•
+
+Refer to Table 3.4 for ratio by mass of
+atoms present in molecules and Table
+3.2 for atomic masses of elements. Find
+the ratio by number of the atoms of
+elements in the molecules of
+compounds given in Table 3.4.
+The ratio by number of atoms for a
+water molecule can be found as follows:
+
+Element Ratio Atomic Mass Simplest
+by
+mass ratio/
+ratio
+mass
+(u)
+atomic
+mass
+1
+
+Argon
+
+Monoatomic
+
+Helium
+
+Monoatomic
+
+Oxygen
+
+Diatomic
+
+Hydrogen
+
+Diatomic
+
+Nitrogen
+
+Diatomic
+
+Chlorine
+
+Diatomic
+
+Phosphorus
+
+Tetra-atomic
+
+Sulphur
+
+Poly-atomic
+
+3.3.2 MOLECULES OF COMPOUNDS
+Atoms of different elements join together
+in definite proportions to form molecules
+of compounds. Few examples are given in
+Table 3.4.
+
+H
+
+1
+
+1
+
+O
+
+8
+
+16
+
+1
+
+=1
+
+8
+
+•
+
+16
+
+2
+
+1
+
+=
+
+2
+
+1
+
+Thus, the ratio by number of atoms for
+water is H:O = 2:1.
+
+3.3.3 WHAT IS AN ION?
+Compounds composed of metals and nonmetals contain charged species. The charged
+species are known as ions. Ions may consist
+of a single charged atom or a group of atoms
+that have a net charge on them. An ion can be
+negatively or positively charged. A negatively
+charged ion is called an ‘anion’ and the
+positively charged ion, a ‘cation’. Take, for
+example, sodium chloride (NaCl). Its
+constituent particles are positively charged
+sodium ions (Na+) and negatively charged
+
+36
+
+SCIENCE
+
+2021-22
+
+chloride ions (Cl–). A group of atoms carrying
+a charge is known as a polyatomic ion (Table
+3.6). We shall learn more about the formation
+of ions in Chapter 4.
+
+Table 3.5: Some ionic compounds
+Ionic
+Compound
+
+Constituting
+Elements
+
+Ratio
+by
+Mass
+
+Calcium oxide
+
+Calcium and
+oxygen
+
+5:2
+
+Magnesium
+sulphide
+
+Magnesium
+and sulphur
+
+3:4
+
+Sodium
+chloride
+
+Sodium
+and chlorine
+
+23:35.5
+
+3.4 Writing Chemical Formulae
+The chemical formula of a compound is a
+symbolic representation of its composition. The
+chemical formulae of different compounds can
+be written easily. For this exercise, we need to
+
+learn the symbols and combining capacity of
+the elements.
+The combining power (or capacity) of an
+element is known as its valency. Valency can
+be used to find out how the atoms of an
+element will combine with the atom(s) of
+another element to form a chemical compound.
+The valency of the atom of an element can be
+thought of as hands or arms of that atom.
+Human beings have two arms and an
+octopus has eight. If one octopus has to catch
+hold of a few people in such a manner that all
+the eight arms of the octopus and both arms
+of all the humans are locked, how many
+humans do you think the octopus can hold?
+Represent the octopus with O and humans
+with H. Can you write a formula for this
+combination? Do you get OH4 as the formula?
+The subscript 4 indicates the number of
+humans held by the octopus.
+The valencies of some common ions are
+given in Table 3.6. We will learn more about
+valency in the next chapter.
+
+Table 3.6: Names and symbols of some ions
+Valency
+
+Name of
+ion
+
+1.
+
+Sodium
+Potassium
+Silver
+Copper (I)*
+
+Symbol
+
+Na+
+K+
+Ag+
+Cu+
+
+Nonmetallic
+element
+
+Symbol
+
+Polyatomic
+ions
+
+Symbol
+
+Hydrogen
+Hydride
+Chloride
+Bromide
+Iodide
+
+H+
+HClBrI–
+
+Ammonium
+Hydroxide
+Nitrate
+Hydrogen
+carbonate
+
+NH4+
+OH–
+NO3–
+HCO3–
+
+2.
+
+Magnesium
+Calcium
+Zinc
+Iron (II)*
+Copper (II)*
+
+Mg2+
+Ca2+
+Zn2+
+Fe2+
+Cu2+
+
+Oxide
+Sulphide
+
+O2S2-
+
+Carbonate
+Sulphite
+Sulphate
+
+CO32–
+SO32–
+SO42–
+
+3.
+
+Aluminium
+Iron (III)*
+
+Al3+
+Fe3+
+
+Nitride
+
+N3-
+
+Phosphate
+
+PO43–
+
+* Some elements show more than one valency. A Roman numeral shows their valency in a bracket.
+ATOMS
+
+AND
+
+37
+
+MOLECULES
+
+2021-22
+
+The rules that you have to follow while writing
+a chemical formula are as follows:
+•
+the valencies or charges on the ion must
+balance.
+•
+when a compound consists of a metal and
+a non-metal, the name or symbol of the
+metal is written first. For example: calcium
+oxide (CaO), sodium chloride (NaCl), iron
+sulphide (FeS), copper oxide (CuO) etc.,
+where oxygen, chlorine, sulphur are nonmetals and are written on the right,
+whereas calcium, sodium, iron and
+copper are metals, and are written on the
+left.
+•
+in compounds formed with polyatomic ions,
+the number of ions present in the
+compound is indicated by enclosing the
+formula of ion in a bracket and writing the
+number of ions outside the bracket. For
+example, Mg (OH)2. In case the number of
+polyatomic ion is one, the bracket is not
+required. For example, NaOH.
+
+3.4.1 FORMULAE OF SIMPLE COMPOUNDS
+The simplest compounds, which are made up
+of two different elements are called binary
+compounds. Valencies of some ions are given
+in Table 3.6. You can use these to write
+formulae for compounds.
+While writing the chemical formulae for
+compounds, we write the constituent elements
+and their valencies as shown below. Then we
+must crossover the valencies of the combining
+atoms.
+
+3. Formula of carbon tetrachloride
+
+For magnesium chloride, we write the
+symbol of cation (Mg2+) first followed by the
+symbol of anion (Cl-). Then their charges are
+criss-crossed to get the formula.
+4.
+
+Formula of magnesium chloride
+
+Formula : MgCl2
+Thus, in magnesium chloride, there are
+two chloride ions (Cl-) for each magnesium
+ion (Mg2+). The positive and negative charges
+must balance each other and the overall
+structure must be neutral. Note that in the
+formula, the charges on the ions are not
+indicated.
+Some more examples
+(a)
+Formula for aluminium oxide:
+
+Examples
+1. Formula of hydrogen chloride
+Formula : Al2O3
+(b)
+
+Formula for calcium oxide:
+
+Formula of the compound would be HCl.
+2. Formula of hydrogen sulphide
+
+Here, the valencies of the two elements
+are the same. You may arrive at the formula
+Ca2O2. But we simplify the formula as CaO.
+38
+
+SCIENCE
+
+2021-22
+
+following formulae:
+(i) Al2(SO4)3
+(ii) CaCl2
+(iii) K2SO4
+(iv) KNO3
+(v) CaCO3.
+3. What is meant by the ter m
+chemical formula?
+4. How many atoms are present in a
+(i) H2S molecule and
+(ii) PO43– ion?
+
+(c) Formula of sodium nitrate:
+
+Formula : NaNO3
+(d) Formula of calcium hydroxide:
+
+Formula : Ca(OH)2
+Note that the for mula of calcium
+hydroxide is Ca(OH)2 and not CaOH2. We use
+brackets when we have two or more of the
+same ions in the formula. Here, the bracket
+around OH with a subscript 2 indicates that
+there are two hydroxyl (OH) groups joined to
+one calcium atom. In other words, there are
+two atoms each of oxygen and hydrogen in
+calcium hydroxide.
+
+3.5 Molecular Mass and Mole
+Concept
+3.5.1 MOLECULAR MASS
+In section 3.2.2 we discussed the concept of
+atomic mass. This concept can be extended
+to calculate molecular masses. The molecular
+mass of a substance is the sum of the atomic
+masses of all the atoms in a molecule of the
+substance. It is therefore the relative mass of
+a molecule expressed in atomic mass units (u).
+
+(e) Formula of sodium carbonate:
+Example 3.1 (a) Calculate the relative
+molecular mass of water (H 2 O).
+(b) Calculate the molecular mass of
+HNO3.
+
+Formula : Na2CO3
+
+Solution:
+
+In the above example, brackets are not needed
+if there is only one ion present.
+(f) Formula of ammonium sulphate:
+
+Formula : (NH4)2SO4
+
+Q
+ATOMS
+
+uestions
+1. Write down the formulae of
+(i) sodium oxide
+(ii) aluminium chloride
+(iii) sodium suphide
+(iv) magnesium hydroxide
+2. Write down the names of
+compounds represented by the
+AND
+
+(a) Atomic mass of hydrogen = 1u,
+oxygen = 16 u
+So the molecular mass of water, which
+contains two atoms of hydrogen and one
+atom of oxygen is
+= 2 × 1+ 1×16
+= 18 u
+(b) The molecular mass of HNO 3 = the
+atomic mass of H + the atomic mass of
+N+ 3 × the atomic mass of O
+= 1 + 14 + 48 = 63 u
+
+3.5.2 FORMULA UNIT
+
+MASS
+
+The formula unit mass of a substance is a sum
+of the atomic masses of all atoms in a formula
+unit of a compound. Formula unit mass is
+calculated in the same manner as we calculate
+the molecular mass. The only difference is that
+39
+
+MOLECULES
+
+2021-22
+
+we use the word formula unit for those
+substances whose constituent particles are
+ions. For example, sodium chloride as
+discussed above, has a formula unit NaCl. Its
+formula unit mass can be calculated as–
+1 × 23 + 1 × 35.5 = 58.5 u
+Example 3.2 Calculate the formula unit
+mass of CaCl2.
+Solution:
+Atomic mass of Ca
++ (2 × atomic mass of Cl)
+= 40 + 2 × 35.5 = 40 + 71 = 111 u
+
+Q
+
+uestions
+1. Calculate the molecular masses
+of H2, O2, Cl2, CO2, CH4, C2H6,
+C 2H4, NH3, CH3OH.
+2. C a l c u l a t e t h e f o r m u l a u n i t
+masses of ZnO, Na2O, K2CO3,
+given atomic masses of Zn = 65 u,
+Na = 23 u, K = 39 u, C = 12 u,
+and O = 16 u.
+
+3.5.3 MOLE CONCEPT
+Take an example of the reaction of hydrogen
+and oxygen to form water:
+2H2+ O2 → 2H2O.
+The above reaction indicates that
+(i) two molecules of hydrogen combine
+with one molecule of oxygen to form two
+molecules of water, or
+(ii) 4 u of hydrogen molecules combine with
+32 u of oxygen molecules to form 36 u
+of water molecules.
+We can infer from the above equation that
+the quantity of a substance can be
+characterised by its mass or the number of
+molecules. But, a chemical reaction equation
+indicates directly the number of atoms or
+molecules taking part in the reaction.
+Therefore, it is more convenient to refer to the
+quantity of a substance in terms of the number
+of its molecules or atoms, rather than their
+masses. So, a new unit “mole” was introduced.
+The mole, symbol mol, is the SI unit of amount
+of substance. One mole contains exactly
+
+Fig. 3.5: Relationship between mole, Avogadro number and mass
+
+40
+
+SCIENCE
+
+2021-22
+
+6.02214076 × 1023 elementary entities. This
+number is the fixed numerical value of the
+Avogadro constant, NA, when expressed in the
+unit mol–1 and is called the Avogadro number*.
+The amount of substance, symbol n, of a
+system is a measure of the number of specified
+elementary entities. An elementary entity may
+be an atom, a molecule, an ion, an electron,
+any other particle or specified group of
+particles. The mole is the amount of substance
+of a system that contains 6.02214076 × 1023
+specified elementary entities.
+1 mole (of anything) = 6.022 × 1023 in number,
+as, 1 dozen = 12 nos.
+1 gross = 144 nos.
+Besides being related to a number, a mole
+has one more advantage over a dozen or a
+gross. This advantage is that mass of 1 mole
+of a particular substance is also fixed.
+The mass of 1 mole of a substance is equal
+to its relative atomic or molecular mass in
+grams. The atomic mass of an element gives
+us the mass of one atom of that element in
+atomic mass units (u). To get the mass of
+1
+mole of atom of that element, that is, molar
+mass, we have to take the same numerical
+value but change the units from ‘u’ to ‘g’. Molar
+mass of atoms is also known as gram atomic
+mass. For example, atomic mass of
+hydrogen=1u. So, gram atomic mass of
+hydrogen = 1 g.
+1 u hydrogen has only 1 atom of hydrogen
+1 g hydrogen has 1 mole atoms, that is,
+6.022 × 1023 atoms of hydrogen.
+Similarly,
+16 u oxygen has only 1 atom of oxygen,
+16 g oxygen has 1 mole atoms, that is,
+6.022 × 1023 atoms of oxygen.
+To find the gram molecular mass or molar
+mass of a molecule, we keep the numerical
+value the same as the molecular mass, but
+simply change units as above from u to g. For
+example, as we have already calculated,
+molecular mass of water (H2O) is 18 u. From
+here we understand that
+18 u water has only 1 molecule of water,
+18 g water has 1 mole molecules of water, that
+is, 6.022 × 1023 molecules of water.
+Chemists need the number of atoms and
+molecules while carrying out reactions, and
+
+for this they need to relate the mass in grams
+to the number. It is done as follows:
+1 mole = 6.022 × 1023 number
+= Relative mass in grams.
+Thus, a mole is the chemist’s counting unit.
+The word “mole” was introduced around
+1896 by Wilhelm Ostwald who derived the
+term from the Latin word moles meaning a
+‘heap’ or ‘pile’. A substance may be considered
+as a heap of atoms or molecules. The unit
+mole was accepted in 1967 to provide a simple
+way of reporting a large number– the massive
+heap of atoms and molecules in a sample.
+Example 3.3
+1. Calculate the number of moles for the
+following:
+(i) 52 g of He (finding mole from
+mass)
+(ii) 12.044 × 1023 number of He atoms
+(finding mole from number of
+particles).
+Solutions:
+No. of moles
+Given mass
+Molar mass
+Given number of particles
+Avogadro number of particles
+
+=
+=
+=
+=
+=
+
+(i)
+
+= 4u
+= 4g
+
+Atomic mass of He
+Molar mass of He
+
+n
+m
+M
+N
+NA
+
+Thus, the number of moles
+given mass
+
+= molar mass
+⇒n=
+
+(ii)
+
+m 52
+=
+= 13
+M
+4
+
+we know,
+1 mole = 6.022 × 1023
+The number of moles
+=
+
+given number of particles
+Avogadro number
+
+* Avogadro Constant or Avogadro Number was named in honor of Italian scientist, Amedeo Avogadro.
+ATOMS
+
+AND
+
+41
+
+MOLECULES
+
+2021-22
+
+Example 3.4 Calculate the mass of the
+following:
+(i) 0.5 mole of N2 gas (mass from mole
+of molecule)
+(ii) 0.5 mole of N atoms (mass from
+mole of atom)
+(iii) 3.011 × 1023 number of N atoms
+(mass from number)
+(iv) 6.022 × 10 23 number of N 2
+molecules (mass from number)
+
+(iii) 0.1 mole of carbon atoms (number
+from given moles)
+Solutions:
+(i) The number of atoms
+=
+
+46
+× 6.022 × 1023
+23
+⇒ N = 12.044 × 1023
+
+Solutions:
+(i)
+
+(ii)
+
+given mass
+× Avogadro number
+molar mass
+
+⇒N=
+
+mass = molar mass × number of
+moles
+⇒ m = M × n = 28 × 0.5 = 14 g
+
+(ii) The number of molecules
+
+mass = molar mass × number of
+moles
+⇒ m = M × n = 14 × 0.5 = 7 g
+
+(iii) The number of moles, n
+=
+
+given number of particles
+
+=
+
+Avogadro number
+
+=
+
+∴ molar mass of O2 molecules
+= 16 × 2 = 32g
+
+N
+NA
+
+3.011 × 10 23
+6.022 × 10 23
+
+⇒ m = M × n = 14 ×
+
+3.011 × 1023
+
+(iii) The number of particles (atom) =
+number of moles of particles ×
+Avogadro number
+N = n × NA = 0.1 x 6.022 × 1023
+= 6.022 × 1022
+
+6.022 × 1023
+
+= 14 × 0.5 = 7 g
+
+(iv)
+
+n=
+
+N
+NA
+
+= 28 × 1 = 28 g
+
+Example 3.5 Calculate the number of
+particles in each of the
+following:
+(i) 46 g of Na atoms (number from
+mass)
+(ii) 8 g O 2 molecules (number of
+molecules from mass)
+
+Q
+
+42
+
+uestions
+1. If one mole of carbon atoms
+weighs 12 grams, what is the
+mass (in grams) of 1 atom of
+carbon?
+2. Which has more number of
+atoms, 100 grams of sodium or
+100 grams of iron (given, atomic
+mass of Na = 23 u, Fe = 56 u)?
+
+SCIENCE
+
+2021-22
+
+What
+you have
+learnt
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+•
+•
+
+•
+•
+•
+
+During a chemical reaction, the sum of the masses of the
+reactants and products remains unchanged. This is known
+as the Law of Conservation of Mass.
+In a pure chemical compound, elements are always present in
+a definite proportion by mass. This is known as the Law of
+Definite Proportions.
+An atom is the smallest particle of the element that cannot
+usually exist independently and retain all its chemical
+properties.
+A molecule is the smallest particle of an element or a compound
+capable of independent existence under ordinary conditions.
+It shows all the properties of the substance.
+A chemical formula of a compound shows its constituent
+elements and the number of atoms of each combining element.
+Clusters of atoms that act as an ion are called polyatomic ions.
+They carry a fixed charge on them.
+The chemical formula of a molecular compound is determined
+by the valency of each element.
+In ionic compounds, the charge on each ion is used to
+determine the chemical formula of the compound.
+Scientists use the relative atomic mass scale to compare the
+masses of different atoms of elements. Atoms of carbon-12
+isotopes are assigned a relative atomic mass of 12 and the
+relative masses of all other atoms are obtained by comparison
+with the mass of a carbon-12 atom.
+The Avogadro constant 6.022 × 1023 is defined as the number
+of atoms in exactly 12 g of carbon-12.
+The mole is the amount of substance of a system that
+contains 6.02214076 × 1023 specified elementary entities.
+Mass of 1 mole of a substance is called its molar mass.
+
+Exercises
+1. A 0.24 g sample of compound of oxygen and boron was found
+by analysis to contain 0.096 g of boron and 0.144 g of oxygen.
+Calculate the percentage composition of the compound by
+weight.
+2. When 3.0 g of carbon is burnt in 8.00 g oxygen, 11.00 g of
+carbon dioxide is produced. What mass of carbon dioxide will
+ATOMS
+
+AND
+
+43
+
+MOLECULES
+
+2021-22
+
+3.
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+11.
+
+be formed when 3.00 g of carbon is burnt in 50.00 g of
+oxygen? Which law of chemical combination will govern your
+answer?
+What are polyatomic ions? Give examples.
+Write the chemical formulae of the following.
+(a) Magnesium chloride
+(b) Calcium oxide
+(c) Copper nitrate
+(d) Aluminium chloride
+(e) Calcium carbonate.
+Give the names of the elements present in the following
+compounds.
+(a) Quick lime
+(b) Hydrogen bromide
+(c) Baking powder
+(d) Potassium sulphate.
+Calculate the molar mass of the following substances.
+(a) Ethyne, C2H2
+(b) Sulphur molecule, S8
+(c) Phosphorus molecule, P4 (Atomic mass of phosphorus
+= 31)
+(d) Hydrochloric acid, HCl
+(e) Nitric acid, HNO3
+What is the mass of—
+(a) 1 mole of nitrogen atoms?
+(b) 4 moles of aluminium atoms (Atomic mass of aluminium
+= 27)?
+(c) 10 moles of sodium sulphite (Na2SO3)?
+Convert into mole.
+(a) 12 g of oxygen gas
+(b) 20 g of water
+(c) 22 g of carbon dioxide.
+What is the mass of:
+(a) 0.2 mole of oxygen atoms?
+(b) 0.5 mole of water molecules?
+Calculate the number of molecules of sulphur (S8) present in
+16 g of solid sulphur.
+Calculate the number of aluminium ions present in 0.051 g
+of aluminium oxide.
+(Hint: The mass of an ion is the same as that of an atom of
+the same element. Atomic mass of Al = 27 u)
+
+44
+
+SCIENCE
+
+2021-22
+
+Group Activity
+Play a game for writing formulae.
+Example1 : Make placards with symbols and valencies of the
+elements separately. Each student should hold two
+placards, one with the symbol in the right hand and
+the other with the valency in the left hand. Keeping
+the symbols in place, students should criss-cross their
+valencies to form the formula of a compound.
+Example 2 : A low cost model for writing formulae: Take empty
+blister packs of medicines. Cut them in groups,
+according to the valency of the element, as shown in
+the figure. Now, you can make formulae by fixing
+one type of ion into other.
+For example:
+Na+
+
+SO 4 2-
+
+P0 43-
+
+Formula for sodium sulphate:
+2 sodium ions can be fixed on one sulphate ion.
+Hence, the formula will be: Na2SO4
+Do it yourself :
+Now, write the formula of sodium phosphate.
+
+ATOMS
+
+AND
+
+45
+
+MOLECULES
+
+2021-22
+
+

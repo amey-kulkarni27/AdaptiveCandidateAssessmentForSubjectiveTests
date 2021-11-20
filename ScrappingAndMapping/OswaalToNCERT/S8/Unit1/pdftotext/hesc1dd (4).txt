@@ -1,0 +1,859 @@
+CELL — STRUCTURE AND FUNCTIONS
+
+Y
+
+ou have already learnt that things
+around us are either living or
+non-living. Further, you may
+recall that all living organisms carry out
+certain basic functions. Can you list
+these functions?
+Different sets of organs perform the
+various functions you have listed. In this
+chapter, you shall learn about the basic
+structural unit of an organ, which is the
+cell. Cells may be compared to bricks.
+Bricks are assembled to make a building.
+Similarly, cells are assembled to make
+the body of every organism.
+
+8.1 Discovery of the Cell
+Robert Hooke in 1665 observed slices of
+cork under a simple magnifying device.
+Cork is a part of the bark of a
+tree. He took thin slices of cork and
+observed them under a microscope. He
+noticed
+partitioned
+boxes
+or
+compartments in the cork slice (Fig. 8.1).
+
+These boxes appeared like a honeycomb. He also noticed that one box was
+separated from the other by a wall or
+partition. Hooke coined the term ‘cell’
+for each box. What Hooke observed as
+boxes or cells in the cork were actually
+dead cells.
+Cells of living organisms could be
+observed only after the discovery of
+improved microscopes. Very little was
+known about the cell for the next 150
+years after Robert Hooke’s observations.
+Today, we know a lot about cell
+structure and its functions because of
+improved microscopes having high
+magnification.
+
+8.2 The Cell
+Both, bricks in a building and cells in
+the living organisms, are b a s i c
+structural units [Fig. 8.2(a), (b)]. The
+buildings, though built of similar bricks,
+have different designs, shapes and sizes.
+Similarly, in the living world, organisms
+differ from one another but all are made
+up of cells. Cells in the living organisms
+are complex living structures unlike
+non-living bricks.
+
+A hen’s egg can be seen
+easily. Is it a cell or a
+group of cells?
+
+Fig. 8.1: Cork cells as observed by
+Robert Hooke
+
+2021–22
+
+(a) Brick wall
+
+(b) Onion peel
+
+Fig. 8.2 : Brick wall and onion peel
+
+The egg of a hen represents a single
+cell and is big enough to be seen by the
+unaided eye.
+
+8.3 Organisms show Variety
+in Cell Number, Shape and
+Size
+How do scientists observe and study the
+living cells? They use microscopes which
+magnify objects. Stains (dyes) are used
+to colour parts of the cell to study the
+detailed structure.
+There are millions of living
+organisms. They are of different shapes
+and sizes. Their organs also vary in
+shape, size and number of cells. Let us
+study about some of them.
+
+Organisms made of more than one
+cell are called multicellular (multi :
+many; cellular : cell) organisms. The
+number of cells being less in smaller
+organisms does not, in any way, affect
+the functioning of the organisms. You
+will be surprised to know that an
+organism with billions of cells begins
+life as a single cell which is the fertilised
+egg. The fertilised egg cell multiplies and
+the number of cells increase as
+development proceeds.
+Look at Fig 8.3 (a) and (b). Both
+organisms are made up of a single cell.
+The single-celled organisms are called
+unicellular (uni : one; cellular : cell)
+
+Number of Cells
+Can you guess the number of cells in a
+tall tree or in a huge animal like the
+elephant? The number runs into
+billions and trillions. Human body has
+trillions of cells which vary in shapes
+and sizes. Different groups of cells
+perform a variety of functions.
+A billion is a thousand million. A
+trillion is a thousand billion.
+
+(a)
+
+(b)
+
+Fig. 8.3 : (a) Amoeba (b) Paramecium
+91
+
+CELL — STRUCTURE AND FUNCTIONS
+
+2021–22
+
+organisms. A single-celled organism
+performs all the necessary functions
+that multicellular organisms perform.
+A single-celled organism, like
+amoeba, captures and digests food,
+respires, excretes, grows and
+reproduces. Similar functions in
+multicellular organisms are carried out
+by groups of specialised cells forming
+different tissues. Tissues, in turn, form
+organs.
+
+Activity 8.1
+The teacher may show a permanent
+slide of amoeba and paramecium
+under a microscope. Alternatively,
+the teacher can collect pond water
+and show these organisms by
+preparing the slides.
+Shape of Cells
+Refer to Fig. 8.3 (a). How do you define
+the shape of amoeba in the figure? You
+may say that the shape appears
+irregular. Infact, amoeba has no
+definite shape, unlike other organisms.
+It keeps on changing its shape.
+Observe the projections of varying
+lengths protruding out of its
+body. These are called pseudopodia
+(pseudo : false; podia : feet), as you
+learnt in Class VII. These projections
+appear and disappear as amoeba
+moves or feeds.
+
+The change in shape is due to
+formation of pseudopodia which
+facilitates movement and help
+in capturing food.
+
+A white blood cell (WBC) in human
+blood is another example of a single cell
+which can change its shape. But while
+WBC is a cell, amoeba is a full fledged
+organism capable of independent
+existence.
+What shape would you expect in
+organisms with millions of cells? Fig.
+8.4 (a, b, c) shows different cells such
+as blood, muscle and nerve of human
+beings. The different shapes are related
+to their specific functions.
+Generally, cells are round, spherical
+or elongated [Fig. 8.4(a)]. Some cells are
+long and pointed at both ends. They
+exhibit a spindle shape [Fig. 8.4(b)].
+Cells sometimes are quite long. Some
+are branched like the nerve cell or a
+neuron [Fig. 8.4(c)]. The nerve cell
+receives and transfers messages, thereby
+
+(a)
+
+(b)
+
+What advantage does
+amoeba derive by
+changing shape?
+
+(c)
+
+Fig. 8.4 : (a) Spherical red blood cells
+of humans, (b) Spindle
+shaped muscle cells,
+(c) Long branched nerve cell
+
+92
+
+SCIENCE
+
+2021–22
+
+helping to control and coordinate the
+working of different parts of the body.
+Can you guess, which part of the cell
+gives it shape? Components of the cell
+are enclosed in a membrane. This
+membrane provides shape to the cells
+of plants and animals. Cell wall is an
+additional covering over the cell
+membrane in plant cells. It gives shape
+and rigidity to these cells (Fig. 8.7).
+Bacterial cell also has a cell wall.
+Size of Cells
+The size of cells in living organisms may
+be as small as a millionth of a metre
+(micrometre or micron) or may be as large
+as a few centimetres. However, most of the
+cells are microscopic in size and are not
+visible to the unaided eye. They need to
+be enlarged or magnified by a microscope.
+The smallest cell is 0.1 to 0.5 micrometre
+in bacteria. The largest cell measuring
+170 mm ×130 mm, is the egg of an ostrich.
+
+Activity 8.2
+Boil a hen’s egg. Remove the shell.
+What do you observe? A white
+material surrounds the yellow part.
+White material is albumin which
+solidifies on boiling. The yellow part
+is yolk. It is part of the single cell.
+You can observe this single cell
+without any magnifying device.
+
+the elephant be much bigger than those
+in a rat. The size of the cell is related to
+its function. For example, nerve cells,
+both in the elephant and rat, are long
+and branched. They perform the same
+function, that of transferring messages.
+
+8.4 Cell Structure and
+Function
+You have lear nt that each living
+organism has many organs. You have
+studied in Class VII about the digestive
+organs which together constitute the
+digestive system. Each organ in the
+system performs different functions
+such as digestion, assimilation and
+absorption. Similarly, different organs
+of a plant perform specific/specialised
+functions. For example, roots help in the
+absorption of water and minerals.
+Leaves, as you have learnt in Class VII,
+are responsible for synthesis of food.
+Each organ is further made up of
+smaller parts called tissues. A tissue is
+a group of similar cells performing a
+specific function.
+Paheli realised that an organ is made
+up of tissues which in turn, are made
+up of cells. The cell in a living organism
+is the basic structural unit.
+
+8.5 Parts of the Cell
+Cell Membrane
+
+Are the cells in an
+elephant larger than the
+cells in a rat?
+
+The size of the cells has no relation
+with the size of the body of the animal or
+plant. It is not necessary that the cells in
+
+The basic components of a cell are cell
+membrane, cytoplasm and nucleus
+(Fig. 8.7). The cytoplasm and nucleus
+are enclosed within the cell membrane,
+also called the plasma membrane. The
+membrane separates cells from one
+another and also the cell from the
+surrounding medium. The plasma
+membrane is porous and allows the
+93
+
+CELL — STRUCTURE AND FUNCTIONS
+
+2021–22
+
+movement of substances or materials
+both inward and outward.
+
+between the nucleus and the cell
+membrane is called cytoplasm.
+
+Activity 8.3
+In order to observe the basic
+components of the cell, take an
+onion bulb. Remove the dry pink
+coverings (peels). You can easily
+separate these from the fleshy white
+layers of the bulb with the help of
+forceps or even with your hand. You
+can also break the onion bulb and
+separate out thin layers. Place a
+small piece of the thin onion peel
+in a drop of water on a glass slide.
+The thin layer can be cut into
+smaller pieces with the help of a
+blade or forceps. Add a drop of
+methylene blue solution to the layer
+and place a coverslip on it. While
+placing the coverslip ensure that
+there are no air bubbles under the
+coverslip. Observe the slide under
+the microscope. Draw and label. You
+may compare it with Fig. 8.5.
+
+I want to know why plant
+cells need cell walls?
+
+You have learnt earlier that the cell
+membrane gives shape to the cell. In
+addition to the cell membrane, there is
+an outer thick layer in cells of plants
+called cell wall. This additional layer
+surrounding the cell membrane is
+required by plants for protection. Plant
+cells need protection against variations
+in temperature, high wind speed,
+atmospheric moisture etc. They
+are exposed to these variations
+because they cannot move. Cells can
+be observed in the leaf peel of
+Tradescantia, Elodea or Rhoeo. You
+can prepare a slide as in the case
+of onion.
+Paheli asks Boojho if he can also
+observe animal cells.
+
+The boundary of the onion cell is the
+cell membrane covered by another thick
+covering called the cell wall. The central
+dense round body in the centre is called
+the nucleus. The jelly-like substance
+
+Activity 8.4
+
+nucleus
+
+cytoplasm
+
+Fig. 8.5 : Cells observed in an onion peel
+94
+
+Take a clean tooth pick, or a
+matchstick with the tip broken.
+Scrape inside of your cheek without
+hurting it. Place it in a drop of water
+on a glass slide. Add a drop of iodine
+and place a coverslip over it.
+Alternatively, add 1-2 drops of
+methylene blue solution. Observe it
+under the microscope. You may
+notice several cells in the scraped
+material (Fig. 8.6). You can identify
+the cell membrane, the cytoplasm
+and nucleus. A cell wall is absent
+in animal cells.
+SCIENCE
+
+2021–22
+
+nuclear
+membrane
+
+Gene
+
+cytoplasm
+
+cell
+membrane
+
+Gene is a unit of inheritance in living
+organisms. It controls the transfer of
+a hereditary characteristic from
+parents to offspring. This means that
+your parents pass some of their
+characteristics on to you. If your father
+has brown eyes, you may also have
+brown eyes. If your mother has curly
+hair, you might also end up having
+curly hair. However, the different
+combination of genes from parents
+result in different characteristics.
+
+nucleus
+
+Fig. 8.6 : Human cheek cells
+
+Cytoplasm
+It is the jelly-like substance present
+between the cell membrane and the
+nucleus. Various other components, or
+organelles, of cells are present in the
+cytoplasm. These are mitochondria, golgi
+bodies, ribosomes, etc. You will learn
+about them in later classes.
+
+Nucleus, in addition to its role in
+inheritance, acts as control centre of the
+activities of the cell. The entire content
+of a living cell is known as protoplasm.
+It includes the cytoplasm and the
+nucleus. Protoplasm is called the living
+substance of the cell.
+
+Nucleus
+It is an important component of the
+living cell. It is generally spherical and
+located in the centre of the cell. It can
+be stained and seen easily with the help
+of a microscope. Nucleus is separated
+from the cytoplasm by a membrane
+called the nuclear membrane. This
+membrane is also porous and allows the
+movement of materials between the
+cytoplasm and the inside of the nucleus.
+With a microscope of higher
+magnification, we can see a smaller
+spherical body in the nucleus. It is called
+the nucleolus. In addition, nucleus
+contains thread-like structures called
+chromosomes. These carry genes and
+help in inheritance or transfer of
+characters from the parents to the
+offspring. The chromosomes can be seen
+only when the cell divides.
+
+Paheli wants to know if the
+structure of the nucleus is
+the same in cells of plants,
+animals and bacteria.
+The nucleus of the bacterial cell is
+not well-organised like the cells of
+multicellular organisms. There is no
+nuclear membrane. The cells having
+nuclear material without nuclear
+membrane are termed prokaryotic
+cells. The organisms with these kinds
+of cells are called prokaryotes (pro :
+primitive; karyon : nucleus). Examples
+are bacteria and blue green algae. The
+cells, like onion cells and cheek cells
+having well-organised nucleus with
+a nuclear membrane are designated
+as eukaryotic cells. All organisms
+other than bacteria and blue
+green algae are called eukaryotes.
+(eu : true; karyon: nucleus).
+95
+
+CELL — STRUCTURE AND FUNCTIONS
+
+2021–22
+
+While observing the onion cells
+under the microscope, did you notice
+any blank-looking structures in the
+cytoplasm? It is called vacuole. It could
+be single and big as in an onion cell.
+Cheek cells have smaller vacuoles. Large
+vacuoles are common in plant cells.
+Vacuoles in animal cells are much
+smaller.
+You might have noticed several small
+coloured bodies in the cytoplasm of the
+cells of T radescantia leaf. They are
+scattered in the cytoplasm of the leaf
+cells. These are called plastids. They are
+of different colours. Some of them
+contain green pigment called
+chlorophyll. Green coloured plastids are
+
+called chloroplasts. They provide green
+colour to the leaves. You may recall that
+chlorophyll in the chloroplasts of leaves,
+is essential for photosynthesis.
+
+8.6 Comparison of Plant and
+Animal Cells
+If you recall Activities 8.3 and 8.4, you
+should be able to compare plant and
+animal cells. Observe the plant and
+animal cell carefully in Fig. 8.7 (a), (b).
+Let us tabulate the similarities and
+disinguishing features of plant and
+animal cells. Only a few features are
+mentioned. You may add mor e in
+Table 8.1.
+cell membrane
+
+cell wall
+
+vacuole
+
+nucleus
+
+cell membrane
+chloroplast
+cytoplasm
+(a)
+
+(b)
+
+Fig. 8.7 : (a) Plant cell (b) Animal cell
+
+Table 8.1 : Comparison of Plant Cell and Animal Cell
+Sl. No.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Part
+
+Plant Cell
+
+Animal Cell
+
+Cell membrane
+Cell wall
+Nucleus
+Nuclear membrane
+Cytoplasm
+Plastids
+Vacuole
+
+Present
+Present
+
+Present
+Absent
+
+96
+
+SCIENCE
+
+2021–22
+
+KEYWORDS
+CELL
+
+WHA
+T Y
+OU HA
+VE LEARNT
+WHAT
+YOU
+HAVE
+Ü
+
+organs.
+
+CELL MEMBRANE
+Ü
+CELL WALL
+CHLOROPLAST
+
+All organisms are made of smaller parts called
+Organs are made of still smaller parts. The
+smallest living part of an organism is a ‘cell’.
+
+Ü
+
+Cells were first observed in cork by Robert
+Hooke in 1665.
+
+CHROMOSOME
+CYTOPLASM
+
+Ü
+
+Cells exhibit a variety of shapes and sizes.
+
+Ü
+
+Number of cells also varies from organism to
+organism.
+
+EUKARYOTES
+
+Ü
+
+unaided eye. Hen’s egg is an example.
+
+GENE
+MULTICELLULAR
+NUCLEAR MEMBRANE
+
+Ü
+Ü
+
+a variety of cells in multicellular organisms.
+Ü
+
+smaller components called organelles, and
+(iii) the nucleus.
+Ü
+
+Nucleus is separated from cytoplasm by a
+nuclear membrane.
+
+Ü
+
+Cells without well-organised nucleus, i.e.
+lacking nuclear membrane, are called
+
+PROKARYOTES
+PSEUDOPODIA
+
+The cell has three main parts: (i) the cell
+membrane, (ii) cytoplasm which contains
+
+ORGANELLES
+
+PLASTID
+
+The single cell of unicellular organisms
+performs all the basic functions performed by
+
+ORGAN
+
+PLASMA MEMBRANE
+
+Some organisms are single-celled, while others
+contain large number of cells.
+
+NUCLEOLUS
+NUCLEUS
+
+Some cells are big enough to be seen with the
+
+prokaryotic cells.
+Ü
+
+Plant cells differ from animal cells in having
+an additional layer around the cell membrane
+
+TISSUE
+
+termed cell wall.
+UNICELLULAR
+
+Ü
+
+Coloured bodies called plastids are found in
+the plant cells only. Green plastids containing
+
+VACUOLE
+
+chlorophyll are called chloroplasts.
+WHITE BLOOD CELL
+(WBC)
+
+Ü
+
+Plant cell has a big central vacuole unlike a
+number of small vacuoles in animal cells.
+
+97
+
+CELL — STRUCTURE AND FUNCTIONS
+
+2021–22
+
+Exercises
+1. Indicate whether the following statements are True (T) or False (F).
+(a)
+
+Unicellular organisms have one-celled body.
+
+(T/F)
+
+(b)
+
+Muscle cells are branched.
+
+(T/F)
+
+(c)
+
+The basic living unit of an organism is an organ.
+
+(T/F)
+
+(d)
+
+Amoeba has irregular shape.
+
+(T/F)
+
+2. Make a sketch of the human nerve cell. What function do nerve
+cells perform?.
+3. Write short notes on the following.
+(a)
+
+Cytoplasm
+
+(b)
+
+Nucleus of a cell
+
+4. Which part of the cell contains organelles?
+5. Make sketches of animal and plant cells. State three differences
+between them.
+6. State the difference between eukaryotes and prokaryotes.
+7. Where are chromosomes found in a cell? State their function.
+8. ‘Cells are the basic structural units of living organisms’. Explain.
+9. Explain why chloroplasts are found only in plant cells?
+10. Complete the crossword with the help of clues given below.
+Across
+1.
+
+This is necessary
+photosynthesis.
+
+3.
+
+Term for component present
+in the cytoplasm.
+
+6.
+
+The living substance in the
+cell.
+
+8.
+
+for
+
+Units of inheritance present
+on the chromosomes.
+
+1
+
+3
+
+C
+
+2
+
+O
+
+O
+4
+5
+
+6
+
+P
+
+7
+
+M
+
+V
+
+T
+
+Down
+1.
+
+Green plastids.
+
+2.
+
+Formed by collection of
+tissues.
+
+4.
+
+It separates the contents of
+the cell from the surrounding
+medium.
+
+5.
+
+Empty structure in the cytoplasm.
+
+7.
+
+A group of cells.
+
+98
+
+8
+
+G
+
+SCIENCE
+
+2021–22
+
+Extended Learning — Activities and Projects
+1.
+
+Visit a laboratory for senior secondary students in your school or
+in a neighbouring school. Learn about the functioning of a
+microscope in the laboratory. Also observe how a slide is observed
+under the microscope.
+
+2.
+
+Talk to the senior biology teacher in your school or a neighbouring
+school. Find out if there are diseases which are passed on from
+parents to the offspring. Find out how these are carried and also if
+these diseases can be treated. For this you can also visit a doctor.
+
+3.
+
+Visit an agriculture extension centre in your area. Find out about
+genetically modified (GM) crops. Prepare a short speech for your
+class on this topic.
+
+4.
+
+Find out about Bt cotton from an agriculture expert. Prepare a
+short note on its advantages/disadvantages.
+
+Did You Know?
+The cells in the outermost layer of our skin are dead. An average
+adult carries around about 2 kg of dead skin. Billions of tiny
+fragments of the skin are lost every day. Every time you run your
+finger on a dusty table, you shed a lot of old skin.
+
+99
+
+CELL — STRUCTURE AND FUNCTIONS
+
+2021–22
+
+
