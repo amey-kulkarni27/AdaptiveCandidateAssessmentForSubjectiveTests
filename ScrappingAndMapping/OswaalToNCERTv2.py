@@ -30,7 +30,7 @@ def csvAnswerAsListFromCSVFile(fileName):
             if(skipHeader == 1):
                 skipHeader=0
                 continue
-            answers.append(row[2])
+            answers.append(row[1])
     return answers
 
 #returns all the question as a list.
@@ -43,7 +43,7 @@ def csvQuestionAsListFromCSVFile(fileName):
             if(skipHeader == 1):
                 skipHeader=0
                 continue
-            questions.append(row[1])
+            questions.append(row[0])
     return questions
 
 
@@ -86,7 +86,7 @@ def getQAPassage(bookName, qType, numUnits, k=5):
         #embedder = SentenceTransformer('msmarco-distilbert-cos-v5')
 
         #another model that can be used
-        if qType == "l":
+        if qType == "l" or qType == "val" or qType == "pb" or qType == "hots":
             embedder = SentenceTransformer('multi-qa-mpnet-base-cos-v1')
         else:
             embedder = SentenceTransformer('msmarco-distilbert-cos-v5')
@@ -163,7 +163,7 @@ def getQAPassage(bookName, qType, numUnits, k=5):
             outputRows.append(newResultRow)
             #print(newResultRow)
             #outputRows contain the the Question, Answer, relevent passage.
-    print(len(outputRows), len(outputRows[0]))
+    print(len(outputRows))
     return outputRows
 
 
@@ -171,8 +171,8 @@ def main():
     k = 5
     cols = ['question', 'answer', 'context']
 
-    for bookName, numUnits in zip(['SS10', 'SS10_2', 'SS10_3'], [4, 4, 4]):
-        for qType in ['l', 's', 'vs']:
+    for bookName, numUnits in zip(['B11', 'S8', 'S9', 'S10', 'SS10', 'SS10_2', 'SS10_3'], [1, 1, 1, 1, 4, 4, 4]):
+        for qType in ['l', 's', 'vs', 'hots', 'val', 'pb']:
             df = pd.DataFrame(getQAPassage(bookName, qType, numUnits, k), columns=cols)
             df.to_csv(bookName + '_' + qType + '.csv', index=False)
 
