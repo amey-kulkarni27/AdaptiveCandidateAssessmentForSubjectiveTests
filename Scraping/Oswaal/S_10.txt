@@ -46153,7 +46153,6 @@ Ans. It can deflect the path of the charged particle.
 1
 		
 [CBSE Marking Scheme, 2012]
-Q. 12. State the effect on the strength of magnetic field
 
 Q. 17. State the observation made by Oersted on the
 
@@ -46163,15 +46162,8 @@ conductors.
 
 Ans. Every current carrying conductor has a magnetic
 field around it. [CBSE Marking Scheme, 2012] 1
-Q.18. Mention the angle between a current carrying
 
-conductor and magnetic field for which the
-force experienced by this current carrying
-conductor placed in magnetic field is largest.
-
-produced at a point near a straight conductor if
-the electric current flowing through it increases.
-[Board Term I, Set-44, 2012]
+Q. 12. State the effect on the strength of magnetic field
 
 Ans. The strength of the magnetic field increases.
 1
@@ -46202,11 +46194,16 @@ forefinger in the Fleming’s right hand rule.
 Ans. Direction of motion of the conductor and direction
 of field.
 [CBSE Marking Scheme, 2012] 1
-Q. 16. The magnetic field in a given region is uniform.
-Draw a diagram to represent it.
-[Board Term I, Set-46, 2012]
-Ans.
 
+Q.18. Mention the angle between a current carrying
+
+conductor and magnetic field for which the
+force experienced by this current carrying
+conductor placed in magnetic field is largest.
+
+produced at a point near a straight conductor if
+the electric current flowing through it increases.
+[Board Term I, Set-44, 2012]
 [Board Term I, Set-15, 2012]
 Ans. The angle between current carrying conductor
 and magnetic field is 90°.
@@ -46259,7 +46256,10 @@ around a wire carrying current ?
 N
 
 Ans. By using magnetic compass, that shows deflection.1
-Uniform magnetic field inside a solenoid.
+Q. 16. The magnetic field in a given region is uniform.
+Draw a diagram to represent it.
+[Board Term I, Set-46, 2012]
+Ans. Uniform magnetic field inside a solenoid.
 1
 		
 [CBSE Marking Scheme, 2012]
@@ -46430,12 +46430,6 @@ mark the direction of magnetic field lines.
 
 Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
-(i) You reverse the terminals of the battery ?
-(ii) The direction of current is perpendicular to
-the direction of magnetic field ? State your
-observation.
-[Board Term I Set-54, 2012]
-
 Y
 
 X
@@ -46487,13 +46481,37 @@ N
 S
 
 N
+P
+Q
+(ii) What does the degree of closeness of magnetic
+field lines near the poles signify ?
+[Board Term I, Set-50, 2011]
+Ans. (i)
 
-Ans. (i) On reversing the terminals of the battery, the
-deflection of rod will be in opposite direction.
+P
+
+r1
+
+A
+
+I
+S
+
+N
+
+S
+
+N
+
 1
-(ii) When the direction of current is perpendicular to
-the direction of magnetic field, then the rod will
-experience maximum force.
+
+B
+
+		
+(ii) Degree of closeness indicates that the relative
+strength of the magnetic field near the poles where
+the field lines are crowded is more as compared to
+other places.
 1
 		
 [CBSE Marking Scheme, 2012]
@@ -46533,47 +46551,29 @@ lines at A as well as B is anti-clockwise because
 field lines are concentric circles and direction is
 determined by Right hand thumb rule.
 
-P
-Q
-(ii) What does the degree of closeness of magnetic
-field lines near the poles signify ?
-[Board Term I, Set-50, 2011]
-Ans. (i)
 
-P
-
-r1
-
-A
-
-I
-S
-
-N
-
-S
-
-N
-
-1
-
-B
-
-		
-(ii) Degree of closeness indicates that the relative
-strength of the magnetic field near the poles where
-the field lines are crowded is more as compared to
-other places.
-1
 Q. 12. In the experiment to show that a current carrying
 conductor when placed in the uniform magnetic
 field experiences a force. What happens when :
+
+(i) You reverse the terminals of the battery ?
+(ii) The direction of current is perpendicular to
+the direction of magnetic field ? State your
+observation.
+[Board Term I Set-54, 2012]
 
 r2
 
 Q
 2
-		
+Ans. (i) On reversing the terminals of the battery, the
+deflection of rod will be in opposite direction.
+1
+(ii) When the direction of current is perpendicular to
+the direction of magnetic field, then the rod will
+experience maximum force.
+1
+	
 [CBSE Marking Scheme, 2012]
 Q. 15. (a) Write the special name given to the coil AB
 which has many circular turns of insulated
@@ -46765,6 +46765,27 @@ A
 P
 
 –
+		
+[CBSE Marking Scheme, 2012] 1
+Q. 9. Can a freely suspended current carrying
+solenoid stay in any direction ? Justify your
+answer. What will happen when the direction
+of current in the solenoid is reversed ? Explain.
+
+[Board Term- I, Set-WDCXXOV, 2016]
+
+Ans. A current carrying solenoid behaves like a magnet.
+When suspended freely, it will stay in north south direction.
+On reversing current its polarity will be reversed
+and so it will turn at 180°.
+1+1+1
+		
+[CBSE Marking Scheme, 2016]
+Q. 10. Explain briefly two different ways to induce
+
+current in a coil. State the rule which determines
+the direction of induced current.
+[Board Term I, Set-43, 2012]
 
 Ans. Two ways to induce current in a coil :
 (i) If a coil is moved in a magnetic field.
@@ -46805,27 +46826,6 @@ direction of magnetic field at that point. (Any two)
 
 S
 K
-		
-[CBSE Marking Scheme, 2012] 1
-Q. 9. Can a freely suspended current carrying
-solenoid stay in any direction ? Justify your
-answer. What will happen when the direction
-of current in the solenoid is reversed ? Explain.
-
-[Board Term- I, Set-WDCXXOV, 2016]
-
-Ans. A current carrying solenoid behaves like a magnet.
-When suspended freely, it will stay in north south direction.
-On reversing current its polarity will be reversed
-and so it will turn at 180°.
-1+1+1
-		
-[CBSE Marking Scheme, 2016]
-Q. 10. Explain briefly two different ways to induce
-
-current in a coil. State the rule which determines
-the direction of induced current.
-[Board Term I, Set-43, 2012]
 
 N
 
@@ -47034,6 +47034,27 @@ other.
 (Any two) 3
 K
 
+Diagram : Magnetic field pattern of a current
+carrying circular loop.
+1+1
+Q. 3. (i) What is a solenoid ?
+
+(ii) Draw the pattern of magnetic field formed around
+a current carrying solenoid. Compare this field to
+that of a bar magnet.
+(iii) Explain an activity to show that a current carrying
+conductor experiences a force when placed in a
+magnetic field.
+[NCT-2014] [DDE-2014]
+[Board Term I, Set (41, 46, 50, 52, 55), 2011, 12]
+Ans. (i) A coil of many circular turns of insulated copper
+wire wrapped closely in the shape of a cylinder is
+called solenoid.
+1
+(ii) Magnetic fields of a solenoid and a bar magnet are
+similar.
+2
+
 (iii) A small aluminium rod suspended horizontally
 from a stand using two connecting wires. Place a
 strong horse shoe magnet in such a way that the
@@ -47062,27 +47083,6 @@ K
 
 2
 Q. 4. The magnetic field lines associated with current
-
-Diagram : Magnetic field pattern of a current
-carrying circular loop.
-1+1
-Q. 3. (i) What is a solenoid ?
-
-(ii) Draw the pattern of magnetic field formed around
-a current carrying solenoid. Compare this field to
-that of a bar magnet.
-(iii) Explain an activity to show that a current carrying
-conductor experiences a force when placed in a
-magnetic field.
-[NCT-2014] [DDE-2014]
-[Board Term I, Set (41, 46, 50, 52, 55), 2011, 12]
-Ans. (i) A coil of many circular turns of insulated copper
-wire wrapped closely in the shape of a cylinder is
-called solenoid.
-1
-(ii) Magnetic fields of a solenoid and a bar magnet are
-similar.
-2
 
 carrying straight conductor is in anti-clockwise
 direction. If the conductor was held horizontally
@@ -48063,7 +48063,21 @@ force acting on the electron will be :
 (a) to the right, (b) to the left, (c) out of the page,
 (d) into the page.
 
-Magnetic field
+
+Ans.
+
+When a force conductor carrying current
+is placed perpendicular to the direction of
+magnetic field, the magnetic field acting on it
+is given by Fleming’s left hand rule. Since the
+direction of current is the same as that of the
+motion of a positive charge, the direction ot force
+acting on it when moving perpendicular to the
+direction of magnetic field is the same as that
+acting on a current-carrying conductor placed
+perpendicular to the direction of magnetic field.
+
+3
 
 Obviously, the force acting on an electron is
 opposite to that. Therefore in this case it is into
@@ -48111,21 +48125,6 @@ Current rating
 ∴ No. of lamps=
 Current through one lamp
 =
-
-Ans.
-
-When a force conductor carrying current
-is placed perpendicular to the direction of
-magnetic field, the magnetic field acting on it
-is given by Fleming’s left hand rule. Since the
-direction of current is the same as that of the
-motion of a positive charge, the direction ot force
-acting on it when moving perpendicular to the
-direction of magnetic field is the same as that
-acting on a current-carrying conductor placed
-perpendicular to the direction of magnetic field.
-
-3
 
 Q. 18. Crosses ⊗ represent a uniform magnetic field
 
@@ -48181,7 +48180,57 @@ Long Answer Type Questions
 (5 marks each)
 
 Q. 1. (i) What is meant by the terms alternating
+current and direct current ?
+(ii) Name a source of alternating current and a source
+of direct current.
+(iii) Mention the frequency of AC supply in India.
+(iv) State two important advantages of alternating
+current over direct current.
+[Board Term I, Set-A85V2IL, 2015]
+Ans. (i) Refer to know the terms.
+(ii) Source of AC current — electric generator.
+Source of DC current — electric cell.
+(iii) Frequency of alternating current in India is 50 Hz.
+(iv) (a) Alternating current reverses its direction
+periodically but direct current always flow in
+one direction.
+(b) AC electric power can be transmitted over long
+distances without much less of energy while
+DC not.
+5
+Q. 2. (i) Define electromagnetic induction.
+(ii) Two coils P and S are wound over the same iron
+core. Coil P is connected to battery and key and
+the coil S is connected to galvanometer. Write your
+observations when :
+current and direct current ?
+(ii) Name a source of alternating current and a source
+of direct current.
+(iii) Mention the frequency of AC supply in India.
+(iv) State two important advantages of alternating
+current over direct current.
+[Board Term I, Set-A85V2IL, 2015]
+Ans. (i) Refer to know the terms.
+(ii) Source of AC current — electric generator.
+Source of DC current — electric cell.
+(iii) Frequency of alternating current in India is 50 Hz.
+(iv) (a) Alternating current reverses its direction
+periodically but direct current always flow in
+one direction.
+(b) AC electric power can be transmitted over long
+distances without much less of energy while
+DC not.
+5
+Q. 2. (i) Define electromagnetic induction.
+(ii) Two coils P and S are wound over the same iron
+core. Coil P is connected to battery and key and
+the coil S is connected to galvanometer. Write your
+observations when :
 
+(i) Current in the coil P is started by closing the key.
+		(ii) Current continues to flow in coil P.
+		(iii) Current in coil P is stopped by removing the key.
+		 Explain the reason for such observation.	
 Ans. (a) Electromagnetic induction : The process by
 which a change in magnetic field in a conductor
 induces a current in another conductor.
@@ -48216,14 +48265,10 @@ magnetism developed by a current of electricity.
 bringing about or giving rise to something.
 Induced current depends on :
 e
-(i) The strength of magnetic field used.
-(i) Current in the coil P is started by closing the key.
+(i) The strength of magnetic field used.	
 (ii) The rate of change of magnetic flux associated with
-		(ii) Current continues to flow in coil P.
 the coil.
-		(iii) Current in coil P is stopped by removing the key.
 (iii) The conductor in the form of coil of many turns of
-		 Explain the reason for such observation.		
 insulated wire.
 [Board Term I, Set-15, 2012]
 Rule : Fleming right Hand Rule
@@ -48235,29 +48280,6 @@ Q. 4. (a) Draw a schematic labelled diagram of domestic electric circuit.
 (i) a fuse in an electric circuit
 (ii) an earth wire to electric application metallic body? Explain.		
 [Board Term-I, Set-A85V2IL, 2015]
-current and direct current ?
-(ii) Name a source of alternating current and a source
-of direct current.
-(iii) Mention the frequency of AC supply in India.
-(iv) State two important advantages of alternating
-current over direct current.
-[Board Term I, Set-A85V2IL, 2015]
-Ans. (i) Refer to know the terms.
-(ii) Source of AC current — electric generator.
-Source of DC current — electric cell.
-(iii) Frequency of alternating current in India is 50 Hz.
-(iv) (a) Alternating current reverses its direction
-periodically but direct current always flow in
-one direction.
-(b) AC electric power can be transmitted over long
-distances without much less of energy while
-DC not.
-5
-Q. 2. (i) Define electromagnetic induction.
-(ii) Two coils P and S are wound over the same iron
-core. Coil P is connected to battery and key and
-the coil S is connected to galvanometer. Write your
-observations when :
 
 Ans.
 Earth wire
@@ -48319,6 +48341,21 @@ P 2000
 P = VI, the current I == = 9.09 A
 V 220
 
+As the current is 9.09 A, below the rating of fuse,
+the fuse will withstand i.e., it will not blow off
+when AC is on.
+Q. 6. Describe any five safety measures that should
+be taken while dealing with electric appliances
+connected in domestic electric circuit.
+Ans. (i) To avoid shocks from electrical appliances use
+proper-earthing arrangement.
+(ii) Replace old worn out and damaged wires with new set.
+(iii) Put the main switch off when removing any fault in
+electric circuits.
+(iv) Wear rubber shoes and gloves while dealing with
+replacement of any appliance.
+
+[CBSE Marking Scheme, 2012] 1
 (v) Work with electric circuits in proper light.
 (vi) Do not put your hand inside water being heated
 with immersion rod, when the rod is inside and on.
@@ -48345,38 +48382,24 @@ current, it goes to earth.
 1
 
 (ii) Electron will move in a direction perpendicular to
-As the current is 9.09 A, below the rating of fuse,
-the fuse will withstand i.e., it will not blow off
+
 the plane of paper and into it.
 ½
-when AC is on.
 2
 Flemings Left Hand Rule : Stretch the first three
 		
 [CBSE Marking Scheme, 2014]
 fingers of the left hand mutually perpendicular
-Q. 6. Describe any five safety measures that should
 to each other such that the forefinger points the
-be taken while dealing with electric appliances
 direction of magnetic field, the middle finger
-connected in domestic electric circuit.
 points the direction of current, then the thumb
-
 [Board Term I, Set-3R6WRQL, 2013]
 will indicate the direction of force experienced by
-Ans. (i) To avoid shocks from electrical appliances use
 the conductor. It is applied to the direction of the
-proper-earthing arrangement.
 current and field perpendicular to each other. 1½
-(ii) Replace old worn out and damaged wires with new set.
 (iii) Neutron will continue to move in same direction
-(iii) Put the main switch off when removing any fault in
 because no force will act on it since it carries no
-electric circuits.
 charge.
-[CBSE Marking Scheme, 2012] 1
-(iv) Wear rubber shoes and gloves while dealing with
-replacement of any appliance.
 Q. 8. (i) The given figure shows a domestic electric circuit. Study this circuit carefully. List any two errors in the
 circuit and justify your answer.
 [DDE 2017]
@@ -49328,25 +49351,6 @@ renewable sources of energy. Give two examples
 of each. [Board Term I, Set-WH1SGOB, 2014]
 [Board Term I, Set-WJ7QPA9, 2013]
 
-Q. 4. Out of the two elements A and B with mass
-
-number 2 and 235 respectively, which one is
-suitable for making :
-(i) a nuclear reactor
-(ii) a hydrogen bomb.
-Name the nuclear reaction involved in each case.
-Write one difference between the two types of
-nuclear reactions.
-[Board Term I, Set-44, 2012]
-Ans. Nuclear reactor – Element B
-½
-Process – Nuclear Fission
-½
-Hydrogen bomb – Element A
-½
-Process – Nuclear Fusion
-½
-
 Ans.
 S. No.
 
@@ -49385,6 +49389,49 @@ tank from where it is fed into the digester. In the
 digester tank, anaerobic micro-organisms decompose
 complex molecules of cowdung slurry and produce
 biogas.
+
+Q. 3. Name the process by which nuclear energy is
+
+generated and also name one substance used
+for it. Give two advantages and two hazards of
+nuclear energy.
+[Board Term I, Set-39, 2012]
+
+Ans. The process is nuclear fission.
+½
+Substances are uranium, plutonium, thorium. ½
+Advantages :
+(i) For a given amount of fuel, the amount of energy
+released is extraordinarily large.
+½
+(ii) Nuclear power plants can be set up at any place.½
+Hazards :
+(i) Improper nuclear waste storage and disposal
+result in environmental contamination.
+½
+(ii) Further there is a risk of accidental leakage of
+nuclear radiation.
+½
+	
+Q. 4. Out of the two elements A and B with mass
+
+number 2 and 235 respectively, which one is
+suitable for making :
+(i) a nuclear reactor
+(ii) a hydrogen bomb.
+Name the nuclear reaction involved in each case.
+Write one difference between the two types of
+nuclear reactions.
+[Board Term I, Set-44, 2012]
+Ans. Nuclear reactor – Element B
+½
+Process – Nuclear Fission
+½
+Hydrogen bomb – Element A
+½
+Process – Nuclear Fusion
+½
+
 [CBSE Marking Scheme, 2012] 3
 
 Nuclear Fission
@@ -49411,30 +49458,7 @@ Mixing
 Slab cover
 tank
 Dome
-
-Q. 3. Name the process by which nuclear energy is
-
-generated and also name one substance used
-for it. Give two advantages and two hazards of
-nuclear energy.
-[Board Term I, Set-39, 2012]
-
-Ans. The process is nuclear fission.
-½
-Substances are uranium, plutonium, thorium. ½
-Advantages :
-(i) For a given amount of fuel, the amount of energy
-released is extraordinarily large.
-½
-(ii) Nuclear power plants can be set up at any place.½
-Hazards :
-(i) Improper nuclear waste storage and disposal
-result in environmental contamination.
-½
-(ii) Further there is a risk of accidental leakage of
-nuclear radiation.
-½
-		
+	
 [CBSE Marking Scheme, 2012]
 
 (3 marks each)
@@ -49685,11 +49709,8 @@ Ans. Silicon / Gallium / Silver.
 Q. 9. List two indirect ways of using Solar energy.
 
 Ans. (i) Wind energy
+(ii) Biomass energy
 
-Ans. Silicon, Germanium.
-(Any one) 1
-(Each solar cell produces a voltage of 0.5 volt.)
-		
 [CBSE Marking Scheme, 2016]
 Q. 6. A black surface absorbs more heat radiations
 as compared to a white surface under identical
@@ -49705,7 +49726,6 @@ Ans. Tidal energy and Sea-wave energy.
 ½+½
 
 [Board Term I, Set-51, 2012]
-(ii) Biomass energy
 ½+½
 
 Q. 10. Why is a solar cooker painted black from
@@ -49729,9 +49749,12 @@ rays in the box.
 1
 
 Q. 5. Name any one material used to make a solar cell
-
 and also mention the range of voltage produced by
 a typical cell.
+Ans. Silicon, Germanium.
+(Any one) 1
+(Each solar cell produces a voltage of 0.5 volt.)
+
 [Board Term-I, Set-OQKPLGV, 2016]
 
 (1 mark each)
@@ -49814,34 +49837,16 @@ Oswaal CBSE Question Bank, SCIENCE, Class – 10
 
 Ans. Methane — 75%
 
+CO2
+
+Q. 22. Name the part of a biogas plant where reactions
+
 take place in the absence of oxygen.
 [Board Term-I, Set-WDCXXOV, 2016]
 
 Ans. Digester.
 
 panels.
-[DDE 2017]
-Ans. Solar panels are those devices which are used
-to absorb the sun’s rays and convert them into
-electricity or heat.
-Uses of Solar Panels :
-(i) Solar panels are used in wide range electronics
-equipment.
-(ii) Radio, TV relay stations in remote locations use
-solar cell panels.
-(iii) The solar cells panels are mounted on specially
-designed inclined roof tops so that more solar
-energy is incident over it.
-½+½+½+½
-Q. 2. (i) What is solar cell panel ?
-(ii) Name any two elements that are used for making
-solar cell panels.
-[Board Term I, Set-17, 2011]
-Ans. (i) A combined arrangement of a large number of
-solar cells that can deliver sufficient electricity
-for practical use is known as solar cell panel. 1
-(ii) Silver, Silicon.
-½+½
 
 [CBSE Marking Scheme, 2016] 1
 
@@ -49886,13 +49891,30 @@ combustion of an atom of carbon from coal.
 Short Answer Type Questions-I
 Q. 1. What are Solar panels ? Write three uses of Solar
 
+Ans. Solar panels are those devices which are used
+to absorb the sun’s rays and convert them into
+electricity or heat.
+Uses of Solar Panels :
+(i) Solar panels are used in wide range electronics
+equipment.
+(ii) Radio, TV relay stations in remote locations use
+solar cell panels.
+(iii) The solar cells panels are mounted on specially
+designed inclined roof tops so that more solar
+energy is incident over it.
+½+½+½+½
 1
 
-CO2
-
-Q. 22. Name the part of a biogas plant where reactions
-
-(2 marks each)
+[DDE 2017]
+Q. 2. (i) What is solar cell panel ?
+(ii) Name any two elements that are used for making
+solar cell panels.
+[Board Term I, Set-17, 2011]
+Ans. (i) A combined arrangement of a large number of
+solar cells that can deliver sufficient electricity
+for practical use is known as solar cell panel. 1
+(ii) Silver, Silicon.
+½+½
 
 Q. 3. List any four reasons why we need to look for
 
@@ -51322,7 +51344,6 @@ ecosystem
 [Board Term II, Delhi, Set AI 2011, 2012]
 Ans. Bacteria and Fungi.
 ½+½
-Q. 11. Why is forest considered a natural ecosystem ?
 
 Q. 16. Why are green plants called producers ?
 
@@ -51358,10 +51379,8 @@ Plants → Deer → Lion
 Ans. Plants are producers — 10,000 J.
 1
 
-Q. 19. The first trophic level in a food chain is always
-
-a green plant. Why ?
 [Board Term II, O.D. Set II, 2015]
+Q. 11. Why is forest considered a natural ecosystem ?
 
 [Delhi 31/1/2 2017]
 Ans. A forest ecosystem is a natural woodland unit
@@ -51369,6 +51388,9 @@ consisting of all plants, animals and micro-organisms
 in that area functioning together with all of the nonliving physical factors of the environment.
 1
 
+Q. 19. The first trophic level in a food chain is always
+
+a green plant. Why ?
 Ans. Green plants are producers. The first trophic level
 in a food chain is a producers i.e. those organisms
 which produce food by photosynthesis.
@@ -51377,7 +51399,6 @@ which produce food by photosynthesis.
 
 Q. 12. Why is a lake considered to be a natural
 
-Q. 20. Why do producers always occupy the first
 
 ecosystem ?
 
@@ -51414,6 +51435,7 @@ called ?
 Ans. The various steps in a food chain are called trophic
 levels.
 1
+Q. 20. Why do producers always occupy the first
 
 trophic level on every food chain ?
 [Board Term II, Foreign Set II, 2016]
@@ -51761,13 +51783,10 @@ level of consumers.
 
 OUR ENVIRONMENT
 
-(i) lions are removed ?
-
 Q. 13. Aquarium required regular cleaning whereas
 
 lakes normally do not. Why ?
 
-(ii) deers are removed ?
 
 [KVS 2017]
 
@@ -51793,27 +51812,6 @@ meat.
 [CBSE Marking Scheme, 2014] 2
 
 [Board Term II, 2012, Set (2015) B1]
-Ans. (i) Number of deer increases which will result in
-less amount of grass leading to soil erosion.
-(ii) Food available for lions would be less. Amount of
-grassland will increase.
-		
-1+1
-[CBSE Marking Scheme, 2012]
-Q. 18. Draw a labelled diagram to illustrate energy
-
-flow in an ecosystem.
-
-
-
-[Board Term II, Set FF 7 NBE 6, 2015]
-Ans. Energy flow is unidirectional, dissipated at each
-level. Matter flow is cyclic and no loss of matter. 1
-
-PLANTS
-
-Heat lost to environment
-HERBIVORES
 
 Q. 15. Why are bacteria and fungi called decomposers ?
 
@@ -51836,19 +51834,6 @@ organisms.
 CARNIVORES
 
 [CBSE Marking Scheme, 2015] 1
-Q. 19. In a food chain comprising Tiger, plants and
-
-goat, which will :
-
-(i) Transfer the maximum amount of energy.
-(ii) Receive minimum amount of energy. [KVS–2014]
-Ans. (i) Plants, (ii) Tiger.
-
-1+1
-
-Q. 20. Write the appropriate names of the trophic
-
-levels Z and X in the figure given below :
 
 		
 
@@ -51893,13 +51878,50 @@ Q. 17. In the food chain :
 Grass → deer → lion
 Operating in a forest, what will happen if all the :
 
-Producer
+(i) lions are removed ?
+(ii) deers are removed ?
+
+	
+1
+[CBSE Marking Scheme, 2012]
+Ans. (i) Number of deer increases which will result in
+less amount of grass leading to soil erosion.
+(ii) Food available for lions would be less. Amount of
+grassland will increase.
+		
+1+1
+[CBSE Marking Scheme, 2012]
+Q. 18. Draw a labelled diagram to illustrate energy
+
+flow in an ecosystem.
+
+
+
+[Board Term II, Set FF 7 NBE 6, 2015]
+Ans. Energy flow is unidirectional, dissipated at each
+level. Matter flow is cyclic and no loss of matter. 1
+Heat lost to environment
+HERBIVORES
+PLANTS
+Q. 19. In a food chain comprising Tiger, plants and
+
+goat, which will :
+
+(i) Transfer the maximum amount of energy.
+(ii) Receive minimum amount of energy. [KVS–2014]
+Ans. (i) Plants, (ii) Tiger.
+
+1+1
+
+Q. 20. Write the appropriate names of the trophic
+
+levels Z and X in the figure given below :
 
 Ans. Z — Tertiary consumers
 		 1
-X — Primary consumers		
-1
-[CBSE Marking Scheme, 2012]
+X — Primary consumers	
+
+
 Q. 21. Discuss the feeding patterns in a food web.
 
 Ans. In a food web, each organism is generally eaten by
@@ -52060,25 +52082,12 @@ OUR ENVIRONMENT
 of food energy and nutrients through various
 components of nature.
 
-(ii) The harmful by-products are gases such as SO2 and
-NO2. They cause extensive air pollution and are
-responsible for acid rain.
-1
 
 (iii) It helps to understand the movement of toxic
 substances in an ecosystem and the problem of
 their biological magnification.
 3
 
-(iii) Crop fields are man-made and some biotic and
-abiotic components are manipulated by humans. 1
-
-Q. 10. "Energy
-
-flow in food chains is always
-unidirectional". Justify this statement. Explain
-how the pesticides enter a food chain and
-subsequently get into our body.
 
 Q. 13. “Our food grains such as wheat and rice,
 
@@ -52111,6 +52120,12 @@ such as wheat and rice, vegetables, fruits and even
 meat are found to contain pesticide residue.
 3
 
+Q. 10. "Energy
+
+flow in food chains is always
+unidirectional". Justify this statement. Explain
+how the pesticides enter a food chain and
+subsequently get into our body.
 Ans. (i) In a food chain the energy moves progressively
 through the various trophic levels and is no longer
 available to the organisms of the previous trophic
@@ -52131,11 +52146,6 @@ Q. 11. Give reason to justify the following :
 (i) The existence of decomposers is essential in a
 biosphere.
 
-Q. 14. Why is only 10% of energy made available to
-
-the next trophic level when green plants are
-eaten by herbivores ?
-[DDE 2017]
 
 (ii) Flow of energy in a food chain is unidirectional.
 [Board Term II, Delhi Set I, 2016]
@@ -52186,6 +52196,18 @@ Ans. (i) An aquarium is an artificial and incomplete
 ecosystem in contrast to a pond / lake which is
 natural, self-sustaining and complete ecosystems. 1
 
+(ii) The harmful by-products are gases such as SO2 and
+NO2. They cause extensive air pollution and are
+responsible for acid rain.
+1
+(iii) Crop fields are man-made and some biotic and
+abiotic components are manipulated by humans. 1
+
+Q. 14. Why is only 10% of energy made available to
+
+the next trophic level when green plants are
+eaten by herbivores ?
+[DDE 2017]
 Ans. When green plants are eaten by herbivores, a great
 deal of energy is lost in the form of heat to the
 environment.
@@ -52363,6 +52385,7 @@ OUR ENVIRONMENT
 Ans. Chlorofluorocarbons. 				
 1
 [CBSE Marking Scheme, 2012]
+Q. 12. Why is excessive use of CFCs a cause of concern?
 
 Ans. When CFC’S reach upper layers of the atmosphere,
 they cause depletion of ozone layer, and allow
@@ -52380,18 +52403,18 @@ earth and cause health hazards/skin cancer in
 human being.
 [CBSE Marking Scheme, 2016] 1
 
+
+
 Q. 13. How is ozone formed in the upper part of the
 
-Q. 6. What is the function of ozone in the upper
+atmosphere of the earth ?
 
 Ans. Ozone at higher level of atmosphere is a product of
 UV radiation acting on oxygen (O2) molecule.
 1
-
-atmosphere of the earth ?
-
 [Board Term II, Foreign 2011]
 
+Q. 6. What is the function of ozone in the upper
 atmosphere ? [Board Term II, Delhi Set I, 2015]
 
 Ans. Ozone layer protects the earth from harmful
@@ -52416,14 +52439,6 @@ Q. 7. What is biodegradable substance ?
 [Delhi Comptt. 2017]
 Ans. Substances that can be broken down by microorganisms in natural simple harmless substances. 1
 
-Q. 15. The
-
-following organisms form a food
-chain. Which of these will have the highest
-concentration of non- biodegradable chemicals ?
-Name the phenomenon associated with it :
-Insects, Hawk, Grass, Snake, Frog.
-
 Q. 8. Why are some substance non–biodegradable ?
 
 [Board Term II, Foreign, 2011]
@@ -52432,20 +52447,13 @@ Ans. Some substances are non-biodegradable because
 they cannot be broken down into simpler harmless
 substance in nature.
 1
-Q. 9. Why
 
-should biodegradable and nonbiodegradable wastes be discarded in two
-different dustbins ?
-[OD Comptt. 31/1 2017]
-
-Ans. (i) Saves time/ energy in segregation.
-(ii) Biodegradable items can be directly sent for
-composting.
-(iii) Non-biodegradable items can be sent for a
-appropriate reuse/recycle.
-½×2 [Any two]
-[CBSE Marking Scheme, 2017]
-Detailed Answer :
+Q. 15. The
+following organisms form a food
+chain. Which of these will have the highest
+concentration of non- biodegradable chemicals ?
+Name the phenomenon associated with it :
+Insects, Hawk, Grass, Snake, Frog.
 
 [Board Term II, Foreign Set I, 2015]
 Ans. Hawk.
@@ -52473,13 +52481,26 @@ daily in kitchen which can be recycled.
 Ans. Polythene bags and plastic containers.
 ½+½
 [CBSE Marking Scheme, 2012]
+Q. 9. Why
+
+should biodegradable and nonbiodegradable wastes be discarded in two
+different dustbins ?
+[OD Comptt. 31/1 2017]
+
+Ans. (i) Saves time/ energy in segregation.
+(ii) Biodegradable items can be directly sent for
+composting.
+(iii) Non-biodegradable items can be sent for a
+appropriate reuse/recycle.
+½×2 [Any two]
+[CBSE Marking Scheme, 2017]
+Detailed Answer :
 
 Separation should be done actually to save our
 resources for future benefits and to save our
 environment from pollution.
 1
 
-Q.18. Mention one negative effect of our affluent life
 
 Q. 10. What happens during the first step of ozone
 
@@ -52487,9 +52508,6 @@ Q. 10. What happens during the first step of ozone
 
 [Board Term II, Set 2021, 2012]
 
-Ans. Industrial effluents, domestic sewage, emission
-from vehicles causes pollution.
-1
 [CBSE Marking Scheme, 2013]
 
 formation in the atmosphere ?
@@ -52507,9 +52525,12 @@ layer.
 Ans. Chlorofluorocarbons.
 
 1
-
+Q.18. Mention one negative effect of our affluent life
 style on the environment.
 
+Ans. Industrial effluents, domestic sewage, emission
+from vehicles causes pollution.
+1
 Q. 19. State a way to prevent accumulation of harmful
 
 chemicals in our bodies.
@@ -52522,7 +52543,6 @@ Q. 20. Name the gas which is produced due to
 
 incomplete combustion of fossil fuel.
 
-Q. 12. Why is excessive use of CFCs a cause of concern?
 
 [Board Term II, Foreign Set III, 2016]
 
@@ -52874,6 +52894,42 @@ competition
 highlighting effects of ozone layer depletion.
 1
 
+Conducting street plays highlighting the ways of
+environment protection.
+		 1
+[CBSE Marking Scheme, 2017]
+Detailed Answer :
+(i) Ozone layer helps in shielding the Earth from the
+harmful UV radiations coming from sun. If ozone
+layer gets depleted, UV radiations can directly
+reach the Earth's surface and drastically affect the
+life on Earth.
+(ii) Ozone layer can be protected by :
+(a) Stopping the release of Chlorofluorocarbon
+(b) Removing the pollutant nitrogen monoxide
+(c) Reduce the usage of air conditioners.
+1+2
+Q. 6. Explain how carbon dioxide and ozone layer of
+
+the atmosphere are important to life.
+Ans. Importance of carbon dioxide gas : Carbon dioxide
+gas shows greenhouse effect and maintains the
+atmospheric temperature suitable for life on earth.
+It keeps the air hot.
+Importance of ozone layer : Ozone layer in the
+atmosphere absorbs the harmful radiations. Ultra–
+violet radiations, coming from sun prevents the
+life on earth from their harmful radiations that
+cause skin cancer, damage the new cells and create
+chromosomal disorder in the livings.
+1½+1½
+
+Q. 7. When did the amount of Ozone in the
+
+atmosphere begin to drop sharply ? Why did
+this happen ? How was this problem taken care
+of by UNEP ?
+
 Ans. The amount of Ozone in the atmosphere began to
 drop sharply in the 1980s.
 1
@@ -52935,42 +52991,6 @@ in solid, liquid or gaseous
 form and may be inert
 and accumulate in the
 environment.
-
-Conducting street plays highlighting the ways of
-environment protection.
-		 1
-[CBSE Marking Scheme, 2017]
-Detailed Answer :
-(i) Ozone layer helps in shielding the Earth from the
-harmful UV radiations coming from sun. If ozone
-layer gets depleted, UV radiations can directly
-reach the Earth's surface and drastically affect the
-life on Earth.
-(ii) Ozone layer can be protected by :
-(a) Stopping the release of Chlorofluorocarbon
-(b) Removing the pollutant nitrogen monoxide
-(c) Reduce the usage of air conditioners.
-1+2
-Q. 6. Explain how carbon dioxide and ozone layer of
-
-the atmosphere are important to life.
-Ans. Importance of carbon dioxide gas : Carbon dioxide
-gas shows greenhouse effect and maintains the
-atmospheric temperature suitable for life on earth.
-It keeps the air hot.
-Importance of ozone layer : Ozone layer in the
-atmosphere absorbs the harmful radiations. Ultra–
-violet radiations, coming from sun prevents the
-life on earth from their harmful radiations that
-cause skin cancer, damage the new cells and create
-chromosomal disorder in the livings.
-1½+1½
-
-Q. 7. When did the amount of Ozone in the
-
-atmosphere begin to drop sharply ? Why did
-this happen ? How was this problem taken care
-of by UNEP ?
 
 (ii)
 
@@ -53358,23 +53378,10 @@ Oswaal CBSE Question Bank, SCIENCE, Class – 10
 giving any two reasons.
 2
 
-(b) How can we contribute in maintaining the parks
-and roads neat and clean ?
-2
 
 Ans. (i) Green plants have chlorophyll in their leaves
 due to which they can synthesize their own food in
 sunlight.
-1
-
-Ans. (a) Burning of plastic is a curse to environment
-because it pollutes the environment by liberating
-toxic and poisonous gases. Rakesh suggested to
-separate biodegradable and non-biodegradable
-recyclable and non-recyclable wastes so that
-compost can be prepared from kitchen wastes or
-fruits peels and there should be a safe disposal of
-plastics. This makes our environment clean.
 1
 
 (ii) Consumers are the organisms which depend on
@@ -53430,6 +53437,19 @@ placed in the corner of the park.
 (a) In your opinion, is burning plastic an eco–friendly
 method of waste disposal ? Why ? State the
 advantage of method suggested by Rakesh.
+1
+
+(b) How can we contribute in maintaining the parks
+and roads neat and clean ?
+2
+Ans. (a) Burning of plastic is a curse to environment
+because it pollutes the environment by liberating
+toxic and poisonous gases. Rakesh suggested to
+separate biodegradable and non-biodegradable
+recyclable and non-recyclable wastes so that
+compost can be prepared from kitchen wastes or
+fruits peels and there should be a safe disposal of
+plastics. This makes our environment clean.
 1
 
 (b) (i) We should not throw the empty packets on
@@ -54616,12 +54636,6 @@ Two main advantages associated with water harvesting at the community level are 
 
 (ii) The stored water provides moisture to the vegetation in and around the area.
 1+1=2
-(b)
-Name and explain any one way by which the
-underground water table does not go down
-further.
-[OD 31/1 2017]
-
 Q. 3. State the main purpose of water harvesting
 system and also mention the source which fills
 the pond behind harvesting structures.
@@ -54674,6 +54688,12 @@ assessment activity, ‘‘How to save water, the
 vital natural resource‘‘. Write any two ways that
 you will suggest to bring awareness in your
 neighbourhood, on ‘how to save water‘.
+
+(b)
+Name and explain any one way by which the
+underground water table does not go down
+further.
+[OD 31/1 2017]
 
 Ans. (a) Two ways of creating awareness.
 Door to door campaigning
@@ -54765,6 +54785,32 @@ Q. 11. List any two advantages associated with water
 stored in the ground.
 [Board Term II, Set O.D. Set, II, 2015]
 
+Ans. Two advantages associated with water stored in
+the ground are :
+(i) It does not evaporate and provides moisture for
+causes global warming.
+(ii) It is relatively protected from contamination by
+human and animal waste.
+
+Q. 16. Burning of fossil fuel is causing great
+1+1
+environmental
+concern.
+Mention
+the
+[CBSE Marking Scheme, 2015]
+consequences of combustion of fossil fuels.
+[Board Term II, Set GFUTB86, 2015]
+Q. 12. You being an environmentalist are interested in
+contribution towards the conservation natural
+Ans. Combustion of fossil fuels release oxides of carbon,
+resources. List four activities that you can do on
+nitrogen and sulphur.
+½+½+½+½
+your own.
+[OD 31/3 2017]
+[CBSE Marking Scheme, 2015]
+Ans. The four activities that we can do on our own are :
 (i) Reduce the use of water.
 (ii) Recycle the waste materials like paper.
 (iii) Avoid the use of non-renewable sources of energy.
@@ -54804,38 +54850,12 @@ warming’’. Give reasons to justify this
 statement.
 [Board Term II, O.D. Set I, 2016]
 [Foreign 2017]
-
 Ans.
 Burning of fossil fuels produces green house
-Ans. Two advantages associated with water stored in
 gases (CO, CO2, water vapour, oxides of
-the ground are :
 nitrogen, sulphur). High concentration of CO2
-(i) It does not evaporate and provides moisture for
-causes global warming.
 vegetation.
 [CBSE Marking Scheme, 2016] 1 + 1
-(ii) It is relatively protected from contamination by
-Q. 16. Burning of fossil fuel is causing great
-human and animal waste.
-1+1
-environmental
-concern.
-Mention
-the
-[CBSE Marking Scheme, 2015]
-consequences of combustion of fossil fuels.
-[Board Term II, Set GFUTB86, 2015]
-Q. 12. You being an environmentalist are interested in
-contribution towards the conservation natural
-Ans. Combustion of fossil fuels release oxides of carbon,
-resources. List four activities that you can do on
-nitrogen and sulphur.
-½+½+½+½
-your own.
-[OD 31/3 2017]
-[CBSE Marking Scheme, 2015]
-Ans. The four activities that we can do on our own are :
 Q. 17. Why do we seek construction of dams ? Mention any two problems faced with the construction of large dams ?
 [KVS-2014]
 OR
@@ -54884,18 +54904,6 @@ the nature.
 (ii) It provides a great biological diversity in an area.
 (iii) It serves as a source of various valuable products
 such as drugs, lac, honey, ivory, etc. (Any two) 1+1
-
-Q. 19. State two advantages of conserving (i) forests, and (ii) wild-life.
-
-		[OD 31/1 2017]
-
-Ans.
-
-[Topper Answer, 2017]
-
-412 ]
-
-Oswaal CBSE Question Bank, SCIENCE-X
 
 Q. 20. Building of big dams gives rise to some
 
@@ -55091,35 +55099,6 @@ reuse.
 
 (b)
 
-(5 marks each)
-
-(ii) Recycling : The act of processing used or abandoned
-materials for creating new products.
-(iii) Sustainable development : A pattern of resources
-used for obtaining economic and social growth
-of the present generation while preserving the
-resources for the needs of future generations.
-(iv) Chipko Andolan : A grass root level movement
-in which the villagers hugged the forest trees and
-prevented their mass felling by the contractors.
-(v) Watershed management : A scientific method of
-developing land and water resources to increase
-the biomass production without causing ecological
-imbalance.
-1×5=5
-Q. 4. (i) What are fossil fuels ? Give two examples.
-
-(ii) Diagrammatically represent the Khadin System of
-Water harvesting.
-Ans. (i) Fuels formed from the decomposition of ancient
-animal and plant remains millions of years ago and
-which provide energy by combustion are called
-fossil fuels.
-1
-For example : Coal and petroleum.
-1
-(ii)
-
 Why is conservation of water necessary ? State
 any four reasons.
 [OD 31/ 1 Comptt. 2017]
@@ -55149,6 +55128,35 @@ management.
 Ans. (i) Coliform : A group of bacteria found in human
 intestines, whose presence in water indicates
 contamination by disease-causing microorganisms.
+
+(5 marks each)
+
+(ii) Recycling : The act of processing used or abandoned
+materials for creating new products.
+(iii) Sustainable development : A pattern of resources
+used for obtaining economic and social growth
+of the present generation while preserving the
+resources for the needs of future generations.
+(iv) Chipko Andolan : A grass root level movement
+in which the villagers hugged the forest trees and
+prevented their mass felling by the contractors.
+(v) Watershed management : A scientific method of
+developing land and water resources to increase
+the biomass production without causing ecological
+imbalance.
+1×5=5
+Q. 4. (i) What are fossil fuels ? Give two examples.
+
+(ii) Diagrammatically represent the Khadin System of
+Water harvesting.
+Ans. (i) Fuels formed from the decomposition of ancient
+animal and plant remains millions of years ago and
+which provide energy by combustion are called
+fossil fuels.
+1
+For example : Coal and petroleum.
+1
+(ii)
 
 Catchment
 area

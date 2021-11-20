@@ -20,7 +20,7 @@ def clean(s):
     if s == None:
         print("YES")
         return ""
-    s = re.sub(r'\([^)]*\)', '', s)
+    # s = re.sub(r'\([^)]*\)', '', s)
     s = re.sub(r'\[[^)]*\]', '', s)
     s = re.sub(r'\d marks each', '', s)
     s = re.sub(r'\d mark each', "", s)
