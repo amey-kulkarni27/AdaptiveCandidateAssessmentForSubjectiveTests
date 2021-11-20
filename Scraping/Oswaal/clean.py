@@ -3,20 +3,27 @@ import pandas as pd
 import re
 
 def rem_q(s):
-    if ~isinstance(s, str):
-        return s
+    print(s)
+    if s == None:
+        print("YES")
+        return ""
+    print("NO")
     s = re.sub(r'Q\. \d+\. ', '', s)
     return s
 
 def rem_a(s):
-    if ~isinstance(s, str):
-        return s
+    if s == None:
+        print("YES")
+        return ""
+    print("NO")
     s = re.sub(r'Ans\. ', '', s)
     return s
 
 def clean(s):
-    if ~isinstance(s, str):
-        return s
+    if s == None:
+        print("YES")
+        return ""
+    print("NO")
     s = re.sub(r'\([^)]*\)', '', s)
     s = re.sub(r'\[[^)]*\]', '', s)
     s = re.sub(r'\d marks each', '', s)
@@ -29,10 +36,11 @@ for topic in os.listdir(folder):
     for filename in os.listdir(folder + topic + "/"):
         if filename.endswith(".csv"):
             csvname = folder + topic + "/" + filename
-            df = pd.read_csv(csvname)
+            df = pd.read_csv(csvname, index_col=[0])
+            df.dropna()
             print(csvname)
-            df['questions'] = df['questions'].apply(rem_q)
-            df['answers'] = df['answers'].apply(rem_a)
-            df['questions'] = df['questions'].apply(clean)
-            df['answers'] = df['answers'].apply(clean)
-            df.to_csv(csvname)
+            df['questions'] = df['questions'].apply(lambda x: rem_q(x))
+            df['answers'] = df['answers'].apply(lambda x: rem_a(x))
+            df['questions'] = df['questions'].apply(lambda x: clean(x))
+            df['answers'] = df['answers'].apply(lambda x: clean(x))
+            df.to_csv(csvname, index=False)
