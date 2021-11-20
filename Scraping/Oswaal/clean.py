@@ -27,11 +27,11 @@ def clean(s):
     s = re.sub(r'\d.\d=\d', "", s)
     return s
 
-folder = "ScrappingAndMapping/OswaalToNCERT/SS10_3/Unit4/topics/"
+folder = "Scraping/biology/"
 for topic in os.listdir(folder):
-    for filename in os.listdir(folder + topic + "/"):
+    for filename in os.listdir(folder + topic + "/CSVs" + "/"):
         if filename.endswith(".csv"):
-            csvname = folder + topic + "/" + filename
+            csvname = folder + topic + "/CSVs" + "/" + filename
             df = pd.read_csv(csvname, index_col=[0])
             df.dropna()
             print(csvname)
