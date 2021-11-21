@@ -1,5 +1,5 @@
 import os
-folder = "biology/"
+folder = "SS9/"
 for chapter in os.listdir(folder):
     ctr = 1
     for filename in os.listdir(folder + chapter + "/"):
