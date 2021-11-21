@@ -22,8 +22,9 @@ def create_dataframe(qs, ans):
         })
     return df, len(qs)
 
-searchphrases = ["Very Short Answer", "Short Answer", "DONTUSEShort Answers – II", "Long Answer", "Value Based", "High Order Thinking", "Practical Based"]
-q_search = re.compile("Q\. \d+")
+searchphrases = ["Very Short Answer", "Short Answer", "DONTUSEShort Answers – II", "Long Answer", "Value Based", "HOTS", "Practical Based"]
+q_search1 = re.compile("Q\. \d+")
+q_search2 = re.compile("Q\.\d+")
 
 
 folder = "SS9/"
@@ -37,7 +38,7 @@ for unit in os.listdir(folder):
     filenum = 1
     while True:
         txt = folder + unit + "/" + str(filenum) + ".txt"
-        # print(txt)
+        print(txt)
         if os.path.exists(txt) == False:
             break
         filenum += 1
@@ -55,7 +56,7 @@ for unit in os.listdir(folder):
                 first_line = line
                 line_num += 1
                 continue
-            if q_search.match(line):
+            if q_search1.match(line) or q_search2.match(line):
                 if(len(q_list)) and a:
                     a_list.append(ans)
                 q = True
