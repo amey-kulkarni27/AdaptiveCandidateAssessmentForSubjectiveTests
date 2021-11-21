@@ -7,6 +7,7 @@ def rem_q(s):
         print("YES")
         return ""
     s = re.sub(r'Q\. \d+\. ', '', s)
+    s = re.sub(r'Q\.\d+\. ', '', s)
     return s
 
 def rem_a(s):
@@ -27,16 +28,17 @@ def clean(s):
     s = re.sub(r'\d.\d=\d', "", s)
     return s
 
-folder = "Scraping/biology/"
+folder = "Scraping/SS9/"
 for topic in os.listdir(folder):
-    for filename in os.listdir(folder + topic + "/CSVs" + "/"):
-        if filename.endswith(".csv"):
-            csvname = folder + topic + "/CSVs" + "/" + filename
-            df = pd.read_csv(csvname, index_col=[0])
-            df.dropna()
-            print(csvname)
-            df['questions'] = df['questions'].apply(lambda x: rem_q(x))
-            df['answers'] = df['answers'].apply(lambda x: rem_a(x))
-            df['questions'] = df['questions'].apply(lambda x: clean(x))
-            df['answers'] = df['answers'].apply(lambda x: clean(x))
-            df.to_csv(csvname, index=False)
+    for foldernum in os.listdir(folder + topic + "/CSVs" + "/"):
+        for filename in os.listdir(folder + topic + "/CSVs/" + str(foldernum) + "/"):
+            if filename.endswith(".csv"):
+                csvname = folder + topic + "/CSVs/" + str(foldernum) + "/" + filename
+                df = pd.read_csv(csvname, index_col=[0])
+                df.dropna()
+                print(csvname)
+                df['questions'] = df['questions'].apply(lambda x: rem_q(x))
+                df['answers'] = df['answers'].apply(lambda x: rem_a(x))
+                df['questions'] = df['questions'].apply(lambda x: clean(x))
+                df['answers'] = df['answers'].apply(lambda x: clean(x))
+                df.to_csv(csvname, index=False)
