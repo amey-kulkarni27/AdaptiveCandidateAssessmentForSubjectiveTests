@@ -26,16 +26,17 @@ searchphrases = ["Very Short Answer", "Short Answer", "DONTUSEShort Answers – 
 q_search = re.compile("Q\. \d+")
 
 
-folder = "biology/"
+folder = "SS9/"
+folder_nums = [1, 1, -1, 1, 1, 1, 1]
 qctr = 0
 ctr = 1
-for chapter in os.listdir(folder):
-    csv_folder = folder + chapter + "/CSVs/"
+for unit in os.listdir(folder):
+    csv_folder = folder + unit + "/CSVs/"
     if not os.path.exists(csv_folder):
         os.mkdir(csv_folder)
     filenum = 1
     while True:
-        txt = folder + chapter + "/" + str(filenum) + ".txt"
+        txt = folder + unit + "/" + str(filenum) + ".txt"
         # print(txt)
         if os.path.exists(txt) == False:
             break
@@ -80,18 +81,37 @@ for chapter in os.listdir(folder):
         qctr += n_q
 
         if first_line.startswith(searchphrases[0]):
-            df.to_csv(csv_folder + "vs-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[0])) == False:
+                os.mkdir(csv_folder + str(folder_nums[0]))
+            df.to_csv(csv_folder + str(folder_nums[0]) + "/vs.csv")
+            folder_nums[0] += 1
         elif first_line.startswith(searchphrases[1]):
-            df.to_csv(csv_folder + "s-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[1])) == False:
+                os.mkdir(csv_folder + str(folder_nums[1]))
+            df.to_csv(csv_folder + str(folder_nums[1]) + "/s.csv")
+            folder_nums[1] += 1
         elif first_line.startswith(searchphrases[3]):
-            df.to_csv(csv_folder + "l-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[3])) == False:
+                os.mkdir(csv_folder + str(folder_nums[3]))
+            df.to_csv(csv_folder + str(folder_nums[3]) + "/l.csv")
+            folder_nums[3] += 1
         elif first_line.startswith(searchphrases[4]):
-            df.to_csv(csv_folder + "val-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[4])) == False:
+                os.mkdir(csv_folder + str(folder_nums[4]))
+            df.to_csv(csv_folder + str(folder_nums[4]) + "/val.csv")
+            folder_nums[4] += 1
         elif first_line.startswith(searchphrases[5]):
-            df.to_csv(csv_folder + "hots-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[5])) == False:
+                os.mkdir(csv_folder + str(folder_nums[5]))
+            df.to_csv(csv_folder + str(folder_nums[5]) + "/hots.csv")
+            folder_nums[5] += 1
         elif first_line.startswith(searchphrases[6]):
-            df.to_csv(csv_folder + "pb-" + str(ctr) + ".csv")
+            if os.path.exists(csv_folder + str(folder_nums[6])) == False:
+                os.mkdir(csv_folder + str(folder_nums[6]))
+            df.to_csv(csv_folder + str(folder_nums[6]) + "/pb.csv")
+            folder_nums[6] += 1
         else:
             print(first_line)
+            assert(1 == 0)
         ctr += 1
 print(qctr)
