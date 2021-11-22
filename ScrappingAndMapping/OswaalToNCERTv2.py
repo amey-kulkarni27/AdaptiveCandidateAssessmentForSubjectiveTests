@@ -171,8 +171,8 @@ def main():
     k = 5
     cols = ['question', 'answer', 'context']
 
-    for bookName, numUnits in zip(['B11', 'S8', 'S9', 'S10', 'SS10', 'SS10_2', 'SS10_3'], [1, 1, 1, 1, 4, 4, 4]):
-        for qType in ['l', 's', 'vs', 'hots', 'val', 'pb']:
+    for bookName, numUnits in zip(['P12', 'Ps12', 'SS9'], [1, 1, 4]):
+        for qType in ['l', 's', 'vs', 'hots', 'val']:
             df = pd.DataFrame(getQAPassage(bookName, qType, numUnits, k), columns=cols)
             df.to_csv(bookName + '_' + qType + '.csv', index=False)
 
