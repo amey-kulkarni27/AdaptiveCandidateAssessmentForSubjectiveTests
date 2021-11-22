@@ -2,6 +2,23 @@ from sentence_transformers import SentenceTransformer, util
 import torch
 
 
+def getBaseline(answer, passage):
+    embedderLong = SentenceTransformer('multi-qa-mpnet-base-cos-v1')
+    top_k = 1
+    cosScores=[]
+    answerLongEmbedding=embedderLong.encode(answer, convert_to_tensor=True)
+    passageLongEmbedding=embedderLong.encode(passage, convert_to_tensor=True)
+    passageCosScores = util.pytorch_cos_sim(answerLongEmbedding, passageLongEmbedding)[0]
+    topResultPassage = torch.topk(passageCosScores, k=top_k)
+
+    for score, idx in zip(topResultPassage[0], topResultPassage[1]):
+        cosScores.append(score)
+    
+    baselineScore=cosScores[0]
+    return baselineScore
+
+
+
 def getEvaluation(question, answer, passage, givenAnswer, questionWeight, answerWeight, passageWeight):
 
     #embedder for mapping  question and given answer
@@ -76,6 +93,10 @@ def main():
     passage= "Glint was the instructor of the sports accademy. He was specialising in basketball"
     givenAnswer= "The name of the instructor is Glint"
     wrongAnswer= "The name of the instructor is Sasi"
+
+    print("Baseline Score>>>")
+    print(getBaseline(answer,passage))
+
     print("Right>>>>>")
     #getEvaluation(question, answer,passage,givenAnswer, questionWeight,answerWeight,passageWeight)
     print (getEvaluation(question, answer,passage,givenAnswer, questionWeight,answerWeight,passageWeight))
