@@ -1,0 +1,283 @@
+Short Answer Questions – II
+
+Q. 1. What are the properties/features of attitude?
+Ans. The properties/features of attitude are described below:
+i.
+
+ii.
+iii.
+
+iv.
+
+Valence: Valence of an attitude tells us whether an attitude is positive or negative
+towards the attitude object. For example, an attitude towards a nuclear research is
+expressed on a 5-point scale ranging from 1 (Very Bad), 2 (Bad), 3 (Neutral), 4 (Good)
+and 5 (Very Good). A rating of 4 or 5 indicates a positive attitude towards nuclear
+research while a rating of 1 or 2 indicates a negative attitude and a rating of 3 indicates a
+neutral attitude.
+Extremeness: The extremeness of an attitude indicates how positive or negative an
+attitude is. A rating of 1 or 5 indicate extreme attitudes.
+Simplicity or Complexity (Multiplexity): An attitude system is said to be ‘simple’ if it
+contains one or a few attitudes and complex if it is made of many attitudes. For example,
+an attitude towards a person is a simple attitude while an attitude towards health and
+well-being is a complex attitude consisting of attitude towards physical and mental
+health, views about happiness and well-being etc.
+Centrality: A central attitude would influence the other attitudes in an attitude system.
+For example, in an attitude towards world peace, a negative attitude towards high military
+expenditure is present as the central attitude and influences all other attitudes in the
+multiple attitude system.
+
+Q. 2. Explain how attitudes are formed.
+OR
+Explain the conditions which lead to the learning of attitudes.
+[CBSE Delhi 2016]
+Ans. The process of attitude formation takes place in the following ways
+i.
+
+ii.
+
+Learning attitudes by association: A positive attitude towards the subject is learned
+through positive association between a teacher and a student in school. In other words,
+students often develop a liking for a particular subject because of the teacher.
+Learning attitudes by being rewarded or punished: If an individual is praised for
+showing a particular attitude, chances are high that s/he will develop the attitude further.
+For example, if a teenager does yogasanas regularly and gets the honour of being Miss
+Good Health in her school, she may develop a positive attitude toward yoga and health in
+general. Similarly, if a child constantly falls ill because he/she eats junk food instead of
+proper meal, then the child is likely to develop a negative attitude towards junk food, and
+also a positive attitude towards eating healthy food.
+
+iii.
+
+iv.
+
+v.
+
+Learning attitudes through modeling (observing others): We learn attitudes through
+association and through reward and punishment. For example, children form a respectful
+attitude towards elders by observing that their parents show respect for elders and are
+appreciated for it.
+Learning attitudes through group or cultural norms: Learning attitudes through group
+or cultural norms is through association, reward or punishment and modeling. For
+example, offering money, sweets, fruit and flowers in a place of worship is a normative
+behavior in some religions. When individuals see that such behaviour is shown by others
+and is socially approved, they develop a positive attitude towards such behaviour.
+Learning through exposure to information: With the huge amount of information that
+is being provided through media, both positive and negative attitudes are being formed.
+By reading the biographies of self-actualised person, an individual may develop a
+positive attitude towards hard work.
+
+Q. 3. How Fritz Heider proposed the process of attitude change?
+Ans. The concept of balance proposed by Fritz Heider is described in the form of P-O-X triangle.
+Attitude changes if there is a state of imbalance between P-O attitude and O-Xattitude and P-X
+attitude.
+For example, in the study of attitude towards dowry(X), a person (P) has a positive attitude
+towards dowry (P-X positive). P is planning to get his son married to the daughter of some
+person (O) who has a negative attitude towards dowry (O-X negative). Here P-X is positive, O-P
+is positive but O-X is negative. That is, there are 2 positives and 1 negative in the triangle. This
+is a situation of imbalance. Imbalance on POX triangle is found when
+i.
+ii.
+
+All three sides of the POX triangle are negative or
+Two sides are positive and one side negative.
+
+Balance is found when
+i.
+ii.
+
+All three sides are positive or
+Two sides are negative and one side is positive.
+
+Q. 4. Discuss the cognitive dissonance component in attitude change process.
+[CBSE Delhi 2014; (AI) 2014]
+Ans. The concept of cognitive dissonance was proposed by Leon Festinger. If an individual finds
+that two cognitions in an attitude are dissonant, then one of them will be changed in the direction
+of consonance. For example, consider the case of the following two ideas or cognitions:
+Cognition 1: Pan masala causes mouth cancer which is fatal.
+Cognition 2: I eat pan masala.
+Here the two ideas are dissonant in the attitude towards pan masala. Therefore, one of these ideas
+will have to be changed so that consonance can be attained. Thus, to remove or reduce the
+dissonance, change Cognition 2. Thus Cognition 2 will become:
+
+I will stop eating pan masala.
+Both balance and cognitive dissonance are examples of cognitive consistency. Cognitive
+consistency means that two components, aspects or elements of the attitude or attitude system
+must be in the same direction.
+Q. 5. Discuss two-step theory of attitude change.
+Ans. The 2-step concept of attitude change was proposed by an Indian psychologist, S. M.
+Mohsin.
+Step 1: The target changes his attitude by identifying with the source.
+Step 2: The source shows an attitude change towards the attitude object. The target also shows
+an attitude change. This is a kind of imitation or observational learning
+For example,
+Step 1: Preeti reads in newspaper that a particular soft drink she enjoys is harmful. But she
+imitates the sports person with whom she identifies.
+Step 2: The sports person having positive feelings towards his fans may change his habit of
+consuming the soft drink by substituting it with a health drink. Now, Preeti will also change her
+attitude and stop consuming the harmful soft drink.
+Q. 6. State the factors that influence attitude change.
+[CBSE (AI) 2011, 2013]
+Ans. The factors that influence attitude change are as follows:
+i.
+
+ii.
+
+iii.
+
+Characteristics of the existing attitude: All four properties of attitudes namely, valence
+(positivity or negativity), extremeness, simplicity or complexity (multiplexity) and
+centrality determine attitude change. Positive attitudes are easier to change than negative
+attitudes. Extreme attitudes and central attitudes are more difficult to change than the less
+extreme and peripheral (less significant) attitudes. Simple attitudes are easier to change
+than multiple attitudes.Attitude change may be congruent if it changes in the same
+direction as the existing attitude. For example, a positive attitude may become more
+positive or a negative attitude may become more negative. An attitude change may be
+incongruent if it changes in a direction opposite to the existing attitude. For example, a
+positive attitude may become less positive or negative or a negative attitude may become
+less negative or positive.
+Source characteristics: Attitudes are more likely to change when the message comes
+from a highly credible source than from a low credible source. For example, adults who
+are planning to buy a laptop are more convinced by a computer engineer advertising the
+laptop while when the buyers are themselves school children they are more convinced by
+a school child advertising the laptop.
+Message characteristics: The message for attitude change contains a rational appeal or
+an emotional appeal makes a difference. For example, an advertisement for cooking food
+
+iv.
+
+in a pressure cooker may point out that this saves cooking gas (rational appeal) or
+preserves nutrition (emotional appeal). The motives activated by the message also
+determine attitude change. For example drinking milk makes a person healthy, goodlooking, more energetic and more successful in one’s job.The mode of spreading the
+message plays a significant role. Face-to-face transmission of the message is usually
+more effective than indirect transmission. As for instance, through letters and pamphlets
+or even through mass media.
+Target characteristics: People with strong prejudices, people with low self-esteem and
+low intelligence change their attitudes easily. People with more open and flexible
+personalities change more easily. Advertisers benefit most from such people.
+
+Q. 7. Examine four ways through which people bring consistency in their attitudes.
+Or
+Write a note on the Attitude-Behaviour Relationship.
+Ans. There is consistency between Attitudes and Behaviour when
+i.
+ii.
+iii.
+iv.
+
+The attitude is strong, and occupies a central place in the attitude system.
+The person is aware of his attitude, there is no external pressure for the person to behave
+in a particular way. For example, there is no group pressure to follow thenorm.
+The person’s behaviour is not being watched or evaluated by others.
+The person thinks that the behaviour would have a positive consequence.
+
+Q. 8. Discuss the sources of prejudice.
+Or
+How are prejudices formed?
+Ans. The sources of prejudice are:
+i.
+
+ii.
+
+iii.
+
+iv.
+
+Learning: Prejudices are learned through association, reward and punishment, observing
+others, group or cultural norms and exposure to information. Family, reference groups,
+personal experiences and media play a role in the learning of prejudices. Prejudiced
+persons show low adjusting capacity, anxiety and feelings of hostility against outgroup.
+A strong social identity and ingroup bias: Prejudiced individuals who have a strong
+social identity and have a very positive attitude towards their own group boost this
+attitude by holding negative attitudes towards other groups.
+Scapegoating: The majority group places the blame on a majority outgroup for its social,
+economic and political problems. Scapegoating is a group-based way of expressing
+frustration and it often results in negative attitudes or prejudices against the weaker
+group.
+Kernel of truth concept: People continue to hold stereotypes because they think that
+after all, there must be some truth or ‘kernel of truth’ in what everyone says about the
+other group.
+
+v.
+
+Self-fulfilling prophecy: The target group may behave in ways that justify the prejudice,
+i.e., conform the negative expectations which may thus strengthen theexisting prejudice.
+
+Q. 9. State the strategies for overcoming prejudice.
+[CBSE Delhi 2014; (AI) 2012, 2016]
+Or
+How can prejudice be handled?
+Ans. The strategies for handing prejudice would be effective if they aim at:
+i.
+ii.
+iii.
+iv.
+
+Minimizing opportunities for learning prejudices.
+Changing such attitudes.
+De-emphasising a narrow social identity based on ingroup.
+Discouraging the tendency towards self-fulfilling prophecy among the victims of
+prejudice.
+
+These goals can be accomplished through:
+a. Education and information dissemination, for correcting stereotypes related to specific
+target groups and tackling the problem of strong ingroup bias.
+b. Increasing intergroup contact allows for direct communication, removal of mistrust
+between the groups and discovery of positive qualities in the outgroup. This strategy is
+successful if
+• The two groups meet in a cooperative rather than competitive context
+• Close interactions between the groups help them to know each other better
+• he two groups are not different in power or status.
+c. Highlighting individual identity rather than group identity
+Q. 10. Discuss the concept of impression formation with the help of examples.
+[CBSE Delhi 2011; (AI) 2011, 2016]
+Ans. When we meet people, we make inferences about their personal qualities. This is
+impression formation. For example, if a person is good looking we form impressions that the
+person would be sincere and hard-working.
+The person who forms the impression is called the perceiver. The individual about whom the
+impression is formed is called the target. Impression formation consists of the following subprocesses:
+i.
+ii.
+iii.
+
+Selection: Information is collected about target person.
+Organisation: Information is combined in a systematic way.
+Inference: A conclusion is drawn about the kind of person the target is.
+
+Q. 11. Explain the factors that influence impression formation.
+Ans. Impression formation is influences by:
+
+i.
+ii.
+iii.
+iv.
+
+Nature of information available to the perceiver.
+Social schemas in the perceiver (including stereotypes).
+Personality characteristics of the perceiver.
+Situational factors
+
+Q. 12. Why do individuals show better performance in the presence of others?
+Ans. Social facilitation is the process in which individuals show better performance in the
+presence of others. This is because:
+i.
+ii.
+iii.
+
+iv.
+v.
+
+The individual experiences arousal in the presence of others which makes him react in a
+more intense manner.
+The person feels that he would be evaluated. The idea of evaluation apprehension
+makes him to perform well and avoid mistakes.
+The nature of task affects performance in the presence of others. In case of a simple or
+familiar task, the person is more sure of performing well than in case of a complex or
+new task, the person may be afraid of making mistakes.
+If others are performing the same task, there is a situation of co-action where there is
+social comparison and competition and hence performance is better.
+If individuals are working together in a large group, a phenomenon of social loafing
+occurs based on the diffusion of responsibility in which there is a reduction of individual
+effort when working on a collective task.
+
+
