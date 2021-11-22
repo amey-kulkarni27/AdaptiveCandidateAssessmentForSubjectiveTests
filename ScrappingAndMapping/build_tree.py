@@ -36,6 +36,7 @@ for csv in csvs:
         root[subject][difficulty] = pd.DataFrame()
     root[subject][difficulty] = root[subject][difficulty].append(df, ignore_index=True)
 
+data = {'tree': root, 'swise_easiest': swise_easiest, 'swise_hardest': swise_hardest}
 pkl_file = open("tree.pkl", "wb")
-pickle.dump(root, pkl_file)
+pickle.dump(data, pkl_file)
 pkl_file.close()
